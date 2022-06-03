@@ -1,0 +1,126 @@
+/*/ Home Page testimonials / */
+
+.card {
+  margin: 80px auto;
+  border: none;
+}
+.card .carousel-item {
+  min-height: 300px;
+  background: none;
+}
+.card .carousel-caption {
+  padding: 0;
+  right: 15px;
+  left: 15px;
+  top: 60px;
+  color: #3d3d3d;
+  min-height:175px;
+  padding: 15px;
+}
+.card .carousel-caption .col-sm-3 {
+  display: flex;
+  align-items: center;
+}
+.card .carousel-caption .col-sm-9 {
+  text-align: left;
+}
+.card .carousel-control-prev, .card .carousel-control-next {
+  color: #3d3d3d !important;
+  opacity: 1 !important;
+}
+.carousel-control-prev-icon, .carousel-control-next-icon {
+  background-image: none;
+  color: #fff;
+  font-size: 14px;
+  background-color: #EC038D;
+  height: 52px;
+  border-radius:10px;
+  opacity: 0.8;
+  line-height: 32px;
+  width: 60px;
+}
+.carousel-control-prev-icon:hover, .carousel-control-next-icon:hover {
+  opacity: 1.0;
+}
+.carousel-control-prev {
+  left: 37%;
+  top: 110%;
+}
+.carousel-control-next {
+  right: 37%;
+  top: 110%;
+}
+
+ @media (min-width: 320px) and (max-width: 575px) {
+.carousel-caption {
+  position: relative;
+}
+.card .carousel-caption {
+  left: 0;
+  top: 0;
+  margin-bottom: 15px;
+}
+.carousel-control-prev {
+  left: 25%;
+  width: auto;
+  top: 95%;
+}
+.carousel-control-next {
+  right: 25%;
+  width: auto;
+  top: 95%;
+}
+.card .carousel-caption {
+  margin-top: 0;
+  font-weight: 700;
+}
+}
+@media (min-width: 576px) and (max-width: 767px) {
+.carousel-caption {
+  position: relative;
+}
+.card .carousel-caption {
+  left: 0;
+  top: 0;
+  margin-bottom: 15px;
+}
+.card .carousel-caption img {
+  margin: 0 auto;
+}
+.card .carousel-caption , .card .carousel-caption small {
+  text-align: center;
+}
+.carousel-control-prev {
+  left: 35%;
+  top: 105%;
+}
+.carousel-control-next {
+  right: 35%;
+  top: 105%;
+}
+}
+@media (min-width: 767px) and (max-width: 991px) {
+.card .carousel-caption{
+  margin-top: 0;
+
+  font-weight: 700;
+}
+}
+@media (min-width: 768px) {
+    
+    .carousel-inner .carousel-item-end.active,
+    .carousel-inner .carousel-item-next {
+      transform: translateX(100%);
+    }
+    
+    .carousel-inner .carousel-item-start.active, 
+    .carousel-inner .carousel-item-prev {
+      transform: translateX(-25%);
+    }
+}
+
+.carousel-inner .carousel-item-end,
+.carousel-inner .carousel-item-start { 
+  transform: translateX(0);
+}
+

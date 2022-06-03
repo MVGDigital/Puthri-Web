@@ -1,0 +1,585 @@
+<!DOCTYPE html>
+<!-- Designined by CodingLab | www.youtube.com/codinglabyt -->
+      <html lang="en" dir="ltr">
+      <head>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta charset="UTF-8">
+      <title> Puthri </title>
+      <link rel="stylesheet" href="css/style.css">
+      <link href='https://unpkg.com/boxicons@2.0.7/css/boxicons.min.css' rel='stylesheet'>
+      <link rel="stylesheet" type="text/css" href="css/slick-slider.css">
+      <link rel="stylesheet" type="text/css" href="css/slick.theme.css">
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+      <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+      <link rel="stylesheet" type="text/css" href="css/swiperslider.min.css">
+      <script src="js/code-jquery.js"></script>
+
+      </head>
+
+
+      <!-- Nav bar -->
+      <nav>
+        <div class="navbar">
+          <i class='bx bx-menu'></i>
+            <div class="logo"><a href="#"><img src="img/logo.png" class="responsive"></a></div>
+              <div class="nav-links">
+                <div class="sidebar-logo">
+                  <span class="logo-name"><img src="img/logo.png"></span>
+                    <i class='bx bx-x' ></i>
+                </div>
+                <ul class="links">
+                  <li><a href="index.php">HOME</a></li>
+                  <li>
+                  <a href="about.php" >ABOUT</a>
+                  <i class='bx bxs-chevron-down htmlcss-arrow arrow  '></i>
+                  <ul class="htmlCss-sub-menu sub-menu">
+                    <li><a href="project-puthri.php">PROJECT PUTHRI</a></li>
+                    <li><a href="mitr.php">MITR</a></li>
+                  </ul>
+                </li>
+                <li><a href="puthri-process.php">PUTHRI PROCESS</a></li>
+                <li>
+                <a href="get-involved.php">GET INVOLVED</a>
+              </li>
+              <li><a href="news.php"  class="active">NEWS & EVENTS</a></li>
+              <li><a href="list-view.php">CONTACT</a></li>
+                <div class="border"></div>
+              </ul>
+              </div>
+              <div class="search-box">
+                <i class='bx bx-search'></i>
+                  <div class="input-box">
+                   <input type="text" placeholder="Search...">
+                  </div>
+              </div>
+            <button class="contact-btn">contact us</button>
+         </div>
+      </nav>
+
+    
+      <div id="background" class="..">
+        <div id="abt-banner" class="..">
+          <img src="img/news-banner.jpg" class="img-fluid" alt="banner-img">
+          <div class="overlay-background previewbg">
+            <img src="img/overlay-bg.png" class="img-fluid">
+          </div>
+          <div class="container">
+            <div class="row">
+              <div class="col-2 col-sm-3 col-md-4 col-lg-4 col-xl-4"></div>
+                <div class="col-6 col-sm-5 col-md-4 col-lg-4 col-xl-5">
+                  <div class="text-center">
+                    <div class="centered">
+                      <h2 class="banner-heading-text">News & Events</h2>
+                    </div>
+                  </div>
+                </div>
+            </div>
+        </div>
+      </div>
+      <div class="icon-bar">
+        <a href="#" class="facebook">
+        <img src="img/fb.png"></i></a> 
+        <a href="#" class="twitter">
+        <img src="img/twitter.png"></i></a> 
+        <a href="#" class="google">
+        <img src="img/linkedin.png"></i></a> 
+        <a href="#" class="linkedin">
+        <img src="img/youtube.png"></i></a>
+        <a href="#" class="youtube">
+        <img src="img/insta.png"></i></a> 
+      </div>
+      
+
+      <div class="container">
+        <div class="row">
+          <div class="col-12 mt-3">
+            <div class="navigation-section">
+              <a href="index.php" class="navigation-links">home</a> >
+              <a href="news.php" class="navigation-links">news & events</a>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <section id="news">
+        <div class="text-center">
+          <h5>#EVENTS</h5>
+          <h2>Every event plays a significant role in redefining the identities of our Puthri scholars.</h2>
+        </div>
+        <section class="center slider">
+          <div>
+            <div class="hover">
+              <div class="content">
+                <div class="content-overlay"></div>
+                  <img src="img/UU Guest 8.jpg" >
+                  <div class="content-details fadeIn-bottom">
+                    <p class="content-text">Udyog Utsav, a career visioning conference, is an annual event conducted by the end of the academic year. During this one-day event, more than 4000 Puthri scholars from over 100 Corporation schools across Chennai participate, meet, network, explore and gain insights into the various institutions and industries</p>
+                  </div>
+              </div>
+            </div>
+          </div>
+          <div>
+            <div class="hover">
+              <div class="content">
+                <div class="content-overlay"></div>
+                  <img src="img/41.jpg" >
+                  <div class="content-details fadeIn-bottom">
+                    <p class="content-text">Puthri encourages the students to showcase their talent through Talent contests under different categories like Eloquent contest, Poster Making competition, Essay Writing, AdZap etc. It helps to identify Star Puthri students who excel in one or more categories</p>
+                  </div>
+              </div>
+            </div>
+          </div>
+          <div>
+            <div class="hover">
+              <div class="content">
+                <div class="content-overlay"></div>
+                  <img src="img/PRAYAG`19-Group Song 3.jpg" >
+                  <div class="content-details fadeIn-bottom">
+                    <p class="content-text">There is no better place than an event to appreciate and celebrate success. Prayag is an inception of this thought to celebrate all our volunteers. An array of cultural activities lights up the event day, followed by a sumptuous lunch that allows Puthri volunteers to take a moment to bond with the group by sharing their wonderful experience in Puthri.</p>
+                  </div>
+              </div>
+            </div>
+          </div>
+          <div>
+            <div class="hover">
+              <div class="content">
+                <div class="content-overlay"></div>
+                  <img src="img/46.jpg" >
+                  <div class="content-details fadeIn-bottom">
+                    <p class="content-text">lorem ipsum lorem ipsum lorem ipsum<br>lorem ipsum lorem ipsum lorem ipsum<br>lorem ipsum lorem ipsum lorem ipsum</p>
+                  </div>
+              </div>
+            </div>
+          </div>
+          <div>
+            <div class="hover">
+              <div class="content">
+                <div class="content-overlay"></div>
+                  <img src="img/PRAYAG`19-Bodhbridge 2.jpg" >
+                  <div class="content-details fadeIn-bottom">
+                    <p class="content-text">lorem ipsum lorem ipsum lorem ipsum<br>lorem ipsum lorem ipsum lorem ipsum<br>lorem ipsum lorem ipsum lorem ipsum</p>
+                  </div>
+              </div>
+            </div>
+          </div>
+          <div>
+          <div class="hover">
+              <div class="content">
+                <div class="content-overlay"></div>
+                  <img src="img/43.jpg" >
+                  <div class="content-details fadeIn-bottom">
+                    <p class="content-text">lorem ipsum lorem ipsum lorem ipsum<br>lorem ipsum lorem ipsum lorem ipsum<br>lorem ipsum lorem ipsum lorem ipsum</p>
+                  </div>
+              </div>
+            </div>
+          </div>
+          <div>
+           <div class="hover">
+              <div class="content">
+                <div class="content-overlay"></div>
+                <img src="img/Puthri Talent show 1 (1).jpg" >
+                  <div class="content-details fadeIn-bottom">
+                    <p class="content-text">lorem ipsum lorem ipsum lorem ipsum<br>lorem ipsum lorem ipsum lorem ipsum<br>lorem ipsum lorem ipsum lorem ipsum</p>
+                  </div>
+              </div>
+            </div>
+          </div>
+          <div>
+          <div class="hover">
+            <div class="content">
+              <div class="content-overlay"></div>
+                <img src="img/event-1.jpg" >
+                <div class="content-details fadeIn-bottom">
+                  <p class="content-text">lorem ipsum lorem ipsum lorem ipsum<br>lorem ipsum lorem ipsum lorem ipsum<br>lorem ipsum lorem ipsum lorem ipsum</p>
+                </div>
+            </div>
+          </div>
+          </div>
+          <div>
+            <div class="hover">
+              <div class="content">
+                <div class="content-overlay"></div>
+                  <img src="img/event-5.jpg" >
+                  <div class="content-details fadeIn-bottom">
+                    <p class="content-text">lorem ipsum lorem ipsum lorem ipsum<br>lorem ipsum lorem ipsum lorem ipsum<br>lorem ipsum lorem ipsum lorem ipsum</p>
+                  </div>
+              </div>
+            </div>
+          </div>
+        </section>
+  
+
+        <section id="prjct-updates" class="section-padding">
+          <div class="container">
+            <div class="row">
+              <div class="col-12">
+                <div class="text-center">
+                  <h5>#OUR PROJECT</h5>
+                  <h2>Projects Updates</h2>
+                </div>
+              </div>
+              <div class="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-4 d-flex mt-4">
+                <div class="search-border mb-3">
+                  <h2 >Search</h2>
+                  <form>
+                    <input type="search" plaseholder :"search">
+                    </input>
+                    <button class="btn-search" type="submit" value="search">
+                      <i class="fa fa-search" aria-hidden="true"></i>
+                    </button>
+                  </form>
+                </div>
+              </div>
+              <div class="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-8 mt-4">
+                <img src="img/Project Updates.jpg" class="responsive">
+                <h5 class="updates-headingcontext">State-Of-Art Puthri Projects </h5>
+                <h6 id="impact-contact-internshiptext">Our State – Of – Art projects includes the introduction of innovative Puthri certification courses that will be an additional tool for her to become Career Intentional. Puthri will soon extend its wings to other nearby states and enable more Puthris to march on the path of Career Intentionality.</h6>
+              </div>
+            </div>
+          </div>
+        </section>
+
+
+
+      <section id="gallery" class="section-padding">
+        <div class="container-fluid">
+          <div class="row">
+          <div class="col-3"></div>
+            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-3">
+              <div class="text-right">
+                <h5>#GALLERY</h5>
+                <h2>Projects Updates</h2>
+              </div>
+            </div>
+            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-3 p-0">
+              <img src="img/gallery-1.jpg" class="img-fluid">
+            </div>
+            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-3 p-0">
+              <img src="img/gallery-2.jpg" class="img-fluid">
+            </div>
+            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-3 p-0">
+              <img src="img/gallery-3.jpg" class="img-fluid">
+            </div>
+            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-3 p-0">
+              <img src="img/gallery-4.jpg" class="img-fluid">
+            </div>
+            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-3 p-0">
+              <img src="img/gallery-5.jpg" class="img-fluid">
+            </div>
+            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-3 p-0">
+              <img src="img/gallery-6.jpg" class="img-fluid">
+            </div>
+          </div>
+        </div>
+      </section>
+
+
+
+
+
+    <section id="press" class="section-padding">
+      <div class="container-fluid">
+        <div class="row">
+          <div class="col-2"></div>
+            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-4">
+              <div class="text-start">
+                <h5>#PRESS</h5>
+                <h2>In The News</h2>
+                 <span class="press-subcontext">'Project Puthri a step towards'</span>
+                 <p class="prjct-text_summary">'Project Puthri', in an initiative to empower underpriviliged girls to rise to their full potential was launched in M.O.P Vaishnav College for Women on Thursday. The event included the
+              </div>
+              </div>
+                <div class="col-md-6 col-lg-6 p-0">
+                  <div class="swiper-container">
+                    <div class="swiper-wrapper">
+                      <div class="swiper-slide"><img src="img/news-1.png" class="img-fluid"> </div>
+                      <div class="swiper-slide"><img src="img/news-2.png" class="img-fluid"></div>
+                      <div class="swiper-slide"><img src="img/news-1.png" class="img-fluid"></div>
+                      <div class="swiper-slide"><img src="img/news-2.png" class="img-fluid"></div>
+                      <div class="swiper-slide"><img src="img/news-1.png" class="img-fluid"></div>
+                      <div class="swiper-slide"><img src="img/news-2.png" class="img-fluid"></div>
+                    </div>
+                    <div class="swiper-button-prev"></div>
+                    <div class="swiper-button-next"></div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+
+
+        <section id="press-release" class="section-padding">
+          <div class="container">
+            <div class="row">
+              <div class="col-12">
+                <div class="text-center">
+                  <h5>#PRESS</h5>
+                  <h2>Press Release</h2>
+                </div>
+              </div>
+              <div class="col-12 col-sm-6 col-md-6 col-lg-6 col-xl-4">
+                <img src="img/press-release-1.jpg" class="responsive">
+                <h5 class="impact-mnth press-releasetext">PROJECT PUTHRI</h5>
+                <h6 id="impact-contact-internshiptext">We are not-for-profit, charitable trust workig towards economically empowering women, since the past 10 years. Project PUTRHI- a flagship project of AVTAR Human Capital Trust strives to create, sustain & propel career intentionality among girl children studying in government schools across Tamilnadu & Pondicherry. Our work has been centered around life skills enhancement programs for the girl child and employability workshops</h6>
+              </div>
+              <div class="col-md-4">
+                <img src="img/press-release-2.jpg" class="responsive">
+                <h5 class="impact-mnth press-releasetext">AVTAR HUMAN CAPITAL TRUST</h5>
+                <h6 id="impact-contact-internshiptext">We are not-for-profit, charitable trust workig towards economically empowering women, since the past 8 years. Our work has been centred around skills enhancement programs for the girl child and employability workshops for underpriviliged women. We also work towards the prevention of sexual harassement of women and children. Our work is primarily focussed on the states of Tamilnadu and Pondicherry.</h6>
+              </div>
+              <div class="col-md-4">
+                <img src="img/student-4.png" class="responsive">
+                <h5 class="impact-mnth press-releasetext">FROM THE FOUNDER'S DESK</h5>
+                <h6 id="impact-contact-internshiptext">I am extremely delighted to connect with you through the first edition of 'PUTHRI Pulse', our Quartely eZine launched at PRAYAG 2018, PUTHRI's first volunteer appreciation meet on April 28, 2018. Volunteering, much like leadership has to come from within and with a purpose. Besides gaining experience and networking, volunteers need to have intrinsic values that connect passionately with the vision and mission of any organisation.</h6>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+
+      <section class="contact" id="section-padding">
+        <div class="text-center">
+          <h5>#CONTACT</h5>
+          <h2>Contact Us</h2>
+          <h6 id="impact-contact-internshiptext">Help Project PUTHRI become the preferred charity partner in your work place events and involve your colleagues as<br> advocates and participiants of PUTHRI. read the word PUTHRI through social network. nitiate awareness campaigns<br>around your work place, residence or community centres on the importance of girl children becoming 'Career Intentional'</h6>
+        </div>
+        <div class="container">
+          <div class='row'>
+            <div class="col-12">
+              <div class='home-box-fifth-wrap'>
+                <div class='large-12 columns'>
+                  <div class='home-box-fifth hbf-lblue'>
+                    <div class='home-box-fifth-top-bg bg-two'>
+                      <div class='icon-circle icon-light-blue'></div>
+                        <div class="contact_footer_backgroundcontent">
+                          <img src="img/homewhite.png" class="img-fluid">
+                          <br><br>
+                          <h5>head office</h5>
+                          <h6>udyog gruhaa, no. 10,sh 49,<br>raja nagar, neelankarai,<br>tamilnadu 6000041</h6>
+                        </div>
+                        <div class='icon-paper'></div>
+                      </div>
+                  </div>
+                  <div class='home-box-fifth hbf-3'>
+                    <div class='home-box-fifth-top-bg bg-three'>
+                      <div class='icon-circle icon-3-bg'>
+                      </div>
+                      <div class="contact_footer_backgroundcontent">
+                        <img src="img/email.png" class="img-fluid">
+                        <br><br>
+                        <div class="mt-8">
+                        <h5>email address</h5>
+                        <p>info@puthri.org</p>
+                        </div>   
+                    </div>
+                    <div class='icon-case'></div>
+                    </div>
+                  </div>
+                </div>   
+                <div class='home-box-fifth hbf-4'>
+                  <div class='home-box-fifth-top-bg bg-four'>
+                    <div class='icon-circle icon-4-bg'>
+                    </div>
+                    <div class="contact_footer_backgroundcontent">
+                      <img src="img/talk.png" class="img-fluid">
+                      <br>
+                      <div class="mt-8">
+                      <h5>phone number</h5>
+                      <p>+91-44-12345678</p>
+                    </div>
+                    <div class='icon-logo'></div>
+                  </div>
+                </div>  
+              </div> 
+              <div class='home-box-fifth hbf-5'>
+                <div class='home-box-fifth-top-bg bg-five'>
+                  <div class='icon-circle icon-5-bg'>
+                  </div>
+                <div class="contact_footer_backgroundcontent">
+                  <img src="img/alarm.png" class="img-fluid">
+                  <br><br>
+                  <div class="pt-10">
+                  <h5>work hours</h5>
+                  <h6>monday - saturday<br>10pm - 5pm</h6>
+                  </div>
+                 </div>
+                <div class='icon-tag'></div>
+                </div>
+              </div>  
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+   
+    
+      
+     <section id="get-involved" class="section-padding">
+        <div class="text-center">
+          <h5>#GET INVOLVED</h5>
+          <h2>Corporates</h2>
+        </div>
+        <div class="corporatepadding p-30">
+          <div class="container">
+            <div class="row">
+              <div class="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-7">
+                <img src="img/background.png" class="img-fluid">
+              </div>
+              <div class="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-5">
+                <h5 class="corporate-subheading">As a Corporate house your association will help us connect with your star</h5><br>
+                <h6 id="impact-contact-internshiptext">As a Corporate house your association will help us connect with your star employees, who can lead by example, by being a true role model and career coach to guide and counsel Puthri scholars to choose better and brighter careers ahead in their lives.</h6>
+                <button class="donate">CONTACT US</button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+    </div>
+        
+
+
+      <!--==================================================================
+       Footer
+      ==================================================================-->
+      <footer class="footer">
+        <div class="container-fluid">
+          <div class="row">
+            <div class="container">
+              <div class="row">
+                <div class="col-md-6 col-lg-3">
+                   <a href="#">
+                    <img src="img/white-logo.png" class="img-fluid">
+                   </a>
+                   <p class="footer-text">Puthri is India’s first ever developmental project that seeks to create Career Intentionality among underprivileged girl students</p><br>
+                   <a href="#"><img src="img/fb-img.png" class="img-fluid"></a>
+                   <a href="#"><img src="img/twitter-img.png" class="img-fluid"></a>
+                   <a href="#"><img src="img/linkedin-img.png" class="img-fluid"></a>
+                   <a href="#"><img src="img/utube-img.png"class="img-fluid" ></a>
+                   <a href="#"><img src="img/insta-img.png" class="img-fluid"></a>
+                  </div>
+                  <div class="col-md-6 col-lg-3">
+                    <div class="footer-link">
+                      <h5>Address Location</h5>
+                        <div class="linked">
+                          <p>Udyog Gruhaa, No. 10, SH 49,<br>Raja Nagar, Neelankarai,<br>Tamilnadu 6000041<br>
+                          <p>Phone :<a href="tel:+91-44-12345678" id="make-call"> +91-44-12345678</a></p>
+                          <p>Email :<a href="mailto:info@puthri.org" id="make-address"> info@puthri.org</a></p>
+                          <p>Office Time : 10AM-5PM</p>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="col-md-6 col-lg-3">
+                      <div class="footer-link">
+                         <h5>Quick link</h5>
+                           <div class="linked">
+                            <ul>
+                              <li>
+                                <a href="index.html">Home</a>
+                              </li>
+                              <li>
+                                <a href="about.html">About</a>
+                              </li>
+                              <li>
+                                <a href="get-involved.html">Get Involved</a>
+                              </li>
+                              <li>
+                                <a href="puthri-process.html">Puthri Process</a>
+                              </li>
+                              <ul class="footer-menulinks">
+                              <li>
+                                <a href="news.html">News & Events</a>
+                              </li>
+                              <li>
+                                <a href="#">Blog</a>
+                              </li>
+                              <li>
+                                <a href="#">Contact</a>
+                              </li>
+                              <li>
+                                <a href="faq.html">FAQ</a>
+                              </li>
+                            </ul>
+                           </ul>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="col-md-6 col-lg-3">
+                        <div class="footer-link">
+                          <h5>Newsletter</h5>
+                            <div class="linked">
+                              <p>You will be noticed when something <br>new appears</p>
+                              <form action="">
+                                <input type="text"  pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,}$" title="Please Enter Valid Email Id" placeholder="Enter a valid mail ID" required>
+                                <input type='submit' name='submit' value='' id='submit' />
+                              </form>
+                            </div>
+                          </div>
+                      </div>
+                      <div class="col-md-4">
+                        <div class="footer-content" >
+                          Copyright @2021, AHCT. All Rights Reserved
+                        </div>
+                      </div>
+                      <div class="col-md-5">
+                         </div>
+                      <div class="col-md-3">
+                        <div class="footer-content" >
+                        <p>Privacy Policy &nbsp; &nbsp; Disclaimer</p>
+                      </div>
+                    </div>
+                    </div>
+                  </div>
+               </div>
+             </div>
+           </footer>
+
+
+
+                    
+
+
+      <!--===================== Scroll to top ==================================--> 
+
+      <a onclick="topFunction()" id="myBtn" title="Go to top"><img src="img/scroll-top.png"></a>
+
+      <!-------------------------- Js files ----------------------------------------->
+
+      <script src="js/across-top.js"></script>
+      <script src="js/bootstrap.min.js"></script>
+      <script src="js/slicky-slider.js"></script>
+      <script src="js/search.js"></script>
+      <script src="js/slick-slider.js"></script>
+      <script src="js/cloudflare-swiper.js"></script>
+      <script src="js/search.js"></script>
+      <script src="js/swiper.js"></script>
+      <script type="text/javascript">
+      $(document).on('ready', function() {
+        
+        $(".center").slick({
+          dots:false,
+          infinite: true,
+          centerMode: true,
+          slidesToShow: 3,
+          slidesToScroll: 3,
+          responsive: [
+        {
+        breakpoint: 1024,
+         settings: {
+          slidesToShow: 2,
+          centerMode: false
+            }
+          },
+        {
+        breakpoint: 767,
+         settings: {
+          slidesToShow: 1,
+          centerMode: false
+                  }
+                }
+              ]
+
+        });
+      });
+    </script>

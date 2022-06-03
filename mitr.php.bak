@@ -1,0 +1,380 @@
+<!DOCTYPE html>
+  <html lang="en" dir="ltr">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8">
+    <title> Puthri </title>
+    <link rel="stylesheet" href="css/style.css">
+    <link href='https://unpkg.com/boxicons@2.0.7/css/boxicons.min.css' rel='stylesheet'>
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+
+  </head>
+
+
+      <!-- Nav bar -->
+      <nav>
+        <div class="navbar">
+          <i class='bx bx-menu'></i>
+            <div class="logo"><a href="#"><img src="img/logo.png" class="img-fluid"></a></div>
+              <div class="nav-links">
+                <div class="sidebar-logo">
+                  <span class="logo-name"><img src="img/logo.png"></span>
+                    <i class='bx bx-x' ></i>
+                </div>
+                <ul class="links">
+                  <li><a href="index.php">HOME</a></li>
+                  <li>
+                  <a href="about.php" >ABOUT</a>
+                    <i class='bx bxs-chevron-down htmlcss-arrow arrow  '></i>
+                      <ul class="htmlCss-sub-menu sub-menu">
+                        <li><a href="puthri-process.php">PROJECT PUTHRI</a></li>
+                        <li><a href="mitr.php">MITR</a></li>
+                    </li>
+                  </ul>
+                  <li><a href="puthri-process.php">PUTHRI PROCESS</a></li>
+                <li>
+                <a href="get-involved.php">GET INVOLVED</a>
+              </li>
+              <li><a href="news.php">NEWS & EVENTS</a></li>
+              <li><a href="list-view.php" >CONTACT</a></li>
+                <div class="border"></div>
+              </ul>
+              </div>
+              <div class="search-box">
+                <i class='bx bx-search'></i>
+                  <div class="input-box">
+                   <input type="text" placeholder="Search...">
+                  </div>
+              </div>
+            <button class="contact-btn">contact us</button>
+         </div>
+      </nav>
+    
+      <div id="background" class="..">
+      <div id="abt-banner" class="..">
+        <img src="img/getinvolved-banner.jpg" class="responsive" alt="banner-img">
+        <div class="overlay-background previewbg">
+        <img src="img/overlay-bg.png" class="img-fluid">
+        </div>
+        <div class="container">
+          <div class="row">
+            <div class="col-4 col-sm-3 col-md-4 col-lg-4 col-xl-5"></div>
+              <div class="col-6 col-sm-5 col-md-4 col-lg-4 col-xl-5">
+                <div class="text-center">
+                  <div class="centered">
+                    <h2 class="banner-heading-text">AHCT</h2>
+                  </div>
+                </div>
+              </div>
+              <div class="col-2"></div>
+          </div>
+        </div>
+      </div>
+      <div class="icon-bar">
+        <a href="#" class="facebook">
+        <img src="img/fb.png"></i></a> 
+        <a href="#" class="twitter">
+        <img src="img/twitter.png"></i></a> 
+        <a href="#" class="google">
+        <img src="img/linkedin.png"></i></a> 
+        <a href="#" class="linkedin">
+        <img src="img/youtube.png"></i></a>
+        <a href="#" class="youtube">
+        <img src="img/insta.png"></i></a> 
+      </div>
+
+
+      <div class="container">
+        <div class="row">
+          <div class="col-12 mt-3">
+            <div class="navigation-section">
+              <a href="index.php" class="navigation-links">home</a> >
+              <a href="about.php" class="navigation-links">about us</a> >
+              <a href="mitr.php" class="navigation-links">AHCT</a>
+            </div>
+          </div>
+        </div>
+      </div>
+
+
+
+      <section id="group" class="section-padding">
+        <img src="img/background.png" class="img-fluid">
+          <div class="container">
+            <div class="row mb-5">
+              <div class="col-6 col-md-3 col-lg-3 col-xl-2">
+              <div class="box effect padding_box-content">  
+                <h4>1000+</h4>
+                  <div class="text-center"> <p><span>VOLUNTEERS</span>
+                    </p>
+                  </div>
+              </div>
+            </div>
+            <div class="col-6 col-md-3 col-lg-3 col-xl-2 ">
+              <div class="box effect">
+                <h4>100 + </h4>
+                  <div class="text-center">
+                  <span >SCHOOL</span>
+                  </div>
+              </div>
+            </div>
+            <div class="col-6 col-md-3 col-lg-3 col-xl-2 ">
+              <div class="box effect">
+                <h4>50 </h4>
+                <span >
+                <div class="text-center">ED.INSTITUTION</div>
+                </span>
+              </div>
+            </div>
+            <div class="col-6 col-md-3 col-lg-3 col-xl-2">
+              <div class="box effect">          
+                <h4>20 +</h4>
+                <div class="text-center">
+                <span>ASSOCIATIONS </span>
+                </div>
+              </div>
+            </div>
+            <div class="col-6  col-md-3 col-lg-3 col-xl-2">
+              <div class="box effect">
+                <h4>123 </h4>
+                <div class="text-center">
+                  <span>CORPORATE</span>
+                </div>
+              </div>
+            </div>
+            <div class="col-6 col-md-3 col-lg-3 col-xl-2">
+              <div class="box effect"> 
+                <h4>10 + </h4>
+                  <div class="text-center">
+                  <span >NGO </span>
+                  </div>
+                </div>
+              </span>
+            </div>
+          </div>
+        </div>
+      </section>
+
+
+      <section id="prjct-puthri" class="section-padding" >
+        <div class="col-12 text-center">
+          <h5>#PUTHRI</h5>
+          <h2>Project Puthri</h2>
+        </div>
+        <div class="container" >
+          <div class="row ">
+          <div class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-6 our-team">
+            <img src="img/mitr-about-1.jpg" class="img-fluid">
+          </div>
+          <div class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-6 our-team text-left">
+            <h6 class="prjct-text_summary">is a not for-profit public charitable organization, working in the field of economic empowerment of women. Headquartered in Chennai, AHCT has been addressing gender equality, poverty eradication and inclusive economic growth for women across the State of Tamil Nadu and Pondicherry from 2008.<br>We strongly believe that economic independence is the key to women's empowerment and that women are capable of a major contribution to the economy. Women have carved a niche in businesses, on farms, as entrepreneurs or employees, or by doing unpaid care work at home; we at Avtar group are keen on facilitating women's social inclusion and economic empowerment in the economically backward strata of society.
+          </h6>
+            <button class="more-btn mt-4">READ MORE</button>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="mitr"  class="section-padding">
+      <div class="col-12 text-center">
+        <h5>#MITR</h5>
+        <h2>Project MITR</h2>
+      </div>
+      <div class="container" >
+        <div class="row">
+          <div class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-6 our-team text-left">
+            <h6 class="prjct-text_summary mb-4">MITR is the unique attempt of Avtar Human Capital Trust in educating and empowering young, adolescent male population as empathetic “Gender Champions”. These young folk will develop and mature into a well-informed youth population of the country in creating a safe, secure and equal space to the female peers and counterparts</h6>
+            <h2 class="sub-textheadings">VISION</h2>
+            <p class="text"> To develop a rich brigade of young male population of the country with age appropriate information, sensitising them empathetically to understand the female community, thus reducing the crime against women in the country and acquiring the real freedom and Gandhi’s dream come true.</p>
+            <h2 class="sub-textheadings">MISSION</h2>
+            <p class="text">To educate and empower 10000 school going adolescent boys as well informed adolescents before 2020 (what year can come here? ), in providing and protecting the safety, security for their female counterparts and to mature as peer educators. These peer educators will carry the torch of “Gender Champions” year after year, till we have a society that is free from crime against women.</p>
+          </div>
+          <div class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-6 our-team">
+            <img src="img/mitr-about-2.jpg" class="img-fluid">
+          </div>
+        </div>
+      </div>
+    </section>
+
+
+    <section class="contact" id="section-padding">
+        <div class="text-center">
+          <h5>#CONTACT</h5>
+          <h2>Contact Us</h2>
+        </div>
+        <div class="container">
+          <div class='row'>
+            <div class="col-12">
+              <div class='home-box-fifth-wrap'>
+                <div class='large-12 columns'>
+                  <div class='home-box-fifth hbf-lblue'>
+                    <div class='home-box-fifth-top-bg bg-two-prjct'>
+                      <div class='icon-circle icon-light-blue'></div>
+                        <div class="contact_footer_backgroundcontent">
+                          <img src="img/edu.png" class="img-fluid">
+                          <br><br>
+                          <h5>educational institutions</h5>
+                          <button class="contact-section-btn">JOIN US</button>
+                        </div>
+                        <div class='icon-paper'></div>
+                      </div>
+                  </div>
+                  <div class='home-box-fifth hbf-3'>
+                    <div class='home-box-fifth-top-bg bg-three-prjct'>
+                      <div class='icon-circle icon-3-bg'>
+                      </div>
+                      <div class="contact_footer_backgroundcontent">
+                        <img src="img/town.png" class="img-fluid">
+                        <br><br>
+                        <h5>corporate</h5>
+                        <button class="contact-section-btn">DONATE NOW</button>
+                    </div>
+                    <div class='icon-case'></div>
+                    </div>
+                  </div>
+                </div>   
+                <div class='home-box-fifth hbf-4'>
+                  <div class='home-box-fifth-top-bg bg-four-prjct'>
+                    <div class='icon-circle icon-4-bg'>
+                    </div>
+                    <div class="contact_footer_backgroundcontent">
+                      <img src="img/heart-svgreport.png" class="img-fluid">
+                      <br>
+                      <div class="mt-8">
+                      <h5>NGO's</h5>
+                      <button class="contact-section-btn">JOIN US</button>
+                    </div>
+                  </div>
+                </div>  
+              </div> 
+              <div class='home-box-fifth hbf-5'>
+                <div class='home-box-fifth-top-bg bg-five-prjct'>
+                  <div class='icon-circle icon-5-bg'>
+                  </div>
+                <div class="contact_footer_backgroundcontent">
+                  <img src="img/members.png" class="img-fluid">
+                  <br><br>
+                  <div class="pt-10">
+                  <h5>individual donars</h5>
+                  <button class="contact-section-btn">DONATE NOW</button>
+                  </div>
+                 </div>
+                <div class='icon-tag'></div>
+                </div>
+              </div>  
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <div id=".." class="prjct-banner">
+    </div>
+
+
+
+
+
+    <!--==================================================================
+       Footer
+      ==================================================================-->
+      <footer class="footer">
+        <div class="container-fluid">
+          <div class="row">
+            <div class="container">
+              <div class="row">
+                <div class="col-md-6 col-lg-3">
+                   <a href="#">
+                    <img src="img/white-logo.png" class="img-fluid">
+                   </a>
+                   <p class="footer-text">lorem ipsum lorem ipsum lorem lorem ipsum lorem ipsum loremlorem ipsum lorem ipsum lorem</p><br>
+                   <a href="#"><img src="img/fb-img.png" class="img-fluid"></a>
+                   <a href="#"><img src="img/twitter-img.png" class="img-fluid"></a>
+                   <a href="#"><img src="img/linkedin-img.png" class="img-fluid"></a>
+                   <a href="#"><img src="img/utube-img.png"class="img-fluid" ></a>
+                   <a href="#"><img src="img/insta-img.png" class="img-fluid"></a>
+                  </div>
+                  <div class="col-md-6 col-lg-3">
+                    <div class="footer-link">
+                      <h5>Address Location</h5>
+                        <div class="linked">
+                          <p>Udyog Gruhaa, No. 10, SH 49,<br>Raja Nagar, Neelankarai,<br>Tamilnadu 6000041<br>
+                          <p>Phone :<a href="tel:+91-44-12345678" id="make-call"> +91-44-12345678</a></p>
+                          <p>Email :<a href="mailto:info@puthri.org" id="make-address"> info@puthri.org</a></p>
+                          <p>Office Time : 10AM-5PM</p>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="col-md-6 col-lg-3">
+                      <div class="footer-link">
+                         <h5>Quick link</h5>
+                           <div class="linked">
+                            <ul>
+                              <li>
+                                <a href="index.html">Home</a>
+                              </li>
+                              <li>
+                                <a href="about.html">About</a>
+                              </li>
+                              <li>
+                                <a href="get-involved.html">Get Involved</a>
+                              </li>
+                              <li>
+                                <a href="puthri-process.html">Puthri Process</a>
+                              </li>
+                              <ul class="footer-menulinks">
+                              <li>
+                                <a href="news.html">News & Events</a>
+                              </li>
+                              <li>
+                                <a href="#">Blog</a>
+                              </li>
+                              <li>
+                                <a href="#">Contact</a>
+                              </li>
+                              <li>
+                                <a href="faq.html">FAQ</a>
+                              </li>
+                            </ul>
+                           </ul>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="col-md-6 col-lg-3">
+                        <div class="footer-link">
+                          <h5>Newsletter</h5>
+                            <div class="linked">
+                              <p>You will be noticed when something <br>new appears</p>
+                              <form action="">
+                                <input type="text"  pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,}$" title="Please Enter Valid Email Id" placeholder="Enter a valid mail ID" required>
+                                <input type='submit' name='submit' value='' id='submit' />
+                              </form>
+                            </div>
+                          </div>
+                      </div>
+                      <div class="col-md-4">
+                        <div class="footer-content" >
+                          Copyright @2021, AHCT. All Rights Reserved
+                        </div>
+                      </div>
+                      <div class="col-md-5">
+                         </div>
+                      <div class="col-md-3">
+                        <div class="footer-content" >
+                        <p>Privacy Policy &nbsp; &nbsp; Disclaimer</p>
+                      </div>
+                    </div>
+                    </div>
+                  </div>
+               </div>
+             </div>
+           </footer>
+               
+
+      <!--===================== Scroll to top ==================================--> 
+
+      <a onclick="topFunction()" id="myBtn" title="Go to top"><img src="img/scroll-top.png"></a>
+
+
+      <script src="js/search.js"></script>
+      <script src="js/across-top.js"></script>
+
