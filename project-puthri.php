@@ -33,9 +33,9 @@
                     <i class="bx bx-x"></i>
                 </div>
                 <ul class="links">
-                  <li><a href="index.php" class="btns active">HOME</a></li>
+                  <li><a href="index.php" class="btns">HOME</a></li>
                   <li>
-                  <a href="#" class="btns">ABOUT</a>
+                  <a href="#" class="btns active">ABOUT</a>
                     <i class="bx bxs-chevron-down htmlcss-arrow arrow"></i>
                     <ul class="htmlCss-sub-menu sub-menu">
                       <li><a href="our_team.php">OUR TEAM</a></li>
@@ -63,7 +63,7 @@
          </div>
       </nav>
 
-          <div class="banner-img">
+          <div class="banner-img mrg-t">
           <img src="img/projectputhri-banner.jpg" alt="">
           <div class="bg-shoadow">
             Project Puthri
@@ -134,7 +134,7 @@
           <h5># P R O J E C T P U T H R I</h5>
           <h2>Redesigning Destinies</h2>
         </div>
-          <div class="banner">
+          <div class="banner banner100">
             <img src="img/three-pillars.svg" alt="">
           </div>
 
@@ -155,7 +155,6 @@
                           <h5 class="">Educational institutions</h5>
                           <button class="card-btn">JOIN US</button>
                         </div>
-                        <div class='icon-paper'></div>
                     </div>
                   </div><!-- First Card End -->
                   <div class='home-box-fifth hbf-lblue'>
@@ -195,7 +194,7 @@
                     </div>
                   </div><!-- forth Card End -->
     </section>
-    <div id=".." class="prjct-banner">
+    <div id=".." class="prjct-banner mitr-b">
     </div>
 
 

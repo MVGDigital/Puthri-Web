@@ -31,7 +31,7 @@
                     <i class="bx bx-x"></i>
                 </div>
                 <ul class="links">
-                  <li><a href="index.php" class="btns active">HOME</a></li>
+                  <li><a href="index.php" class="btns">HOME</a></li>
                   <li>
                   <a href="#" class="btns">ABOUT</a>
                     <i class="bx bxs-chevron-down htmlcss-arrow arrow"></i>
@@ -47,7 +47,7 @@
                 <a href="get-involved.php" class="btns">GET INVOLVED</a>
               </li>
               <li><a href="news.php" class="btns">NEWS &amp; EVENTS</a></li>
-              <li><a href="faq.php" class="btns">FAQ</a></li>
+              <li><a href="faq.php" class="btns active">FAQ</a></li>
                 <div class="border"></div>
               </ul>
               </div>

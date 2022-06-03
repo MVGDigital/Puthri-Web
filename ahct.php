@@ -34,9 +34,9 @@
                     <i class="bx bx-x"></i>
                 </div>
                 <ul class="links">
-                  <li><a href="index.php" class="btns active">HOME</a></li>
+                  <li><a href="index.php" class="btns">HOME</a></li>
                   <li>
-                  <a href="about.php" class="btns">ABOUT</a>
+                  <a href="about.php" class="btns active">ABOUT</a>
                     <i class="bx bxs-chevron-down htmlcss-arrow arrow"></i>
                     <ul class="htmlCss-sub-menu sub-menu">
                       <li><a href="our_team.php">OUR TEAM</a></li>
@@ -91,7 +91,7 @@
             <h3 class="c-img-title2 ahtc-sub-text">AHCT Overview</h3>
           </div>
           <div class="row d-flex img-txt">
-              <div class="main-content col-6">
+              <div class="main-content col-lg-6">
                 <h5>AVTAR Human Capital Trust</h5>
                   <p> is a not for-profit public charitable organization, working in the field of economic empowerment of women. Headquartered in Chennai, AHCT has been addressing gender equality, poverty eradication and inclusive economic growth for women across the State of Tamil Nadu & Pondicherry from 2008.
 With a strong belief that economic independence is key to women's empowerment and that women can make and continue to make enormous contributions to economies, whether in businesses, on farms, as entrepreneurs or employees, or by doing unpaid care work at home, we at AVTAR group are keen on facilitating women's social inclusion and economic empowerment in the economically backward strata of society too.
@@ -99,7 +99,7 @@ Our life skills enhancement programs, employability workshops, Prevention of Sex
 Social responsibility continues to be an intrinsic part of AVTAR family, and today, with our flagship project ‘Puthri’ we endeavour to reach out to 10,000 underprivileged girl children in the age group of 13 to 18 years studying in government schools across India, making them career intentional every year, and with an initiative called MITR (Men Impacting Trust and Respect). MITR is an attempt in educating and empowering young, adolescent male population as empathetic “Gender Champions”. These young folk will develop and mature into a well-informed youth population of the country in creating a safe, secure and equal space to the female peers and counterparts.
 </p>
               </div>
-              <div class="main-banner width100 col-6">
+              <div class="main-banner width100 col-lg-6">
                   <img src="img/About-Puthri (2).JPEG" alt="">
               </div>
           </div>

@@ -37,9 +37,9 @@
                     <i class="bx bx-x"></i>
                 </div>
                 <ul class="links">
-                  <li><a href="index.php" class="btns active">HOME</a></li>
+                  <li><a href="index.php" class="btns">HOME</a></li>
                   <li>
-                  <a href="#" class="btns">ABOUT</a>
+                  <a href="#" class="btns active">ABOUT</a>
                     <i class="bx bxs-chevron-down htmlcss-arrow arrow"></i>
                     <ul class="htmlCss-sub-menu sub-menu">
                       <li><a href="our_team.php">OUR TEAM</a></li>
@@ -67,7 +67,7 @@
          </div>
       </nav>
 
-      <div class="banner-img">
+      <div class="banner-img mrg-t">
           <img src="img/about-banner.png" alt="">
       </div>
 
@@ -75,7 +75,7 @@
       <div class="card-img-section">
           <div class="card-title">
           <h6 class="c-img-title1"># T R U S T E E S</h6>
-          <h3 class="c-img-title2">Our Trustees</h3>
+          <h3 class="c-img-title2">Our Team</h3>
           </div>
           <div class="card-img d-flex m-auto col-lg-10">
               <div id="one" class="card-container">
@@ -96,7 +96,7 @@
                   </div>
               </div>
               </div>
-              <a href="our_team.php"><div class="card-container">
+              <a href="sr_mam.php"><div class="card-container">
               <div class="img-1 mr-0">
                   <img src="img/SR Mam Page.png" alt="">
                   <div class="overlay-eff">
@@ -245,7 +245,7 @@ for (var i = 0; i < btns.length; i++) {
           <h3 class="c-cont-title2">Contact Us</h3>
           <P>Help Project PUTHRI become the preferred charity partner in your work place events and involve your colleagues as advocates and participants of PUTHRI. read the word about </P>
           </div>
-          <div class="d-flex details-cards">
+          <div class="d-flex details-cards f-rap">
           <div class='home-box-fifth hbf-lblue'>
                     <div class='home-box-fifth-top-bg bg-two'>
                       <div class='icon-circle icon-light-blue'></div>
@@ -390,5 +390,14 @@ for (var i = 0; i < btns.length; i++) {
              </div>
            </footer>
       <!-- Footer End -->
+      <!--===================== Scroll to top ==================================--> 
+
+      <a onclick="topFunction()" id="myBtn" title="Go to top"><img src="img/scroll-top.png"></a>
+
+      <!-------------------------- Js files ----------------------------------------->
+      
 </body>
+      <script src="bootstrap/js/bootstrap.min.js"></script>
+      <script src="js/search.js"></script>
+      <script src="js/across-top.js"></script>
 </html>

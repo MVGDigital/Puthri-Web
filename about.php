@@ -36,9 +36,9 @@
                 <ul class="links">
                   <li><a href="index.php" class="btns active">HOME</a></li>
                   <li>
-                  <a href="about.php" class="btns">ABOUT</a>
+                  <a href="/" class="btns">ABOUT</a>
                     <i class="bx bxs-chevron-down htmlcss-arrow arrow"></i>
-                    <ul class="htmlCss-sub-menu sub-menu">
+                    <ul class="htmlCss-sub-menu">
                       <li><a href="our_team.php">OUR TEAM</a></li>
                       <li><a href="project-puthri.php">PROJECT PUTHRI</a></li>
                       <li><a href="new_mitr.php">MITR</a></li>
@@ -487,7 +487,7 @@
              </div>
            </footer>
       <script>
-        var header = document.getElementById("myDIV");
+ /*        var header = document.getElementById("myDIV");
 var btns = header.getElementsByClassName("btn");
 for (var i = 0; i < btns.length; i++) {
   btns[i].addEventListener("click", function() {
@@ -495,7 +495,7 @@ for (var i = 0; i < btns.length; i++) {
   current[0].className = current[0].className.replace(" active", "");
   this.className += " active";
   });
-}
+} */
       </script>
       
       <!--===================== Scroll to top ==================================--> 

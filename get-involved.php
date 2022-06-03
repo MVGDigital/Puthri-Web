@@ -37,7 +37,7 @@
                     <i class="bx bx-x"></i>
                 </div>
                 <ul class="links">
-                  <li><a href="index.php" class="btns active">HOME</a></li>
+                  <li><a href="index.php" class="btns">HOME</a></li>
                   <li>
                   <a href="#" class="btns">ABOUT</a>
                     <i class="bx bxs-chevron-down htmlcss-arrow arrow"></i>
@@ -50,7 +50,7 @@
                 </li>
                 <li><a href="puthri-process.php" class="btns">PUTHRI MODEL</a></li>
               <li>
-                <a href="get-involved.php" class="btns">GET INVOLVED</a>    
+                <a href="get-involved.php" class="btns active">GET INVOLVED</a>    
               </li>
               <li><a href="news.php" class="btns">NEWS &amp; EVENTS</a></li>
               <li><a href="faq.php" class="btns">FAQ</a></li>
@@ -400,12 +400,12 @@ for (var i = 0; i < btns.length; i++) {
           <div class="container">
             <div class="row">
               <div class="col-12 col-sm-6 col-md-6 col-lg-6 col-xl-4">
-                <img src="img/student-1.PNG" class="responsive">
+                <img src="img/student-8.PNG" class="responsive">
                 <h5 class="impact-mnth">Intership</h5>
                 <h6 id="impact-contact-internshiptext">The  significant contribution you make to the underprivileged has a  direct correlation to the impact it creates and the rewards are exemplary.</h6>
               </div>
               <div class="col-12 col-sm-6 col-md-6 col-lg-6 col-xl-4">
-                <img src="img/student-6.PNG" class="responsive">
+                <img src="img/student-9.PNG" class="responsive">
                 <h5 class="impact-mnth">Infra For Events</h5>
                 <h6 id="impact-contact-internshiptext">The impact that has resulted from the Puthri Career Intentionality Virtual training Interventions in terms of knowledge, learning growth rate and skills gained were assessed both through quantitative (a.Pre and Post Assessment) and Qualitative (b.Puthri Satisfaction Survey ) methods, the results are amazing. There has been a significant and phenomenal change in the Average learning growth rate of the Puthri scholars.</h6>
               </div>
@@ -425,27 +425,27 @@ for (var i = 0; i < btns.length; i++) {
           <h3 class="c-cont-title2">Volunteers Feedback</h3>
           </div>
         <div class="volunteer d-flex">
-        <div class="main-cercle d-flex col-5">
+        <div class="main-cercle d-flex col-lg-5">
           <div class="cercle-img">
             <img src="img/Sowmiyaa Sivakumar.png" alt="">
           </div>
           <div class="cercle-detials">
           <div class="first-head">
             <h6>Sowmiyaa Sivakumar</h6>
-            <p>volunteer</p>
+            <p class="cer-sub">volunteer</p>
             <p>As a volunteer, I have personally learned a great deal along with Puthri scholars. I derive immense satisfaction in presenting the animation and graphical content to the online sessions that attract Puthri participation. Teaching them life skills through interesting graphical content is indeed a learning experience for me too. I congratulate team Puthri for kindling this transformation from real mentoring, to online mentoring of our Puthri scholars, during the Pandemic situation.</p>
           </div>
           </div>
         </div>
         <div class="col-2"></div>
-        <div class="main-cercle d-flex col-5">
+        <div class="main-cercle d-flex col-lg-5">
           <div class="cercle-img">
           <img src="img/rajeshwari-shankar.png" alt="">
           </div>
           <div class="cercle-detials">
-          <div class="first-head">
+          <div class="first-head ">
           <h6>Rajeswari shankar</h6>
-          <p>volunteer</p>
+          <p class="cer-sub">volunteer</p>
           <p>As a volunteer, I have personally learned a great deal along with Puthri scholars. I derive immense satisfaction in presenting the animation and graphical content to the online sessions that attract Puthri participation. Teaching them life skills through interesting graphical content is indeed a learning experience for me too. I congratulate team Puthri for kindling this transformation from real mentoring, to online mentoring of our Puthri scholars, during the Pandemic situation.</p>
           </div>
           </div>

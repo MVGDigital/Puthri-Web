@@ -34,9 +34,9 @@
                     <i class="bx bx-x"></i>
                 </div>
                 <ul class="links">
-                  <li><a href="index.php" class="btns active">HOME</a></li>
+                  <li><a href="index.php" class="btns">HOME</a></li>
                   <li>
-                  <a href="#" class="btns">ABOUT</a>
+                  <a href="#" class="btns active">ABOUT</a>
                     <i class="bx bxs-chevron-down htmlcss-arrow arrow"></i>
                     <ul class="htmlCss-sub-menu sub-menu">
                       <li><a href="our_team.php">OUR TEAM</a></li>
@@ -66,7 +66,7 @@
 
 
       
-      <div class="banner-img">
+      <div class="banner-img mrg-t">
           <img src="img/about-banner.png" alt="">
           <div class="bg-shoadow">
             MITR
@@ -91,7 +91,7 @@
             <h3 class="c-img-title2 ahtc-sub-text">MITR</h3>
           </div>
           <div class="row d-flex img-txt" style="margin:auto;">
-              <div class="main-content col-6 pr-0">
+              <div class="main-content col-lg-6 pr-0">
                   <p>
                   About MITR
 MITR is the unique attempt of AVTAR Human Capital Trust in educating and empowering young, adolescent male population as empathetic “Gender Champions”. These young folk will develop and mature into a well-informed youth population of the country in creating a safe, secure and equal space to the female peers and counterparts.
@@ -118,7 +118,7 @@ Thus AVTAR Human Capital Trust formulated “MITR” for young school going boys
 
 </p>
               </div>
-              <div class="mitr-banner col-6 pr-0">
+              <div class="mitr-banner col-lg-6 mitr-p-r-l">
                   <img src="img/why_mitr.png" alt="">
               </div>
           </div>
@@ -134,7 +134,7 @@ Thus AVTAR Human Capital Trust formulated “MITR” for young school going boys
             <h6 class="c-img-title1"># M O D E L</h6>
             <h3 class="c-img-title2 ahtc-sub-text">OUR MODEL</h3>
           </div>
-          <div class="mitr-card-title">
+          <div class="mitr-card-title mitr-p">
           <p class="ahtc-head-txt"></p>
             <p class="ahtc-sub-txt">“Values and beliefs that are practised from young formative ages have their foot prints in human being till their grave” with this psychological fact in mind, AVTAR Human Capital Trust has devised a model of “catch them young”. Boys during their formative years of adolescence, if provided age appropriate information with well-meant discussions and other interventions, will mature into young male brigade of this country in understanding, accepting and providing equal space of dignity to the female community at large. Thus, this mature will help in shielding the female community against risk and will accept them as educated peers both at home and in the outside world. To summarise, given a continuous hand holding during the formative years, the male crowd can and will develop into a sportive crowd to provide space and accept challenges in the country.
 </p>

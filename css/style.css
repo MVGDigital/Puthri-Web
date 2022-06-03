@@ -35,14 +35,61 @@ body {
 
 /* HEADINGS */
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-  color: var(--title-color);
-  font-weight: var(--font-semi-bold);
+h1{
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 50px;
+  line-height: 61px;
+  color: #EA1584;
+}
+h2{
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 36px;
+line-height: 44px;
+color: #FFFFFF;
+}
+h3{
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 28px;
+line-height: 34px;
+color: #54575A;
+}
+h4{
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+color: #54575A;
+}
+h5{
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 22px;
+color: #707070;
+}
+h6{
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 22px;
+color: #004389;
+}
+p{
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+color: #707070;
 }
 a{
   text-decoration: none;
@@ -146,7 +193,6 @@ button:focus {
   color: #fff;
   padding: 10px 15px;
 }
-
 .nav .navbar .links li a{
  color: #fff; 
  cursor: pointer;
@@ -317,26 +363,10 @@ button:focus {
   z-index: 3;
   background: #fff;
 }
-
-h2{
-  font-weight: bolder;
-  color: #54575A ;
-}
-h4{
-  color: #54575A ;
-  text-align: center;
-  padding: 30px 0;
-  font-weight: 800;
-}
 span{
   color: #79307E;
   font-weight: 700;
   text-align: center;
-}
- h5{
-  color: #004389 ;
-  letter-spacing: 1px;
-  font-weight: 700;
 }
  span{
   color: #004389 ;
@@ -347,10 +377,6 @@ span{
   color: #ea1584;
   font-size: 20px;
   font-weight: 500;
-}
-h6{
-  color: #54575A ;
-  font-weight: 600;
 }
 .modal-dialog{
   width: 100%;
@@ -674,6 +700,9 @@ section#counter-stats {
 }
 .address-content{
   margin: -60px 0px;
+}
+.mitr-p-r-l{
+  padding-right: 0;
 }
 .first{
   color: #79307E;
@@ -2048,7 +2077,9 @@ Main Components
 .hbf-lblue .hbf-title {
   color: #7ab3d1;
 }
-
+.t-a-r{
+  text-align: right;
+}
 .hbf-text {
   color: #81848b;
   padding: 0 20px;
@@ -2208,7 +2239,9 @@ Main Components
 .fadeIn-bottom{
   top: 0%;
 }
-
+.banner100 img{
+  width: 100%;
+}
 /*  PAGINATION */
 
 .list-wrapper {
@@ -2301,6 +2334,12 @@ Main Components
     margin-bottom: 10px;
   }
 }
+/* .active{
+  background-color:none;
+  border-radius: 700px ;
+  color:none;
+  padding: 0;
+} */
 /* Style the counter cards */
 
 .fa {font-size:0px;}
@@ -2895,6 +2934,10 @@ nav .navbar .links li:hover .js-sub-menu{
   margin-right: 22px;
   cursor: pointer;
 }
+.card-container-1{
+  position: relative;
+  cursor: pointer;
+}
 .overlay-eff{
   transition: .5s ease;
   opacity:0;
@@ -3235,6 +3278,117 @@ nav .navbar .links li .sub-menu li:active{
   }
   .navbar .links li .sub-menu li{
     padding: 0;
+  }
+  #home-vision .text-center,.hm-left{
+    text-align: left!important;
+    padding: 0 15px;
+  }
+  .m-p-t{
+    padding-top: 50px!important;
+  }
+  .card-pop{
+    height: 100%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    padding-top: 100px;
+  }
+  .pop-content{
+    padding: 20px 20px;
+  }
+  .volunteer{
+    flex-wrap: wrap;
+  }
+  .cercle-img{
+    margin: auto;
+  }
+  .main-cercle{
+    flex-wrap: inherit;
+  }
+  .cercle-detials h6{
+    text-align: center;
+  }
+  .cercle-detials .cer-sub{
+    text-align: center;
+  }
+  .cercle-btn{
+    width: 45%;
+  }
+  /* Project-puthri */
+  .bg-shoadow{
+    top: 0px;
+    height: 100%;
+    padding-bottom: 25px;
+}
+.banner100 img{
+  width: 100%;
+}
+  /* OUR_TEAM */
+  .mrg-t{
+    margin-top: 24%;
+  }
+  .card-title{
+    padding: 20px 0;
+    margin-bottom: 0!important;
+  }
+  .card-img{
+    flex-wrap: wrap;
+  }
+  .f-rap{
+    flex-wrap: wrap;
+    margin-bottom: 10px!important;
+    width: 85%;
+  }
+  .card-container{
+    margin-right: 0;
+    margin-top: 20px;
+  }
+  .home-box-fifth{
+    margin-right: 0;
+  }
+  /* News */
+  .t-a-c{
+    text-align: center;
+  }
+  .p-r-l{
+    padding: 0 15px;
+    text-align:start!important;
+  }
+  .details-cards{
+    flex-wrap: wrap;
+  }
+  .home-box-fifth{
+    width: 85%;
+  }
+  .m-b20{
+    margin-bottom: 20px!important;
+  }
+  .new-img{
+    margin: 20px 20px;
+  }
+  .new-img img{
+    width: 90%;
+  }
+ 
+  .swiper-slide img{
+    width: 90%;
+  }
+  /* MITR */
+  .mitr-p-r-l{
+    padding: 20px!important;
+  }
+  .mitr-p{
+    padding: 0;
+  }
+  .mitr-b{
+    padding-bottom: 0;
+  }
+  /* AHCT */
+  .ahtc-banner{
+    text-align: center;
+  }
+  .ahtc-banner img{
+    width: 90%;
   }
 }
 

@@ -33,7 +33,7 @@
                     <i class="bx bx-x"></i>
                 </div>
                 <ul class="links">
-                  <li><a href="index.php" class="btns active">HOME</a></li>
+                  <li><a href="index.php" class="btns">HOME</a></li>
                   <li>
                   <a href="#" class="btns">ABOUT</a>
                     <i class="bx bxs-chevron-down htmlcss-arrow arrow"></i>
@@ -44,7 +44,7 @@
                       <li><a href="ahct.php">AHCT</a></li> 
                   </ul>
                 </li>
-                <li><a href="puthri-process.php" class="btns">PUTHRI MODEL</a></li>
+                <li class="btns"><a href="puthri-process.php" class="btns active">PUTHRI MODEL</a></li>
               <li>
                 <a href="get-involved.php" class="btns">GET INVOLVED</a>
               </li>
@@ -347,7 +347,7 @@
       <!--==================================================================
        Partners
       ==================================================================-->
-      <section class="partners">
+      <section class="m-p-t">
 
 <div class="container width88">
   <div class="row p0">
@@ -608,14 +608,12 @@
       });  
       });
 
-      var header = document.getElementById("myDIV");
-var btns = header.getElementsByClassName("btn");
-for (var i = 0; i < btns.length; i++) {
-  btns[i].addEventListener("click", function() {
-  var current = document.getElementsByClassName("active");
-  current[0].className = current[0].className.replace(" active", "");
-  this.className += " active";
-  });
-}
+      $('.btns').click(function() {
+  if ($(this).is("active"))
+    $('.btns').not(this).removeClass('active');
+  else
+    $(this).addClass('active');
+  $('.btns').not(this).removeClass('active');
+});
 
     </script>

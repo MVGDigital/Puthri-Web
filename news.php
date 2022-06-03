@@ -39,7 +39,7 @@
                     <i class="bx bx-x"></i>
                 </div>
                 <ul class="links">
-                  <li><a href="index.php" class="btns active">HOME</a></li>
+                  <li><a href="index.php" class="btns">HOME</a></li>
                   <li>
                   <a href="#" class="btns">ABOUT</a>
                     <i class="bx bxs-chevron-down htmlcss-arrow arrow"></i>
@@ -54,7 +54,7 @@
               <li>
                 <a href="get-involved.php" class="btns">GET INVOLVED</a>
               </li>
-              <li><a href="news.php" class="btns">NEWS &amp; EVENTS</a></li>
+              <li><a href="news.php" class="btns active">NEWS &amp; EVENTS</a></li>
               <li><a href="faq.php" class="btns">FAQ</a></li>
                 <div class="border"></div>
               </ul>
@@ -225,27 +225,27 @@
           <div class="row">
           <div class="col-3"></div>
             <div class="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-3">
-              <div class="text-right">
+              <div class="t-a-r t-a-c">
                 <h5>#GALLERY</h5>
                 <h2>Projects Updates</h2>
               </div>
             </div>
-            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-3 p-0">
+            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-3 p-0 card-container-1 new-img">
               <img src="img/gallery-1.jpg" class="img-fluid">
             </div>
-            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-3 p-0">
+            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-3 p-0 card-container-1 new-img">
               <img src="img/gallery-5.jpg" class="img-fluid">
             </div>
-            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-3 p-0">
+            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-3 p-0 card-container-1 new-img">
               <img src="img/gallery-3.jpg" class="img-fluid">
             </div>
-            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-3 p-0">
+            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-3 p-0 card-container-1 new-img">
               <img src="img/gallery-4.jpg" class="img-fluid">
             </div>
-            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-3 p-0">
+            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-3 p-0 card-container-1 new-img">
               <img src="img/gallery-2.jpg" class="img-fluid">
             </div>
-            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-3 p-0">
+            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-3 p-0 card-container-1 new-img">
               <img src="img/gallery-6.jpg" class="img-fluid">
             </div>
           </div>
@@ -306,7 +306,7 @@
                 <h6 id="impact-contact-internshiptext">We are not-for-profit, charitable trust workig towards economically empowering women, since the past 8 years. Our work has been centred around skills enhancement programs for the girl child and employability workshops for underpriviliged women. We also work towards the prevention of sexual harassement of women and children. Our work is primarily focussed on the states of Tamilnadu and Pondicherry.</h6>
               </div>
               <div class="col-md-4">
-                <img src="img/abt-popupsoundharya.jpg" class="responsive">
+                <img src="img/abt-popupsoundharya.png" class="responsive">
                 <h5 class="impact-mnth press-releasetext">FROM THE FOUNDER'S DESK</h5>
                 <h6 id="impact-contact-internshiptext">I am extremely delighted to connect with you through the first edition of 'PUTHRI Pulse', our Quartely eZine launched at PRAYAG 2018, PUTHRI's first volunteer appreciation meet on April 28, 2018. Volunteering, much like leadership has to come from within and with a purpose. Besides gaining experience and networking, volunteers need to have intrinsic values that connect passionately with the vision and mission of any organisation.</h6>
               </div>
@@ -320,10 +320,10 @@
         <div id="news" class="text-center">
           <h5>#CONTACT</h5>
           <h2>Contact Us</h2>
-          <h6 id="impact-contact-internshiptext">Help Project PUTHRI become the preferred charity partner in your work place events and involve your colleagues as<br> advocates and participiants of PUTHRI. read the word PUTHRI through social network. nitiate awareness campaigns<br>around your work place, residence or community centres on the importance of girl children becoming 'Career Intentional'</h6>
+          <p class="p-r-l">Help Project PUTHRI become the preferred charity partner in your work place events and involve your colleagues as<br> advocates and participiants of PUTHRI. read the word PUTHRI through social network. nitiate awareness campaigns<br>around your work place, residence or community centres on the importance of girl children becoming 'Career Intentional'</p>
         </div>
          <!-- CARDS -->
-         <div class="d-flex details-cards">
+         <div class="d-flex details-cards m-b20">
           <div class='home-box-fifth hbf-lblue'>
                     <div class='home-box-fifth-top-bg bg-two-prjct'>
                       <div class='icon-circle icon-light-blue'></div>
@@ -542,5 +542,12 @@
 
         });
       });
+      $('.btns').click(function() {
+  if ($(this).is("active"))
+    $('.btns').not(this).removeClass('active');
+  else
+    $(this).addClass('active');
+  $('.btns').not(this).removeClass('active');
+});
 
     </script>

@@ -200,7 +200,7 @@
 
       <section id="transformations" class="section-padding container">
         <h5>#PUTHRI PROCESS</h5>
-        <h2>Puthri Process</h2>
+        <h3>Puthri Process</h3>
         <section class="center slider">
           <div>
             <div class="hover">
@@ -276,10 +276,10 @@
            <!--==================================================================
        Vision
       ==================================================================-->  
-      <section id="vision" class="section-padding">
-        <div class="text-center">
-          <h5>#VISION</h5>
-          <h2 class="font-weight-normal">Our Vision</h2>
+      <section id="home-vision" class="section-padding">
+        <div class="text-center hm-left">
+          <h2>#VISION</h2>
+          <h3>Our Vision</h3>
         </div>
         <div class="container">
           <div class="row">
@@ -287,7 +287,7 @@
               <!--<h6 class="visiontext d-flex py-3 text-center">
                 
               </h6>-->
-				<p class="text-center">Puthri's vision, an India, where young girls at the bottom of the socio - economic pyramid are able to rise to their fullest potential by breaking out of the domestic labour economy to graduate into the knowledge economy, thus, eventually being able to contribute directly to the GDP of our country</p>
+				<p class="text-center p-0">Puthri's vision, an India, where young girls at the bottom of the socio - economic pyramid are able to rise to their fullest potential by breaking out of the domestic labour economy to graduate into the knowledge economy, thus, eventually being able to contribute directly to the GDP of our country</p>
             </div>
             <div class="col-3"></div>
             <div class="col-sm-6 col-12 mt-5">
@@ -875,6 +875,13 @@
 
           });
         });
+        $('.btns').click(function() {
+  if ($(this).is("active"))
+    $('.btns').not(this).removeClass('active');
+  else
+    $(this).addClass('active');
+  $('.btns').not(this).removeClass('active');
+});
         </script>
           <!--   Counting -->
 
