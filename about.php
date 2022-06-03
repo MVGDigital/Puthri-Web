@@ -28,29 +28,38 @@
           <i class="bx bx-menu"></i>
             <div class="logo"><a href="#">
               <img src="img/logo.png" class="img-fluid nav-logo"></a></div>
-              <div class="nav-links myDIV">
+              <div id="myDIV" class="nav-links">
                 <div class="sidebar-logo">
                   <span class="logo-name"><img src="img/logo.png"></span>
                     <i class="bx bx-x"></i>
                 </div>
                 <ul class="links">
-                  <li><a href="index.php" class="btns active">HOME</a></li>
+                  <li><a href="index.php" class="btns">HOME</a></li>
                   <li>
-                  <a href="/" class="btns">ABOUT</a>
+                  <a href="#" class="btns active">ABOUT</a>
                     <i class="bx bxs-chevron-down htmlcss-arrow arrow"></i>
-                    <ul class="htmlCss-sub-menu">
+                    <ul class="htmlCss-sub-menu sub-menu">
                       <li><a href="our_team.php">OUR TEAM</a></li>
                       <li><a href="project-puthri.php">PROJECT PUTHRI</a></li>
                       <li><a href="new_mitr.php">MITR</a></li>
                       <li><a href="ahct.php">AHCT</a></li> 
                   </ul>
                 </li>
-                <li><a href="puthri-process.php" class="btns">PUTHRI PROCESS</a></li>
+                <li>
+                  <a href="puthri-model.php" class="btns">PUTHRI MODEL</a>
+                    <i class="bx bxs-chevron-down htmlcss-arrow arrow"></i>
+                    <ul class="htmlCss-sub-menu sub-menu">
+                      <li><a href="pcp.php">PCP</a></li>
+                      <li><a href="pcca.php">PCCA</a></li>
+                      <li><a href="scholarship.php">SCHOLARSHIP</a></li>
+                  </ul>
+                </li>
+
               <li>
                 <a href="get-involved.php" class="btns">GET INVOLVED</a>
               </li>
               <li><a href="news.php" class="btns">NEWS &amp; EVENTS</a></li>
-              <li><a href="list-view.php" class="btns">CONTACT</a></li>
+              <li><a href="faq.php" class="btns">FAQ</a></li>
                 <div class="border"></div>
               </ul>
               </div>
@@ -437,7 +446,7 @@
                                 <a href="get-involved.html">Get Involved</a>
                               </li>
                               <li>
-                                <a href="puthri-process.html">Puthri Process</a>
+                                <a href="puthri-process.html">Puthri Model</a>
                               </li>
                               <ul class="footer-menulinks">
                               <li>
@@ -461,7 +470,7 @@
                         <div class="footer-link">
                           <h5>Newsletter</h5>
                             <div class="linked">
-                              <p>You will be noticed when something <br>new appears</p>
+                              <p>You will be notified when something <br>new appears</p>
                               <form action="">
                                 <input type="text"  pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,}$" title="Please Enter Valid Email Id" placeholder="Enter a valid mail ID" required>
                                 <input type='submit' name='submit' value='' id='submit' />

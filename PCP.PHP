@@ -36,7 +36,7 @@
                 <ul class="links">
                   <li><a href="index.php" class="btns">HOME</a></li>
                   <li>
-                  <a href="#" class="btns active">ABOUT</a>
+                  <a href="#" class="btns">ABOUT</a>
                     <i class="bx bxs-chevron-down htmlcss-arrow arrow"></i>
                     <ul class="htmlCss-sub-menu sub-menu">
                       <li><a href="our_team.php">OUR TEAM</a></li>
@@ -46,7 +46,7 @@
                   </ul>
                 </li>
                 <li>
-                  <a href="puthri-model.php" class="btns">PUTHRI MODEL</a>
+                  <a href="puthri-model.php" class="btns active">PUTHRI MODEL</a>
                     <i class="bx bxs-chevron-down htmlcss-arrow arrow"></i>
                     <ul class="htmlCss-sub-menu sub-menu">
                       <li><a href="pcp.php">PCP</a></li>
@@ -72,9 +72,14 @@
             <button class="contact-btn">contact us</button>
          </div>
       </nav>
+
+
       
-      <div class="banner-img">
-          <img src="img/Puthri Team Photo About us - Banner.jpg" alt="">
+      <div class="banner-img mrg-t">
+          <img src="img/about-banner.png" alt="">
+          <div class="bg-shoadow">
+            <H1>PCP</H1>
+      </div>
       </div>
        <!-- Back to Page Content -->
       <div class="container">
@@ -82,7 +87,8 @@
           <div class="col-12 mt-3">
             <div class="navigation-section">
               <a href="index.php" class="navigation-links">home</a> >
-              <a href="about.php" class="navigation-links">about us</a>
+              <a href="puthri-process.php" class="navigation-links">Puthri Model</a> >
+              <a href="pcca.php" class="navigation-links">PCP</a>
             </div>
           </div>
         </div>
@@ -90,74 +96,26 @@
       </div>
       <!-- Back to Page Content End -->
       <section class="main-container">
+          <div class="first-head main-header"> 
+            <h6>#PCP</h6>
+            <h3>Puthri Career Pathing Program</h3>
+          </div>
           <div class="row d-flex img-txt" style="margin:auto;">
-          <div class="main-banner-sr-mam col-6">
-                  <img src="img/SR Mam Page.png" alt="">
+              <div class="main-content col-lg-6 pr-0">
+                  <p>Puthri has been steadily pursuing the noble task of ensuring the completion of tertiary education among young girls from economically under privileged class. Their training and mentoring sessions have been focusing on imparting career-intentionality and confidence among these young scholars. In the past academic year, Puthri introduced the concept of post-schooling intervention, aimed at 12th grade students who are in the verge of completing schooling. The project focuses on orienting theses scholars on university/college education and prepares them in advance to face the new challenges. They are mentored on aspects of university academic models and scope, the cultural environment, peer co-existence and pressures, relocation etc. this early-on mentoring gives them the confidence to face the challenges they might encounter in an university situation and further on. The program trains these scholars to gauge options and opinions in order to make appropriate situational decisions, while also mentoring them to don the leaders hat as the circumstances warrant. The program also ropes in corporate leaders to deliver talk sessions to these scholars, which is aimed to further boost the knowledge and confidence in them. The leaders engage in talk sessions on topics such as prospective career opportunities in various industries, the corporate work world, the gains and pains associated in there and how to overcome situational shortcomings to emerge successful ,in order to climb up the organizational ladder. The program also has role model sessions which encourages and motivates these young scholars to excel in their academic performance towards getting absorbed into the corporate band-wagon.</p>
               </div>
-              <div class="main-content col-6">
-              <div class="first-head">
-            <h6 class="sr-mam-img-title1">Dr Saundarya Rajesh</h6>
-            <h3 class="sr-mam-img-title2 ahtc-sub-text">Managing Trustee – Avtar Human Capital Trust</h3>
+              <div class="mitr-banner col-lg-6 mitr-p-r-l">
+                  <img src="img/mitr-about-2.jpg" alt="">
+              </div>
           </div>
-                  <p>
-Dr. Saundarya Rajesh is one of India’s most respected thought leaders on Diversity, Equity & Inclusion. An award-winning social entrepreneur, she is best known as the pioneer of Second Career opportunities for women in Corporate India. A relentless advocate of the potential of women in the workplace, Dr. Saundarya is the founder of successful social enterprises such as Avtar Career Creators, Flexi Careers India, Bruhat Insights Global and Avtar Human Capital Trust. Her latest brainchild myAvtar.com is India’s first diversity jobs portal for candidates belonging to the under-represented groups such as Women, People with Disabilities, People with LGBTQ+ identity and Veterans. A recipient of several awards and recognitions, Dr. Saundarya has irrevocably changed the game for the Indian Woman Professional, by introducing the concept of “Career Intentionality” and “Career Re-entry” to Corporate India. Her path breaking and exemplary work in the space of Diversity, Equity, and Inclusion has established her into a much sought-after advisor of choice for an impressive list of organizations and leaders on the benefits of a diversely inclusive workplace. Dr. Saundarya is a highly sought-after speaker at conferences — both national and international– and a firm believer in integrating work and life. In her pursuit to develop and inspire people to grow to their full potential, she has made her debut in through the book – “The 99 Day Diversity Challenge™” published by SAGE that hit the stands on October 30, 2018.
-Project Puthri an initiative by AVTAR Human Capital Trust (AHCT), is India’s first ever developmental project that seeks to create Career Intentionality among underprivileged girl students. Dr.Saundarya Rajesh envisions through Puthri, an India, where young girls at the bottom of the socio - economic pyramid are able to rise to their fullest potential by breaking out of the domestic labour economy to graduate into the knowledge economy, thus, eventually being able to contribute directly to the GDP of our country.
-</p>     
-<div class="social-m-icon">
-          <img src="img/banner-fb.svg" alt="">
-          <img src="img/banner-twit.svg" alt="">
-          <img src="img/banner-in.svg" alt="">
-        </div>
-      </div>
-     </div>
-          <!--banner-img End -->
-          <div class="card-title">
-          <div class="ahtc-card-title">
-          <h6 class="c-img-title1"># v i s i o n</h6>
-          <h3 class="c-img-title2 ahtc-sub-text">Our Vision</h3>
-          </div>
-          <!--  -->
-          <div class="container">
-          <div class="row">
-            <div class="col-12">
-              <!--<h6 class="visiontext d-flex py-3 text-center">
-                
-              </h6>-->
-				<p class="text-center">Puthri's vision, an India, where young girls at the bottom of the socio - economic pyramid are able to rise to their fullest potential by breaking out of the domestic labour economy to graduate into the knowledge economy, thus, eventually being able to contribute directly to the GDP of our country</p>
-            </div>
-            <div class="col-3"></div>
-            <div class="col-sm-6 col-12 mt-5">
-              <iframe class="responsive" height="300px" src="https://www.youtube.com/embed/K0yypav0zfw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-          </div>
-          <div class="col-3"></div>
-        </div>
-      </div>
-          <!--  -->
-          
 
-          <div class="ahtc-card-title">
-            <h6 class="c-img-title1"># A W A R D S</h6>
-            <h3 class="c-img-title2 ahtc-sub-text">AWARDS AND RECOGNITIONS</h3>
-            <p class="ahtc-head-txt">2016</p>
-            <p class="ahtc-sub-txt">One among the #100 Women Achievers of India, an initiative by the Ministry of Women and Child Development, Government of India
-</p>
-<p class="ahtc-head-txt">2018</p>
-            <p class="ahtc-sub-txt">Project Puthri wins  Parivarthan Award</p>
-            <p class="ahtc-head-txt">2019</p>
-            <p class="ahtc-sub-txt">WebWonderWomen Award by Ministry of Women and Child Development in collaboration with Twitter India and Breakthrough India for using the power of social media to run positive campaign to steer a change in the society on the International Women’s Day</p>
-            <p class="ahtc-head-txt">2020</p>
-            <p class="ahtc-sub-txt">Ooruni Foundation awarded  Project Puthri as best NGO in  the service of women  empowerment</p>
-            <p class="ahtc-head-txt">2021</p>
-          <p class="ahtc-sub-txt">Iswar Foundation awarded  Project Puthri as best NGO in  women empowerment</p>
-            <p class="ahtc-sub-txt">PMI South Asia Awards 2021  Winner - NGO Category</p>
-            <p class="ahtc-head-txt">2022</p>
-            <p class="ahtc-sub-txt">Project Puthri  Outstanding supporter to Dow India </p>
-            <p class="ahtc-sub-txt">Recognition as NielsenIQ India Inclusion Icon</p>
+          <div class="mitr-banner mt50">
+                  <img src="img/projectputhri-infographics.jpg" alt="">
           </div>
+
           <div class="card-title">
-            <h6 class="c-img-title1"># C 0 N T A C T U S</h6>
+            <h6 class="c-img-title1">#CONTACT US</h6>
             <h3 class="c-img-title2">Contact Us</h3>
-            <p class ="ahtc-sub-txt">Help Project PUTHRI become the preferred charity partner in your work place events and invole your collegeues as advocates and participants of PUTHRI.read the word about</p>
           </div>
           <!-- CARDS -->
           <div class="d-flex details-cards">
@@ -286,7 +244,7 @@ Project Puthri an initiative by AVTAR Human Capital Trust (AHCT), is India’s f
                         <div class="footer-link">
                           <h5>Newsletter</h5>
                             <div class="linked">
-                              <p>You will be noticed when something <br>new appears</p>
+                              <p>You will be notified when something <br>new appears</p>
                               <form action="">
                                 <input type="text"  pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,}$" title="Please Enter Valid Email Id" placeholder="Enter a valid mail ID" required>
                                 <input type='submit' name='submit' value='' id='submit' />

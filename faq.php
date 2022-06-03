@@ -42,7 +42,16 @@
                       <li><a href="ahct.php">AHCT</a></li> 
                   </ul>
                 </li>
-                <li><a href="puthri-process.php" class="btns">PUTHRI MODEL</a></li>
+                <li>
+                  <a href="puthri-model.php" class="btns">PUTHRI MODEL</a>
+                    <i class="bx bxs-chevron-down htmlcss-arrow arrow"></i>
+                    <ul class="htmlCss-sub-menu sub-menu">
+                      <li><a href="pcp.php">PCP</a></li>
+                      <li><a href="pcca.php">PCCA</a></li>
+                      <li><a href="scholarship.php">SCHOLARSHIP</a></li>
+                  </ul>
+                </li>
+
               <li>
                 <a href="get-involved.php" class="btns">GET INVOLVED</a>
               </li>
@@ -296,7 +305,7 @@
                                 <a href="get-involved.php">Get Involved</a>
                               </li>
                               <li>
-                                <a href="puthri-process.php">Puthri Model</a>
+                                <a href="puthri-model.php">Puthri Model</a>
                               </li>
                               <ul class="footer-menulinks">
                               <li>

@@ -45,7 +45,16 @@
                       <li><a href="ahct.php">AHCT</a></li> 
                   </ul>
                 </li>
-                <li><a href="puthri-process.php" class="btns">PUTHRI MODEL</a></li>
+                <li>
+                  <a href="puthri-model.php" class="btns">PUTHRI MODEL</a>
+                    <i class="bx bxs-chevron-down htmlcss-arrow arrow"></i>
+                    <ul class="htmlCss-sub-menu sub-menu">
+                      <li><a href="pcp.php">PCP</a></li>
+                      <li><a href="pcca.php">PCCA</a></li>
+                      <li><a href="scholarship.php">SCHOLARSHIP</a></li>
+                  </ul>
+                </li>
+
               <li>
                 <a href="get-involved.php" class="btns">GET INVOLVED</a>
               </li>
@@ -266,7 +275,7 @@ Thus AVTAR Human Capital Trust formulated “MITR” for young school going boys
                                 <a href="get-involved.php">Get Involved</a>
                               </li>
                               <li>
-                                <a href="puthri-process.php">Puthri Model</a>
+                                <a href="puthri-model.php">Puthri Model</a>
                               </li>
                               <ul class="footer-menulinks">
                               <li>
@@ -290,7 +299,7 @@ Thus AVTAR Human Capital Trust formulated “MITR” for young school going boys
                         <div class="footer-link">
                           <h5>Newsletter</h5>
                             <div class="linked">
-                              <p>You will be noticed when something <br>new appears</p>
+                              <p>You will be notified when something <br>new appears</p>
                               <form action="">
                                 <input type="text"  pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,}$" title="Please Enter Valid Email Id" placeholder="Enter a valid mail ID" required>
                                 <input type='submit' name='submit' value='' id='submit' />

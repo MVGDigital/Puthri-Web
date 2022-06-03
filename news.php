@@ -445,7 +445,7 @@
                                 <a href="get-involved.php">Get Involved</a>
                               </li>
                               <li>
-                                <a href="puthri-process.php">Puthri Model</a>
+                                <a href="puthri-model.php">Puthri Model</a>
                               </li>
                               <ul class="footer-menulinks">
                               <li>
