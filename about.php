@@ -498,7 +498,7 @@ for (var i = 0; i < btns.length; i++) {
 } */
       </script>
       
-      <!--===================== Scroll to top ==================================--> 
+      <!--===================== Scroll to ==================================--> 
 
       <a onclick="topFunction()" id="myBtn" title="Go to top"><img src="img/scroll-top.png"></a>
 
