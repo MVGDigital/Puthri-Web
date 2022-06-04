@@ -75,7 +75,7 @@
           <div class="banner-img mrg-t">
           <img src="img/projectputhri-banner.jpg" alt="">
           <div class="bg-shoadow">
-            Project Puthri
+            <h1>Project Puthri</h1>
       </div>
       </div>
       
@@ -118,11 +118,11 @@
                 <img src="img/About Project Puthri.jpeg" class="img-fluid">
               </div>
               <div class="col-12 col-sm-6 col-md-6 col-lg-6 col-xl-6 ">
-                 <h6>Project Puthri:</h6>
+                 <h5>Project Puthri:</h5>
                   <p class="">Puthri is India’s first ever developmental project that seeks to create Career Intentionality among underprivileged girl students.It is an initiative by Avtar Human Capital Trust (AHCT), a not for-profit public charitable organization, working in the field of economic empowerment of women.</p>
-                  <h6>Who is Puthri?</h6>
+                  <h5>Who is Puthri?</h5>
                   <p>Puthri is India’s daughter from an underprivileged family, studying in Corporation or Government School, between the age group of 13 & 18 years, studying in classes 8th to 12th who will be trained through a combination of classroom sessions, games and corporate exposure, to understand her capabilities better, prevent her from dropping-out of school, helping her build meaningful relationships and developing the necessary skills to be successful in her career.</p>
-                  <h6>Why make her Career Intentional?</h6>
+                  <h5>Why make her Career Intentional?</h5>
                   <p>Desire and potential to study alone are not enough to be successful in life. Timely guidance and inspiration to graduate and take up tertiary jobs are also required to make every girl student career intentional. She may successfully complete her schooling, may lack the right support, guidance, motivation and encouragement from family and friends to inspire her graduate with good grades, to pursue tertiary education at college and eventually settle in a white collar job. Project Puthri’s key enablers step in at this crucial phase of her life to guide & support her aspirations in the form of mentors, role models & career coaches and help her become Career intentional for life. Career Intentionality, will give girls like her the much needed confidence & opportunity to take up white collar jobs in big companies, earn well and contribute to the country’s GDP. In addition, it will provide her with a safe and conducive environment, free from any kind of abuse and bring her and her family out of poverty to lead a healthy life, with good & nutritious food. Not just that, she will begin to make informed decisions about her marriage, childbirth etc and help her family & future generations to live a life of fulfillment in a world of endless positive possibilities.</p>
                 </div>
               </div>
@@ -133,9 +133,9 @@
         <div class="ahtc-card-title pt-0">
           <h6>#ABOUT</h6>
           <h3>Vision and Mission</h3>
-          <h6>Vision</h6>
+          <h5>Vision</h5>
           <p>Puthri's vision, an India, where young girls at the bottom of the socio - economic pyramid are able to rise to their fullest potential by breaking out of the domestic labour economy to graduate into the knowledge economy, thus, eventually being able to contribute directly to the GDP of our country.</p>
-          <h6>Mission</h6>
+          <h5>Mission</h5>
           <p> To make 10,000 corporation school girl students across Tamil Nadu & Pondicherry ‘Career intentional’ every year, facilitate girl students into tertiary education and ensure they pursue a white-collar job upon graduation.</p>
           </div>    
           <!-- Three - Pillars -->
@@ -295,7 +295,7 @@
                       <div class="col-md-5">
                          </div>
                       <div class="col-md-3">
-                        <div class="footer-content" >
+                        <div class="footer-content footer-link">
                         <p>Privacy Policy &nbsp; &nbsp; Disclaimer</p>
                       </div>
                     </div>

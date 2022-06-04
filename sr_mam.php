@@ -74,7 +74,7 @@
       </nav>
       
       <div class="banner-img">
-          <img src="img/Puthri Team Photo About us - Banner.jpg" alt="">
+          <img src="img/getinvolved-banner.jpg" alt="">
       </div>
        <!-- Back to Page Content -->
       <div class="container">

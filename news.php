@@ -82,7 +82,7 @@
                 <div class="col-6 col-sm-5 col-md-4 col-lg-4 col-xl-5">
                   <div class="text-center">
                     <div class="centered">
-                      <h2>News & Events</h2>
+                      <h1>News & Events</h1>
                     </div>
                   </div>
                 </div>
@@ -146,7 +146,7 @@
             <div class="hover">
               <div class="content">
                 <div class="content-overlay"></div>
-                  <img src="img/PRAYAG`19-Bodhbridge 2.jpg" >
+                  <img src="img/event-1.jpg">
                   <div class="content-details fadeIn-bottom">
                     <p class="content-text">There is no better place than an event to appreciate and celebrate success. Prayag is an inception of this thought to celebrate all our volunteers. An array of cultural activities lights up the event day, followed by a sumptuous lunch that allows Puthri volunteers to take a moment to bond with the group by sharing their wonderful experience in Puthri.</p>
                   </div>
@@ -159,7 +159,7 @@
                 <div class="content-overlay"></div>
                   <img src="img/46.jpg" >
                   <div class="content-details fadeIn-bottom">
-                    <p class="content-text">lorem ipsum lorem ipsum lorem ipsum<br>lorem ipsum lorem ipsum lorem ipsum<br>lorem ipsum lorem ipsum lorem ipsum</p>
+                    <p class="content-text">Puthri encourages the students to showcase their talent through Talent contests under different categories like Eloquent contest, Poster Making competition, Essay Writing, AdZap etc. It helps to identify Star Puthri students who excel in one or more categories</p>
                   </div>
               </div>
             </div>
@@ -170,7 +170,7 @@
                 <div class="content-overlay"></div>
                   <img src="img/PRAYAG`19-Bodhbridge 2.jpg" >
                   <div class="content-details fadeIn-bottom">
-                    <p class="content-text">lorem ipsum lorem ipsum lorem ipsum<br>lorem ipsum lorem ipsum lorem ipsum<br>lorem ipsum lorem ipsum lorem ipsum</p>
+                  <p class="content-text">There is no better place than an event to appreciate and celebrate success. Prayag is an inception of this thought to celebrate all our volunteers. An array of cultural activities lights up the event day, followed by a sumptuous lunch that allows Puthri volunteers to take a moment to bond with the group by sharing their wonderful experience in Puthri.</p>
                   </div>
               </div>
             </div>
@@ -181,7 +181,7 @@
                 <div class="content-overlay"></div>
                   <img src="img/43.jpg" >
                   <div class="content-details fadeIn-bottom">
-                    <p class="content-text">lorem ipsum lorem ipsum lorem ipsum<br>lorem ipsum lorem ipsum lorem ipsum<br>lorem ipsum lorem ipsum lorem ipsum</p>
+                  <p class="content-text">Udyog Utsav, a career visioning conference, is an annual event conducted by the end of the academic year. During this one-day event, more than 4000 Puthri scholars from over 100 Corporation schools across Chennai participate, meet, network, explore and gain insights into the various institutions and industries</p>
                   </div>
               </div>
             </div>
@@ -192,7 +192,7 @@
                 <div class="content-overlay"></div>
                 <img src="img/Puthri Talent show 1 (1).jpg" >
                   <div class="content-details fadeIn-bottom">
-                    <p class="content-text">lorem ipsum lorem ipsum lorem ipsum<br>lorem ipsum lorem ipsum lorem ipsum<br>lorem ipsum lorem ipsum lorem ipsum</p>
+                  <p class="content-text">Puthri encourages the students to showcase their talent through Talent contests under different categories like Eloquent contest, Poster Making competition, Essay Writing, AdZap etc. It helps to identify Star Puthri students who excel in one or more categories</p>
                   </div>
               </div>
             </div>
@@ -211,8 +211,8 @@
               </div>
               <div class="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-8 mt-4 m-auto">
                 <img src="img/Project Updates.jpg" class="responsive">
-                <h5 class="updates-headingcontext">As a Corporate house your association will help us connect </h5>
-                <h6 id="impact-contact-internshiptext">We are not-for-profit,public, charitable Trust working towards economically empowering women, since the past 8 years, our work has been centred around life skills enhancement programs for the girl child and employability workshops for underprivileged women. We also work towards the prevention of sexual harassement of women and children. our work is primarily focused on the states of Tamil Nadu And Pondicherry.</h6>
+                <h5>As a Corporate house your association will help us connect</h5>
+                <p>We are not-for-profit,public, charitable Trust working towards economically empowering women, since the past 8 years, our work has been centred around life skills enhancement programs for the girl child and employability workshops for underprivileged women. We also work towards the prevention of sexual harassement of women and children. our work is primarily focused on the states of Tamil Nadu And Pondicherry.</p>
               </div>
             </div>
           </div>
@@ -243,7 +243,7 @@
               <img src="img/gallery-4.jpg" class="img-fluid">
             </div>
             <div class="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-3 p-0 card-container-1 new-img">
-              <img src="img/gallery-2.jpg" class="img-fluid">
+              <img src="img/our-stories-4.jpg" class="img-fluid">
             </div>
             <div class="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-3 p-0 card-container-1 new-img">
               <img src="img/gallery-6.jpg" class="img-fluid">
@@ -298,17 +298,17 @@
               <div class="col-12 col-sm-6 col-md-6 col-lg-6 col-xl-4">
                 <img src="img/press-release-1.jpg" class="responsive">
                 <h5 class="impact-mnth press-releasetext">PROJECT PUTHRI</h5>
-                <h6 id="impact-contact-internshiptext">We are not-for-profit, charitable trust workig towards economically empowering women, since the past 10 years. Project PUTRHI- a flagship project of AVTAR Human Capital Trust strives to create, sustain & propel career intentionality among girl children studying in government schools across Tamilnadu & Pondicherry. Our work has been centered around life skills enhancement programs for the girl child and employability workshops</h6>
+                <p>We are not-for-profit, charitable trust workig towards economically empowering women, since the past 10 years. Project PUTRHI- a flagship project of AVTAR Human Capital Trust strives to create, sustain & propel career intentionality among girl children studying in government schools across Tamilnadu & Pondicherry. Our work has been centered around life skills enhancement programs for the girl child and employability workshops</p>
               </div>
               <div class="col-md-4">
                 <img src="img/press-release-2.jpg" class="responsive">
                 <h5 class="impact-mnth press-releasetext">AVTAR HUMAN CAPITAL TRUST</h5>
-                <h6 id="impact-contact-internshiptext">We are not-for-profit, charitable trust workig towards economically empowering women, since the past 8 years. Our work has been centred around skills enhancement programs for the girl child and employability workshops for underpriviliged women. We also work towards the prevention of sexual harassement of women and children. Our work is primarily focussed on the states of Tamilnadu and Pondicherry.</h6>
+                <p>We are not-for-profit, charitable trust workig towards economically empowering women, since the past 8 years. Our work has been centred around skills enhancement programs for the girl child and employability workshops for underpriviliged women. We also work towards the prevention of sexual harassement of women and children. Our work is primarily focussed on the states of Tamilnadu and Pondicherry.</p>
               </div>
               <div class="col-md-4">
                 <img src="img/abt-popupsoundharya.png" class="responsive">
                 <h5 class="impact-mnth press-releasetext">FROM THE FOUNDER'S DESK</h5>
-                <h6 id="impact-contact-internshiptext">I am extremely delighted to connect with you through the first edition of 'PUTHRI Pulse', our Quartely eZine launched at PRAYAG 2018, PUTHRI's first volunteer appreciation meet on April 28, 2018. Volunteering, much like leadership has to come from within and with a purpose. Besides gaining experience and networking, volunteers need to have intrinsic values that connect passionately with the vision and mission of any organisation.</h6>
+                <p>I am extremely delighted to connect with you through the first edition of 'PUTHRI Pulse', our Quartely eZine launched at PRAYAG 2018, PUTHRI's first volunteer appreciation meet on April 28, 2018. Volunteering, much like leadership has to come from within and with a purpose. Besides gaining experience and networking, volunteers need to have intrinsic values that connect passionately with the vision and mission of any organisation.</p>
               </div>
             </div>
           </div>
@@ -482,10 +482,10 @@
                           Copyright @2021, AHCT. All Rights Reserved
                         </div>
                       </div>
-                      <div class="col-md-5">
+                      <div class="col-md-5">  
                          </div>
                       <div class="col-md-3">
-                        <div class="footer-content" >
+                        <div class="footer-content footer-link">
                         <p>Privacy Policy &nbsp; &nbsp; Disclaimer</p>
                       </div>
                     </div>

@@ -78,7 +78,7 @@
       <div class="banner-img mrg-t">
           <img src="img/about-banner.png" alt="">
           <div class="bg-shoadow">
-            <h2>MITR</h2>
+            <h1>MITR</h1>
       </div>
       </div>
        <!-- Back to Page Content -->
@@ -315,7 +315,7 @@ Thus AVTAR Human Capital Trust formulated “MITR” for young school going boys
                       <div class="col-md-5">
                          </div>
                       <div class="col-md-3">
-                        <div class="footer-content" >
+                        <div class="footer-content footer-link">
                         <p>Privacy Policy &nbsp; &nbsp; Disclaimer</p>
                       </div>
                     </div>

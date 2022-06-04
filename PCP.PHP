@@ -220,7 +220,7 @@
                                 <a href="get-involved.php">Get Involved</a>
                               </li>
                               <li>
-                                <a href="puthri-model.php">Puthri Model</a>
+                                <a href="puthri-model .php">Puthri Model</a>
                               </li>
                               <ul class="footer-menulinks">
                               <li>
@@ -260,7 +260,7 @@
                       <div class="col-md-5">
                          </div>
                       <div class="col-md-3">
-                        <div class="footer-content" >
+                        <div class="footer-content footer-link">
                         <p>Privacy Policy &nbsp; &nbsp; Disclaimer</p>
                       </div>
                     </div>

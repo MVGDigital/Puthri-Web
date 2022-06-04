@@ -145,7 +145,7 @@
         <div class="container">
           <div class="row home-lamp-card">
               <div id="open" class="box effect padding_box-content homecontent">  
-                <h4 class="pb-0 pt-4">1000+</h4>
+                <h4 class="pb-0 pt-4 text11">1000+</h4>
                 <div style="text-align:center;">
                 <img src="img/people_black.svg" alt="">
                 </div>
@@ -154,7 +154,7 @@
                   </div>
               </div>
               <div class="box effect homecontent">
-                <h4 class="pb-0 pt-4">65</h4>
+                <h4 class="pb-0 pt-4 text11">65</h4>
                 <div style="text-align:center;">
                 <img src="img/school-s.svg" alt="">
                 </div>
@@ -163,7 +163,7 @@
                   </div>
               </div>
               <div class="box effect homecontent">
-                <h4 class="pb-0 pt-4">50</h4>
+                <h4 class="pb-0 pt-4 text11">50</h4>
                 <div style="text-align:center;">
                 <img src="img/school-svgrepo.svg" alt="">
                 </div>
@@ -172,7 +172,7 @@
                 </div>
               </div>
               <div class="box effect homecontent">          
-                <h4 class="pb-0 pt-4">10</h4>
+                <h4 class="pb-0 pt-4 text11">10</h4>
                 <div style="text-align:center;">
                 <img src="img/home-card-icon.svg" alt="">
                 </div>
@@ -181,7 +181,7 @@
                 </div>
               </div>
               <div class="box effect homecontent">
-                <h4 class="pb-0 pt-4 mb-0">50</h4>
+                <h4 class="pb-0 pt-4 mb-0 text11">50</h4>
                 <div style="text-align:center;">
                 <img src="img/city-buildings.svg" alt="">
                 </div>
@@ -190,7 +190,7 @@
                 </div>
               </div>
               <div class="box effect homecontent"> 
-                <h4 class="pb-0 pt-4">10</h4>
+                <h4 class="pb-0 pt-4 text11">10</h4>
                 <div style="text-align:center;">
                 <img src="img/heart.svg" alt="">
                 </div>
@@ -831,7 +831,7 @@
                       <div class="col-md-5">
                          </div>
                       <div class="col-md-3">
-                        <div class="footer-content" >
+                        <div class="footer-content footer-link">
                         <p>Privacy Policy &nbsp; &nbsp; Disclaimer</p>
                       </div>
                     </div>

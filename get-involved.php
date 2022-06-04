@@ -89,7 +89,7 @@
                 <div class="col-6 col-sm-5 col-md-4 col-lg-4 col-xl-5">
                   <div class="text-center">
                     <div class="centered">
-                      <h2 class="banner-heading-text">get involved</h2>
+                      <h2 class="banner-heading-text">GET INVOLVED</h2>
                     </div>
                   </div>
                 </div>
@@ -108,7 +108,7 @@
         </div>
       </div>
       <div class="text-center mb-5">
-          <h6>#O U R I M P A C T</h6>
+          <h6>#OURIMPACT</h6>
           <h3>Puthri volunteer Progammes</h3>
           <p>Volunteering integrates your work life with the rest of the world. It gives you an impetus towards fulfilling a deeper social responsibility by sharing and contributing to the society. It is enriching and immensely motivating with a purpose.The significant contribution you make to the underprivileged has a  direct correlation to the impact it creates and the rewards are exemplary.
 
@@ -122,7 +122,7 @@ As a PUTHRI volunteer you will not only stand to gain unique opportunities and r
             <div class="row mb-5 rating-card">
               <div id="one" class="col-6 col-md-3 col-lg-3 col-xl-2">
               <div class="box effect padding_box-content">  
-                <h4>1000+</h4>
+                <h4 class="text11 pt40">1000+</h4>
                   <div class="text-center"> <p><span>LAMP</span>
                     </p>
                   </div>
@@ -130,7 +130,7 @@ As a PUTHRI volunteer you will not only stand to gain unique opportunities and r
             </div>
             <div id="two" class="col-6 col-md-3 col-lg-3 col-xl-2">
               <div class="box effect">          
-                <h4>100+</h4>
+                <h4 class="text11 pt40">100+</h4>
                 <div class="text-center">
                 <span>LINK </span>
                 </div>
@@ -138,7 +138,7 @@ As a PUTHRI volunteer you will not only stand to gain unique opportunities and r
             </div>
             <div id="three" class="col-6  col-md-3 col-lg-3 col-xl-2">
               <div class="box effect">
-                <h4>50+ </h4>
+                <h4 class="text11 pt40">50+ </h4>
                 <div class="text-center">
                   <span>PLUS</span>
                 </div>
@@ -146,7 +146,7 @@ As a PUTHRI volunteer you will not only stand to gain unique opportunities and r
             </div>
             <div id="four" class="col-6 col-md-3 col-lg-3 col-xl-2">
               <div class="box effect"> 
-                <h4>20+ </h4>
+                <h4 class="text11 pt40">20+ </h4>
                   <div class="text-center">
                   <span >PAVE</span>
                   </div>
@@ -155,7 +155,7 @@ As a PUTHRI volunteer you will not only stand to gain unique opportunities and r
             </div>
             <div id="five" class="col-6 col-md-3 col-lg-3 col-xl-2">
               <div class="box effect"> 
-                <h4>10+ </h4>
+                <h4 class="text11 pt40">10+ </h4>
                   <div class="text-center">
                   <span >IMPACT</span>
                   </div>
@@ -402,7 +402,7 @@ for (var i = 0; i < btns.length; i++) {
       
       <section id="internship"  class="section-padding">
         <div class=" text-center align-items-center">
-          <h6>INTERNSHIP</h6>
+          <h6>#INTERNSHIP</h6>
           <h3>Education Institutes</h3>
         </div>
           <br>
@@ -411,17 +411,17 @@ for (var i = 0; i < btns.length; i++) {
               <div class="col-12 col-sm-6 col-md-6 col-lg-6 col-xl-4">
                 <img src="img/student-8.PNG" class="responsive">
                 <h5 class="impact-mnth">Intership</h5>
-                <h6 id="impact-contact-internshiptext">The  significant contribution you make to the underprivileged has a  direct correlation to the impact it creates and the rewards are exemplary.</h6>
+                <p>The  significant contribution you make to the underprivileged has a  direct correlation to the impact it creates and the rewards are exemplary.</p>
               </div>
               <div class="col-12 col-sm-6 col-md-6 col-lg-6 col-xl-4">
                 <img src="img/student-9.PNG" class="responsive">
                 <h5 class="impact-mnth">Infra For Events</h5>
-                <h6 id="impact-contact-internshiptext">The impact that has resulted from the Puthri Career Intentionality Virtual training Interventions in terms of knowledge, learning growth rate and skills gained were assessed both through quantitative (a.Pre and Post Assessment) and Qualitative (b.Puthri Satisfaction Survey ) methods, the results are amazing. There has been a significant and phenomenal change in the Average learning growth rate of the Puthri scholars.</h6>
+                <p>The impact that has resulted from the Puthri Career Intentionality Virtual training Interventions in terms of knowledge, learning growth rate and skills gained were assessed both through quantitative (a.Pre and Post Assessment) and Qualitative (b.Puthri Satisfaction Survey ) methods, the results are amazing. There has been a significant and phenomenal change in the Average learning growth rate of the Puthri scholars.</p>
               </div>
               <div class="col-12 col-sm-6 col-md-6 col-lg-6 col-xl-4 ">
                 <img src="img/student-5.PNG" class="responsive">
                 <h5 class="impact-mnth">Research Support</h5>
-                <h6 id="impact-contact-internshiptext">In the march towards making 10,000 underprivileged girl children 'Career Intentional' every year and to expand its operation it is vital to have an excellent manpower which would be committed, passionate, vision driven and have a flair towards working for the under privileged. Project Puthri has a team of professionals from diversified backgrounds who are dynamic and committed working with a zeal towards helping girl children pursue a white-collar job upon graduation </h6>
+                <p>In the march towards making 10,000 underprivileged girl children 'Career Intentional' every year and to expand its operation it is vital to have an excellent manpower which would be committed, passionate, vision driven and have a flair towards working for the under privileged. Project Puthri has a team of professionals from diversified backgrounds who are dynamic and committed working with a zeal towards helping girl children pursue a white-collar job upon graduation </p>
               </div>
             </div>
           </div>
@@ -429,7 +429,7 @@ for (var i = 0; i < btns.length; i++) {
       </section>
       <!-- Volunteers Feedback SEction -->
       <section class="cercle-section">
-      <div class="card-title">
+      <div class="card-title text11 mt0">
           <h6>#CORPORATE TESTIMONIALS</h6>
           <h3>Volunteers Feedback</h3>
           </div>
@@ -441,7 +441,7 @@ for (var i = 0; i < btns.length; i++) {
           <div class="cercle-detials">
           <div class="first-head">
             <h6>Sowmiyaa Sivakumar</h6>
-            <p class="cer-sub">volunteer</p>
+            <h5>volunteer</h5>
             <p>As a volunteer, I have personally learned a great deal along with Puthri scholars. I derive immense satisfaction in presenting the animation and graphical content to the online sessions that attract Puthri participation. Teaching them life skills through interesting graphical content is indeed a learning experience for me too. I congratulate team Puthri for kindling this transformation from real mentoring, to online mentoring of our Puthri scholars, during the Pandemic situation.</p>
           </div>
           </div>
@@ -454,7 +454,7 @@ for (var i = 0; i < btns.length; i++) {
           <div class="cercle-detials">
           <div class="first-head ">
           <h6>Rajeswari shankar</h6>
-          <p class="cer-sub">volunteer</p>
+          <h5>volunteer</h5>
           <p>As a volunteer, I have personally learned a great deal along with Puthri scholars. I derive immense satisfaction in presenting the animation and graphical content to the online sessions that attract Puthri participation. Teaching them life skills through interesting graphical content is indeed a learning experience for me too. I congratulate team Puthri for kindling this transformation from real mentoring, to online mentoring of our Puthri scholars, during the Pandemic situation.</p>
           </div>
           </div>
@@ -551,7 +551,7 @@ for (var i = 0; i < btns.length; i++) {
                       <div class="col-md-5">
                          </div>
                       <div class="col-md-3">
-                        <div class="footer-content" >
+                        <div class="footer-content footer-link">
                         <p>Privacy Policy &nbsp; &nbsp; Disclaimer</p>
                       </div>
                     </div>

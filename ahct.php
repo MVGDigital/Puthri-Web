@@ -77,7 +77,7 @@
       <div class="banner-img">
           <img src="img/About-Puthri (1).JPEG" alt="">
           <div class="bg-shoadow">
-            AHCT
+            <h1>AHCT</h1>
       </div>
       </div>
        <!-- Back to Page Content -->
@@ -96,7 +96,7 @@
       <!-- Back to Page Content End -->
       <section class="main-container">
           <div class="first-head">
-            <h6 class="c-img-title1"># A H C T</h6>
+            <h6 class="c-img-title1">#AHCT</h6>
             <h3 class="c-img-title2 ahtc-sub-text">AHCT Overview</h3>
           </div>
           <div class="row d-flex img-txt">
@@ -113,7 +113,7 @@ Social responsibility continues to be an intrinsic part of AVTAR family, and tod
               </div>
           </div>
           <div class="ahtc-card-title">
-            <h6 class="c-img-title1"># O B J E C T I V E S</h6>
+            <h6 class="c-img-title1">#OBJECTIVES</h6>
             <h3 class="c-img-title2 ahtc-sub-text">objectives Of The Truest</h3>
           </div>
           <div class="main-sub-Overview">
@@ -126,7 +126,7 @@ Social responsibility continues to be an intrinsic part of AVTAR family, and tod
           <img src="img/About Project Puthri.JPEG" alt="">
           </div>
           <div class="ahtc-card-title">
-            <h6 class="c-img-title1"># I N I T I A T I V E</h6>
+            <h6 class="c-img-title1">#INITIATIVE</h6>
             <h3 class="c-img-title2 ahtc-sub-text">Important Initiative Of Avatar Human Capital Trust</h3>
             <p class="ahtc-head-txt">Financial assistance to deserving students from underprivileged backgrounds</p>
             <p class="ahtc-sub-txt">By funding the education of meritorious students from economically backward sections of the society (based on their intent for self-development, aptitude and academic record) the trust aims to extend the power of education to the underprivileged and thereby opening their access to a host of employment opportunities that education can bring.
@@ -145,7 +145,7 @@ AHCT also supports community initiatives to promote education and training of un
             <p class="ahtc-sub-txt">Aligning with its objective of creating more opportunities to the less privileged segments of the society, the trust identifies needy students from such backgrounds who have completed school (10/ 10+2) and train them for careers in recruitment. Volunteers teach such ambitious and capable students communication basics as also the entire recruitment process cycle. Almost 18 students have been benefited by this programmed and have moved on to have careers within the Avtar Group or elsewhere in the industry.</p>
           </div>
           <div class="card-title">
-            <h6 class="c-img-title1"># C 0 N T A C T U S</h6>
+            <h6 class="c-img-title1">#C0NTACTUS</h6>
             <h3 class="c-img-title2">Contact Us</h3>
           </div>
           <!-- CARDS -->
@@ -291,7 +291,7 @@ AHCT also supports community initiatives to promote education and training of un
                       <div class="col-md-5">
                          </div>
                       <div class="col-md-3">
-                        <div class="footer-content" >
+                        <div class="footer-content footer-link">
                         <p>Privacy Policy &nbsp; &nbsp; Disclaimer</p>
                       </div>
                     </div>

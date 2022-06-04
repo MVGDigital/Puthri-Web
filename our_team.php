@@ -77,7 +77,10 @@
       </nav>
 
       <div class="banner-img mrg-t">
-          <img src="img/about-banner.png" alt="">
+      <img src="img/about-banner.png" alt="">
+          <div class="bg-shoadow">
+            <H1>Our Team</H1>
+      </div>
       </div>
 
       <!-- Card Image Sections -->
@@ -91,8 +94,8 @@
               <div class="img-1">
                   <img src="img/Um Kandaswamy.png" alt="">
                   <div class="overlay-eff">
-                  <h4 class="pb-0">Mr K. Umasanker</h4>
-                      <p>Senior Vice President, Sales & Relationships, Founding Team Member</p>
+                  <h4 class="pb-0 counttext1 pt20">Mr K. Umasanker</h4>
+                      <p class="counttext1">Senior Vice President, Sales & Relationships, Founding Team Member</p>
                   </div>
               </div>
               </div>
@@ -100,17 +103,17 @@
               <div class="img-1">
                   <img src="img/abt-rajesh.png" alt="">
                   <div class="overlay-eff">
-                  <h4 class="pb-0">Mr V. Rajesh </h4>
-                      <p>Trustee</p>
+                  <h4 class="pb-0 counttext1 pt20">Mr V. Rajesh </h4>
+                      <p class="counttext1">Trustee</p>
                   </div>
               </div>
               </div>
               <a href="sr_mam.php"><div class="card-container">
               <div class="img-1 mr-0">
                   <img src="img/SR Mam Page.png" alt="">
-                  <div class="overlay-eff">
-                  <h4 class="pb-0">Dr Saundarya Rajesh</h4>
-                      <p>Founder President, Avtar Group</p>
+                  <div class="overlay-eff ">
+                  <h4 class="pb-0 counttext1 pt20">Dr Saundarya Rajesh</h4>
+                      <p class="counttext1">Founder President, Avtar Group</p>
                   </div>
               </div>
               </div>
@@ -125,8 +128,8 @@
               <div class="img-1">
                   <img src="img/abt-priya.png" alt="">
                   <div class="overlay-eff">
-                  <h4 class="pb-0">Priya Dayabaran</h4>
-                      <p>Vice President – Organizational Development</p>
+                  <h4 class="pb-0 counttext1 pt20">Priya Dayabaran</h4>
+                      <p class="counttext1">Vice President – Organizational Development</p>
                   </div>
               </div>
           </div>
@@ -134,8 +137,8 @@
               <div class="img-1">
               <img src="img/Eswar Our team.png" alt="">
                   <div class="overlay-eff">
-                      <h4 class="pb-0">Eswar Balasubramanian</h4>
-                      <p>Head-Out Reach</p>
+                      <h4 class="pb-0 counttext1 pt20">Eswar Balasubramanian</h4>
+                      <p class="counttext1">Head-Out Reach</p>
                   </div>
               </div>
           </div>
@@ -262,7 +265,7 @@ for (var i = 0; i < btns.length; i++) {
                           <img src="img/card-home.svg" class="img-fluid">
                           <br><br>
                           <h5 class="first">head office</h5>
-                          <h6 class="sub-header">Udyog Gruhaa No. 10, East Coast Road, Neelangarai,<br> Chennai – India Pincode: 600041</h6>
+                          <p class="sub-header counttext1">Udyog Gruhaa No. 10, East Coast Road, Neelangarai,<br> Chennai – India Pincode: 600041</p>
                         </div>
                         <div class='icon-paper'></div>
                     </div>
@@ -274,7 +277,7 @@ for (var i = 0; i < btns.length; i++) {
                           <img src="img/card-email.svg" class="img-fluid">
                           <br><br>
                           <h5>Email address</h5>
-                          <h6>info@puthri.org</h6>
+                          <p class="counttext1">info@puthri.org</p>
                         </div>
                         <div class='icon-paper'></div>
                     </div>
@@ -286,7 +289,7 @@ for (var i = 0; i < btns.length; i++) {
                           <img src="img/card-tell.svg" class="img-fluid">
                           <br><br>
                           <h5>Phone Number</h5>
-                          <h6>+91-44-12345678</h6>
+                          <p class="counttext1">+91-44-12345678</p>
                         </div>
                         <div class='icon-paper'></div>
                     </div>
@@ -298,7 +301,7 @@ for (var i = 0; i < btns.length; i++) {
                           <img src="img/card-time.svg" class="img-fluid">
                           <br><br>
                           <h5>Work Hours</h5>
-                          <h6>MONDAY - SATURDAY</h6>
+                          <p class="counttext1">MONDAY - SATURDAY</p>
                         </div>
                         <div class='icon-paper'></div>
                     </div>
@@ -389,7 +392,7 @@ for (var i = 0; i < btns.length; i++) {
                       <div class="col-md-5">
                          </div>
                       <div class="col-md-3">
-                        <div class="footer-content" >
+                        <div class="footer-content footer-link">
                         <p>Privacy Policy &nbsp; &nbsp; Disclaimer</p>
                       </div>
                     </div>
