@@ -82,7 +82,7 @@
                 <div class="col-6 col-sm-5 col-md-4 col-lg-4 col-xl-5">
                   <div class="text-center">
                     <div class="centered">
-                      <h2 class="banner-heading-text">News & Events</h2>
+                      <h2>News & Events</h2>
                     </div>
                   </div>
                 </div>
@@ -116,8 +116,8 @@
 
       <section id="news">
         <div class="text-center">
-          <h5>#E V E N T S</h5>
-          <h2>Recent Events</h2>
+          <h6>#EVENTS</h6>
+          <h3>Recent Events</h3>
         </div>
         <section class="center slider">
           <div>
@@ -205,8 +205,8 @@
             <div class="row">
               <div class="col-12">
                 <div class="text-center">
-                  <h5>#OUR PROJECT</h5>
-                  <h2>Projects Updates</h2>
+                  <h6>#OUR PROJECT</h6>
+                  <h3>Projects Updates</h3>
                 </div>
               </div>
               <div class="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-8 mt-4 m-auto">
@@ -226,8 +226,8 @@
           <div class="col-3"></div>
             <div class="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-3">
               <div class="t-a-r t-a-c">
-                <h5>#GALLERY</h5>
-                <h2>Projects Updates</h2>
+                <h6>#GALLERY</h6>
+                <h3>Projects Updates</h3>
               </div>
             </div>
             <div class="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-3 p-0 card-container-1 new-img">
@@ -262,8 +262,8 @@
           <div class="col-2"></div>
             <div class="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-4">
               <div class="text-start">
-                <h5>#PRESS</h5>
-                <h2>In The News</h2>
+                <h6>#PRESS</h6>
+                <h3>In The News</h3>
                  <span class="press-subcontext">'Project Puthri a step towards'</span>
                  <p class="prjct-text_summary">'Project Puthri', in an initiative to empower underpriviliged girls to rise to their full potential was launched in M.O.P Vaishnav College for Women on Thursday. The event included the
               </div>
@@ -291,8 +291,8 @@
             <div class="row">
               <div class="col-12">
                 <div class="text-center">
-                  <h5>#PRESS</h5>
-                  <h2>Press Release</h2>
+                  <h6>#PRESS</h6>
+                  <h3>Press Release</h3>
                 </div>
               </div>
               <div class="col-12 col-sm-6 col-md-6 col-lg-6 col-xl-4">
@@ -318,8 +318,8 @@
 
       <section class="contact" id="">
         <div id="news" class="text-center">
-          <h5>#CONTACT</h5>
-          <h2>Contact Us</h2>
+          <h6>#CONTACT</h6>
+          <h3>Contact Us</h3>
           <p class="p-r-l">Help Project PUTHRI become the preferred charity partner in your work place events and involve your colleagues as<br> advocates and participiants of PUTHRI. read the word PUTHRI through social network. nitiate awareness campaigns<br>around your work place, residence or community centres on the importance of girl children becoming 'Career Intentional'</p>
         </div>
          <!-- CARDS -->

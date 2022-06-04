@@ -99,8 +99,8 @@
         </div>
       </div>
       <div class="text-center mb-5">
-          <h5>#O U R I M P A C T</h5>
-          <h2>Puthri volunteer Progammes</h2>
+          <h6>#O U R I M P A C T</h6>
+          <h3>Puthri volunteer Progammes</h3>
           <p>Volunteering integrates your work life with the rest of the world. It gives you an impetus towards fulfilling a deeper social responsibility by sharing and contributing to the society. It is enriching and immensely motivating with a purpose.The significant contribution you make to the underprivileged has a  direct correlation to the impact it creates and the rewards are exemplary.
 
 As a PUTHRI volunteer you will not only stand to gain unique opportunities and remarkable experiences by donning one or many of these hats, but also transform the life of every PUTHRI in your own way!
@@ -241,8 +241,8 @@ As a PUTHRI volunteer you will not only stand to gain unique opportunities and r
 
       <section id="" class="section_padding">
       <div class="text-center mt-5">
-        <h5>#C O L L A B O R A T I O N</h5>
-        <h2>Collabration</h2>
+        <h6>#COLLABORATION</h6>
+        <h3>Collabration</h3>
       </div>
       <section class="center slider">
        <div>
@@ -393,8 +393,8 @@ for (var i = 0; i < btns.length; i++) {
       
       <section id="internship"  class="section-padding">
         <div class=" text-center align-items-center">
-          <h5>#INTERNSHIP</h5>
-          <h2>Education Institutes</h2>
+          <h6>INTERNSHIP</h6>
+          <h3>Education Institutes</h3>
         </div>
           <br>
           <div class="container">
@@ -421,8 +421,8 @@ for (var i = 0; i < btns.length; i++) {
       <!-- Volunteers Feedback SEction -->
       <section class="cercle-section">
       <div class="card-title">
-          <h6 class="c-img-title1">#CORPORATE TESTIMONIALS</h6>
-          <h3 class="c-cont-title2">Volunteers Feedback</h3>
+          <h6>#CORPORATE TESTIMONIALS</h6>
+          <h3>Volunteers Feedback</h3>
           </div>
         <div class="volunteer d-flex">
         <div class="main-cercle d-flex col-lg-5">

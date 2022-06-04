@@ -99,8 +99,8 @@
     
         <section id='project-summaryputhri' class="... m-auto" >
           <div class="text-center padding-bottom">
-            <h5>#ABOUT</h5>
-            <h2>Project PUTHRI</h2>
+            <h6>#ABOUT</h6>
+            <h3>Project PUTHRI</h3>
           </div>
           <div class="pt-50">
           <div class="container">
@@ -122,8 +122,8 @@
         </section>
 
         <div class="ahtc-card-title pt-0">
-          <h6 class="c-img-title1"># A B O U T</h6>
-          <h4 class="c-img-title2 ahtc-sub-text pt-0">Vision and Mission</h4>
+          <h6>#ABOUT</h6>
+          <h3>Vision and Mission</h3>
           <h6>Vision</h6>
           <p>Puthri's vision, an India, where young girls at the bottom of the socio - economic pyramid are able to rise to their fullest potential by breaking out of the domestic labour economy to graduate into the knowledge economy, thus, eventually being able to contribute directly to the GDP of our country.</p>
           <h6>Mission</h6>
@@ -131,8 +131,8 @@
           </div>    
           <!-- Three - Pillars -->
           <div class="text-center padding-top">
-          <h5># P R O J E C T P U T H R I</h5>
-          <h2>Redesigning Destinies</h2>
+          <h6>#PROJECTPUTHRI</h6>
+          <h3>Redesigning Destinies</h3>
         </div>
           <div class="banner banner100">
             <img src="img/three-pillars.svg" alt="">
@@ -141,8 +141,8 @@
 
       <section class="contact"  id="">
       <div class="text-center padding-bottom">
-          <h5>#CONTACT</h5>
-          <h4 class="p-0">Contact Us</h4>
+          <h6>#CONTACT</h6>
+          <h3>Contact Us</h3>
         </div>
          <!-- CARDS -->
          <div class="d-flex details-cards">

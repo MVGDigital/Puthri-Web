@@ -86,7 +86,7 @@
                       <div class="container rl-width">
                         <div class="row">
                           <div class="col-sm-11 col-md-11 col-lg-11 col-xs-11">
-                            <h1 class="banner-text"> Ensure every girl student pursues a white collar job upon graduation</h1>
+                            <h2 class="banner-text"> Ensure every girl student pursues a white collar job upon graduation</h2>
                               <p class="sub-text">Make 10,000 government school girl students ‘Career Intentional’ every year</p>
                               <button class="donate">donate now</button>
                           </div>
@@ -97,7 +97,7 @@
                       <div class="container">
                         <div class="row">
                           <div class="col-sm-11 col-md-11 col-lg-11 col-xs-11">
-                            <h1 class="banner-text"> Facilitate girl students <br>into tertiary education</h1>
+                            <h2 class="banner-text"> Facilitate girl students <br>into tertiary education</h2>
                               <p class="sub-text">Make 10,000 government school girl students ‘Career Intentional’ every year</p>
                               <button class="donate">donate now</button>
                           </div>
@@ -108,7 +108,7 @@
                       <div class="container">
                         <div class="row">
                           <div class="col-sm-11 col-md-11 col-lg-11 col-xs-11">
-                            <h1 class="banner-text"> Facilitate every girl<br>student pursue a white<br>collar Job</h1>
+                            <h2 class="banner-text"> Facilitate every girl<br>student pursue a white<br>collar Job</h2>
                               <p class="sub-text">Make 10,000 government school girl students ‘Career Intentional’ every year</p>
                               <button class="donate">donate now</button>
                           </div>
@@ -199,7 +199,7 @@
 
 
       <section id="transformations" class="section-padding container">
-        <h5>#PUTHRI PROCESS</h5>
+        <h6>#PUTHRI PROCESS</h6>
         <h3>Puthri Process</h3>
         <section class="center slider">
           <div>
@@ -278,7 +278,7 @@
       ==================================================================-->  
       <section id="home-vision" class="section-padding">
         <div class="text-center hm-left">
-          <h2>#VISION</h2>
+          <h6>#VISION</h6>
           <h3>Our Vision</h3>
         </div>
         <div class="container">
@@ -308,7 +308,7 @@
               <div class="col-12 col-sm-12 col-md-6 col-lg-3 col-xl-5">
                 <div class="event text-left">  
                 <h5>#EVENTS</h5>
-                  <h2>Project Puthri Events</h2>
+                  <h3>Project Puthri Events</h3>
                   <h6 class="event-subheading">Udyog Utsav, PRAYAG, Puthri Talent Show</h6>
                   <p >Project Puthri events are a reflection of our core values and culture. A culmination of team work and cohesiveness, every event plays a significant role in redefining the identities of our Puthri scholars.</p>
                   <a href="news.php">
@@ -368,10 +368,10 @@
                 </div>
               </div>
               <div class="counting-text">
-                <p>The Volunteering Hours</p>
-                <p>Scholarship</p>
-                <p>benificiary number</p>
-                <p>Corparate numbers</p>
+                <p class="counttext1">The Volunteering Hours</p>
+                <p class="counttext1">Scholarship</p>
+                <p class="counttext1">benificiary number</p>
+                <p class="counttext1">Corparate numbers</p>
              </div>
             </div>
           </div>
@@ -393,7 +393,7 @@
             <div class="col-lg-6">
               <div class="accrediations">
                 <h5>#PARTNERS</h5>
-                <h2>Our Partners</h2>
+                <h3>Our Partners</h3>
                 <p class="text-left">Help Project Puthri become the preferred charity partner in your work place events and involve your colleagues as advocates and participants of Puthri</p>
             </div>
           </div>
@@ -448,8 +448,8 @@
           </div>
           <div class="col-12 col-sm-12 col-lg-6 mt-50 move-first">
             <div class="accrediations">
-              <h5>#DONORS</h5>
-              <h2>Our Donors</h2>
+              <h6>#DONORS</h6>
+              <h3>Our Donors</h3>
               <p class="text-left">Adopt a school for a year and sponsor 100 Puthri scholars to transform and empower them</p>
             </div>
           </div>
@@ -465,8 +465,8 @@
       ==================================================================-->
       <section class="impact text-center" id="">
         <div class="mx-auto">
-          <h5>#FEATURED</h5>
-          <h2>Featured Schools</h2>
+          <h6>#FEATURED</h6>
+          <h3>Featured Schools</h3>
           <br>
           <div class="container">
             <div class="row">
@@ -496,8 +496,8 @@
        Testimonials
       ==================================================================-->
       <section class="testimonials">
-        <h5>#TESTIMONIALS</h5>
-        <h2>Volunteers Feedback</h2>
+        <h6>#TESTIMONIALS</h6>
+        <h3>Volunteers Feedback</h3>
         <div class="container">
           <div class="card col-md-12 mt-2 p-0">
               <div id="carouselExampleControls" class="carousel slide" data-ride="carousel" data-interval="100000">

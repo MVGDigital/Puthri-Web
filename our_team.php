@@ -74,8 +74,8 @@
       <!-- Card Image Sections -->
       <div class="card-img-section">
           <div class="card-title">
-          <h6 class="c-img-title1"># T R U S T E E S</h6>
-          <h3 class="c-img-title2">Our Team</h3>
+          <h6 class="text11">#TRUSTEES</h6>
+          <h3 class="text11">Our Team</h3>
           </div>
           <div class="card-img d-flex m-auto col-lg-10">
               <div id="one" class="card-container">
@@ -108,8 +108,8 @@
               </a>
           </div>
           <div class="card-title">
-          <h6 class="c-img-title1"># T R U S T E E S</h6>
-          <h3 class="c-img-title2">Our Trustees</h3>
+          <h6 class="text11">#TRUSTEES</h6>
+          <h3 class="text11">Our Trustees</h3>
           </div>
           <div class="card-img d-flex m-auto col-lg-10">
           <div id="three" class="card-container">
@@ -241,8 +241,8 @@ for (var i = 0; i < btns.length; i++) {
 }
 </script>
           <div class="card-title">
-          <h6 class="c-img-title1"># C O N T A C T  U S</h6>
-          <h3 class="c-cont-title2">Contact Us</h3>
+          <h6 class="text11">#CONTACTUS</h6>
+          <h3 class="text11">Contact Us</h3>
           <P>Help Project PUTHRI become the preferred charity partner in your work place events and involve your colleagues as advocates and participants of PUTHRI. read the word about </P>
           </div>
           <div class="d-flex details-cards f-rap">

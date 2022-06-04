@@ -104,8 +104,8 @@ Project Puthri an initiative by AVTAR Human Capital Trust (AHCT), is India’s f
           <!--banner-img End -->
           <div class="card-title">
           <div class="ahtc-card-title">
-          <h6 class="c-img-title1"># v i s i o n</h6>
-          <h3 class="c-img-title2 ahtc-sub-text">Our Vision</h3>
+          <h6>#vision</h6>
+          <h3>Our Vision</h3>
           </div>
           <!--  -->
           <div class="container">
@@ -127,8 +127,8 @@ Project Puthri an initiative by AVTAR Human Capital Trust (AHCT), is India’s f
           
 
           <div class="ahtc-card-title">
-            <h6 class="c-img-title1"># A W A R D S</h6>
-            <h3 class="c-img-title2 ahtc-sub-text">AWARDS AND RECOGNITIONS</h3>
+            <h6>#AWARDS</h6>
+            <h3>AWARDS AND RECOGNITIONS</h3>
             <p class="ahtc-head-txt">2016</p>
             <p class="ahtc-sub-txt">One among the #100 Women Achievers of India, an initiative by the Ministry of Women and Child Development, Government of India
 </p>
@@ -146,8 +146,8 @@ Project Puthri an initiative by AVTAR Human Capital Trust (AHCT), is India’s f
             <p class="ahtc-sub-txt">Recognition as NielsenIQ India Inclusion Icon</p>
           </div>
           <div class="card-title">
-            <h6 class="c-img-title1"># C 0 N T A C T U S</h6>
-            <h3 class="c-img-title2">Contact Us</h3>
+            <h6 class="text11">#C0NTACTUS</h6>
+            <h3 class="text11">Contact Us</h3>
             <p class ="ahtc-sub-txt">Help Project PUTHRI become the preferred charity partner in your work place events and invole your collegeues as advocates and participants of PUTHRI.read the word about</p>
           </div>
           <!-- CARDS -->

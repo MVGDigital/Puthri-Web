@@ -101,8 +101,8 @@
     ==================================================================-->
     <section id="puthri" class="section-padding">
       <div class="text-center">
-        <h5>#PUTHRI</h5>
-        <h2>Puthri Process Snapshot</h2>
+        <h6>#PUTHRI</h6>
+        <h3>Puthri Process Snapshot</h3>
       </div>
       <div class="container">
         <div class="row">
@@ -137,8 +137,8 @@
             <div class="col-md-6 col-lg-2"></div>
             <div class="col-md-6 col-lg-4">
               <div class="event">
-                <p class="event-heading">#FEATURED PUTHRI</p>
-                <h2>What we do</h2>
+                <h6>#FEATURED PUTHRI</h6>
+                <h3>What we do</h3>
                 <!--<h6 class="event-subheading">has started for all puthri<br>scholars</h6>-->
                 <p >At project PUTHRI, we follow a holistic approach of providing complete & wholesome education to every PUTHRI scholar. Our various intervention programs in collaboration with partners, helps us support & enable every PUTHRI to equip herself for a career readiness goal in life</p>
               </div>
@@ -194,10 +194,10 @@
                 </div>
               </div>
               <div class="counting-text">
-                <p>Assessment,mentor </p>
-                <p>evaluation,content</p>
-                <p>engagement,academic </p>
-                <p>performance</p>
+                <p class="counttext1">Assessment,mentor </p>
+                <p class="counttext1">evaluation,content</p>
+                <p class="counttext1">engagement,academic </p>
+                <p class="counttext1">performance</p>
              </div>
             </div>
           </div>
@@ -232,8 +232,8 @@
         <div class="container">
           <div class="row">
             <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-4">
-              <h5># OVERVIEW</h5>
-			  <p>Puthri is India’s daughter from an underprivileged family, studying in Corporation or Government School, between the age group of 13 & 18 years, studying in classes 8th to 12th who will be trained through a combination of classroom sessions, games and corporate exposure, to understand her capabilities better, prevent her from dropping-out of school, helping her build meaningful relationships and developing the necessary skills to be successful in her career.</p>
+              <h6>#OVERVIEW</h6>
+			  <p>puthri is India’s daughter from an underprivileged family, studying in Corporation or Government School, between the age group of 13 & 18 years, studying in classes 8th to 12th who will be trained through a combination of classroom sessions, games and corporate exposure, to understand her capabilities better, prevent her from dropping-out of school, helping her build meaningful relationships and developing the necessary skills to be successful in her career.</p>
               <h6 class="prjct-puthri-heading"></h6>
               <a href="project-puthri.php">
               <button class="donate">More about us</button>
@@ -293,8 +293,8 @@
               </div>
               <div class="col-12 col-md-6 col-lg-6 col-xl-6 m-auto">
                 <div class="mt-30">
-                <h5>#P C P</h5>
-                <h2>Puthri Career Programme</h2>
+                <h6>#PCP</h6>
+                <h3>Puthri Career Programme</h3>
                 <h6 class="prjct-text_summary pt-4">A structured certified program for the interested scholars  inorder to equip them  on certain practical skills sets that would facilitate  them to get into a better career. </h6>
               </div>
             </div>
@@ -310,8 +310,8 @@
           <div class="row">
             <div class="col-12">
               <div class="text-center">
-                <h5>#SCHOLARSHIP</h5>
-                <h2>Puthri Scholarship </h2>
+                <h6>#SCHOLARSHIP</h6>
+                <h3>Puthri Scholarship </h3>
                 <img src="img/puthri-process-scholar.jpg" class="img-fluid">
                 <h5 class="internship_content">Project Puthri has launched the Puthri Scholarship Program  in order to provide financial assistance to needy and deserving Puthri scholars who are pursuing their tertiary education in colleges</h5>
                 <p class="text">Project Puthri provides financial support to the deserving Puthri Scholars to assist them in completing their tertiary education and be ready for a successful career</p>
@@ -332,8 +332,8 @@
             <div class="col-1"></div>
             <div class="col-12 col-sm-6 col-md-6 col-lg-6 col-xl-5 d-flex">
               <div class="mt-100 collaboration">
-                <h5>#PCCA</h5>
-                <h2>Puthri Career Coach Assessment</h2>
+                <h6>#PCCA</h6>
+                <h3>Puthri Career Coach Assessment</h3>
                 <h6 class="internship_content d-flex ">The objective of career coaching in project PUTHRI is to help the PUTHRI Scholars to make informed decisions about their career development and trajectory by identifying their strengths & passions.About Puthri Career Choice Assesment (PCCA)Puthri Career Choice Assesment (PCCA) is a one-of-a-kind self-assessment tool developed indigenously to fit the students in India. PCCA helps PUTHRI Scholars two-foldTo understand her personality better to make an informed career choice.To understand her strengths, passion and interest which will enable her to study her choice of subjects and pursue her dream career, thus minimizing stress.</h6>
                 <button class="view-btn join">Join now</button>
               </div>
@@ -353,8 +353,8 @@
   <div class="row p0">
     <div class="col-lg-6">
       <div class="accrediations">
-        <h5>#PARTNERS</h5>
-        <h2>Our Partners</h2>
+        <h6>#PARTNERS</h6>
+        <h3>Our Partners</h3>
         <p class="text-left">Help Project Puthri become the preferred charity partner in your work place events and involve your colleagues as advocates and participants of Puthri</p>
     </div>
   </div>
@@ -409,8 +409,8 @@
   </div>
   <div class="col-12 col-sm-12 col-lg-6 mt-50 move-first">
     <div class="accrediations">
-      <h5>#DONORS</h5>
-      <h2>Our Donors</h2>
+      <h6>#DONORS</h6>
+      <h3>Our Donors</h3>
       <p class="text-left">Adopt a school for a year and sponsor 100 Puthri scholars to transform and empower them</p>
     </div>
   </div>
@@ -428,7 +428,7 @@
             <div class="row">
               <div class="col-4 col-sm-4 col-md-2 col-lg-3 col-xl-4"></div>
               <div class="col-sm-8 col-md-8 col-lg-8">
-                <h2 class="get involved-heading">WANT TO GET INVOLVED ??</h2>
+                <h2>WANT TO GET INVOLVED ??</h2>
               </div>
               <div class=" col-sm-4 col-md-2 col-lg-2 col-xl-4"></div>
               <div class="col-8 col-sm-4 col-md-4 col-lg-4 col-xl-2">

@@ -69,7 +69,7 @@
       <div class="banner-img mrg-t">
           <img src="img/about-banner.png" alt="">
           <div class="bg-shoadow">
-            MITR
+            <h2>MITR</h2>
       </div>
       </div>
        <!-- Back to Page Content -->
@@ -87,8 +87,8 @@
       <!-- Back to Page Content End -->
       <section class="main-container">
           <div class="first-head">
-            <h6 class="c-img-title1">#M I T R</h6>
-            <h3 class="c-img-title2 ahtc-sub-text">MITR</h3>
+            <h6 class="text11">#MITR</h6>
+            <h3 class="text11">MITR</h3>
           </div>
           <div class="row d-flex img-txt" style="margin:auto;">
               <div class="main-content col-lg-6 pr-0">
@@ -131,8 +131,8 @@ Thus AVTAR Human Capital Trust formulated “MITR” for young school going boys
 </p>
           </div>
           <div class="ahtc-card-title">
-            <h6 class="c-img-title1"># M O D E L</h6>
-            <h3 class="c-img-title2 ahtc-sub-text">OUR MODEL</h3>
+            <h6>#MODEL</h6>
+            <h3>OUR MODEL</h3>
           </div>
           <div class="mitr-card-title mitr-p">
           <p class="ahtc-head-txt"></p>
@@ -143,8 +143,8 @@ Thus AVTAR Human Capital Trust formulated “MITR” for young school going boys
           <img src="img/about-banner.png" alt="">
           </div>
           <div class="ahtc-card-title">
-            <h6 class="c-img-title1">#KNOWLEDGE SHARING</h6>
-            <h3 class="c-img-title2 ahtc-sub-text">AGE APPROPRIATE TOPICS FOR KNOWLEDGE SHARING</h3>
+            <h6>#KNOWLEDGE SHARING</h6>
+            <h3>AGE APPROPRIATE TOPICS FOR KNOWLEDGE SHARING</h3>
           </div>
           <div class="d-flex mitr-text-content">
               <div class="text-setion-1 col-6">
@@ -160,8 +160,8 @@ Thus AVTAR Human Capital Trust formulated “MITR” for young school going boys
               </div>
           </div>
           <div class="card-title">
-            <h6 class="c-img-title1"># C 0 N T A C T U S</h6>
-            <h3 class="c-img-title2">Contact Us</h3>
+            <h6 class="text11">#C0NTACTUS</h6>
+            <h3 class="text11">Contact Us</h3>
           </div>
           <!-- CARDS -->
           <div class="d-flex details-cards">
