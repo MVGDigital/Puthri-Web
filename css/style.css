@@ -1399,7 +1399,17 @@ form{
   font-weight: 600;
   font-size: 13px;
 }
-
+/* PCCA */
+.main-header{
+  text-align: center;
+}
+.width63{
+  width: 63%;
+  margin: auto;
+}
+.mt50{
+  margin-top: 50px;
+}
 
 
 /* tags */

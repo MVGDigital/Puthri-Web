@@ -36,7 +36,7 @@
                 <ul class="links">
                   <li><a href="index.php" class="btns">HOME</a></li>
                   <li>
-                  <a href="#" class="btns active">ABOUT</a>
+                  <a href="#" class="btns">ABOUT</a>
                     <i class="bx bxs-chevron-down htmlcss-arrow arrow"></i>
                     <ul class="htmlCss-sub-menu sub-menu">
                       <li><a href="our_team.php">OUR TEAM</a></li>
@@ -46,7 +46,7 @@
                   </ul>
                 </li>
                 <li>
-                  <a href="puthri-model.php" class="btns">PUTHRI MODEL</a>
+                  <a href="puthri-model.php" class="btns active">PUTHRI MODEL</a>
                     <i class="bx bxs-chevron-down htmlcss-arrow arrow"></i>
                     <ul class="htmlCss-sub-menu sub-menu">
                       <li><a href="pcp.php">PCP</a></li>
@@ -72,12 +72,11 @@
             <button class="contact-btn">contact us</button>
          </div>
       </nav>
-      
-      
-      <div class="banner-img">
-          <img src="img/About-Puthri (1).JPEG" alt="">
+
+      <div class="banner-img mrg-t">
+          <img src="img/about-banner.png" alt="">
           <div class="bg-shoadow">
-            AHCT
+            <H1>Scholarship</H1>
       </div>
       </div>
        <!-- Back to Page Content -->
@@ -86,8 +85,8 @@
           <div class="col-12 mt-3">
             <div class="navigation-section">
               <a href="index.php" class="navigation-links">home</a> >
-              <a href="#" class="navigation-links">about us</a> >
-              <a href="index.php" class="navigation-links">AHCT</a>
+              <a href="puthri-process.php" class="navigation-links">Puthri Model</a> >
+              <a href="pcca.php" class="navigation-links">Scholarship</a>
             </div>
           </div>
         </div>
@@ -95,57 +94,25 @@
       </div>
       <!-- Back to Page Content End -->
       <section class="main-container">
-          <div class="first-head">
-            <h6 class="c-img-title1"># A H C T</h6>
-            <h3 class="c-img-title2 ahtc-sub-text">AHCT Overview</h3>
+          <div class="first-head main-header"> 
+            <h6>#SCHOLARSHIP</h6>
+            <h3>Puthri Scholarship</h3>
           </div>
-          <div class="row d-flex img-txt">
-              <div class="main-content col-lg-6">
-                <h5>AVTAR Human Capital Trust</h5>
-                  <p> is a not for-profit public charitable organization, working in the field of economic empowerment of women. Headquartered in Chennai, AHCT has been addressing gender equality, poverty eradication and inclusive economic growth for women across the State of Tamil Nadu & Pondicherry from 2008.
-With a strong belief that economic independence is key to women's empowerment and that women can make and continue to make enormous contributions to economies, whether in businesses, on farms, as entrepreneurs or employees, or by doing unpaid care work at home, we at AVTAR group are keen on facilitating women's social inclusion and economic empowerment in the economically backward strata of society too.
-Our life skills enhancement programs, employability workshops, Prevention of Sexual Harassment training and education support, have enabled many women (across lower, middle and upper middle strata of society) secure decent jobs to become economically independent & self-reliant, to think more progressively and make well informed decisions in life, to uphold positive self-esteem and participate confidently & contribute in areas like health, education, rights, political & social activities.
-Social responsibility continues to be an intrinsic part of AVTAR family, and today, with our flagship project ‘Puthri’ we endeavour to reach out to 10,000 underprivileged girl children in the age group of 13 to 18 years studying in government schools across India, making them career intentional every year, and with an initiative called MITR (Men Impacting Trust and Respect). MITR is an attempt in educating and empowering young, adolescent male population as empathetic “Gender Champions”. These young folk will develop and mature into a well-informed youth population of the country in creating a safe, secure and equal space to the female peers and counterparts.
-</p>
+          <div class="row d-flex img-txt" style="margin:auto;">
+              <div class="main-content col-lg-6 pr-0">
+                  <p>Puthri has been steadily pursuing the noble task of ensuring the completion of tertiary education among young girls from economically under privileged class. Their training and mentoring sessions have been focusing on imparting career-intentionality and confidence among these young scholars. In the past academic year, Puthri introduced the concept of post-schooling intervention, aimed at 12th grade students who are in the verge of completing schooling. The project focuses on orienting theses scholars on university/college education and prepares them in advance to face the new challenges. They are mentored on aspects of university academic models and scope, the cultural environment, peer co-existence and pressures, relocation etc. this early-on mentoring gives them the confidence to face the challenges they might encounter in an university situation and further on. The program trains these scholars to gauge options and opinions in order to make appropriate situational decisions, while also mentoring them to don the leaders hat as the circumstances warrant. The program also ropes in corporate leaders to deliver talk sessions to these scholars, which is aimed to further boost the knowledge and confidence in them. The leaders engage in talk sessions on topics such as prospective career opportunities in various industries, the corporate work world, the gains and pains associated in there and how to overcome situational shortcomings to emerge successful ,in order to climb up the organizational ladder. The program also has role model sessions which encourages and motivates these young scholars to excel in their academic performance towards getting absorbed into the corporate band-wagon.</p>
               </div>
-              <div class="main-banner width100 col-lg-6">
-                  <img src="img/About-Puthri (2).JPEG" alt="">
+              <div class="mitr-banner col-lg-6 mitr-p-r-l">
+                  <img src="img/mitr-about-2.jpg" alt="">
               </div>
           </div>
-          <div class="ahtc-card-title">
-            <h6 class="c-img-title1"># O B J E C T I V E S</h6>
-            <h3 class="c-img-title2 ahtc-sub-text">objectives Of The Truest</h3>
+
+          <div class="mitr-banner mt50">
+                  <img src="img/projectputhri-infographics.jpg" alt="">
           </div>
-          <div class="main-sub-Overview">
-              <p>To support initiatives within congregations or communities to promote education and training of girls and women.</p>
-              <p>•To provide education funding for deserving students from economically backward sections of the society, based on their keenness for self-development, aptitude and academic record, through our Puthri Scholarship Program. </p>
-              <p>•To undertake research in areas relating to development of women and children.</p>
-              <p>• To establish and run schools, institutions, centres of information on education, learning and development in such places as deemed fit for the promotion of education with focus on Indian traditional way of learning.</p>
-          </div>
-          <div class="ahtc-banner">
-          <img src="img/About Project Puthri.JPEG" alt="">
-          </div>
-          <div class="ahtc-card-title">
-            <h6 class="c-img-title1"># I N I T I A T I V E</h6>
-            <h3 class="c-img-title2 ahtc-sub-text">Important Initiative Of Avatar Human Capital Trust</h3>
-            <p class="ahtc-head-txt">Financial assistance to deserving students from underprivileged backgrounds</p>
-            <p class="ahtc-sub-txt">By funding the education of meritorious students from economically backward sections of the society (based on their intent for self-development, aptitude and academic record) the trust aims to extend the power of education to the underprivileged and thereby opening their access to a host of employment opportunities that education can bring.
-AHCT also supports community initiatives to promote education and training of underprivileged women to ensure that they are in equal avail of all opportunities as their male counterparts.</p>
-<p class="ahtc-head-txt">Career counselling for young women and students</p>
-            <p class="ahtc-sub-txt">Investing in education and employment of women and students has been one of the primary objectives of the trust. Apart from providing financial assistance to the needy and meritorious students and young women, the trust also takes an active interest in preparing them for challenging careers</p>
-            <p class="ahtc-head-txt">Community initiatives for protection of the environment</p>
-            <p class="ahtc-sub-txt">The trust has always been sensitive to environmental concerns and hassled several campaigns to this end. Instilling in people, primarily the youth of today, the importance of respecting the environment and protecting it has been a key area of interest for AHCT. Such services are periodically undertaken on a need basis after requisite observation of environmental zones needing attention</p>
-            <p class="ahtc-head-txt">Social research</p>
-            <p class="ahtc-sub-txt">Another key mission of the trust is to publish socially relevant reports that can help organisations and institutions in pursuing a social cause. These reports are basis the research studies undertaken by the trust after careful identification of an issue that needs to be addressed by stakeholders. Through online/offline surveys and focus group discussions involving the above mentioned stakeholders (organisational/institutional representatives), data is collated and after subsequent analysis by volunteers of AHCT, reports take shape.</p>
-            <p class="ahtc-head-txt">Social campaigns for women careers</p>
-            <p class="ahtc-sub-txt">Campaigns supporting initiatives for women career sustainability in India are another focus area of the trust. In Tamil Nadu, the overall workforce participation of women is at 33% and that of urban women is only 26.8%. Moreover, of the 1.34 crore women in urban Tamil Nadu, only 24.8 lakh is gainfully employed. Research suggests that the key to improving women’s workforce participation is flexible working that are alternate working arrangements that give women greater autonomy over their schedules and attain better work life integration levels. 77% of Indian women quit work owing to the lack of it.</p>
-          <p class="ahtc-head-txt">Feeding the poor</p>
-            <p class="ahtc-sub-txt">AHCT believes that feeding the poor and the needy helps it achieve its humanitarian aspirations. The trust funds are periodically deployed for such purposes basis identifications of institutions that are in need. Volunteers are in charge of implementation of such initiatives – from identifying the beneficiaries, to collecting funds, to assigning the caterers to actual serving at the site.</p>
-            <p class="ahtc-head-txt">Recruitment training programs</p>
-            <p class="ahtc-sub-txt">Aligning with its objective of creating more opportunities to the less privileged segments of the society, the trust identifies needy students from such backgrounds who have completed school (10/ 10+2) and train them for careers in recruitment. Volunteers teach such ambitious and capable students communication basics as also the entire recruitment process cycle. Almost 18 students have been benefited by this programmed and have moved on to have careers within the Avtar Group or elsewhere in the industry.</p>
-          </div>
+
           <div class="card-title">
-            <h6 class="c-img-title1"># C 0 N T A C T U S</h6>
+            <h6 class="c-img-title1">#CONTACT US</h6>
             <h3 class="c-img-title2">Contact Us</h3>
           </div>
           <!-- CARDS -->
@@ -275,7 +242,7 @@ AHCT also supports community initiatives to promote education and training of un
                         <div class="footer-link">
                           <h5>Newsletter</h5>
                             <div class="linked">
-                              <p>You will be noticed when something <br>new appears</p>
+                              <p>You will be notified when something <br>new appears</p>
                               <form action="">
                                 <input type="text"  pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,}$" title="Please Enter Valid Email Id" placeholder="Enter a valid mail ID" required>
                                 <input type='submit' name='submit' value='' id='submit' />
