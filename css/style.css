@@ -3028,6 +3028,7 @@ nav .navbar .links li:hover .js-sub-menu{
 .width100 img{
   width: 100%;
 }
+
 .card-btn{
     border: 1px solid #fdfdfd;
     height: 29.61px;
@@ -3077,6 +3078,9 @@ nav .navbar .links li:hover .js-sub-menu{
 }
 .main-banner-sr-mam{
   display: flex;
+}
+.sr-mam-t-c{
+  text-align: center!important;
 }
 /* SR-MAM END */
 /*  MITR- START */
@@ -3368,6 +3372,15 @@ nav .navbar .links li .sub-menu li:active{
   }
   .home-box-fifth{
     margin-right: 0;
+  }
+  .wdth100{
+    width: 100%!important;
+  }
+  .prl20{
+    padding: 20px 20px;
+  }
+  .sr-mam-pb{
+    padding-bottom: 0;
   }
   /* News */
   .t-a-c{

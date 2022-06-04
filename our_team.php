@@ -87,7 +87,7 @@
       <div class="card-img-section">
           <div class="card-title">
           <h6 class="text11">#TRUSTEES</h6>
-          <h3 class="text11">Our Team</h3>
+          <h3 class="text11">Our Trustees</h3>
           </div>
           <div class="card-img d-flex m-auto col-lg-10">
               <div id="one" class="card-container">
@@ -120,8 +120,8 @@
               </a>
           </div>
           <div class="card-title">
-          <h6 class="text11">#TRUSTEES</h6>
-          <h3 class="text11">Our Trustees</h3>
+          <h6 class="text11">#TEAM</h6>
+          <h3 class="text11">Our Team</h3>
           </div>
           <div class="card-img d-flex m-auto col-lg-10">
           <div id="three" class="card-container">
@@ -376,7 +376,7 @@ for (var i = 0; i < btns.length; i++) {
                         <div class="footer-link">
                           <h5>Newsletter</h5>
                             <div class="linked">
-                              <p>You will be noticed when something <br>new appears</p>
+                            <p>You will be notified when something <br>new appears</p>
                               <form action="">
                                 <input type="text"  pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,}$" title="Please Enter Valid Email Id" placeholder="Enter a valid mail ID" required>
                                 <input type='submit' name='submit' value='' id='submit' />

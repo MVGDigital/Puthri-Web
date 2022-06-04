@@ -91,13 +91,13 @@
       <!-- Back to Page Content End -->
       <section class="main-container">
           <div class="row d-flex img-txt" style="margin:auto;">
-          <div class="main-banner-sr-mam col-6">
+          <div class="main-banner-sr-mam col-lg-6">
                   <img src="img/SR Mam Page.png" alt="">
               </div>
-              <div class="main-content col-6">
+              <div class="main-content col-lg-6">
               <div class="first-head">
-            <h6 class="sr-mam-img-title1">Dr Saundarya Rajesh</h6>
-            <h3 class="sr-mam-img-title2 ahtc-sub-text">Managing Trustee – Avtar Human Capital Trust</h3>
+            <h6 class="sr-mam-img-title1 sr-mam-t-c">Dr Saundarya Rajesh</h6>
+            <h3 class="sr-mam-img-title2 ahtc-sub-text sr-mam-t-c">Managing Trustee – Avtar Human Capital Trust</h3>
           </div>
                   <p>
 Dr. Saundarya Rajesh is one of India’s most respected thought leaders on Diversity, Equity & Inclusion. An award-winning social entrepreneur, she is best known as the pioneer of Second Career opportunities for women in Corporate India. A relentless advocate of the potential of women in the workplace, Dr. Saundarya is the founder of successful social enterprises such as Avtar Career Creators, Flexi Careers India, Bruhat Insights Global and Avtar Human Capital Trust. Her latest brainchild myAvtar.com is India’s first diversity jobs portal for candidates belonging to the under-represented groups such as Women, People with Disabilities, People with LGBTQ+ identity and Veterans. A recipient of several awards and recognitions, Dr. Saundarya has irrevocably changed the game for the Indian Woman Professional, by introducing the concept of “Career Intentionality” and “Career Re-entry” to Corporate India. Her path breaking and exemplary work in the space of Diversity, Equity, and Inclusion has established her into a much sought-after advisor of choice for an impressive list of organizations and leaders on the benefits of a diversely inclusive workplace. Dr. Saundarya is a highly sought-after speaker at conferences — both national and international– and a firm believer in integrating work and life. In her pursuit to develop and inspire people to grow to their full potential, she has made her debut in through the book – “The 99 Day Diversity Challenge™” published by SAGE that hit the stands on October 30, 2018.
@@ -111,7 +111,7 @@ Project Puthri an initiative by AVTAR Human Capital Trust (AHCT), is India’s f
       </div>
      </div>
           <!--banner-img End -->
-          <div class="card-title">
+          <div class="card-title sr-mam-pb">
           <div class="ahtc-card-title">
           <h6>#vision</h6>
           <h3>Our Vision</h3>
@@ -123,7 +123,7 @@ Project Puthri an initiative by AVTAR Human Capital Trust (AHCT), is India’s f
               <!--<h6 class="visiontext d-flex py-3 text-center">
                 
               </h6>-->
-				<p class="text-center">Puthri's vision, an India, where young girls at the bottom of the socio - economic pyramid are able to rise to their fullest potential by breaking out of the domestic labour economy to graduate into the knowledge economy, thus, eventually being able to contribute directly to the GDP of our country</p>
+				<p class="text-center wdth100">Puthri's vision, an India, where young girls at the bottom of the socio - economic pyramid are able to rise to their fullest potential by breaking out of the domestic labour economy to graduate into the knowledge economy, thus, eventually being able to contribute directly to the GDP of our country</p>
             </div>
             <div class="col-3"></div>
             <div class="col-sm-6 col-12 mt-5">
@@ -138,26 +138,26 @@ Project Puthri an initiative by AVTAR Human Capital Trust (AHCT), is India’s f
           <div class="ahtc-card-title">
             <h6>#AWARDS</h6>
             <h3>AWARDS AND RECOGNITIONS</h3>
-            <p class="ahtc-head-txt">2016</p>
-            <p class="ahtc-sub-txt">One among the #100 Women Achievers of India, an initiative by the Ministry of Women and Child Development, Government of India
+            <h5 class="ahtc-head-txt wdth100">2016</h5>
+            <p class="ahtc-sub-txt wdth100">One among the #100 Women Achievers of India, an initiative by the Ministry of Women and Child Development, Government of India
 </p>
-<p class="ahtc-head-txt">2018</p>
-            <p class="ahtc-sub-txt">Project Puthri wins  Parivarthan Award</p>
-            <p class="ahtc-head-txt">2019</p>
-            <p class="ahtc-sub-txt">WebWonderWomen Award by Ministry of Women and Child Development in collaboration with Twitter India and Breakthrough India for using the power of social media to run positive campaign to steer a change in the society on the International Women’s Day</p>
-            <p class="ahtc-head-txt">2020</p>
-            <p class="ahtc-sub-txt">Ooruni Foundation awarded  Project Puthri as best NGO in  the service of women  empowerment</p>
-            <p class="ahtc-head-txt">2021</p>
-          <p class="ahtc-sub-txt">Iswar Foundation awarded  Project Puthri as best NGO in  women empowerment</p>
-            <p class="ahtc-sub-txt">PMI South Asia Awards 2021  Winner - NGO Category</p>
-            <p class="ahtc-head-txt">2022</p>
-            <p class="ahtc-sub-txt">Project Puthri  Outstanding supporter to Dow India </p>
-            <p class="ahtc-sub-txt">Recognition as NielsenIQ India Inclusion Icon</p>
+            <h5 class="ahtc-head-txt wdth100">2018</h5>
+            <p class="ahtc-sub-txt wdth100">Project Puthri wins  Parivarthan Award</p>
+            <h5 class="ahtc-head-txt wdth100">2019</h5>
+            <p class="ahtc-sub-txt wdth100">WebWonderWomen Award by Ministry of Women and Child Development in collaboration with Twitter India and Breakthrough India for using the power of social media to run positive campaign to steer a change in the society on the International Women’s Day</p>
+            <h5 class="ahtc-head-txt wdth100">2020</h5>
+            <p class="ahtc-sub-txt wdth100">Ooruni Foundation awarded  Project Puthri as best NGO in  the service of women  empowerment</p>
+            <h5 class="ahtc-head-txt wdth100">2021</h5>
+          <p class="ahtc-sub-txt wdth100">Iswar Foundation awarded  Project Puthri as best NGO in  women empowerment</p>
+            <p class="ahtc-sub-txt wdth100">PMI South Asia Awards 2021  Winner - NGO Category</p>
+            <h5 class="ahtc-head-txt wdth100">2022</h5>
+            <p class="ahtc-sub-txt wdth100">Project Puthri  Outstanding supporter to Dow India </p>
+            <p class="ahtc-sub-txt wdth100">Recognition as NielsenIQ India Inclusion Icon</p>
           </div>
-          <div class="card-title">
+          <div class="card-title prl20">
             <h6 class="text11">#C0NTACTUS</h6>
             <h3 class="text11">Contact Us</h3>
-            <p class ="ahtc-sub-txt">Help Project PUTHRI become the preferred charity partner in your work place events and invole your collegeues as advocates and participants of PUTHRI.read the word about</p>
+            <p class ="ahtc-sub-txt wdth100">Help Project PUTHRI become the preferred charity partner in your work place events and invole your collegeues as advocates and participants of PUTHRI.read the word about</p>
           </div>
           <!-- CARDS -->
           <div class="d-flex details-cards">
@@ -206,7 +206,6 @@ Project Puthri an initiative by AVTAR Human Capital Trust (AHCT), is India’s f
                           <h5 class="ahtc-head">Individual Donors</h5>
                           <button class="card-btn">DONATE NOW</button>
                         </div>
-                        <div class='icon-paper'></div>
                     </div>
                   </div><!-- forth Card End -->
                 </div>
@@ -286,7 +285,7 @@ Project Puthri an initiative by AVTAR Human Capital Trust (AHCT), is India’s f
                         <div class="footer-link">
                           <h5>Newsletter</h5>
                             <div class="linked">
-                              <p>You will be noticed when something <br>new appears</p>
+                            <p>You will be notified when something <br>new appears</p>
                               <form action="">
                                 <input type="text"  pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,}$" title="Please Enter Valid Email Id" placeholder="Enter a valid mail ID" required>
                                 <input type='submit' name='submit' value='' id='submit' />
