@@ -1200,6 +1200,9 @@ details[open] #close{display:block;}
 .content-overlayhoverbackground{
   background: none;
 }
+.navigation-section{
+  display: flex;
+}
 .content-text.hovercontent{
   color: black;
   top: 50px;

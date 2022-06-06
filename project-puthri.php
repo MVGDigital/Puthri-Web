@@ -98,9 +98,9 @@
           <div class="row">
             <div class="col-12 mt-3">
               <div class="navigation-section">
-                <a href="index.php" class="navigation-links">home</a> >
-                <a href="about.php" class="navigation-links">about us</a> >
-                <a href="project-puthri.php" class="navigation-links">project puthri</a>
+                <a href="index.php" class="navigation-links"><h5>Home</h5></a> >
+                <a href="about.php" class="navigation-links"><h5>about us</h5></a> >
+                <a href="project-puthri.php" class="navigation-links"><h5>project puthri</h5></a>
               </div>
             </div>
           </div>
@@ -225,11 +225,11 @@
                     <img src="img/white-logo.png" class="img-fluid">
                    </a>
                    <p class="footer-text">Puthri is India’s first ever developmental project that seeks to create Career Intentionality among underprivileged girl students</p><br>
-                   <a href=" https://www.facebook.com/projectputhri"><img src="img/card-fb.svg" alt=""></a>
-                   <a href="https://twitter.com/projectputhri"><img src="img/finaltweet.SVG" alt=""></a>
-                   <a href="https://www.linkedin.com/company/13339619/"><img src="img/card-in.svg" alt=""></a>
-                   <a href="https://www.youtube.com/channel/UCLqnJJC6w6pHdyKucH8HaMQ/featured"><img src="img/card-ytube.svg" alt=""></a>
-                   <a href=" https://www.instagram.com/project_puthri"><img src="img/card-insta.svg" alt=""></a>
+                   <a href="https://www.facebook.com/projectputhri"><img src="img/fb-img.png" class="img-fluid"></a>
+                   <a href="https://twitter.com/projectputhri"><img src="img/finaltweet.SVG" class="img-fluid"></a>
+                   <a href=" https://www.linkedin.com/company/13339619/"><img src="img/linkedin-img.png" class="img-fluid"></a>
+                   <a href="https://www.youtube.com/channel/UCLqnJJC6w6pHdyKucH8HaMQ/featured"><img src="img/utube-img.png"class="img-fluid" ></a>
+                   <a href="https://www.instagram.com/project_puthri"><img src="img/insta-img.png" class="img-fluid"></a>
                   </div>
                   <div class="col-md-6 col-lg-3">
                     <div class="footer-link">

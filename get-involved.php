@@ -102,8 +102,8 @@
         <div class="row">
           <div class="col-12 mt-3">
             <div class="navigation-section">
-              <a href="index.php" class="navigation-links">home</a> >
-              <a href="get-involved.php" class="navigation-links">get involved</a>
+              <a href="index.php" class="navigation-links"><h5>home</h5></a> >
+              <a href="get-involved.php" class="navigation-links"><h5>get involved</h5></a>
             </div>
           </div>
         </div>
@@ -480,7 +480,7 @@ for (var i = 0; i < btns.length; i++) {
                    <p class="footer-text">Puthri is India’s first ever developmental project that seeks to create Career Intentionality among underprivileged girl students</p><br>
                    <a href="https://www.facebook.com/projectputhri"><img src="img/fb-img.png" class="img-fluid"></a>
                    <a href="https://twitter.com/projectputhri"><img src="img/finaltweet.SVG" class="img-fluid"></a>
-                   <a href="https://www.linkedin.com/company/13339619/"><img src="img/linkedin-img.png" class="img-fluid"></a>
+                   <a href=" https://www.linkedin.com/company/13339619/"><img src="img/linkedin-img.png" class="img-fluid"></a>
                    <a href="https://www.youtube.com/channel/UCLqnJJC6w6pHdyKucH8HaMQ/featured"><img src="img/utube-img.png"class="img-fluid" ></a>
                    <a href="https://www.instagram.com/project_puthri"><img src="img/insta-img.png" class="img-fluid"></a>
                   </div>
