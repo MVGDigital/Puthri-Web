@@ -49,9 +49,10 @@
                   </ul>
                 </li>
                 <li>
-                  <a href="puthri-model.php" class="btns">PUTHRI MODEL</a>
+                  <a href="#" class="btns">PUTHRI MODEL</a>
                     <i class="bx bxs-chevron-down htmlcss-arrow arrow"></i>
                     <ul class="htmlCss-sub-menu sub-menu">
+                    <li><a href="puthri-model.php">PUTHRI MODEL</a></li>
                       <li><a href="pcp.php">PCP</a></li>
                       <li><a href="pcca.php">PCCA</a></li>
                       <li><a href="scholarship.php">SCHOLARSHIP</a></li>
@@ -90,15 +91,17 @@
           <h3 class="text11">Our Trustees</h3>
           </div>
           <div class="card-img d-flex m-auto col-lg-10">
-              <div id="one" class="card-container">
-              <div class="img-1">
-                  <img src="img/Um Kandaswamy.png" alt="">
-                  <div class="overlay-eff">
-                  <h4 class="pb-0 counttext1 pt20">Mr K. Umasanker</h4>
-                      <p class="counttext1">Senior Vice President, Sales & Relationships, Founding Team Member</p>
+          <a href="sr_mam.php">
+                <div class="card-container">
+              <div class="mitr-banner img-1 mr-0">
+                  <img src="img/sr-mam.png" alt="">
+                  <div class="overlay-eff ">
+                  <h4 class="pb-0 counttext1 pt20">Dr Saundarya Rajesh</h4>
+                      <p class="counttext1">Founder President, Avtar Group</p>
                   </div>
               </div>
               </div>
+              </a>
               <div id="two" class="card-container">
               <div class="img-1">
                   <img src="img/abt-rajesh.png" alt="">
@@ -108,16 +111,15 @@
                   </div>
               </div>
               </div>
-              <a href="sr_mam.php"><div class="card-container">
-              <div class="img-1 mr-0">
-                  <img src="img/SR Mam Page.png" alt="">
-                  <div class="overlay-eff ">
-                  <h4 class="pb-0 counttext1 pt20">Dr Saundarya Rajesh</h4>
-                      <p class="counttext1">Founder President, Avtar Group</p>
+              <div id="one" class="card-container">
+              <div class="img-1">
+                  <img src="img/Um Kandaswamy.png" alt="">
+                  <div class="overlay-eff">
+                  <h4 class="pb-0 counttext1 pt20">Mr K. Umasanker</h4>
+                      <p class="counttext1">Senior Vice President, Sales & Relationships, Founding Team Member</p>
                   </div>
               </div>
               </div>
-              </a>
           </div>
           <div class="card-title">
           <h6 class="text11">#TEAM</h6>
@@ -253,9 +255,8 @@ for (var i = 0; i < btns.length; i++) {
 }
 </script>
           <div class="card-title">
-          <h6 class="text11">#CONTACTUS</h6>
+          <h6 class="text11">#CONTACT US</h6>
           <h3 class="text11">Contact Us</h3>
-          <P>Help Project PUTHRI become the preferred charity partner in your work place events and involve your colleagues as advocates and participants of PUTHRI. read the word about </P>
           </div>
           <div class="d-flex details-cards f-rap">
           <div class='home-box-fifth hbf-lblue'>

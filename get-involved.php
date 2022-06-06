@@ -49,9 +49,10 @@
                   </ul>
                 </li>
                 <li>
-                  <a href="puthri-model.php" class="btns">PUTHRI MODEL</a>
+                  <a href="#" class="btns">PUTHRI MODEL</a>
                     <i class="bx bxs-chevron-down htmlcss-arrow arrow"></i>
                     <ul class="htmlCss-sub-menu sub-menu">
+                    <li><a href="puthri-model.php">PUTHRI MODEL</a></li>
                       <li><a href="pcp.php">PCP</a></li>
                       <li><a href="pcca.php">PCCA</a></li>
                       <li><a href="scholarship.php">SCHOLARSHIP</a></li>
@@ -251,7 +252,7 @@ As a PUTHRI volunteer you will not only stand to gain unique opportunities and r
       <section id="" class="section_padding">
       <div class="text-center mt-5">
         <h6>#COLLABORATION</h6>
-        <h3>Collabration</h3>
+        <h3>Collboration</h3>
       </div>
       <section class="center slider">
        <div>

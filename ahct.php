@@ -46,9 +46,10 @@
                   </ul>
                 </li>
                 <li>
-                  <a href="puthri-model.php" class="btns">PUTHRI MODEL</a>
-                    <i class="bx bxs-chevron-down htmlcss-arrow arrow"></i>
+                  <a href="#" class="btns">PUTHRI MODEL</a>
+                    <i class="bx bxs-chevron-down htmlcss-arrow arrow"></i>       
                     <ul class="htmlCss-sub-menu sub-menu">
+                    <li><a href="puthri-model.php">PUTHRI MODEL</a></li>
                       <li><a href="pcp.php">PCP</a></li>
                       <li><a href="pcca.php">PCCA</a></li>
                       <li><a href="scholarship.php">SCHOLARSHIP</a></li>
@@ -75,7 +76,7 @@
       
       
       <div class="banner-img">
-          <img src="img/About-Puthri (1).JPEG" alt="">
+          <img src="img/ahct_Banner.png" alt="">
           <div class="bg-shoadow">
             <h1>AHCT</h1>
       </div>
@@ -109,12 +110,12 @@ Social responsibility continues to be an intrinsic part of AVTAR family, and tod
 </p>
               </div>
               <div class="main-banner width100 col-lg-6">
-                  <img src="img/About-Puthri (2).JPEG" alt="">
+                  <img src="img/ahct-right.png" alt="">
               </div>
           </div>
           <div class="ahtc-card-title">
             <h6 class="c-img-title1">#OBJECTIVES</h6>
-            <h3 class="c-img-title2 ahtc-sub-text">objectives Of The Truest</h3>
+            <h3 class="c-img-title2 ahtc-sub-text">Objectives Of The Truest</h3>
           </div>
           <div class="main-sub-Overview">
               <p>To support initiatives within congregations or communities to promote education and training of girls and women.</p>
@@ -123,7 +124,7 @@ Social responsibility continues to be an intrinsic part of AVTAR family, and tod
               <p>• To establish and run schools, institutions, centres of information on education, learning and development in such places as deemed fit for the promotion of education with focus on Indian traditional way of learning.</p>
           </div>
           <div class="ahtc-banner">
-          <img src="img/About Project Puthri.JPEG" alt="">
+          <img src="img/mitr-class.png" alt="">
           </div>
           <div class="ahtc-card-title">
             <h6 class="c-img-title1">#INITIATIVE</h6>

@@ -46,9 +46,10 @@
                   </ul>
                 </li>
                 <li>
-                  <a href="puthri-model.php" class="btns">PUTHRI MODEL</a>
+                  <a href="#" class="btns">PUTHRI MODEL</a>
                     <i class="bx bxs-chevron-down htmlcss-arrow arrow"></i>
                     <ul class="htmlCss-sub-menu sub-menu">
+                    <li><a href="puthri-model.php">PUTHRI MODEL</a></li>
                       <li><a href="pcp.php">PCP</a></li>
                       <li><a href="pcca.php">PCCA</a></li>
                       <li><a href="scholarship.php">SCHOLARSHIP</a></li>
@@ -73,7 +74,7 @@
          </div>
       </nav>
       
-      <div class="banner-img">
+      <div class="banner-img mrg-t">
           <img src="img/getinvolved-banner.jpg" alt="">
       </div>
        <!-- Back to Page Content -->
@@ -91,8 +92,8 @@
       <!-- Back to Page Content End -->
       <section class="main-container">
           <div class="row d-flex img-txt" style="margin:auto;">
-          <div class="main-banner-sr-mam col-lg-6">
-                  <img src="img/SR Mam Page.png" alt="">
+          <div class="banner-img sr-mam col-lg-6">
+                  <img src="img/sr-mam.png" alt="">
               </div>
               <div class="main-content col-lg-6">
               <div class="first-head">
@@ -138,18 +139,19 @@ Project Puthri an initiative by AVTAR Human Capital Trust (AHCT), is India’s f
           <div class="ahtc-card-title">
             <h6>#AWARDS</h6>
             <h3>AWARDS AND RECOGNITIONS</h3>
+            <br>
             <h5 class="ahtc-head-txt wdth100">2016</h5>
             <p class="ahtc-sub-txt wdth100">One among the #100 Women Achievers of India, an initiative by the Ministry of Women and Child Development, Government of India
-</p>
+</p> <br>
             <h5 class="ahtc-head-txt wdth100">2018</h5>
-            <p class="ahtc-sub-txt wdth100">Project Puthri wins  Parivarthan Award</p>
+            <p class="ahtc-sub-txt wdth100">Project Puthri wins  Parivarthan Award</p> <br>
             <h5 class="ahtc-head-txt wdth100">2019</h5>
-            <p class="ahtc-sub-txt wdth100">WebWonderWomen Award by Ministry of Women and Child Development in collaboration with Twitter India and Breakthrough India for using the power of social media to run positive campaign to steer a change in the society on the International Women’s Day</p>
+            <p class="ahtc-sub-txt wdth100">WebWonderWomen Award by Ministry of Women and Child Development in collaboration with Twitter India and Breakthrough India for using the power of social media to run positive campaign to steer a change in the society on the International Women’s Day</p> <br>
             <h5 class="ahtc-head-txt wdth100">2020</h5>
-            <p class="ahtc-sub-txt wdth100">Ooruni Foundation awarded  Project Puthri as best NGO in  the service of women  empowerment</p>
+            <p class="ahtc-sub-txt wdth100">Ooruni Foundation awarded  Project Puthri as best NGO in  the service of women  empowerment</p> <br>
             <h5 class="ahtc-head-txt wdth100">2021</h5>
           <p class="ahtc-sub-txt wdth100">Iswar Foundation awarded  Project Puthri as best NGO in  women empowerment</p>
-            <p class="ahtc-sub-txt wdth100">PMI South Asia Awards 2021  Winner - NGO Category</p>
+            <p class="ahtc-sub-txt wdth100">PMI South Asia Awards 2021  Winner - NGO Category</p> <br>
             <h5 class="ahtc-head-txt wdth100">2022</h5>
             <p class="ahtc-sub-txt wdth100">Project Puthri  Outstanding supporter to Dow India </p>
             <p class="ahtc-sub-txt wdth100">Recognition as NielsenIQ India Inclusion Icon</p>

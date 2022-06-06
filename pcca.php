@@ -46,9 +46,10 @@
                   </ul>
                 </li>
                 <li>
-                  <a href="puthri-model.php" class="btns active">PUTHRI MODEL</a>
+                  <a href="#" class="btns active">PUTHRI MODEL</a>
                     <i class="bx bxs-chevron-down htmlcss-arrow arrow"></i>
                     <ul class="htmlCss-sub-menu sub-menu">
+                    <li><a href="puthri-model.php">PUTHRI MODEL</a></li>
                       <li><a href="pcp.php">PCP</a></li>
                       <li><a href="pcca.php">PCCA</a></li>
                       <li><a href="scholarship.php">SCHOLARSHIP</a></li>
@@ -76,7 +77,7 @@
 
       
       <div class="banner-img mrg-t">
-          <img src="img/about-banner.png" alt="">
+          <img src="img/pcca-1.png" alt="">
           <div class="bg-shoadow">
             <H1>PCCA</H1>
       </div>
@@ -99,41 +100,55 @@
           <div class="first-head main-header"> 
             <h6>#PCCA</h6>
             <h3>Puthri Career Choice Assessment</h3>
-            <p class="width63">adolescent male population as empathetic “Gender Champions”. These young folk will develop and mature into a well-informed youth population of the country in creating a safe, secure and equal space to the female peers and counterparts.</p>
+            <p class="width63">The objective of career coaching in project Puthri is to help the Puthri Scholars to make informed decisions about their career development and trajectory by identifying their strengths & passions.</p>
+            
           </div>
           <div class="row d-flex img-txt" style="margin:auto;">
               <div class="main-content col-lg-6 pr-0">
-                  <h5>Puthri Career Pathing Program-</h5>
-                  <p>Puthri has been steadily pursuing the noble task of ensuring the completion of tertiary education among young girls from economically under privileged class. Their training and mentoring sessions have been focusing on imparting career-intentionality and confidence among these young scholars. In the past academic year, Puthri introduced the concept of post-schooling intervention, aimed at 12th grade students who are in the verge of completing schooling. The project focuses on orienting theses scholars on university/college education and prepares them in advance to face the new challenges. They are mentored on aspects of university academic models and scope, the cultural environment, peer co-existence and pressures, relocation etc. this early-on mentoring gives them the confidence to face the challenges they might encounter in an university situation and further on. The program trains these scholars to gauge options and opinions in order to make appropriate situational decisions, while also mentoring them to don the leaders hat as the circumstances warrant. The program also ropes in corporate leaders to deliver talk sessions to these scholars, which is aimed to further boost the knowledge and confidence in them. The leaders engage in talk sessions on topics such as prospective career opportunities in various industries, the corporate work world, the gains and pains associated in there and how to overcome situational shortcomings to emerge successful ,in order to climb up the organizational ladder. The program also has role model sessions which encourages and motivates these young scholars to excel in their academic performance towards getting absorbed into the corporate band-wagon.</p>
+                  <h5>About Puthri Career Choice Assessment (PCCA)</h5>
+                  <p>PCCA is a self-assessment tool, which will help the Puthri Scholar to:</p>
+                  <p>. Gain insights about her personality</p>
+                  <p>. Gain better self-understanding</p>
+                  <p>. Point out the areas that she should work to improve</p>
+                  <p>. Determine her preferred work environment</p>
+                  <p>. Match her personality dimensions and her preferences onto a compatible/suitable/appropriate career</p>
+                  <p>. Make informed decisions on her career where-by it reduces stress levels</p>
+                  <p>. Attain satisfaction at work and build a successful career.</p>
               </div>
               <div class="mitr-banner col-lg-6 mitr-p-r-l">
-                  <img src="img/mitr-about-2.jpg" alt="">
+                  <img src="img/pcca-2.jpg" alt="">
               </div>
           </div>
           <div class="first-head main-header"> 
             <h6>#BENIFITS</h6>
             <h3>HOW DOES PCCA BENIFITS A PUTHRI SCHOLAR?</h3>
-            <p class="width63">adolescent male population as empathetic “Gender Champions”. These young folk will develop and mature into a well-informed
-            youth population of the country in creating a safe, secure and equal space to the female peers and counterparts.</p>
+            <p>Puthri Career Choice Assessment (PCCA) is a one-of-a-kind self-assessment tool developed indigenously to fit the students in India. PCCA helps Puthri Scholars two-fold.</p>
+            <p>To understand her personality better to make an informed career choice.</p>
+            <p>To understand her strengths, passion and interest which will enable her to study her choice of subjects and pursue her dream career, thus minimizing stress.</p>
+            
           </div>
 
           <div class="ahtc-banner mt50">
-          <img src="img/projectputhri-infographics.jpg" alt="">
+          <img src="img/pcca-3.png" alt="">
           </div>
           <div class="ahtc-card-title">
             <h6>#COMPONENTS</h6>
-            <h3>WHAT ARE THE COMPONENTS OF THE PCCA ASSESSMENT REPORT?</h3>
+            <h3>What are the components of the PCCA assessment report?</h3>
           </div>
           <div class="d-flex mitr-text-content">
               <div class="text-setion-1 col-6">
-              <p class="ahtc-head-txt">Topic For Standard 9&10</p>
-              <p class="ahtc-head-txt">-Good touch vs Bad Touch</p>
-              <p class="ahtc-head-txt">Recruitment training programs</p>
+              <p class="ahtc-head-txt">Section 1: Personality Traits</p>
+              <p class="ahtc-head-txt">Section 2: Basic Personality Traits</p>
+              <p class="ahtc-head-txt">Section 3: Career Oriented Personality Traits</p>
+              <p>Section 4: Personality-Career Mapping</p>
+              <p>Section 5: Career Clusters</p>
               </div>
               <div class="text section-2 col-6">
-              <p class="ahtc-head-txt">Recruitment training programs</p>
-              <p class="ahtc-head-txt">Recruitment training programsRecruitment training programsRecruitment training programs</p>
-              <p class="ahtc-head-txt">Recruitment training programs</p>
+              <p>Describes the twelve personality traits that are measured</p>
+              <p>Gives her scores on the basic personality traits</p>
+              <p>Gives her scores on career oriented personality traits and also identifies her dominant career oriented personality traits.</p>
+              <p>Maps her dominant career oriented personality traits with appropriate/suitable career clusters</p>
+              <p>Describes the career clusters of the dominant career oriented traits and gives an indicative list of career domains</p>
 
               </div>
           </div>

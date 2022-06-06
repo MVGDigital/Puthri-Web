@@ -46,9 +46,10 @@
                   </ul>
                 </li>
                 <li>
-                  <a href="puthri-model.php" class="btns">PUTHRI MODEL</a>
+                  <a href="#" class="btns">PUTHRI MODEL</a>
                     <i class="bx bxs-chevron-down htmlcss-arrow arrow"></i>
                     <ul class="htmlCss-sub-menu sub-menu">
+                    <li><a href="puthri-model.php">PUTHRI MODEL</a></li>
                       <li><a href="pcp.php">PCP</a></li>
                       <li><a href="pcca.php">PCCA</a></li>
                       <li><a href="scholarship.php">SCHOLARSHIP</a></li>
@@ -76,7 +77,7 @@
 
       
       <div class="banner-img mrg-t">
-          <img src="img/about-banner.png" alt="">
+          <img src="img/mitr-class-1.png" alt="">
           <div class="bg-shoadow">
             <h1>MITR</h1>
       </div>
@@ -149,7 +150,7 @@ Thus AVTAR Human Capital Trust formulated “MITR” for young school going boys
 </p>
           </div>
           <div class="ahtc-banner">
-          <img src="img/about-banner.png" alt="">
+          <img src="img/mitr-class.png" alt="">
           </div>
           <div class="ahtc-card-title">
             <h6>#KNOWLEDGE SHARING</h6>
@@ -169,7 +170,7 @@ Thus AVTAR Human Capital Trust formulated “MITR” for young school going boys
               </div>
           </div>
           <div class="card-title">
-            <h6 class="text11">#C0NTACTUS</h6>
+            <h6 class="text11">#C0NTACT US</h6>
             <h3 class="text11">Contact Us</h3>
           </div>
           <!-- CARDS -->
