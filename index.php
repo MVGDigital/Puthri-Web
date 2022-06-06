@@ -706,7 +706,7 @@
                   </div>
                   <div class="col-md-4 col-lg-4">
                     <div class="letter">
-                      <h6 class="address-text">Subscribe to our Newsletter</h6> 
+                      <h2 class="address-text">Subscribe to our Newsletter</h2> 
                       <div class="address-content">
                         <div class="linked">
                           <form action="">

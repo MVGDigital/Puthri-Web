@@ -19,11 +19,11 @@
       <nav>
       <div class="top-neader">
         <div class="social-m-icon">
-          <img src="img/card-fb.svg" alt="">
-          <img src="img/card-twit.svg" alt="">
-          <img src="img/card-in.svg" alt="">
-          <img src="img/card-ytube.svg" alt="">
-          <img src="img/card-insta.svg" alt="">
+          <a href="https://www.facebook.com/projectputhri"><img src="img/card-fb.svg" alt=""></a>
+          <a href="https://twitter.com/projectputhri"><img src="img/card-twit.svg" alt=""></a>
+          <a href="https://www.linkedin.com/company/13339619/"><img src="img/card-in.svg" alt=""></a>
+          <a href="https://www.youtube.com/channel/UCLqnJJC6w6pHdyKucH8HaMQ/featured"><img src="img/card-ytube.svg" alt=""></a>
+          <a href=" https://www.instagram.com/project_puthri"><img src="img/card-insta.svg" alt=""></a>
         </div>
         <p>VOLUNTEER NOW</p>
       </div>
@@ -123,7 +123,7 @@ As a PUTHRI volunteer you will not only stand to gain unique opportunities and r
             <div class="row mb-5 rating-card">
               <div id="one" class="col-6 col-md-3 col-lg-3 col-xl-2">
               <div class="box effect padding_box-content">  
-                <h4 class="text11 pt40">1000+</h4>
+              <h4 class="text11 pt40"></h4>
                   <div class="text-center"> <p><span>LAMP</span>
                     </p>
                   </div>
@@ -131,7 +131,7 @@ As a PUTHRI volunteer you will not only stand to gain unique opportunities and r
             </div>
             <div id="two" class="col-6 col-md-3 col-lg-3 col-xl-2">
               <div class="box effect">          
-                <h4 class="text11 pt40">100+</h4>
+                <h4 class="text11 pt40"></h4>
                 <div class="text-center">
                 <span>LINK </span>
                 </div>
@@ -139,7 +139,7 @@ As a PUTHRI volunteer you will not only stand to gain unique opportunities and r
             </div>
             <div id="three" class="col-6  col-md-3 col-lg-3 col-xl-2">
               <div class="box effect">
-                <h4 class="text11 pt40">50+ </h4>
+                <h4 class="text11 pt40"></h4>
                 <div class="text-center">
                   <span>PLUS</span>
                 </div>
@@ -147,7 +147,7 @@ As a PUTHRI volunteer you will not only stand to gain unique opportunities and r
             </div>
             <div id="four" class="col-6 col-md-3 col-lg-3 col-xl-2">
               <div class="box effect"> 
-                <h4 class="text11 pt40">20+ </h4>
+                <h4 class="text11 pt40"></h4>
                   <div class="text-center">
                   <span >PAVE</span>
                   </div>
@@ -156,7 +156,7 @@ As a PUTHRI volunteer you will not only stand to gain unique opportunities and r
             </div>
             <div id="five" class="col-6 col-md-3 col-lg-3 col-xl-2">
               <div class="box effect"> 
-                <h4 class="text11 pt40">10+ </h4>
+                <h4 class="text11 pt40"></h4>
                   <div class="text-center">
                   <span >IMPACT</span>
                   </div>
@@ -252,7 +252,11 @@ As a PUTHRI volunteer you will not only stand to gain unique opportunities and r
       <section id="" class="section_padding">
       <div class="text-center mt-5">
         <h6>#COLLABORATION</h6>
+<<<<<<< HEAD
         <h3>Collboration</h3>
+=======
+        <h3>Collaboration</h3>
+>>>>>>> ae053c019799e9e103b31a4fcd71ccf602b4f412
       </div>
       <section class="center slider">
        <div>
@@ -261,7 +265,7 @@ As a PUTHRI volunteer you will not only stand to gain unique opportunities and r
             <div class="content-overlay"></div>
               <img src="img/our-stories-1.jpg" >
               <div class="content-details fadeIn-bottom">
-                <p class="content-text">I made case study write ups highlighting the effect this extensive project has had on the Puthri scholars.</p>
+                <p class="content-text">Educational institutions</p>
               </div>
           </div>
         </div>
@@ -272,7 +276,7 @@ As a PUTHRI volunteer you will not only stand to gain unique opportunities and r
             <div class="content-overlay"></div>
               <img src="img/our-stories-2.jpg" >
               <div class="content-details fadeIn-bottom">
-                <p class="content-text">Puthri is the foundation of my career. Only because of Puthri and interacting with the school kids I gained the confidence to talk where ever I go.</p>
+                <p class="content-text">Schools</p>
               </div>
           </div>
         </div>
@@ -283,7 +287,7 @@ As a PUTHRI volunteer you will not only stand to gain unique opportunities and r
             <div class="content-overlay"></div>
               <img src="img/Our Stories 1.jpg" >
               <div class="content-details fadeIn-bottom">
-                <p class="content-text">Even though the children may perform academically well, they may fail to take on the pressures of real-world life. This is where Puthri life skill lessons come to aid.</p>
+                <p class="content-text">Individual Donors</p>
               </div>
           </div>
         </div>
@@ -294,8 +298,7 @@ As a PUTHRI volunteer you will not only stand to gain unique opportunities and r
             <div class="content-overlay"></div>
               <img src="img/our-stories-3.jpg" >
               <div class="content-details fadeIn-bottom">
-                <p class="content-text">I have watched the lives of students moulded into shape. They learn so much from Puthri sessions. They eagerly wait for the sessions. I have observed a change in their attitude, behaviour and their way of handling things
-</p>
+                <p class="content-text">Subject Matter Experts</p>
               </div>
           </div>
         </div>
@@ -306,8 +309,7 @@ As a PUTHRI volunteer you will not only stand to gain unique opportunities and r
             <div class="content-overlay"></div>
               <img src="img/our-stories-4.jpg" >
               <div class="content-details fadeIn-bottom">
-                <p class="content-text">These sessions make them career intentional along with imparting life skill lessons. Students now decide better, make wiser choices for their career and proceed towards their aim in life. 
-</p>
+                <p class="content-text">Associates/NGOs.None of them incorporated</p>
               </div>
           </div>
         </div>
@@ -410,17 +412,17 @@ for (var i = 0; i < btns.length; i++) {
           <div class="container">
             <div class="row">
               <div class="col-12 col-sm-6 col-md-6 col-lg-6 col-xl-4">
-                <img src="img/student-8.PNG" class="responsive">
+                <img src="img/Internship.PNG" class="responsive">
                 <h5 class="impact-mnth">Intership</h5>
                 <p>The  significant contribution you make to the underprivileged has a  direct correlation to the impact it creates and the rewards are exemplary.</p>
               </div>
               <div class="col-12 col-sm-6 col-md-6 col-lg-6 col-xl-4">
-                <img src="img/student-9.PNG" class="responsive">
+                <img src="img/Infra for Events.PNG" class="responsive">
                 <h5 class="impact-mnth">Infra For Events</h5>
                 <p>The impact that has resulted from the Puthri Career Intentionality Virtual training Interventions in terms of knowledge, learning growth rate and skills gained were assessed both through quantitative (a.Pre and Post Assessment) and Qualitative (b.Puthri Satisfaction Survey ) methods, the results are amazing. There has been a significant and phenomenal change in the Average learning growth rate of the Puthri scholars.</p>
               </div>
               <div class="col-12 col-sm-6 col-md-6 col-lg-6 col-xl-4 ">
-                <img src="img/student-5.PNG" class="responsive">
+                <img src="img/Research support.PNG" class="responsive">
                 <h5 class="impact-mnth">Research Support</h5>
                 <p>In the march towards making 10,000 underprivileged girl children 'Career Intentional' every year and to expand its operation it is vital to have an excellent manpower which would be committed, passionate, vision driven and have a flair towards working for the under privileged. Project Puthri has a team of professionals from diversified backgrounds who are dynamic and committed working with a zeal towards helping girl children pursue a white-collar job upon graduation </p>
               </div>
@@ -462,8 +464,8 @@ for (var i = 0; i < btns.length; i++) {
         </div>
         </div>
         <div class="cercle-btn">
-        <a href=""><img src="img/arrow-next.png" class="arrow-next a1"></a>
         <a href=""><img src="img/arrow.png" class="arrow-previous b1"></a>
+        <a href=""><img src="img/arrow-next.png" class="arrow-next a1"></a>
         </div>
       </section>
 
@@ -480,11 +482,11 @@ for (var i = 0; i < btns.length; i++) {
                     <img src="img/white-logo.png" class="img-fluid">
                    </a>
                    <p class="footer-text">Puthri is India’s first ever developmental project that seeks to create Career Intentionality among underprivileged girl students</p><br>
-                   <a href="#"><img src="img/fb-img.png" class="img-fluid"></a>
-                   <a href="#"><img src="img/twitter-img.png" class="img-fluid"></a>
-                   <a href="#"><img src="img/linkedin-img.png" class="img-fluid"></a>
-                   <a href="#"><img src="img/utube-img.png"class="img-fluid" ></a>
-                   <a href="#"><img src="img/insta-img.png" class="img-fluid"></a>
+                   <a href="https://www.facebook.com/projectputhri"><img src="img/fb-img.png" class="img-fluid"></a>
+                   <a href="https://twitter.com/projectputhri"><img src="img/twitter-img.png" class="img-fluid"></a>
+                   <a href="https://www.linkedin.com/company/13339619/"><img src="img/linkedin-img.png" class="img-fluid"></a>
+                   <a href="https://www.youtube.com/channel/UCLqnJJC6w6pHdyKucH8HaMQ/featured"><img src="img/utube-img.png"class="img-fluid" ></a>
+                   <a href="https://www.instagram.com/project_puthri"><img src="img/insta-img.png" class="img-fluid"></a>
                   </div>
                   <div class="col-md-6 col-lg-3">
                     <div class="footer-link">
