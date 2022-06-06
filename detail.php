@@ -15,11 +15,11 @@
       <nav>
       <div class="top-neader">
         <div class="social-m-icon">
-          <img src="img/card-fb.svg" alt="">
-          <img src="img/card-twit.svg" alt="">
-          <img src="img/card-in.svg" alt="">
-          <img src="img/card-ytube.svg" alt="">
-          <img src="img/card-insta.svg" alt="">
+          <a href="https://www.facebook.com/projectputhri"><img src="img/card-fb.svg" alt=""></a>
+          <a href="https://twitter.com/projectputhri"><img src="img/card-twit.svg" alt=""></a>
+          <a href="https://www.linkedin.com/company/13339619/"><img src="img/card-in.svg" alt=""></a>
+          <a href="https://www.youtube.com/channel/UCLqnJJC6w6pHdyKucH8HaMQ/featured"><img src="img/card-ytube.svg" alt=""></a>
+          <a href="https://www.instagram.com/project_puthri"><img src="img/card-insta.svg" alt=""></a>
         </div>
         <p>VOLUNTEER NOW</p>
       </div>

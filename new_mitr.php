@@ -16,11 +16,11 @@
       <nav>
       <div class="top-neader">
         <div class="social-m-icon">
-          <img src="img/card-fb.svg" alt="">
-          <img src="img/card-twit.svg" alt="">
-          <img src="img/card-in.svg" alt="">
-          <img src="img/card-ytube.svg" alt="">
-          <img src="img/card-insta.svg" alt="">
+        <a href=" https://www.facebook.com/projectputhri"><img src="img/card-fb.svg" alt=""></a>
+          <a href="https://twitter.com/projectputhri"><img src="img/card-twit.svg" alt=""></a>
+          <a href="https://www.linkedin.com/company/13339619/"><img src="img/card-in.svg" alt=""></a>
+          <a href="https://www.youtube.com/channel/UCLqnJJC6w6pHdyKucH8HaMQ/featured"><img src="img/card-ytube.svg" alt=""></a>
+          <a href=" https://www.instagram.com/project_puthri"><img src="img/card-insta.svg" alt=""></a>
         </div>
         <p>VOLUNTEER NOW</p>
       </div>
@@ -244,18 +244,18 @@ Thus AVTAR Human Capital Trust formulated “MITR” for young school going boys
                     <img src="img/white-logo.png" class="img-fluid">
                    </a>
                    <p class="footer-text">Puthri is India’s first ever developmental project that seeks to create Career Intentionality among underprivileged girl students</p><br>
-                   <a href="#"><img src="img/fb-img.png" class="img-fluid"></a>
-                   <a href="#"><img src="img/twitter-img.png" class="img-fluid"></a>
-                   <a href="#"><img src="img/linkedin-img.png" class="img-fluid"></a>
-                   <a href="#"><img src="img/utube-img.png"class="img-fluid" ></a>
-                   <a href="#"><img src="img/insta-img.png" class="img-fluid"></a>
+                   <a href=" https://www.facebook.com/projectputhri"><img src="img/card-fb.svg" alt=""></a>
+                   <a href="https://twitter.com/projectputhri"><img src="img/finaltweet.SVG" alt=""></a>
+                   <a href="https://www.linkedin.com/company/13339619/"><img src="img/card-in.svg" alt=""></a>
+                   <a href="https://www.youtube.com/channel/UCLqnJJC6w6pHdyKucH8HaMQ/featured"><img src="img/card-ytube.svg" alt=""></a>
+                   <a href=" https://www.instagram.com/project_puthri"><img src="img/card-insta.svg" alt=""></a>
                   </div>
                   <div class="col-md-6 col-lg-3">
                     <div class="footer-link">
                       <h5>Address Location</h5>
                         <div class="linked">
                           <p>Udyog Gruhaa, No. 10, SH 49,<br>Raja Nagar, Neelankarai,<br>Tamilnadu 6000041<br>
-                          <p>Phone :<a href="tel:+91-44-12345678" id="make-call"> +91-44-12345678</a></p>
+                          <p>Phone :<a href="tel:+91-44-12345678" id="make-call"> +91-44-4294 1100</a></p>
                           <p>Email :<a href="mailto:info@puthri.org" id="make-address"> info@puthri.org</a></p>
                           <p>Office Time : 10AM-5PM</p>
                         </div>

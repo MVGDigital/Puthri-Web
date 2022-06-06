@@ -479,7 +479,7 @@ for (var i = 0; i < btns.length; i++) {
                    </a>
                    <p class="footer-text">Puthri is India’s first ever developmental project that seeks to create Career Intentionality among underprivileged girl students</p><br>
                    <a href="https://www.facebook.com/projectputhri"><img src="img/fb-img.png" class="img-fluid"></a>
-                   <a href="https://twitter.com/projectputhri"><img src="img/twitter-img.png" class="img-fluid"></a>
+                   <a href="https://twitter.com/projectputhri"><img src="img/finaltweet.SVG" class="img-fluid"></a>
                    <a href="https://www.linkedin.com/company/13339619/"><img src="img/linkedin-img.png" class="img-fluid"></a>
                    <a href="https://www.youtube.com/channel/UCLqnJJC6w6pHdyKucH8HaMQ/featured"><img src="img/utube-img.png"class="img-fluid" ></a>
                    <a href="https://www.instagram.com/project_puthri"><img src="img/insta-img.png" class="img-fluid"></a>
@@ -489,7 +489,7 @@ for (var i = 0; i < btns.length; i++) {
                       <h5>Address Location</h5>
                         <div class="linked">
                           <p>Udyog Gruhaa, No. 10, SH 49,<br>Raja Nagar, Neelankarai,<br>Tamilnadu 6000041<br>
-                          <p>Phone :<a href="tel:+91-44-12345678" id="make-call"> +91-44-12345678</a></p>
+                          <p>Phone :<a href="tel:+91-44-12345678" id="make-call"> +91-44-4294 1100</a></p>
                           <p>Email :<a href="mailto:info@puthri.org" id="make-address"> info@puthri.org</a></p>
                           <p>Office Time : 10AM-5PM</p>
                         </div>
