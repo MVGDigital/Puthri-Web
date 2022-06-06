@@ -146,7 +146,7 @@
         <div class="container">
           <div class="row home-lamp-card">
               <div id="open" class="box effect padding_box-content homecontent">  
-                <h4 class="pb-0 pt-4 text11">1000+</h4>
+              <h4 class="pb-0 pt-4 text11"></h4>
                 <div style="text-align:center;">
                 <img src="img/people_black.svg" alt="">
                 </div>
@@ -155,7 +155,7 @@
                   </div>
               </div>
               <div class="box effect homecontent">
-                <h4 class="pb-0 pt-4 text11">65</h4>
+                <h4 class="pb-0 pt-4 text11"></h4>
                 <div style="text-align:center;">
                 <img src="img/school-s.svg" alt="">
                 </div>
@@ -164,7 +164,7 @@
                   </div>
               </div>
               <div class="box effect homecontent">
-                <h4 class="pb-0 pt-4 text11">50</h4>
+                <h4 class="pb-0 pt-4 text11"></h4>
                 <div style="text-align:center;">
                 <img src="img/school-svgrepo.svg" alt="">
                 </div>
@@ -173,7 +173,7 @@
                 </div>
               </div>
               <div class="box effect homecontent">          
-                <h4 class="pb-0 pt-4 text11">10</h4>
+                <h4 class="pb-0 pt-4 text11"></h4>
                 <div style="text-align:center;">
                 <img src="img/home-card-icon.svg" alt="">
                 </div>
@@ -182,7 +182,7 @@
                 </div>
               </div>
               <div class="box effect homecontent">
-                <h4 class="pb-0 pt-4 mb-0 text11">50</h4>
+                <h4 class="pb-0 pt-4 mb-0 text11"></h4>
                 <div style="text-align:center;">
                 <img src="img/city-buildings.svg" alt="">
                 </div>
@@ -191,7 +191,7 @@
                 </div>
               </div>
               <div class="box effect homecontent"> 
-                <h4 class="pb-0 pt-4 text11">10</h4>
+                <h4 class="pb-0 pt-4 text11"></h4>
                 <div style="text-align:center;">
                 <img src="img/heart.svg" alt="">
                 </div>
@@ -213,11 +213,11 @@
           <div>
             <div class="hover">
               <a href="puthri-process.php">
-                <div class="content">
+                <div class="content pos-r">
                   <div class="content-overlay"></div>
                     <img src="img/Puthri Process  - Attitudinal Training.jpeg">
                     <div class="content-details fadeIn-bottom">
-                      <p class="content-text">Attitudinal training for over a period of 5 years, beginning from class 8th till class 12th, delivered through a combination of classroom sessions, games and corporate exposure</p>
+                      <p class="content-text pos-ab">Attitudinal training for over a period of 5 years, beginning from class 8th till class 12th, delivered through a combination of classroom sessions, games and corporate exposure</p>
                     </div>
                 </div>
               </a>
@@ -226,11 +226,11 @@
           <div>
             <div class="hover">
               <a href="puthri-process.php">
-                <div class="content">
+                <div class="content pos-r">
                   <div class="content-overlay"></div>
                     <img src="img/Puthri Process  - career intentionality.jpeg" >
                     <div class="content-details fadeIn-bottom">
-                      <p class="content-text">CAREER INTENTIONALITY mentoring & training till the age of 18 years and till they complete their graduation</p>
+                      <p class="content-text pos-ab">CAREER INTENTIONALITY mentoring & training till the age of 18 years and till they complete their graduation</p>
                     </div>
                 </div>
               </a>
@@ -239,11 +239,11 @@
           <div>
             <div class="hover">
               <a href="puthri-process.php">
-                <div class="content">
+                <div class="content pos-r">
                   <div class="content-overlay"></div>
                     <img src="img/Puthri Process - Health & Hygiene.jpg" >
                     <div class="content-details fadeIn-bottom">
-                      <p class="content-text">Health & hygiene education, including knowledge on malnutrition, healthy eating habits and how it will lead to begetting healthy children and raise them better for a brighter future.</p>
+                      <p class="content-text pos-ab">Health & hygiene education, including knowledge on malnutrition, healthy eating habits and how it will lead to begetting healthy children and raise them better for a brighter future.</p>
                     </div>
                 </div>
               </div>
@@ -252,11 +252,11 @@
           <div>
             <div class="hover">
               <a href="puthri-process.php">
-                <div class="content">
+                <div class="content pos-r">
                   <div class="content-overlay"></div>
                     <img src="img/Puthri Process - Digital Knowledge.jpg" >
                     <div class="content-details fadeIn-bottom">
-                      <p class="content-text">Empower them with digital knowledge & economy, so that they get into white collar jobs and directly contribute to the increase in GDP of our country.</p>
+                      <p class="content-text pos-ab">Empower them with digital knowledge & economy, so that they get into white collar jobs and directly contribute to the increase in GDP of our country.</p>
                     </div>
                 </div>
               </div>
@@ -265,11 +265,11 @@
           <div>
             <div class="hover">
               <a href="puthri-process.php">
-                <div class="content">
+                <div class="content pos-r">
                   <div class="content-overlay"></div>
                     <img src="img/Puthri Process  - Enable them for white collar jobs.jpeg" >
                     <div class="content-details fadeIn-bottom">
-                      <p class="content-text">Enable them to get into white-collar jobs to help them come out of poverty and help their families and future generations to live a life of fulfillment and advancement.</p>
+                      <p class="content-text pos-ab">Enable them to get into white-collar jobs to help them come out of poverty and help their families and future generations to live a life of fulfillment and advancement.</p>
                     </div>
                 </div>
               </a>
@@ -352,7 +352,7 @@
             <div class="row ">
               <div class="col-xs-8 col-sm-8 col-md-12 col-lg-7 col-xl-7">
                 <div class="poverty">
-                  <h4>Avtar Human Capital Trust (AHCT)</h4>
+                  <h4 class="counttext1">Avtar Human Capital Trust (AHCT)</h4>
                   <img src="img/home-aboutus-img.jpg" class="responsive">
                   <a href="ahct.php">
                   <button class="read-more">Read More</button>
@@ -363,7 +363,7 @@
                 <!-- start count stats -->
               <div id="counter-stats" class="wow fadeInRight" data-wow-duration="1.4s">
                 <div class=" stats rate1000">
-                  <div class="counting" data-count="1000">0</div> <p class="d-inline">+</p><br>       
+                  <div class="counting" data-count="1000">0</div> <p class="d-inline counttext1 fnt-siz">+</p><br>       
                 </div>
                 <div class=" stats">
                   <div class="counting" data-count="65">0</div> <br>
@@ -684,7 +684,7 @@
       <!--==================================================================
        Involvation
       ==================================================================-->
-      <section class="involved">
+      <section class="">
         <div class="involved-text">
           <div class="container">
             <div class="row">

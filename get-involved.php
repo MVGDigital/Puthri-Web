@@ -252,11 +252,7 @@ As a PUTHRI volunteer you will not only stand to gain unique opportunities and r
       <section id="" class="section_padding">
       <div class="text-center mt-5">
         <h6>#COLLABORATION</h6>
-<<<<<<< HEAD
-        <h3>Collboration</h3>
-=======
         <h3>Collaboration</h3>
->>>>>>> ae053c019799e9e103b31a4fcd71ccf602b4f412
       </div>
       <section class="center slider">
        <div>

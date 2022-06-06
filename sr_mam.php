@@ -92,7 +92,7 @@
       <!-- Back to Page Content End -->
       <section class="main-container">
           <div class="row d-flex img-txt" style="margin:auto;">
-          <div class="banner-img sr-mam col-lg-6">
+          <div class="banner-img sr-mam col-lg-6 mt-4">
                   <img src="img/sr-mam.png" alt="">
               </div>
               <div class="main-content col-lg-6">
@@ -102,7 +102,7 @@
           </div>
                   <p>
 Dr. Saundarya Rajesh is one of India’s most respected thought leaders on Diversity, Equity & Inclusion. An award-winning social entrepreneur, she is best known as the pioneer of Second Career opportunities for women in Corporate India. A relentless advocate of the potential of women in the workplace, Dr. Saundarya is the founder of successful social enterprises such as Avtar Career Creators, Flexi Careers India, Bruhat Insights Global and Avtar Human Capital Trust. Her latest brainchild myAvtar.com is India’s first diversity jobs portal for candidates belonging to the under-represented groups such as Women, People with Disabilities, People with LGBTQ+ identity and Veterans. A recipient of several awards and recognitions, Dr. Saundarya has irrevocably changed the game for the Indian Woman Professional, by introducing the concept of “Career Intentionality” and “Career Re-entry” to Corporate India. Her path breaking and exemplary work in the space of Diversity, Equity, and Inclusion has established her into a much sought-after advisor of choice for an impressive list of organizations and leaders on the benefits of a diversely inclusive workplace. Dr. Saundarya is a highly sought-after speaker at conferences — both national and international– and a firm believer in integrating work and life. In her pursuit to develop and inspire people to grow to their full potential, she has made her debut in through the book – “The 99 Day Diversity Challenge™” published by SAGE that hit the stands on October 30, 2018.
-Project Puthri an initiative by AVTAR Human Capital Trust (AHCT), is India’s first ever developmental project that seeks to create Career Intentionality among underprivileged girl students. Dr.Saundarya Rajesh envisions through Puthri, an India, where young girls at the bottom of the socio - economic pyramid are able to rise to their fullest potential by breaking out of the domestic labour economy to graduate into the knowledge economy, thus, eventually being able to contribute directly to the GDP of our country.
+<p>Project Puthri an initiative by AVTAR Human Capital Trust (AHCT), is India’s first ever developmental project that seeks to create Career Intentionality among underprivileged girl students. Dr.Saundarya Rajesh envisions through Puthri, an India, where young girls at the bottom of the socio - economic pyramid are able to rise to their fullest potential by breaking out of the domestic labour economy to graduate into the knowledge economy, thus, eventually being able to contribute directly to the GDP of our country.</p>
 </p>     
 <div class="social-m-icon">
           <img src="img/banner-fb.svg" alt="">
@@ -157,7 +157,7 @@ Project Puthri an initiative by AVTAR Human Capital Trust (AHCT), is India’s f
             <p class="ahtc-sub-txt wdth100">Recognition as NielsenIQ India Inclusion Icon</p>
           </div>
           <div class="card-title prl20">
-            <h6 class="text11">#C0NTACTUS</h6>
+            <h6 class="text11">#C0NTACT US</h6>
             <h3 class="text11">Contact Us</h3>
             <p class ="ahtc-sub-txt wdth100">Help Project PUTHRI become the preferred charity partner in your work place events and invole your collegeues as advocates and participants of PUTHRI.read the word about</p>
           </div>
@@ -303,7 +303,7 @@ Project Puthri an initiative by AVTAR Human Capital Trust (AHCT), is India’s f
                       <div class="col-md-5">
                          </div>
                       <div class="col-md-3">
-                        <div class="footer-content" >
+                        <div class="footer-content footer-link">
                         <p>Privacy Policy &nbsp; &nbsp; Disclaimer</p>
                       </div>
                     </div>

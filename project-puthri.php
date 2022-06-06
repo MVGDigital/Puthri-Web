@@ -133,9 +133,10 @@
 
         <div class="ahtc-card-title pt-0">
           <h6>#ABOUT</h6>
-          <h3>Vision and Mission</h3>
+          <h3>Vision and Mission</h3><br>
           <h5>Vision</h5>
           <p>Puthri's vision, an India, where young girls at the bottom of the socio - economic pyramid are able to rise to their fullest potential by breaking out of the domestic labour economy to graduate into the knowledge economy, thus, eventually being able to contribute directly to the GDP of our country.</p>
+          <br>
           <h5>Mission</h5>
           <p> To make 10,000 corporation school girl students across Tamil Nadu & Pondicherry ‘Career intentional’ every year, facilitate girl students into tertiary education and ensure they pursue a white-collar job upon graduation.</p>
           </div>    
@@ -151,7 +152,7 @@
 
       <section class="contact"  id="">
       <div class="text-center padding-bottom">
-          <h6>#CONTACT</h6>
+          <h6>#CONTACT US</h6>
           <h3>Contact Us</h3>
         </div>
          <!-- CARDS -->

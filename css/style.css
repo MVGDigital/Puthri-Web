@@ -228,13 +228,16 @@ button:focus {
 .slider-inner ul{
   margin-top: 7%!important;
 }
+.fnt-siz{
+    font-size: 35px!important;
+}
 .pop-body{
   width: 100%;
   height: 100%;
   position: fixed;
   top: 0;
   background-color: #000000b5; 
-  display:block;
+  display:none;
 }
 .card-pop{
   display: flex;
@@ -365,6 +368,15 @@ button:focus {
 /*==================================================
  * Effect 1
  * ===============================================*/
+/*  */
+.pos-r{
+  position: relative;
+}
+.pos-ab{
+  position: absolute;
+}
+
+
 .effect{
   -webkit-box-shadow: 0 10px 6px -6px #79307E;
      -moz-box-shadow: 0 10px 6px -6px #79307E;
@@ -486,7 +498,9 @@ span{
 .sponsors{
   margin-top: 50px;
 }
-
+.social-m-icon img{
+  margin-right:20px;
+}
 .space{
   margin-top: 50px;
 }
@@ -1203,7 +1217,21 @@ details[open] #close{display:block;}
     text-transform: uppercase;
 }
 .content-details.fadeIn-bottom.hovercontentpadding{
- top: 100px;
+  display: flex;
+  justify-content: center;
+  height: 50px;
+  position: absolute;
+  
+  top: 50%;
+  width: 99%;
+}
+.fadeIn-bottom{
+  display: flex;
+  justify-content: center;
+  height: 50px;
+  position: absolute;
+  top: 130px;
+  width: 99%;
 }
 
 #scholarship{
@@ -2259,10 +2287,7 @@ Main Components
   color: #fff;
   font-size: 0.8em;
   position: absolute;
-  bottom: 10px;
-}
-.fadeIn-bottom{
-  top: 0%;
+  padding: 0 20px!important;
 }
 .banner100 img{
   width: 100%;
@@ -3081,9 +3106,6 @@ nav .navbar .links li:hover .js-sub-menu{
 .main-banner-sr-mam{
   display: flex;
 }
-.sr-mam-t-c{
-  text-align: center!important;
-}
 /* SR-MAM END */
 /*  MITR- START */
 .mitr-card-title{
@@ -3326,6 +3348,9 @@ nav .navbar .links li .sub-menu li{
   .m-p-t{
     padding-top: 50px!important;
   }
+  .sr-mam-t-c{
+    text-align: center!important;
+  }
   .card-pop{
     height: 100%;
     width: 100%;
@@ -3427,7 +3452,7 @@ nav .navbar .links li .sub-menu li{
     padding: 20px!important;
   }
   .mitr-p{
-    padding: 0;
+    padding: 0!important;
   }
   .mitr-b{
     padding-bottom: 0;
@@ -3498,7 +3523,7 @@ background: #79307E;
   transition: all 0.3s ease-in-out 0s;
 }
 .content:hover .content-details{
-  top: 75%;
+
   left: 50%;
   opacity: 1;
 }
@@ -3506,9 +3531,6 @@ background: #79307E;
   color: #fff;
   padding:0;
   font-size: 15px;
-}
-.fadeIn-bottom{
-  top: 80%;
 }
 .content .content-overlay.hover{
   width: 100%;

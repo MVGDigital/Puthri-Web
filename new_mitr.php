@@ -107,17 +107,17 @@
 MITR is the unique attempt of AVTAR Human Capital Trust in educating and empowering young, adolescent male population as empathetic “Gender Champions”. These young folk will develop and mature into a well-informed youth population of the country in creating a safe, secure and equal space to the female peers and counterparts.
                   </p>
                   <p>
-                  Vision
+                  <h5>Vision</h5>
 To develop a rich brigade of young male population of the country with age appropriate information, sensitising them empathetically understanding the female community, thus reducing the crime against women in the country and acquiring the real freedom and Gandhi’s dream come true.
 
 </p>
 <p>
-Mission
+<h5>Mission</h5>
 To educate, empower and educate 10000 school going adolescent boys as well informed adolescents before 2020, in providing and protecting the safety, security for their female counterparts and to mature as peer educators. These peer educators will carry the torch of “Gender Champions” Year after year, till we have a crime free country against women.
 
 </p>
 <p>
-Why MITR?
+<h5>Why MITR?</h5>
 Every day we come one other disturbing news on crime and abuse against women. Be it girls, young women or a married lady, the crime is in the form of sexual assault, work place advances, domestic atrocities or in some other form.
 Most of these crimes are due to:<br>
 -Lack of empathy on the other gender<br>
@@ -133,7 +133,7 @@ Thus AVTAR Human Capital Trust formulated “MITR” for young school going boys
               </div>
           </div>
           <div class="mitr-card-title">
-          <p class="ahtc-head-txt">The objectives of MITR are:</p>
+          <h5>The objectives of MITR are:</h5>
             <p class="ahtc-sub-txt">-To educate school going boys on understanding, accepting, respecting and giving space to the female gender of the society<br>
 -To empower the school going boys as a friendly associate of female gender who will extend an empathetic hand towards their peer girls with right amount of understanding required for their age<br>
 -To inculcate the concept of friendship and make the line “Friend in need…” a reality for our female school going population through an atmosphere that will be based out of pure knowledge and understanding<br>
@@ -144,7 +144,7 @@ Thus AVTAR Human Capital Trust formulated “MITR” for young school going boys
             <h6>#MODEL</h6>
             <h3>OUR MODEL</h3>
           </div>
-          <div class="mitr-card-title mitr-p">
+          <div class="mitr-card-title pt-0">
           <p class="ahtc-head-txt"></p>
             <p class="ahtc-sub-txt">“Values and beliefs that are practised from young formative ages have their foot prints in human being till their grave” with this psychological fact in mind, AVTAR Human Capital Trust has devised a model of “catch them young”. Boys during their formative years of adolescence, if provided age appropriate information with well-meant discussions and other interventions, will mature into young male brigade of this country in understanding, accepting and providing equal space of dignity to the female community at large. Thus, this mature will help in shielding the female community against risk and will accept them as educated peers both at home and in the outside world. To summarise, given a continuous hand holding during the formative years, the male crowd can and will develop into a sportive crowd to provide space and accept challenges in the country.
 </p>
