@@ -315,9 +315,9 @@
               <div class="col-1"></div>
               <div class="col-12 col-sm-12 col-md-6 col-lg-3 col-xl-5">
                 <div class="event text-left">  
-                <h5>#EVENTS</h5>
+                <h6>#EVENTS</h6>
                   <h3>Project Puthri Events</h3>
-                  <h6 class="event-subheading">Udyog Utsav, PRAYAG, Puthri Talent Show</h6>
+                  <h5 class="event-subheading">Udyog Utsav, PRAYAG, Puthri Talent Show</h5>
                   <p >Project Puthri events are a reflection of our core values and culture. A culmination of team work and cohesiveness, every event plays a significant role in redefining the identities of our Puthri scholars.</p>
                   <a href="news.php">
                   <button class="view-btn">View more</button>
