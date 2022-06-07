@@ -276,9 +276,9 @@
                    <p class="footer-text">lorem ipsum lorem ipsum lorem lorem ipsum lorem ipsum loremlorem ipsum lorem ipsum lorem</p><br>
                    <a href="https://www.facebook.com/projectputhri"><img src="img/fb-img.png" class="img-fluid"></a>
                    <a href="https://twitter.com/projectputhri"><img src="img/finaltweet.SVG" class="img-fluid"></a>
-                   <a href="https://www.linkedin.com/company/13339619/"><img src="img/linkedin-img.png" class="img-fluid"></a>
+                   <a href=" https://www.linkedin.com/company/13339619/"><img src="img/linkedin-img.png" class="img-fluid"></a>
                    <a href="https://www.youtube.com/channel/UCLqnJJC6w6pHdyKucH8HaMQ/featured"><img src="img/utube-img.png"class="img-fluid" ></a>
-                   <a href=" https://www.instagram.com/project_puthri"><img src="img/insta-img.png" class="img-fluid"></a>
+                   <a href="https://www.instagram.com/project_puthri"><img src="img/insta-img.png" class="img-fluid"></a>
                   </div>
                   <div class="col-md-6 col-lg-3">
                     <div class="footer-link">

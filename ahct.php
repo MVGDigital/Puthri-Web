@@ -86,9 +86,9 @@
         <div class="row">
           <div class="col-12 mt-3">
             <div class="navigation-section">
-              <a href="index.php" class="navigation-links">home</a> >
-              <a href="#" class="navigation-links">about us</a> >
-              <a href="index.php" class="navigation-links">AHCT</a>
+              <a href="index.php" class="navigation-links"><h5>home</h5></a> >
+              <a href="#" class="navigation-links"><h5>about us</h5></a> >
+              <a href="index.php" class="navigation-links"><h5>AHCT</h5></a>
             </div>
           </div>
         </div>
@@ -221,9 +221,9 @@ AHCT also supports community initiatives to promote education and training of un
                    <p class="footer-text">Puthri is India’s first ever developmental project that seeks to create Career Intentionality among underprivileged girl students</p><br>
                    <a href="https://www.facebook.com/projectputhri"><img src="img/fb-img.png" class="img-fluid"></a>
                    <a href="https://twitter.com/projectputhri"><img src="img/finaltweet.SVG" class="img-fluid"></a>
-                   <a href="https://www.linkedin.com/company/13339619/"><img src="img/linkedin-img.png" class="img-fluid"></a>
+                   <a href=" https://www.linkedin.com/company/13339619/"><img src="img/linkedin-img.png" class="img-fluid"></a>
                    <a href="https://www.youtube.com/channel/UCLqnJJC6w6pHdyKucH8HaMQ/featured"><img src="img/utube-img.png"class="img-fluid" ></a>
-                   <a href=" https://www.instagram.com/project_puthri"><img src="img/insta-img.png" class="img-fluid"></a>
+                   <a href="https://www.instagram.com/project_puthri"><img src="img/insta-img.png" class="img-fluid"></a>
                   </div>
                   <div class="col-md-6 col-lg-3">
                     <div class="footer-link">
