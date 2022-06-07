@@ -226,9 +226,9 @@ Dr. Saundarya Rajesh is one of India’s most respected thought leaders on Diver
           <div class="row">
             <div class="container">
               <div class="row">
-                <div class="col-md-6 col-lg-3">
+                <div class="col-md-6 col-lg-3 footer-link">
                    <a href="#">
-                    <img src="img/white-logo.png" class="img-fluid">
+                   <img src="img/white-logo.png" class="img-fluid footer-logo">
                    </a>
                    <p class="footer-text">Puthri is India’s first ever developmental project that seeks to create Career Intentionality among underprivileged girl students</p><br>
                    <a href="https://www.facebook.com/projectputhri"><img src="img/fb-img.png" class="img-fluid"></a>
@@ -239,7 +239,7 @@ Dr. Saundarya Rajesh is one of India’s most respected thought leaders on Diver
                   </div>
                   <div class="col-md-6 col-lg-3">
                     <div class="footer-link">
-                      <h5>Address Location</h5>
+                      <h5>Address</h5>
                         <div class="linked">
                           <p>Udyog Gruhaa, No. 10, SH 49,<br>Raja Nagar, Neelankarai,<br>Tamilnadu 6000041<br>
                           <p>Phone :<a href="tel:+91-44-12345678" id="make-call"> +91-44-4294 1100</a></p>

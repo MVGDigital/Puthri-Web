@@ -207,9 +207,9 @@
 
 
       <section id="transformations" class="section-padding container">
-        <h6>#PUTHRI PROCESS</h6>
-        <h3>Puthri Process</h3>
-        <section class="center slider">
+        <h6>#PUTHRI MODEL</h6>
+        <h3>Puthri Model</h3>
+        <section class="center slider m-0">
           <div>
             <div class="hover">
               <a href="puthri-process.php">
@@ -284,7 +284,7 @@
            <!--==================================================================
        Vision
       ==================================================================-->  
-      <section id="home-vision" class="section-padding">
+      <section id="home-vision transformations" class="section-padding">
         <div class="text-center hm-left">
           <h6>#VISION</h6>
           <h3>Our Vision</h3>
@@ -308,7 +308,7 @@
       <!--==================================================================
        Events
       ==================================================================-->
-      <section id="events-section"  class="section-padding">
+      <section id="events-section"  class="">
         <div class="events">  
           <div class="container-fluid">
             <div class="row">
@@ -331,11 +331,11 @@
                       <div class="swiper-slide"><img src="img/PRAYAG`19-Group Song 3.jpg" class="img-fluid"></div>
                       <div class="swiper-slide"><img src="img/Talent Show Prize Chennai 1.jpeg" class="img-fluid"></div>
                       <!-- <div class="swiper-slide"><img src="img/Talent Show Prize Chennai 4.jpeg" class="img-fluid"></div> -->
-                      <div class="swiper-slide"><img src="img/Udyog Utsav 1.jpg" class="img-fluid"></div>
-                      <div class="swiper-slide"><img src="img/Udyog Utsav 2.jpg" class="img-fluid"></div>
+                      <div class="swiper-slide"><img src="img/event-2.png" class="img-fluid"></div>
+                      <div class="swiper-slide"><img src="img/event-1.png" class="img-fluid"></div>
                     </div>
-                    <!-- <div class="swiper-button-prev"></div>
-                    <div class="swiper-button-next"></div> -->
+                    <div class="swiper-button-prev"></div>
+                    <div class="swiper-button-next"></div>
                   </div>
                 </div>
               </div>
@@ -352,7 +352,7 @@
             <div class="row ">
               <div class="col-xs-8 col-sm-8 col-md-12 col-lg-7 col-xl-7">
                 <div class="poverty">
-                  <h4 class="counttext1">Avtar Human Capital Trust (AHCT)</h4>
+                  <h4 class="counttext1">Our Impact</h4>
                   <img src="img/home-aboutus-img.jpg" class="responsive">
                   <a href="ahct.php">
                   <button class="read-more">Read More</button>
@@ -706,7 +706,7 @@
                   </div>
                   <div class="col-md-4 col-lg-4">
                     <div class="letter">
-                      <h2 class="address-text">Subscribe to our Newsletter</h2> 
+                      <h3 class="address-text counttext1">Subscribe to our Newsletter</h3> 
                       <div class="address-content">
                         <div class="linked">
                           <form action="">
@@ -755,9 +755,9 @@
           <div class="row">
             <div class="container">
               <div class="row">
-                <div class="col-md-6 col-lg-3">
+                <div class="col-md-6 col-lg-3 footer-link">
                    <a href="#">
-                    <img src="img/white-logo.png" class="img-fluid">
+                    <img src="img/white-logo.png" class="img-fluid footer-logo">
                    </a>
                    <p class="footer-text">Puthri is India’s first ever developmental project that seeks to create Career Intentionality among underprivileged girl students</p><br>
                    <a href="https://www.facebook.com/projectputhri"><img src="img/fb-img.png" class="img-fluid"></a>
@@ -768,7 +768,7 @@
                   </div>
                   <div class="col-md-6 col-lg-3">
                     <div class="footer-link">
-                      <h5>Address Location</h5>
+                      <h5>Address</h5>
                         <div class="linked">
                           <p>Udyog Gruhaa, No. 10, SH 49,<br>Raja Nagar, Neelankarai,<br>Tamilnadu 6000041<br>
                           <p>Phone :<a href="tel:+91-44-12345678" id="make-call"> +91-44-4294 1100</a></p>

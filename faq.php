@@ -271,7 +271,7 @@
               <div class="row">
                 <div class="col-md-6 col-lg-3">
                    <a href="#">
-                    <img src="img/white-logo.png" class="img-fluid">
+                   <img src="img/white-logo.png" class="img-fluid footer-logo">
                    </a>
                    <p class="footer-text">lorem ipsum lorem ipsum lorem lorem ipsum lorem ipsum loremlorem ipsum lorem ipsum lorem</p><br>
                    <a href="https://www.facebook.com/projectputhri"><img src="img/fb-img.png" class="img-fluid"></a>
