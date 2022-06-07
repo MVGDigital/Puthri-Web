@@ -400,7 +400,7 @@
           <div class="row p0">
             <div class="col-lg-6">
               <div class="accrediations">
-                <h5>#PARTNERS</h5>
+                <h6>#PARTNERS</h6>
                 <h3>Our Partners</h3>
                 <p class="text-left">Help Project Puthri become the preferred charity partner in your work place events and involve your colleagues as advocates and participants of Puthri</p>
             </div>
