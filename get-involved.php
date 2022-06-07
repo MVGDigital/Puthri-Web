@@ -53,8 +53,8 @@
                     <i class="bx bxs-chevron-down htmlcss-arrow arrow"></i>
                     <ul class="htmlCss-sub-menu sub-menu">
                     <li><a href="puthri-model.php">PUTHRI MODEL</a></li>
-                      <li><a href="pcp.php">PCP</a></li>
                       <li><a href="pcca.php">PCCA</a></li>
+                      <li><a href="pcp.php">PCP</a></li>
                       <li><a href="scholarship.php">SCHOLARSHIP</a></li>
                   </ul>
                 </li>
@@ -174,7 +174,7 @@ As a PUTHRI volunteer you will not only stand to gain unique opportunities and r
           <img id="close-one" src="img/close-icon.svg" alt="">
         </div>
         <div class="pop-content">
-          <h4>LAMP: Program Content Development</h4>
+          <h4>LAMP: Program Content Development</h4><br>
           <p>You need to develop and coordinate communication materials, designed to broaden the knowledge and grow the capabilities of our services program.
           </p>
           <p>As a Content Development Volunteer, you will have the opportunity to make an impact, gain leadership skills that will stay with you a lifetime, and help you advance in your professional and personal development, too.
@@ -191,7 +191,7 @@ As a PUTHRI volunteer you will not only stand to gain unique opportunities and r
           <img id="close-two" src="img/close-icon.svg" alt="">
         </div>
         <div class="pop-content">
-          <h4>LINK: Acquire and manage the entire school network</h4>
+          <h4>LINK: Acquire and manage the entire school network</h4><br>
           <p>You will be the critical link between the teachers, students, parents and the project associates, including the coordinators, mentors, role models, career coaches and other educational institutions.
           </p>
           <p>Bridging the gaps and strengthening the school-community relations, you will have to work towards effective implementation & success of school programs.
@@ -208,7 +208,7 @@ As a PUTHRI volunteer you will not only stand to gain unique opportunities and r
           <img id="close-three" src="img/close-icon.svg" alt="">
         </div>
         <div class="pop-content">
-          <h4>PLUS: Social media and PR management</h4>
+          <h4>PLUS: Social media and PR management</h4><br>
           <p>You will share and promote PUTHRI events and initiatives online & periodically through various online social media platforms, creating awareness across networks to increase visibility for the cause, eliciting feedback from like minded people, encouraging opinion & policy makers, influencers from the society to participate and support key issues related to girl child education and career intentionality among school girls and women empowerment in general.
           </p>
         </div>
@@ -223,7 +223,7 @@ As a PUTHRI volunteer you will not only stand to gain unique opportunities and r
           <img id="close-four" src="img/close-icon.svg" alt="">
         </div>
         <div class="pop-content">
-          <h4>PAVE: Build and engage the entire Volunteer team including the fund raising activities</h4>
+          <h4>PAVE: Build and engage the entire Volunteer team including the fund raising activities</h4><br>
           <p>You will need to work alongside with other team volunteers to undertake and coordinate PUTHRI events and help with administrative work including supporting and participating in fund raising events.
           </p>
         </div>
@@ -238,7 +238,7 @@ As a PUTHRI volunteer you will not only stand to gain unique opportunities and r
           <img id="close-five" src="img/close-icon.svg" alt="">
         </div>
         <div class="pop-content">
-          <h4>IMPACT</h4>
+          <h4>IMPACT</h4><br>
           <p>Puthri volunteers have felt a “larger-than-life” way of impact by engaging in activities of Project Puthri. They feel a sense of pride and rewarding fulfilment when they see the positive pay-off created by their work. And most of all, these volunteers get self-motivated when they motivate and encourage these young girls during their training sessions.
           </p>
           <P>They find a deeper sense of satisfaction when they see the results wherein the girls they mentored are now performing well and with confidence.</P>
@@ -398,8 +398,50 @@ for (var i = 0; i < btns.length; i++) {
 }
 
     </script>
-      
-      <section id="internship"  class="section-padding">
+      <!--  -->
+      <div class="text-center mt-5">
+        <h6>#COLLABORATION</h6>
+        <h3>Collaboration</h3>
+      </div>
+      <div class="col-12 col-md-11 col-xl-12">
+            <img alt="..." src="img/puthri-graph.png" class="img-fluid py-4 mb-0">
+            <!-- Hover Graph CArds -->                
+        <div class="container mt-4 d-flex justify-content-center card-t">
+           
+         <div class="row g-0 justify-content-center g-card">
+
+           <div class="col-md-4 border-righ">
+                <div class="cards">   
+                <div class=" second bg-white p-4 text-center card-height">
+
+                <h6>CSR Donations</h6>
+                    
+                </div>
+                 </div>               
+           </div>
+           
+        <div class="col-md-4 border-righ">
+            <div class="cards">
+           <div class=" second bg-white p-4 text-center card-height">
+
+                    <h6>CSR Donations</h6>
+                   
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4 border-righ">
+            <div class="cards">
+            <div class=" third bg-white p-4 text-center card-height">
+                    <h6>Employee Giving</h6>
+                   
+                </div>
+                </div>
+        </div>
+     </div>           
+    </div>
+            <!--  Hover Graph End-->
+      <!--  -->
+      <section id="internship"  class="">
         <div class=" text-center align-items-center">
           <h6>#INTERNSHIP</h6>
           <h3>Education Institutes</h3>
@@ -408,17 +450,17 @@ for (var i = 0; i < btns.length; i++) {
           <div class="container">
             <div class="row">
               <div class="col-12 col-sm-6 col-md-6 col-lg-6 col-xl-4">
-                <img src="img/Internship.PNG" class="responsive">
+                <img src="img/Internship.png" class="responsive">
                 <h5 class="impact-mnth">Intership</h5>
                 <p>The  significant contribution you make to the underprivileged has a  direct correlation to the impact it creates and the rewards are exemplary.</p>
               </div>
               <div class="col-12 col-sm-6 col-md-6 col-lg-6 col-xl-4">
-                <img src="img/Infra for Events.PNG" class="responsive">
+                <img src="img/Infra for Events.png" class="responsive">
                 <h5 class="impact-mnth">Infra For Events</h5>
                 <p>The impact that has resulted from the Puthri Career Intentionality Virtual training Interventions in terms of knowledge, learning growth rate and skills gained were assessed both through quantitative (a.Pre and Post Assessment) and Qualitative (b.Puthri Satisfaction Survey ) methods, the results are amazing. There has been a significant and phenomenal change in the Average learning growth rate of the Puthri scholars.</p>
               </div>
               <div class="col-12 col-sm-6 col-md-6 col-lg-6 col-xl-4 ">
-                <img src="img/Research support.PNG" class="responsive">
+                <img src="img/Research support.png" class="responsive">
                 <h5 class="impact-mnth">Research Support</h5>
                 <p>In the march towards making 10,000 underprivileged girl children 'Career Intentional' every year and to expand its operation it is vital to have an excellent manpower which would be committed, passionate, vision driven and have a flair towards working for the under privileged. Project Puthri has a team of professionals from diversified backgrounds who are dynamic and committed working with a zeal towards helping girl children pursue a white-collar job upon graduation </p>
               </div>

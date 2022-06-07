@@ -50,8 +50,8 @@
                     <i class="bx bxs-chevron-down htmlcss-arrow arrow"></i>
                     <ul class="htmlCss-sub-menu sub-menu">
                     <li><a href="puthri-model.php">PUTHRI MODEL</a></li>
-                      <li><a href="pcp.php">PCP</a></li>
                       <li><a href="pcca.php">PCCA</a></li>
+                      <li><a href="pcp.php">PCP</a></li>
                       <li><a href="scholarship.php">SCHOLARSHIP</a></li>
                   </ul>
                 </li>
@@ -123,20 +123,19 @@
           <div class='home-box-fifth hbf-lblue'>
                     <div class='home-box-fifth-top-bg bg-two-prjct'>
                       <div class='icon-circle icon-light-blue'></div>
-                        <div class="contact_footer_backgroundcontent">
-                          <img src="img/card-home.svg" class="img-fluid">
+                        <div class="contact_footer_backgroundcontent p-0">
+                          <img src="img/card-ngos-1.svg" class="img-fluid">
                           <br><br>
                           <h5 class="">Educational institutions</h5>
                           <button class="card-btn">JOIN US</button>
                         </div>
-                        <div class='icon-paper'></div>
                     </div>
                   </div><!-- First Card End -->
                   <div class='home-box-fifth hbf-lblue'>
                     <div class='home-box-fifth-top-bg bg-one'>
                       <div class='icon-circle icon-light-blue'></div>
-                        <div class="contact_footer_backgroundcontent">
-                          <img src="img/card-email.svg" class="img-fluid">
+                        <div class="contact_footer_backgroundcontent p-0">
+                          <img src="img/card-ngos-2.svg" class="img-fluid">
                           <br><br>
                           <h5>Corporate</h5>
                           <button class="card-btn">DONATE NOW</button>
@@ -147,10 +146,10 @@
                   <div class='home-box-fifth hbf-lblue'>
                     <div class='home-box-fifth-top-bg bg-two-prjct'>
                       <div class='icon-circle icon-light-blue'></div>
-                        <div class="contact_footer_backgroundcontent">
-                          <img src="img/card-tell.svg" class="img-fluid">
+                        <div class="contact_footer_backgroundcontent p-0">
+                          <img src="img/card-ngos-3.svg" class="img-fluid">
                           <br><br>
-                          <h5>NGO'S</h5>
+                          <h5 class="ngo-mrg-b">NGOS</h5>
                           <button class="card-btn">JOIN US</button>
                         </div>
                         <div class='icon-paper'></div>
@@ -159,8 +158,8 @@
                   <div class='home-box-fifth hbf-lblue mr-0'>
                     <div class='home-box-fifth-top-bg bg-one'>
                       <div class='icon-circle icon-light-blue'></div>
-                        <div class="contact_footer_backgroundcontent">
-                          <img src="img/card-time.svg" class="img-fluid">
+                        <div class="contact_footer_backgroundcontent p-0">
+                          <img src="img/card-ngos-4.svg" class="img-fluid">
                           <br><br>
                           <h5 class="ahtc-head">Individual Donors</h5>
                           <button class="card-btn">DONATE NOW</button>

@@ -55,8 +55,8 @@
                     <i class="bx bxs-chevron-down htmlcss-arrow arrow"></i>
                     <ul class="htmlCss-sub-menu sub-menu">
                     <li><a href="puthri-model.php">PUTHRI MODEL</a></li>
-                      <li><a href="pcp.php">PCP</a></li>
                       <li><a href="pcca.php">PCCA</a></li>
+                      <li><a href="pcp.php">PCP</a></li>
                       <li><a href="scholarship.php">SCHOLARSHIP</a></li>
                   </ul>
                 </li>
@@ -220,7 +220,7 @@
                 </div>
               </div>
               <div class="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-8 mt-4 m-auto">
-                <img src="img/Project Updates.jpg" class="responsive">
+                <img src="img/Project Updates.jpg" class="responsive mb-3">
                 <h5>As a Corporate house your association will help us connect</h5>
                 <p>We are not-for-profit,public, charitable Trust working towards economically empowering women, since the past 8 years, our work has been centred around life skills enhancement programs for the girl child and employability workshops for underprivileged women. We also work towards the prevention of sexual harassement of women and children. our work is primarily focused on the states of Tamil Nadu And Pondicherry.</p>
               </div>
@@ -328,7 +328,7 @@
 
       <section class="contact" id="">
         <div id="news" class="text-center">
-          <h6>#CONTACT</h6>
+          <h6>#CONTACT US</h6>
           <h3>Contact Us</h3>
           <p class="p-r-l">Help Project PUTHRI become the preferred charity partner in your work place events and involve your colleagues as<br> advocates and participiants of PUTHRI. read the word PUTHRI through social network. nitiate awareness campaigns<br>around your work place, residence or community centres on the importance of girl children becoming 'Career Intentional'</p>
         </div>

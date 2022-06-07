@@ -35,19 +35,19 @@ body {
 
 h1{
   font-family: 'Lato'!important;
-  font-style: normal;
-  font-weight: 600;
-  font-size: 50px;
-  line-height: 61px;
+  font-style: normal!important;
+  font-weight: 600!important;
+  font-size: 50px!important;
+  line-height: 61px!important;
   color: #EA1584;
   
 }
 h2{
 font-family: 'Lato'!important;
-font-style: normal;
-font-weight: 600;
-font-size: 36px;
-line-height: 44px;
+font-style: normal!important;
+font-weight: 600!important;
+font-size: 36px!important;
+line-height: 44px!important;
 color: #FFFFFF;
 }
 h3{
@@ -229,7 +229,66 @@ button:focus {
   margin-top: 7%!important;
 }
 .fnt-siz{
-    font-size: 35px!important;
+    font-size: 25px!important;
+}
+/*  Card - Graph*/
+.card-t{
+  position: relative;
+  bottom: 100px;
+}
+.heading{
+  font-size:20px;
+  font-weight:600;
+  color:#3D5AFE;
+}
+.border-righ{
+  background: #FFFFFF;
+  margin-right: 10px;
+  border-right:1px solid #dee2e600!important;
+}
+.line1{
+  color:#000;
+  font-size:12px;
+}
+ .line2{
+  color:#000;
+  font-size:12px;   
+}
+ .line3{
+  color:#000;
+  font-size:12px;    
+}
+.cards{
+  transition: all 0.2s ease;
+  cursor: pointer;
+}
+.g-card{
+width: 60%;
+}
+.card-height{
+  height: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.card-height h6{
+  color: #000!important;
+}
+.card-height:hover{
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+}
+.g-card{
+  flex-wrap: nowrap!important;
+}
+.cards:hover{
+  box-shadow: -6px 6px 55px rgba(0, 0, 0, 0.25);
+  transform: scale(1.1);
+}
+/* Card - Graph */
+.ngo-mrg-b{
+  margin-bottom: 31px!important;
 }
 .pop-body{
   width: 100%;
@@ -253,7 +312,7 @@ button:focus {
   background: #FFFFFF;
 }
 .pop-content{
-  padding: 20px 80px;
+  padding: 20px 130px;
 }
 .pop-content h4{
   color: #ea1584;
@@ -261,6 +320,7 @@ button:focus {
 .pop-close{
   float: right;
   margin-right: 50px;
+  margin-top: -20px;
 }
 .pop-close img{
   float: right;
@@ -760,7 +820,7 @@ input[type=submit]:hover {
   padding-top: 50px;
 }
 .footer-text{
-  color: #fff;
+  color: #fff!important;
 }
 
 .footer-link p{

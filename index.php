@@ -54,8 +54,8 @@
                     <i class="bx bxs-chevron-down htmlcss-arrow arrow"></i>
                     <ul class="htmlCss-sub-menu sub-menu">
                     <li><a href="puthri-model.php">PUTHRI MODEL</a></li>
-                      <li><a href="pcp.php">PCP</a></li>
                       <li><a href="pcca.php">PCCA</a></li>
+                      <li><a href="pcp.php">PCP</a></li>
                       <li><a href="scholarship.php">SCHOLARSHIP</a></li>
                   </ul>
                 </li>
@@ -215,7 +215,7 @@
               <a href="puthri-process.php">
                 <div class="content pos-r">
                   <div class="content-overlay"></div>
-                    <img src="img/Puthri Process  - Attitudinal Training.jpeg">
+                    <img src="img/Attitudinal Training.png  ">
                     <div class="content-details fadeIn-bottom">
                       <p class="content-text pos-ab">Attitudinal training for over a period of 5 years, beginning from class 8th till class 12th, delivered through a combination of classroom sessions, games and corporate exposure</p>
                     </div>
@@ -228,7 +228,7 @@
               <a href="puthri-process.php">
                 <div class="content pos-r">
                   <div class="content-overlay"></div>
-                    <img src="img/Puthri Process  - career intentionality.jpeg" >
+                    <img src="img/career intentionality.png" >
                     <div class="content-details fadeIn-bottom">
                       <p class="content-text pos-ab">CAREER INTENTIONALITY mentoring & training till the age of 18 years and till they complete their graduation</p>
                     </div>
@@ -241,7 +241,7 @@
               <a href="puthri-process.php">
                 <div class="content pos-r">
                   <div class="content-overlay"></div>
-                    <img src="img/Puthri Process - Health & Hygiene.jpg" >
+                    <img src="img/Health & Hygiene.png" >
                     <div class="content-details fadeIn-bottom">
                       <p class="content-text pos-ab">Health & hygiene education, including knowledge on malnutrition, healthy eating habits and how it will lead to begetting healthy children and raise them better for a brighter future.</p>
                     </div>
@@ -254,7 +254,7 @@
               <a href="puthri-process.php">
                 <div class="content pos-r">
                   <div class="content-overlay"></div>
-                    <img src="img/Puthri Process - Digital Knowledge.jpg" >
+                    <img src="img/Digital Knowledge.png" >
                     <div class="content-details fadeIn-bottom">
                       <p class="content-text pos-ab">Empower them with digital knowledge & economy, so that they get into white collar jobs and directly contribute to the increase in GDP of our country.</p>
                     </div>
@@ -267,7 +267,7 @@
               <a href="puthri-process.php">
                 <div class="content pos-r">
                   <div class="content-overlay"></div>
-                    <img src="img/Puthri Process  - Enable them for white collar jobs.jpeg" >
+                    <img src="img/Enable them for white collar jobs.png" >
                     <div class="content-details fadeIn-bottom">
                       <p class="content-text pos-ab">Enable them to get into white-collar jobs to help them come out of poverty and help their families and future generations to live a life of fulfillment and advancement.</p>
                     </div>
@@ -366,20 +366,20 @@
                   <div class="counting" data-count="1000">0</div> <p class="d-inline counttext1 fnt-siz">+</p><br>       
                 </div>
                 <div class=" stats">
-                  <div class="counting" data-count="65">0</div> <br>
+                  <div class="counting" data-count="65">0</div> <p class="d-inline counttext1 fnt-siz">+</p> <br>
                 </div>
                 <div class=" stats">    
-                  <div class="counting" data-count="10">0</div> <br>  
+                  <div class="counting" data-count="10">0</div> <p class="d-inline counttext1 fnt-siz">+</p> <br>  
                 </div>
                 <div class="stats">   
-                  <div class="counting" data-count="50">0</div> 
+                  <div class="counting" data-count="50">0</div> <p class="d-inline counttext1 fnt-siz">+</p>
                 </div>
               </div>
               <div class="counting-text">
-                <p class="counttext1">The Volunteering Hours</p>
-                <p class="counttext1">Scholarship</p>
-                <p class="counttext1">benificiary number</p>
-                <p class="counttext1">Corparate numbers</p>
+                <p class="counttext1">Volunteering Hours</p>
+                <p class="counttext1">Scholarships</p>
+                <p class="counttext1">benificiaries</p>
+                <p class="counttext1">Corparates</p>
              </div>
             </div>
           </div>

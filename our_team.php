@@ -53,8 +53,8 @@
                     <i class="bx bxs-chevron-down htmlcss-arrow arrow"></i>
                     <ul class="htmlCss-sub-menu sub-menu">
                     <li><a href="puthri-model.php">PUTHRI MODEL</a></li>
-                      <li><a href="pcp.php">PCP</a></li>
                       <li><a href="pcca.php">PCCA</a></li>
+                      <li><a href="pcp.php">PCP</a></li>
                       <li><a href="scholarship.php">SCHOLARSHIP</a></li>
                   </ul>
                 </li>
@@ -153,6 +153,8 @@
           <img id="close-one" src="img/close-icon.svg" alt="">
         </div>
         <div class="pop-content">
+          <h3>Mr K. Umasanker</h3>
+          <h4>Senior Vice President, Sales & Relationships, Founding Team Member</h4><br>
           <p>An expert recruiter who holds a Masters in Public Administration from the University of Madras, Umasanker is an Electronics & Communication Engineer and has done MDP from Indian Institute of Management, Ahmedabad. With over 20 years of experience in Recruitment Consulting, Umasanker is a prolific headhunter, with over 3500 closures in his career, comprising of top management, senior management and reporting-to-board positions. Currently managing all India Sales & Relationships for the entire Avtar Group for more than 350 companies across industries. Every year, Umasanker has, as a personal goal, been training young generation in the path of Leadership and has been invited by many colleges to be the Chief Guest to address the young graduates & post graduates.
 </p>
         </div>
@@ -167,6 +169,8 @@
           <img id="close-two" src="img/close-icon.svg" alt="">
         </div>
         <div class="pop-content">
+          <h3>Mr V. Rajesh </h3>
+          <h4>Trustee</h4><br>
           <p>V Rajesh is a well known and widely acknowledged Retail and Shopper Behaviour expert who has been an integral part of the transformation of Indian Retail. He has successfully introduced several modern retail formats in India starting with supermarkets in the mid 90’s and various other mass merchandise, lifestyle and speciality stores. His expertise stems from having handled varied functional roles, specially the marketing and customer service function at a CXO level. Rajesh has been involved with strategy formulation as also the roll out and execution for multiple start ups. His keen understanding of shopper behaviour has played an important role in the successful launch of the various formats and stores. Apart from this, he also has international retail exposure with MAKRO - UK and Walmart’s UK subsidiary – ASDA
                               Rajesh’s toughest challenge and the also the most successful one he has handled is to have influenced consumer mindset, with regard to grocery shopping, in a market dominated by traditional formats. This is largely due to his in-depth understanding of consumer and shopper behaviour as also his consistent capability to plan and execute customer centric programs which have been cost effective.
                               He is a prolific writer, having written several hundred articles and case studies for leading publications. As part of his knowledge sharing initiatives, he has also authored several books. He is now very active in the knowledge space and is engaged in sharing his extensive expertise at diverse forums through various initiatives.
@@ -183,6 +187,8 @@
           <img id="close-three" src="img/close-icon.svg" alt="">
         </div>
         <div class="pop-content">
+          <h3>Priya Dayabaran</h3>
+          <h4>Vice President – Organizational Development</h4><br>
           <p>One of the founder members of Avtar, Priya heads the Organizational Development function. Since joining Avtar in 2000 she has handled multiple roles – Recruiter, Management Representative – ISO, Team Leader and Head of Practice. A true blue Avtarite, her multifarious experience has made Priya a very astute talent strategy consultant &amp; a perfect culture ambassador. She also leads the Centralized Support Function of the Avtar Group.An avid reader of both Tamil and English fiction, her favourite hobby is the translation of English articles, poetry and themes into chaste Tamil- her love for vintage Tamil film music makes her unbeatable in this genre!
           </p>
         </div>
@@ -197,6 +203,8 @@
           <img id="close-four" src="img/close-icon.svg" alt="">
         </div>
         <div class="pop-content">
+          <h3>Eswar Balasubramanian</h3>
+          <h4>Head-Out Reach</h4><br>
           <p>Eswar Balasubramanian, Head - Outreach Programs, AVTAR Human Capital Trust, (Registered trust under Section 12AA of incometax Act 1961). Phone: 044 4294 1100
           </p>
         </div>

@@ -49,8 +49,8 @@
                     <i class="bx bxs-chevron-down htmlcss-arrow arrow"></i>
                     <ul class="htmlCss-sub-menu sub-menu">
                     <li><a href="puthri-model.php">PUTHRI MODEL</a></li>
-                      <li><a href="pcp.php">PCP</a></li>
                       <li><a href="pcca.php">PCCA</a></li>
+                      <li><a href="pcp.php">PCP</a></li>
                       <li><a href="scholarship.php">SCHOLARSHIP</a></li>
                   </ul>
                 </li>
@@ -117,10 +117,45 @@
       <div class="container">
         <div class="row">
           <div class="col-12 col-md-11 col-xl-12">
-            <img alt="..." src="img/puthri-process.jpg" class="img-fluid py-4 mb-0">
+            <img alt="..." src="img/puthri-graph.png" class="img-fluid py-4 mb-0">
+            <!-- Hover Graph CArds -->                
+        <div class="container mt-4 d-flex justify-content-center card-t">
+           
+         <div class="row g-0 justify-content-center g-card">
+
+           <div class="col-md-4 border-righ">
+                <div class="cards">   
+                <div class=" second bg-white p-4 text-center card-height">
+
+                <h6>CSR Donations</h6>
+                    
+                </div>
+                 </div>               
+           </div>
+           
+        <div class="col-md-4 border-righ">
+            <div class="cards">
+           <div class=" second bg-white p-4 text-center card-height">
+
+                    <h6>CSR Donations</h6>
+                   
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4 border-righ">
+            <div class="cards">
+            <div class=" third bg-white p-4 text-center card-height">
+                    <h6>Employee Giving</h6>
+                   
+                </div>
+                </div>
+        </div>
+     </div>           
+    </div>
+            <!--  Hover Graph End-->
           </div>
           <div class="col-12 col-md-12 col-xl-12 m-auto">
-            <h3 class="puthri-snapshot-carrier">Puthri is India’s first ever developmental project that seeks to create Career Intentionality among underprivileged girl students.</h3>  
+            <h3>Puthri is India’s first ever developmental project that seeks to create Career Intentionality among underprivileged girl students.</h3><br>
             <p class="puthri-snapshot-carrierparagraph">Various interventions at Puthri help eliminate discriminations and help create more balanced societal set-ups which are necessary. Our Puthri Scholars gain confidence through these life changing interventions to take right decisions to pursue higher education for a sustainable career.</p>
               <div class="body">
                 <details>
@@ -147,7 +182,7 @@
             <div class="col-md-6 col-lg-2"></div>
             <div class="col-md-6 col-lg-4">
               <div class="event">
-                <h6>#FEATURED PUTHRI</h6>
+                <h6>#PUTHRI PROGRAMS</h6>
                 <h3>What we do</h3>
                 <!--<h6 class="event-subheading">has started for all puthri<br>scholars</h6>-->
                 <p >At project PUTHRI, we follow a holistic approach of providing complete & wholesome education to every PUTHRI scholar. Our various intervention programs in collaboration with partners, helps us support & enable every PUTHRI to equip herself for a career readiness goal in life</p>
@@ -183,7 +218,7 @@
               <div class="col-xs-8 col-sm-8 col-md-8 col-lg-7">
                 <div class="impact-sectionlatest">
                   <h5 class="text-white">#IMPACT</h5>
-                  <h4>Corporate / NGO / Education<br>/ Government</h4>
+                  <h4 class="text-white counttext1">Corporate / NGO / Education<br>/ Government</h4>
                   <img src="img/home-aboutus-img.jpg" class="img-fluid"> 
                 </div>
               </div>
@@ -191,7 +226,7 @@
                 <!-- start count stats -->
               <div id="counter-stats" class="wow fadeInRight" data-wow-duration="1.4s">
                 <div class=" stats">
-                  <div class="counting" data-count="1000">0</div> <p class="d-inline">+</p><br>       
+                  <div class="counting" data-count="1000">0</div> <p class="d-inline counttext1 fnt-siz">+</p><br>       
                 </div>
                 <div class=" stats">
                   <div class="counting" data-count="65">0</div> <br>
@@ -204,10 +239,10 @@
                 </div>
               </div>
               <div class="counting-text">
-                <p class="counttext1">Assessment,mentor </p>
-                <p class="counttext1">evaluation,content</p>
-                <p class="counttext1">engagement,academic </p>
-                <p class="counttext1">performance</p>
+                <p class="counttext1">Assessments</p>
+                <p class="counttext1">Mentor evaluations</p>
+                <p class="counttext1">content engagement</p>
+                <p class="counttext1">academic performance</p>
              </div>
             </div>
           </div>
@@ -337,14 +372,14 @@
         <div class="container">
           <div class="row">
             <div class="col-12 col-sm-6 col-md-6 col-lg-6 col-xl-5 d-flex">
-              <img src="img/PCCA  (1).jpeg" class="img-fluid">
+              <img src="img/pcca-img.png" class="img-fluid">
             </div>
             <div class="col-1"></div>
             <div class="col-12 col-sm-6 col-md-6 col-lg-6 col-xl-5 d-flex">
               <div class="mt-100 collaboration">
                 <h6>#PCCA</h6>
                 <h3>Puthri Career Coach Assessment</h3>
-                <h6 class="internship_content d-flex ">The objective of career coaching in project PUTHRI is to help the PUTHRI Scholars to make informed decisions about their career development and trajectory by identifying their strengths & passions.About Puthri Career Choice Assesment (PCCA)Puthri Career Choice Assesment (PCCA) is a one-of-a-kind self-assessment tool developed indigenously to fit the students in India. PCCA helps PUTHRI Scholars two-foldTo understand her personality better to make an informed career choice.To understand her strengths, passion and interest which will enable her to study her choice of subjects and pursue her dream career, thus minimizing stress.</h6>
+                <p>The objective of career coaching in project PUTHRI is to help the PUTHRI Scholars to make informed decisions about their career development and trajectory by identifying their strengths & passions.About Puthri Career Choice Assesment (PCCA)Puthri Career Choice Assesment (PCCA) is a one-of-a-kind self-assessment tool developed indigenously to fit the students in India. PCCA helps PUTHRI Scholars two-foldTo understand her personality better to make an informed career choice.To understand her strengths, passion and interest which will enable her to study her choice of subjects and pursue her dream career, thus minimizing stress.</p>
                 <button class="view-btn join">Join now</button>
               </div>
             </div>
@@ -357,76 +392,7 @@
       <!--==================================================================
        Partners
       ==================================================================-->
-      <section class="m-p-t">
-
-<div class="container width88">
-  <div class="row p0">
-    <div class="col-lg-6">
-      <div class="accrediations">
-        <h6>#PARTNERS</h6>
-        <h3>Our Partners</h3>
-        <p class="text-left">Help Project Puthri become the preferred charity partner in your work place events and involve your colleagues as advocates and participants of Puthri</p>
-    </div>
-  </div>
-  <div class="col-12 col-sm-6">
-    <div class="row p-0">
-      <div class="col-6 col-sm-6 col-lg-4 ">
-        <img src="image/agni_college_logo.png" class="img-fluid">
-      </div>
-      <div class="col-6 col-sm-6 col-lg-4 ">
-        <img src="image/apollo_tyres.png" class="img-fluid">
-      </div>
-      <div class="col-6 col-lg-4 ">
-        <img src="image/CavinKare.png" class="img-fluid">
-      </div>
-      <div class="col-6 col-lg-4 space">
-        <img src="image/DGVC_LOGO.png" class="img-fluid" >
-      </div>
-      <div class="col-6 col-lg-4 space">
-        <img src="image/ITC.png" class="img-fluid"  >
-      </div>
-      <div class="col-6 col-lg-4 space">
-        <img src="image/Flex.png" class="img-fluid" >
-      </div>
-    </div>
-  </div>
-</div>
-</div>
-<div class="bar-line"></div>
-<div class="container">
-<div class="row">
-  <div class="col-12 col-md-6 col-xl-6 mt-50">
-    <div class="row p-0">
-      <div class="col-6 col-sm-6 col-lg-4 ">
-        <img src="image/bradken.png" class="img-fluid">
-      </div>
-      <div class="col-6 col-sm-6 col-lg-4 ">
-        <img src="image/cat.png" class="img-fluid">
-      </div>
-      <div class="col-6 col-lg-4 ">
-        <img src="image/CII_YI.png" class="img-fluid">
-      </div>
-      <div class="col-6 col-lg-4 space">
-        <img src="image/Cognizant_Outreach.png" class="img-fluid" >
-      </div>
-      <div class="col-6 col-lg-4 space">
-        <img src="image/Danfoss_high_res.png" class="img-fluid" >
-      </div>
-      <div class="col-6 col-lg-4 space">
-        <img src="image/D&B.png" class="img-fluid">
-      </div>
-    </div>
-  </div>
-  <div class="col-12 col-sm-12 col-lg-6 mt-50 move-first">
-    <div class="accrediations">
-      <h6>#DONORS</h6>
-      <h3>Our Donors</h3>
-      <p class="text-left">Adopt a school for a year and sponsor 100 Puthri scholars to transform and empower them</p>
-    </div>
-  </div>
-</div>
-</div>
-</section>
+  
           
 
       <!--==================================================================
