@@ -232,7 +232,7 @@ Dr. Saundarya Rajesh is one of India’s most respected thought leaders on Diver
                    </a>
                    <p class="footer-text">Puthri is India’s first ever developmental project that seeks to create Career Intentionality among underprivileged girl students</p><br>
                    <a href="https://www.facebook.com/projectputhri"><img src="img/fb-img.png" class="img-fluid"></a>
-                   <a href="https://twitter.com/projectputhri"><img src="img/finaltweet.SVG" class="img-fluid"></a>
+                   <a href="https://twitter.com/projectputhri"><img src="img/finaltweet.svg" class="img-fluid"></a>
                    <a href=" https://www.linkedin.com/company/13339619/"><img src="img/linkedin-img.png" class="img-fluid"></a>
                    <a href="https://www.youtube.com/channel/UCLqnJJC6w6pHdyKucH8HaMQ/featured"><img src="img/utube-img.png"class="img-fluid" ></a>
                    <a href="https://www.instagram.com/project_puthri"><img src="img/insta-img.png" class="img-fluid"></a>
