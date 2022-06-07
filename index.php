@@ -94,7 +94,7 @@
                       <div class="container rl-width">
                         <div class="row">
                           <div class="col-sm-11 col-md-11 col-lg-11 col-xs-11">
-                            <h2 class="banner-text"> Ensure every girl student pursues a white collar job upon graduation</h2>
+                            <h1 class="banner-text"> Ensure every girl student pursues a white collar job upon graduation</h1>
                               <p class="sub-text">Make 10,000 government school girl students ‘Career Intentional’ every year</p>
                               <button class="donate">donate now</button>
                           </div>
@@ -105,7 +105,7 @@
                       <div class="container">
                         <div class="row">
                           <div class="col-sm-11 col-md-11 col-lg-11 col-xs-11">
-                            <h2 class="banner-text"> Facilitate girl students <br>into tertiary education</h2>
+                            <h1 class="banner-text"> Facilitate girl students <br>into tertiary education</h1>
                               <p class="sub-text">Make 10,000 government school girl students ‘Career Intentional’ every year</p>
                               <button class="donate">donate now</button>
                           </div>
@@ -116,7 +116,7 @@
                       <div class="container">
                         <div class="row">
                           <div class="col-sm-11 col-md-11 col-lg-11 col-xs-11">
-                            <h2 class="banner-text"> Facilitate every girl<br>student pursue a white<br>collar Job</h2>
+                            <h1 class="banner-text"> Facilitate every girl<br>student pursue a white<br>collar Job</h1>
                               <p class="sub-text">Make 10,000 government school girl students ‘Career Intentional’ every year</p>
                               <button class="donate">donate now</button>
                           </div>
