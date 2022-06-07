@@ -94,8 +94,8 @@
                       <div class="container rl-width">
                         <div class="row">
                           <div class="col-sm-11 col-md-11 col-lg-11 col-xs-11">
-                            <h1 class="banner-text"> Ensure every girl student pursues a white collar job upon graduation</h1>
-                              <p class="sub-text">Make 10,000 government school girl students ‘Career Intentional’ every year</p>
+                            <h1 class="banner-text"> Ensure every girl student pursues<br>a white collar job upon graduation</h1>
+                              <p class="counttext1">Make 10,000 government school girl students ‘Career Intentional’ every year</p>
                               <button class="donate">donate now</button>
                           </div>
                         </div>
@@ -106,7 +106,7 @@
                         <div class="row">
                           <div class="col-sm-11 col-md-11 col-lg-11 col-xs-11">
                             <h1 class="banner-text"> Facilitate girl students <br>into tertiary education</h1>
-                              <p class="sub-text">Make 10,000 government school girl students ‘Career Intentional’ every year</p>
+                              <p class="counttext1">Make 10,000 government school girl students ‘Career Intentional’ every year</p>
                               <button class="donate">donate now</button>
                           </div>
                         </div>
@@ -117,7 +117,7 @@
                         <div class="row">
                           <div class="col-sm-11 col-md-11 col-lg-11 col-xs-11">
                             <h1 class="banner-text"> Facilitate every girl<br>student pursue a white<br>collar Job</h1>
-                              <p class="sub-text">Make 10,000 government school girl students ‘Career Intentional’ every year</p>
+                              <p class="counttext1">Make 10,000 government school girl students ‘Career Intentional’ every year</p>
                               <button class="donate">donate now</button>
                           </div>
                         </div>
@@ -150,8 +150,8 @@
                 <div style="text-align:center;">
                 <img src="img/people_black.svg" alt="">
                 </div>
-                  <div class="text-center"> <p><span>Mentoring</span>
-                    </p>
+                  <div class="text-center"> 
+                   <h5 class="home-card-color">Mentoring</h5>
                   </div>
               </div>
               <div class="box effect homecontent">
@@ -160,7 +160,7 @@
                 <img src="img/school-s.svg" alt="">
                 </div>
                   <div class="text-center">
-                  <span >Career Coach</span>
+                  <h5 class="home-card-color">Career Coach</h5>
                   </div>
               </div>
               <div class="box effect homecontent">
@@ -168,8 +168,8 @@
                 <div style="text-align:center;">
                 <img src="img/school-svgrepo.svg" alt="">
                 </div>
-                <span >
-                <div class="text-center">Role Model</span>
+                <div class="text-center">
+                  <h5 class="home-card-color">Role Model</h5>
                 </div>
               </div>
               <div class="box effect homecontent">          
@@ -178,7 +178,7 @@
                 <img src="img/home-card-icon.svg" alt="">
                 </div>
                 <div class="text-center">
-                <span>Scholarship </span>
+               <h5 class="home-card-color">Scholarship</h5>
                 </div>
               </div>
               <div class="box effect homecontent">
@@ -187,7 +187,7 @@
                 <img src="img/city-buildings.svg" alt="">
                 </div>
                 <div class="text-center">
-                  <span>8 Dimension</span>
+                  <h5 class="home-card-color">8 Dimension</h5>
                 </div>
               </div>
               <div class="box effect homecontent"> 
@@ -195,8 +195,8 @@
                 <div style="text-align:center;">
                 <img src="img/heart.svg" alt="">
                 </div>
-                  <div class="text-center">
-                  <span >Talent Search</span>
+                  <div class="text-center"> 
+                  <h5 class="home-card-color">Talent Search</h5>
                   </div>
                 </div>
               </span>
@@ -378,8 +378,8 @@
               <div class="counting-text">
                 <p class="counttext1">Volunteering Hours</p>
                 <p class="counttext1">Scholarships</p>
-                <p class="counttext1">benificiaries</p>
-                <p class="counttext1">Corparates</p>
+                <p class="counttext1">beneficiaries</p>
+                <p class="counttext1">Corporates</p>
              </div>
             </div>
           </div>
@@ -480,18 +480,18 @@
             <div class="row">
               <div class="col-12 col-md-6 col-lg-6 col-xl-4 m-auto">
                 <img src="img/featured-1.jpg" class="responsive">
-                <h5 class="impact-mnth">Schools of the Month</h5>
-                <h6 class="impact-date">09 Jul 2021</h6>
+                <h6 class="impact-mnth">Schools of the Month</h6>
+                <h5 class="impact-date">09 Jul 2021</h5>
               </div>
               <div class="col-12 col-md-6 col-lg-6 col-xl-4 m-auto">
                 <img src="img/featured-2.jpg" class="responsive">
-                <h5 class="impact-mnth">Schools of the Month</h5>
-                <h6 class="impact-date">09 Jul 2021</h6>
+                <h6 class="impact-mnth">Schools of the Month</h6>
+                <h5 class="impact-date">09 Jul 2021</h5>
               </div>
               <div class="col-12 col-md-6 col-lg-6 col-xl-4 m-auto">
                 <img src="img/featured-3.jpg" class="responsive">
-                <h5 class="impact-mnth">Schools of the Month</h5>
-                <h6 class="impact-date">09 Jul 2021</h6>
+                <h6 class="impact-mnth">Schools of the Month</h6>
+                <h5 class="impact-date">09 Jul 2021</h5>
               </div>
             </div>
           </div>
@@ -521,7 +521,7 @@
                                 </div>
                                 <div class="col-sm-7 col-12 testimonials-box">
                                  <h3 class="testimonials-text">Balaraman</h3>
-                                <p class="sub-heading">Volunteer</p>
+                                <h5 class="sub-heading">Volunteer</h5>
                                 <p class="testimonials-content">The vision of team Puthri to make every girl child career intentional so that she makes an informed career choice has evolved during the Pandemic situation. I am with team Puthri since its inception and have witnessed the mettle and courage the team has shown during the covid year. I thank the team for providing me with a variety of roles to be a part of this wonderful project.</p>
                               </div>
                               </div>
@@ -535,7 +535,7 @@
                                 </div>
                                 <div class="col-sm-7 col-12 testimonials-box">
                                  <h3 class="testimonials-text">Vamsi Krishna </h3>
-                                <p class="sub-heading">Volunteer</p>
+                                 <h5 class="sub-heading">Volunteer</h5>
                                 <p class="testimonials-content">I have been an active volunteer since the inception of Project Puthri. Team Puthri has tackled the ills of society that bind a girl child at its roots. Educating a girl child and making her qualified for all the white-collar jobs gives her economic independence. By teaching her the much-needed life skills, Project Puthri empowers her. During the difficult year of 2020, team Puthri united to push through and reach more Puthri scholars via online mentoring sessions. I am proud to be a part of Project Puthri. </p>
                               </div>
                               </div>
@@ -554,7 +554,7 @@
                                 </div>
                                 <div class="col-sm-7 col-12 testimonials-box">
                                  <h3 class="testimonials-text">Anu Karthikeyan</h3>
-                                <p class="sub-heading">Volunteer</p>
+                                 <h5 class="sub-heading">Volunteer</h5>
                                 <p class="testimonials-content">Being a mentor gives me immense satisfaction because I can help and guide Puthri scholars in developing career intentionality. An educated girl can empower an entire generation, and an informed Puthri scholar will opt for the right career path and inspire the next generation.</p>
                               </div>
                               </div>
@@ -568,7 +568,7 @@
                                 </div>
                                 <div class="col-sm-7 col-12 testimonials-box">
                                  <h3 class="testimonials-text">Anitha kothandapani</h3>
-                                <p class="sub-heading">Volunteer</p>
+                                 <h5 class="sub-heading">Volunteer</h5>
                                 <p class="testimonials-content">Mentoring online through webinar sessions has encouraged me to be creative in my presentation. Searching for stories that Puthri’s can identify or connect.</p>
                               </div>
                             </div>
@@ -587,7 +587,7 @@
                                 </div>
                                 <div class="col-sm-7 col-12 testimonials-box">
                                  <h3 class="testimonials-text">Girija Sridhar</h3>
-                                <p class="sub-heading">Volunteer</p>
+                                 <h5 class="sub-heading">Volunteer</h5>
                                 <p class="testimonials-content">The jury role in 100th virtual session celebration made clear to me the longing ness of our Puthris towards such an exposure. Being a part of both physical and virtual PCCA sessions, I feel, it definitely helps as an eye opener in their future career choices. The support, guidance and the teamwork of Project Puthri is highly admirable. Happy to be a part of it.</p>
                               </div>
                               </div>
@@ -601,7 +601,7 @@
                                 </div>
                                 <div class="col-sm-7 col-12 testimonials-box">
                                  <h3 class="testimonials-text">Madhavi Praveen </h3>
-                                <p class="sub-heading">Volunteer</p>
+                                 <h5 class="sub-heading">Volunteer</h5>
                                 <p class="testimonials-content">I had observed that team Puthri had worked out a strategic plan for the flawless execution of webinar modules for mentoring and training sessions. Writing motivating and engaging content has subconsciously affected me positively. Watching Puthri scholars confidence and interaction during the online sessions gives me immense satisfaction.</p>
                               </div>
                             </div>
@@ -621,7 +621,7 @@
                                 </div>
                                 <div class="col-sm-7 col-12 testimonials-box">
                                  <h3 class="testimonials-text">Sowmiyaa Sivakumar</h3>
-                                <p class="sub-heading">Volunteer</p>
+                                 <h5 class="sub-heading">Volunteer</h5>
                                 <p class="testimonials-content">Puthri participation. Teaching them life skills through interesting graphical content is indeed a learning experience for me too. I congratulate team Puthri for kindling this transformation.</p>
                               </div>
                               </div>
@@ -640,7 +640,7 @@
                                 </div>
                                 <div class="col-sm-7 col-12 testimonials-box">
                                  <h3 class="testimonials-text">Rajeswari Shankar</h3>
-                                <p class="sub-heading">Volunteer</p>
+                                 <h5 class="sub-heading">Volunteer</h5>
                                 <p class="testimonials-content">Team Puthri has proved its mettle by celebrating the 100th virtual event, to which I was a jury. Showing quick adaptive skills, our team Puthri tided over the difficulties of presenting online mentoring sessions. </p>
                               </div>
                               </div>
@@ -654,7 +654,7 @@
                                 </div>
                                 <div class="col-sm-7 col-12 testimonials-box">
                                  <h3 class="testimonials-text">Aparna Ram</h3>
-                                <p class="sub-heading">Volunteer</p>
+                                 <h5 class="sub-heading">Volunteer</h5>
                                 <p class="testimonials-content">I have witnessed the Puthri team redefine the new normal during the pandemic situation within a short duration. Continuing to strive and achieve the goal, team Puthri evolved by changing the mode of connecting with Puthri scholars. Personally, Project Puthri offered me a space of normalcy and hope.</p>
                               </div>
                             </div>

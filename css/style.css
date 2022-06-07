@@ -365,7 +365,7 @@ width: 60%;
   font-family:  "Segoe UI";
   border:none;
   font-weight: 600;
-  font-size:20px;
+  font-size:15px;
   text-transform: uppercase;
 }
   
@@ -621,7 +621,7 @@ section#counter-stats {
 }
 .counting-text{
   color: #fff;
-  text-decoration: underline;
+  text-decoration: none;
   text-transform: uppercase;
   text-align: left;
   font-size: 16px;
@@ -738,7 +738,7 @@ section#counter-stats {
   margin-top: -45px;
 }
 .testimonials-text{
-  color: #004389 ;
+  color: #004389!important;
   font-family:  "Segoe UI";
   font-size: 24px;
   text-align: start;
@@ -753,10 +753,11 @@ section#counter-stats {
   padding: 17px 0;
 }
 .sub-heading{
-  color:#54575A;
   text-align: start;
-  margin-bottom: 0px;
-  font-weight: 700;
+}
+.home-card-color{
+ color: #EA1584;
+ margin-top: 0.5rem;
 }
 .img{
   border: 1px solid #bf00ff;

@@ -112,7 +112,7 @@ Dr. Saundarya Rajesh is one of India’s most respected thought leaders on Diver
       </div>
      </div>
           <!--banner-img End -->
-          <div class="card-title sr-mam-pb">
+          <div class="sr-mam-pb">
           <div class="ahtc-card-title">
           <h6>#vision</h6>
           <h3>Our Vision</h3>
@@ -162,15 +162,15 @@ Dr. Saundarya Rajesh is one of India’s most respected thought leaders on Diver
             <p class ="ahtc-sub-txt wdth100">Help Project PUTHRI become the preferred charity partner in your work place events and invole your collegeues as advocates and participants of PUTHRI.read the word about</p>
           </div>
           <!-- CARDS -->
-          <div class="d-flex details-cards">
+          <div class="d-flex details-cards f-rap">
           <div class='home-box-fifth hbf-lblue'>
-                    <div class='home-box-fifth-top-bg bg-two-prjct'>
+                    <div class='home-box-fifth-top-bg bg-two'>
                       <div class='icon-circle icon-light-blue'></div>
                         <div class="contact_footer_backgroundcontent">
                           <img src="img/card-home.svg" class="img-fluid">
                           <br><br>
-                          <h5 class="">Educational institutions</h5>
-                          <button class="card-btn">JOIN US</button>
+                          <h5 class="first">head office</h5>
+                          <p class="sub-header counttext1">Udyog Gruhaa No. 10, East Coast Road, Neelangarai,<br> Chennai – India Pincode: 600041</p>
                         </div>
                         <div class='icon-paper'></div>
                     </div>
@@ -181,20 +181,20 @@ Dr. Saundarya Rajesh is one of India’s most respected thought leaders on Diver
                         <div class="contact_footer_backgroundcontent">
                           <img src="img/card-email.svg" class="img-fluid">
                           <br><br>
-                          <h5>Corporate</h5>
-                          <button class="card-btn">DONATE NOW</button>
+                          <h5>Email address</h5>
+                          <p class="counttext1">info@puthri.org</p>
                         </div>
                         <div class='icon-paper'></div>
                     </div>
                   </div><!-- Second Card End -->
                   <div class='home-box-fifth hbf-lblue'>
-                    <div class='home-box-fifth-top-bg bg-two-prjct'>
+                    <div class='home-box-fifth-top-bg bg-two'>
                       <div class='icon-circle icon-light-blue'></div>
                         <div class="contact_footer_backgroundcontent">
                           <img src="img/card-tell.svg" class="img-fluid">
                           <br><br>
-                          <h5>NGO'S</h5>
-                          <button class="card-btn">JOIN US</button>
+                          <h5>Phone Number</h5>
+                          <p class="counttext1">+91-44-12345678</p>
                         </div>
                         <div class='icon-paper'></div>
                     </div>
@@ -205,12 +205,14 @@ Dr. Saundarya Rajesh is one of India’s most respected thought leaders on Diver
                         <div class="contact_footer_backgroundcontent">
                           <img src="img/card-time.svg" class="img-fluid">
                           <br><br>
-                          <h5 class="ahtc-head">Individual Donors</h5>
-                          <button class="card-btn">DONATE NOW</button>
+                          <h5>Work Hours</h5>
+                          <p class="counttext1">MONDAY - SATURDAY</p>
                         </div>
+                        <div class='icon-paper'></div>
                     </div>
                   </div><!-- forth Card End -->
-                </div>
+          </div>
+      </div>
       </section>
 
 
