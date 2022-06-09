@@ -3538,8 +3538,8 @@ nav .navbar .links li .sub-menu li{
     text-shadow: 3px 3px black!important;
   }
   .banner-text{
-    padding-top: 73px;
-    line-height: 20px!important;
+    padding-top: 76px;
+    line-height: 18px!important;
     font-size: 20px!important;
   }
   .mrgb{
@@ -3587,6 +3587,24 @@ nav .navbar .links li .sub-menu li{
     margin-top: 10px;
     font-size: 25px!important;
     font-family: 'Lato'!important;
+  }
+
+}
+@media screen and (max-width: 360px){
+  .banner-text{
+    padding-top: 78px;
+    line-height: 14px!important;
+    font-size: 18px!important;
+    margin-bottom: 5px;
+  }
+  .mrgb{
+    margin-bottom:3px;
+    line-height: 16px!important;
+    font-size: 13px!important;
+  }
+  .donate{
+    font-size: 10px;
+    padding:5px 10px;
   }
 
 }
