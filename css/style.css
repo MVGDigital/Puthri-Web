@@ -3590,7 +3590,7 @@ nav .navbar .links li .sub-menu li{
   }
 
 }
-@media screen and (max-width: 360px){
+@media screen and (max-width: 375px){
   .banner-text{
     padding-top: 78px;
     line-height: 14px!important;
@@ -3608,7 +3608,6 @@ nav .navbar .links li .sub-menu li{
   }
 
 }
-
 @media screen and (min-width: 900px){
 }
 
