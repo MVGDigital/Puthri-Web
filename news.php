@@ -330,7 +330,6 @@
         <div id="news" class="text-center">
           <h6>#CONTACT US</h6>
           <h3>Contact Us</h3>
-          <p class="p-r-l">Help Project PUTHRI become the preferred charity partner in your work place events and involve your colleagues as<br> advocates and participiants of PUTHRI. read the word PUTHRI through social network. nitiate awareness campaigns<br>around your work place, residence or community centres on the importance of girl children becoming 'Career Intentional'</p>
         </div>
          <!-- CARDS -->
          <div class="d-flex details-cards f-rap">

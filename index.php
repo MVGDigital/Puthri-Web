@@ -84,7 +84,7 @@
       <!--=================================================================
        Banner
       ==================================================================-->
-      <div id="banner"> 
+      <div id="banner desk-banner"> 
         <div class="banner-background">
           <div id="ninja-slider">
             <div class="slider-inner">
@@ -95,7 +95,7 @@
                         <div class="row">
                           <div class="col-sm-11 col-md-11 col-lg-11 col-xs-11">
                             <h1 class="banner-text"> Ensure every girl student pursues<br>a white collar job upon graduation</h1>
-                              <p class="counttext1">Make 10,000 government school girl students ‘Career Intentional’ every year</p>
+                              <p class="counttext1 mrgb">Make 10,000 government school girl students ‘Career Intentional’ every year</p>
                               <button class="donate">donate now</button>
                           </div>
                         </div>
@@ -106,7 +106,7 @@
                         <div class="row">
                           <div class="col-sm-11 col-md-11 col-lg-11 col-xs-11">
                             <h1 class="banner-text"> Facilitate girl students <br>into tertiary education</h1>
-                              <p class="counttext1">Make 10,000 government school girl students ‘Career Intentional’ every year</p>
+                              <p class="counttext1 mrgb">Make 10,000 government school girl students ‘Career Intentional’ every year</p>
                               <button class="donate">donate now</button>
                           </div>
                         </div>
@@ -116,8 +116,8 @@
                       <div class="container">
                         <div class="row">
                           <div class="col-sm-11 col-md-11 col-lg-11 col-xs-11">
-                            <h1 class="banner-text"> Facilitate every girl<br>student pursue a white<br>collar Job</h1>
-                              <p class="counttext1">Make 10,000 government school girl students ‘Career Intentional’ every year</p>
+                            <h1 class="banner-text"> Facilitate every girl student <br>pursue a white collar Job</h1>
+                              <p class="counttext1 mrgb">Make 10,000 government school girl students ‘Career Intentional’ every year</p>
                               <button class="donate">donate now</button>
                           </div>
                         </div>
@@ -139,7 +139,9 @@
     </div>
   </div>
 </div>
+<!-- mob-Banner-->
 
+<!--  -->
       
 
 
@@ -783,29 +785,29 @@
                            <div class="linked">
                             <ul>
                               <li>
-                                <a href="index.php">Home</a>
+                                <a href="index.php"><p>Home</p></a>
                               </li>
                               <li>
-                              <a href="our_team.php">Our Team</a>
+                              <a href="our_team.php"><p>Our Team</p></a>
                               </li>
                               <li>
-                                <a href="get-involved.php">Get Involved</a>
+                                <a href="get-involved.php"><p>Get Involved</p></a>
                               </li>
                               <li>
-                                <a href="puthri-model.php">Puthri Model</a>
+                                <a href="puthri-model.php"><p>Puthri Model</p></a>
                               </li>
                               <ul class="footer-menulinks">
                               <li>
-                                <a href="news.php">News & Events</a>
+                                <a href="news.php"><p>News & Events</p></a>
                               </li>
                               <li>
-                                <a href="#">Blog</a>
+                                <a href="#"><p>Blog</p></a>
                               </li>
                               <li>
-                                <a href="#">Contact</a>
+                                <a href="#"><p>Contact</p></a>
                               </li>
                               <li>
-                                <a href="faq.php">FAQ</a>
+                                <a href="faq.php"><p>FAQ</p></a>
                               </li>
                             </ul>
                            </ul>

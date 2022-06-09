@@ -118,10 +118,10 @@
               <div class="mitr-banner col-lg-6 mitr-p-r-l">
                   <img src="img/pcca-2.jpg" alt="">
               </div>
-          </div>
+          </div>  
           <div class="first-head main-header"> 
             <h6>#BENIFITS</h6>
-            <h3>HOW DOES PCCA BENIFITS A PUTHRI SCHOLAR?</h3>
+            <h3>How Does PCCA Benefits A Puthri Scholar?</h3>
             <p>Puthri Career Choice Assessment (PCCA) is a one-of-a-kind self-assessment tool developed indigenously to fit the students in India. PCCA helps Puthri Scholars two-fold.</p>
             <p>To understand her personality better to make an informed career choice.</p>
             <p>To understand her strengths, passion and interest which will enable her to study her choice of subjects and pursue her dream career, thus minimizing stress.</p>
@@ -140,8 +140,8 @@
               <p class="ahtc-head-txt">Section 1: Personality Traits</p>
               <p class="ahtc-head-txt">Section 2: Basic Personality Traits</p>
               <p class="ahtc-head-txt">Section 3: Career Oriented Personality Traits</p>
-              <p>Section 4: Personality-Career Mapping</p>
-              <p>Section 5: Career Clusters</p>
+              <p class="ahtc-head-txt">Section 4: Personality-Career Mapping</p>
+              <p class="ahtc-head-txt">Section 5: Career Clusters</p>
               </div>
               <div class="text section-2 col-6">
               <p>Describes the twelve personality traits that are measured</p>
