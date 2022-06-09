@@ -3,7 +3,7 @@
       <head>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta charset="UTF-8">
-        <title> Puthri </title>
+        <title> faq </title>
         <link rel="stylesheet" href="css/style.css">
         <link href='https://unpkg.com/boxicons@2.0.7/css/boxicons.min.css' rel='stylesheet'>
         <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
@@ -11,7 +11,7 @@
 
       <!-- Nav bar -->
       <nav>
-      <div class="top-neader">
+      <div class="top-header">
         <div class="social-m-icon">
           <a href=" https://www.facebook.com/projectputhri"><img src="img/card-fb.svg" alt=""></a>
           <a href="https://twitter.com/projectputhri"><img src="img/card-twit.svg" alt=""></a>
@@ -19,7 +19,7 @@
           <a href="https://www.youtube.com/channel/UCLqnJJC6w6pHdyKucH8HaMQ/featured"><img src="img/card-ytube.svg" alt=""></a>
           <a href=" https://www.instagram.com/project_puthri"><img src="img/card-insta.svg" alt=""></a>
         </div>
-        <p>VOLUNTEER NOW</p>
+        <p>Volunteer Now</p>
       </div>
        <div class="navbar">
           <i class="bx bx-menu"></i>
@@ -269,11 +269,11 @@
           <div class="row">
             <div class="container">
               <div class="row">
-                <div class="col-md-6 col-lg-3">
+                <div class="col-md-6 col-lg-3 footer-link">
                    <a href="#">
-                   <img src="img/white-logo.png" class="img-fluid footer-logo">
+                    <img src="img/white-logo.png" class="img-fluid footer-logo">
                    </a>
-                   <p class="footer-text">lorem ipsum lorem ipsum lorem lorem ipsum lorem ipsum loremlorem ipsum lorem ipsum lorem</p><br>
+                   <p class="footer-text">Puthri is India’s first ever developmental project that seeks to create Career Intentionality among underprivileged girl students</p><br>
                    <a href="https://www.facebook.com/projectputhri"><img src="img/fb-img.png" class="img-fluid"></a>
                    <a href="https://twitter.com/projectputhri"><img src="img/finaltweet.svg" class="img-fluid"></a>
                    <a href=" https://www.linkedin.com/company/13339619/"><img src="img/linkedin-img.png" class="img-fluid"></a>
@@ -282,7 +282,7 @@
                   </div>
                   <div class="col-md-6 col-lg-3">
                     <div class="footer-link">
-                      <h5>Address Location</h5>
+                      <h5>Address</h5>
                         <div class="linked">
                           <p>Udyog Gruhaa, No. 10, SH 49,<br>Raja Nagar, Neelankarai,<br>Tamilnadu 6000041<br>
                           <p>Phone :<a href="tel:+91-44-12345678" id="make-call"> +91-44-4294 1100</a></p>
@@ -297,29 +297,29 @@
                            <div class="linked">
                             <ul>
                               <li>
-                              <a href="index.php">Home</a>
+                                <a href="index.php"><p>Home</p></a>
                               </li>
                               <li>
-                              <a href="our_team.php">Our Team</a>
+                              <a href="our_team.php"><p>Our Team</p></a>
                               </li>
                               <li>
-                                <a href="get-involved.php">Get Involved</a>
+                                <a href="get-involved.php"><p>Get Involved</p></a>
                               </li>
                               <li>
-                                <a href="puthri-model.php">Puthri Model</a>
+                                <a href="puthri-model.php"><p>Puthri Model</p></a>
                               </li>
                               <ul class="footer-menulinks">
                               <li>
-                                <a href="news.php">News & Events</a>
+                                <a href="news.php"><p>News & Events</p></a>
                               </li>
                               <li>
-                                <a href="#">Blog</a>
+                                <a href="#"><p>Blog</p></a>
                               </li>
                               <li>
-                                <a href="#">Contact</a>
+                                <a href="#"><p>Contact</p></a>
                               </li>
                               <li>
-                                <a href="faq.php">FAQ</a>
+                                <a href="faq.php"><p>FAQ</p></a>
                               </li>
                             </ul>
                            </ul>
@@ -330,7 +330,7 @@
                         <div class="footer-link">
                           <h5>Newsletter</h5>
                             <div class="linked">
-                            <p>You will be notified when something <br>new appears</p>
+                              <p>You will be notified when something <br>new appears</p>
                               <form action="">
                                 <input type="text"  pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,}$" title="Please Enter Valid Email Id" placeholder="Enter a valid mail ID" required>
                                 <input type='submit' name='submit' value='' id='submit' />

@@ -3,7 +3,7 @@
       <head>
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <meta charset="UTF-8">
-      <title> Puthri </title>
+      <title> puthri-model </title>
       <link rel="stylesheet" href="css/style.css">
       <link href='https://unpkg.com/boxicons@2.0.7/css/boxicons.min.css' rel='stylesheet'>
       <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
@@ -13,7 +13,7 @@
 
       <!-- Nav bar -->
       <nav>
-      <div class="top-neader">
+      <div class="top-header">
         <div class="social-m-icon">
         <a href=" https://www.facebook.com/projectputhri"><img src="img/card-fb.svg" alt=""></a>
         <a href="https://twitter.com/projectputhri"><img src="img/card-twit.svg" alt=""></a>
@@ -21,7 +21,7 @@
         <a href="https://www.youtube.com/channel/UCLqnJJC6w6pHdyKucH8HaMQ/featured"><img src="img/card-ytube.svg" alt=""></a>
         <a href=" https://www.instagram.com/project_puthri"><img src="img/card-insta.svg" alt=""></a>
         </div>
-        <p>VOLUNTEER NOW</p>
+        <p>Volunteer Now</p>
       </div>
        <div class="navbar">
           <i class="bx bx-menu"></i>
@@ -74,7 +74,7 @@
       </nav>
 
     
-      <div id="background" class="..">
+      <!-- <div id="background" class="..">
         <div id="abt-banner" class="..">
           <img src="img/puthriprocess-banner.jpg" class="img-fluid" alt="banner">
           <div class="overlay-background previewbg">
@@ -92,7 +92,13 @@
                 </div>
             </div>
         </div>
-      </div>
+      </div> -->
+      <div class="banner-img mrg-t">
+             <img src="img/projectputhri-banner.jpg" alt="">
+               <div class="bg-shoadow">
+                 <h1>Puthri Model</h1>
+               </div>
+          </div>
 
       <div class="container">
         <div class="row">

@@ -3,7 +3,7 @@
   <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta charset="UTF-8">
-    <title> Puthri </title>
+    <title>project-puthri</title>
     <link rel="stylesheet" href="css/style.css">
     <link href='https://unpkg.com/boxicons@2.0.7/css/boxicons.min.css' rel='stylesheet'>
     <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
@@ -13,7 +13,7 @@
 
       <!-- Nav bar -->
       <nav>
-      <div class="top-neader">
+      <div class="top-header">
         <div class="social-m-icon">
         <a href=" https://www.facebook.com/projectputhri"><img src="img/card-fb.svg" alt=""></a>
         <a href="https://twitter.com/projectputhri"><img src="img/card-twit.svg" alt=""></a>
@@ -74,11 +74,11 @@
       </nav>
 
           <div class="banner-img mrg-t">
-          <img src="img/projectputhri-banner.jpg" alt="">
-          <div class="bg-shoadow">
-            <h1>Project Puthri</h1>
-      </div>
-      </div>
+             <img src="img/projectputhri-banner.jpg" alt="">
+               <div class="bg-shoadow">
+                 <h1>Project Puthri</h1>
+               </div>
+          </div>
       
         <!-- <div class="icon-bar">
           <a href="#" class="facebook">
@@ -110,7 +110,7 @@
         <section id='project-summaryputhri' class="... m-auto" >
           <div class="text-center padding-bottom">
             <h6>#ABOUT</h6>
-            <h3>Project PUTHRI</h3>
+            <h3 class="fnt-sub-hed">Project PUTHRI</h3>
           </div>
           <div class="pt-50">
           <div class="container">
@@ -119,7 +119,7 @@
                 <img src="img/About Project Puthri.jpeg" class="img-fluid">
               </div>
               <div class="col-12 col-sm-6 col-md-6 col-lg-6 col-xl-6 ">
-                 <h5>Project Puthri:</h5>
+                 <h5 class="pad-t-b">Project Puthri:</h5>
                   <p class="">Puthri is India’s first ever developmental project that seeks to create Career Intentionality among underprivileged girl students.It is an initiative by Avtar Human Capital Trust (AHCT), a not for-profit public charitable organization, working in the field of economic empowerment of women.</p>
                   <h5>Who is Puthri?</h5>
                   <p>Puthri is India’s daughter from an underprivileged family, studying in Corporation or Government School, between the age group of 13 & 18 years, studying in classes 8th to 12th who will be trained through a combination of classroom sessions, games and corporate exposure, to understand her capabilities better, prevent her from dropping-out of school, helping her build meaningful relationships and developing the necessary skills to be successful in her career.</p>
@@ -133,7 +133,7 @@
 
         <div class="ahtc-card-title pt-0">
           <h6>#ABOUT</h6>
-          <h3>Vision and Mission</h3><br>
+          <h3 class="fnt-sub-hed">Vision and Mission</h3><br>
           <h5>Vision</h5>
           <p>Puthri's vision, an India, where young girls at the bottom of the socio - economic pyramid are able to rise to their fullest potential by breaking out of the domestic labour economy to graduate into the knowledge economy, thus, eventually being able to contribute directly to the GDP of our country.</p>
           <br>
@@ -141,9 +141,9 @@
           <p> To make 10,000 corporation school girl students across Tamil Nadu & Pondicherry ‘Career intentional’ every year, facilitate girl students into tertiary education and ensure they pursue a white-collar job upon graduation.</p>
           </div>    
           <!-- Three - Pillars -->
-          <div class="text-center padding-top">
+          <div class="text-center padding-top pad-t-0">
           <h6>#PROJECTPUTHRI</h6>
-          <h3>Redesigning Destinies</h3>
+          <h3 class="fnt-sub-hed">Redesigning Destinies</h3>
         </div>
           <div class="banner banner100">
             <img src="img/three-pillars.svg" alt="">
@@ -151,9 +151,9 @@
 
 
       <section class="contact"  id="">
-      <div class="text-center padding-bottom">
+      <div class="text-center padding-bottom pad-t-b">
           <h6>#CONTACT US</h6>
-          <h3>Contact Us</h3>
+          <h3 class="fnt-sub-hed">Contact Us</h3>
         </div>
          <!-- CARDS -->
          <div class="d-flex details-cards">

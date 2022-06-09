@@ -3,7 +3,7 @@
   <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta charset="UTF-8">
-    <title> Puthri </title>
+    <title> sr-mam </title>
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/hover_effects.css">
     <link href='https://unpkg.com/boxicons@2.0.7/css/boxicons.min.css' rel='stylesheet'>
@@ -14,7 +14,7 @@
 
       <!-- Nav bar -->
       <nav>
-      <div class="top-neader">
+      <div class="top-header">
         <div class="social-m-icon">
         <a href=" https://www.facebook.com/projectputhri"><img src="img/card-fb.svg" alt=""></a>
         <a href="https://twitter.com/projectputhri"><img src="img/card-twit.svg" alt=""></a>
@@ -22,7 +22,7 @@
         <a href="https://www.youtube.com/channel/UCLqnJJC6w6pHdyKucH8HaMQ/featured"><img src="img/card-ytube.svg" alt=""></a>
         <a href=" https://www.instagram.com/project_puthri"><img src="img/card-insta.svg" alt=""></a>
         </div>
-        <p>VOLUNTEER NOW</p>
+        <p>Volunteer Now</p>
       </div>
        <div class="navbar">
           <i class="bx bx-menu"></i>
@@ -74,7 +74,7 @@
          </div>
       </nav>
       
-      <div class="banner-img mrg-t">
+      <div class="banner-img sr-mam-mrg-t">
           <img src="img/getinvolved-banner.jpg" alt="">
       </div>
        <!-- Back to Page Content -->
@@ -98,7 +98,7 @@
               <div class="main-content col-lg-6">
               <div class="first-head">
             <h6 class="sr-mam-img-title1 sr-mam-t-c">Dr Saundarya Rajesh</h6>
-            <h3 class="sr-mam-img-title2 ahtc-sub-text sr-mam-t-c">Managing Trustee – Avtar Human Capital Trust</h3>
+            <h3 class="sr-mam-img-title2 ahtc-sub-text sr-mam-t-c fnt-sub-hed">Managing Trustee – Avtar Human Capital Trust</h3>
           </div>
                   <p>
 Dr. Saundarya Rajesh is one of India’s most respected thought leaders on Diversity, Equity & Inclusion. An award-winning social entrepreneur, she is best known as the pioneer of Second Career opportunities for women in Corporate India. A relentless advocate of the potential of women in the workplace, Dr. Saundarya is the founder of successful social enterprises such as Avtar Career Creators, Flexi Careers India, Bruhat Insights Global and Avtar Human Capital Trust. Her latest brainchild myAvtar.com is India’s first diversity jobs portal for candidates belonging to the under-represented groups such as Women, People with Disabilities, People with LGBTQ+ identity and Veterans. A recipient of several awards and recognitions, Dr. Saundarya has irrevocably changed the game for the Indian Woman Professional, by introducing the concept of “Career Intentionality” and “Career Re-entry” to Corporate India. Her path breaking and exemplary work in the space of Diversity, Equity, and Inclusion has established her into a much sought-after advisor of choice for an impressive list of organizations and leaders on the benefits of a diversely inclusive workplace. Dr. Saundarya is a highly sought-after speaker at conferences — both national and international– and a firm believer in integrating work and life. In her pursuit to develop and inspire people to grow to their full potential, she has made her debut in through the book – “The 99 Day Diversity Challenge™” published by SAGE that hit the stands on October 30, 2018.
@@ -115,7 +115,7 @@ Dr. Saundarya Rajesh is one of India’s most respected thought leaders on Diver
           <div class="sr-mam-pb">
           <div class="ahtc-card-title">
           <h6>#vision</h6>
-          <h3>Our Vision</h3>
+          <h3 class="fnt-sub-hed">Our Vision</h3>
           </div>
           <!--  -->
           <div class="container">
@@ -138,7 +138,7 @@ Dr. Saundarya Rajesh is one of India’s most respected thought leaders on Diver
 
           <div class="ahtc-card-title">
             <h6>#AWARDS</h6>
-            <h3>AWARDS AND RECOGNITIONS</h3>
+            <h3 class="fnt-sub-hed">AWARDS AND RECOGNITIONS</h3>
             <br>
             <h5 class="ahtc-head-txt wdth100">2016</h5>
             <p class="ahtc-sub-txt wdth100">One among the #100 Women Achievers of India, an initiative by the Ministry of Women and Child Development, Government of India
@@ -158,7 +158,7 @@ Dr. Saundarya Rajesh is one of India’s most respected thought leaders on Diver
           </div>
           <div class="card-title prl20">
             <h6 class="text11">#C0NTACT US</h6>
-            <h3 class="text11">Contact Us</h3>
+            <h3 class="text11 fnt-sub-hed">Contact Us</h3>
             <p class ="ahtc-sub-txt wdth100">Help Project PUTHRI become the preferred charity partner in your work place events and invole your collegeues as advocates and participants of PUTHRI.read the word about</p>
           </div>
           <!-- CARDS -->

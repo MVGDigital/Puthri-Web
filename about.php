@@ -3,7 +3,7 @@
   <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta charset="UTF-8">
-    <title> Puthri </title>
+    <title>about</title>
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/hover_effects.css">
     <link href='https://unpkg.com/boxicons@2.0.7/css/boxicons.min.css' rel='stylesheet'>
@@ -14,7 +14,7 @@
 
       <!-- Nav bar -->
       <nav>
-      <div class="top-neader">
+      <div class="top-header">
         <div class="social-m-icon">
           <a href="https://www.facebook.com/projectputhri"><img src="img/card-fb.svg" alt=""></a>
           <a href="https://twitter.com/projectputhri"><img src="img/card-twit.svg" alt=""></a>
@@ -22,7 +22,7 @@
           <a href="https://www.youtube.com/channel/UCLqnJJC6w6pHdyKucH8HaMQ/featured"><img src="img/card-ytube.svg" alt=""></a>
           <a href="https://www.instagram.com/project_puthri"><img src="img/card-insta.svg" alt=""></a>
         </div>
-        <p>VOLUNTEER NOW</p>
+        <p>Volunteer Now</p>
       </div>
        <div class="navbar">
           <i class="bx bx-menu"></i>

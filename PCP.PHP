@@ -3,7 +3,7 @@
   <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta charset="UTF-8">
-    <title> Puthri </title>
+    <title>pcp</title>
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/hover_effects.css">
     <link href='https://unpkg.com/boxicons@2.0.7/css/boxicons.min.css' rel='stylesheet'>
@@ -14,7 +14,7 @@
 
       <!-- Nav bar -->
       <nav>
-      <div class="top-neader">
+      <div class="top-header">
         <div class="social-m-icon">
         <a href=" https://www.facebook.com/projectputhri"><img src="img/card-fb.svg" alt=""></a>
         <a href="https://twitter.com/projectputhri"><img src="img/card-twit.svg" alt=""></a>
@@ -99,7 +99,7 @@
       <section class="main-container">
           <div class="first-head main-header"> 
             <h6>#PCP</h6>
-            <h3>Puthri Career Pathing Program</h3>
+            <h3 class="fnt-sub-hed">Puthri Career Pathing Program</h3>
           </div>
           <div class="row d-flex img-txt" style="margin:auto;">
               <div class="main-content col-lg-6 pr-0">
@@ -110,13 +110,13 @@
               </div>
           </div>
 
-          <div class="mitr-banner mt50">
+          <div class="mitr-banner mt50 pcp-r-l">
                   <img src="img/pcp-3.jpeg" alt="">
           </div>
 
           <div class="card-title">
             <h6 class="c-img-title1">#CONTACT US</h6>
-            <h3 class="c-img-title2">Contact Us</h3>
+            <h3 class="c-img-title2 fnt-sub-hed">Contact Us</h3>
           </div>
           <!-- CARDS -->
           <div class="d-flex details-cards">

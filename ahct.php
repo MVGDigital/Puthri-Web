@@ -3,7 +3,7 @@
   <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta charset="UTF-8">
-    <title> Puthri </title>
+    <title> ahct </title>
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/hover_effects.css">
     <link href='https://unpkg.com/boxicons@2.0.7/css/boxicons.min.css' rel='stylesheet'>
@@ -14,7 +14,7 @@
 
       <!-- Nav bar -->
       <nav>
-      <div class="top-neader">
+      <div class="top-header">
         <div class="social-m-icon">
           <a href="https://www.facebook.com/projectputhri"><img src="img/card-fb.svg" alt=""></a>
           <a href="https://twitter.com/projectputhri"><img src="img/card-twit.svg" alt=""></a>
@@ -22,7 +22,7 @@
           <a href=" https://www.youtube.com/channel/UCLqnJJC6w6pHdyKucH8HaMQ/featured"><img src="img/card-ytube.svg" alt=""></a>
           <a href="https://www.instagram.com/project_puthri"><img src="img/card-insta.svg" alt=""></a>
         </div>
-        <p>VOLUNTEER NOW</p>
+        <p>Volunteer Now</p>
       </div>
        <div class="navbar">
           <i class="bx bx-menu"></i>
@@ -98,7 +98,7 @@
       <section class="main-container">
           <div class="first-head">
             <h6 class="c-img-title1">#AHCT</h6>
-            <h3 class="c-img-title2 ahtc-sub-text">AHCT Overview</h3>
+            <h3 class="c-img-title2 ahtc-sub-text fnt-sub-hed">AHCT Overview</h3>
           </div>
           <div class="row d-flex img-txt">
               <div class="main-content col-lg-6">
@@ -115,7 +115,7 @@ Social responsibility continues to be an intrinsic part of AVTAR family, and tod
           </div>
           <div class="ahtc-card-title">
             <h6 class="c-img-title1">#OBJECTIVES</h6>
-            <h3 class="c-img-title2 ahtc-sub-text">Objectives Of The Truest</h3>
+            <h3 class="c-img-title2 ahtc-sub-text fnt-sub-hed">Objectives Of The Truest</h3>
           </div>
           <div class="main-sub-Overview">
               <p>To support initiatives within congregations or communities to promote education and training of girls and women.</p>
@@ -128,7 +128,7 @@ Social responsibility continues to be an intrinsic part of AVTAR family, and tod
           </div>
           <div class="ahtc-card-title">
             <h6 class="c-img-title1">#INITIATIVE</h6>
-            <h3 class="c-img-title2 ahtc-sub-text">Important Initiative Of Avatar Human Capital Trust</h3>
+            <h3 class="c-img-title2 ahtc-sub-text fnt-sub-hed">Important Initiative Of Avatar Human Capital Trust</h3>
             <p class="ahtc-head-txt">Financial assistance to deserving students from underprivileged backgrounds</p>
             <p class="ahtc-sub-txt">By funding the education of meritorious students from economically backward sections of the society (based on their intent for self-development, aptitude and academic record) the trust aims to extend the power of education to the underprivileged and thereby opening their access to a host of employment opportunities that education can bring.
 AHCT also supports community initiatives to promote education and training of underprivileged women to ensure that they are in equal avail of all opportunities as their male counterparts.</p>
@@ -147,7 +147,7 @@ AHCT also supports community initiatives to promote education and training of un
           </div>
           <div class="card-title">
             <h6 class="c-img-title1">#C0NTACTUS</h6>
-            <h3 class="c-img-title2">Contact Us</h3>
+            <h3 class="c-img-title2 fnt-sub-hed">Contact Us</h3>
           </div>
           <!-- CARDS -->
           <div class="d-flex details-cards">
