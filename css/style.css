@@ -2731,6 +2731,7 @@ Main Components
      .rate1000{
        display: flex;
        padding-left: 0;
+       align-items: center;
      }
   }
   @media (max-width:668px){  
@@ -3547,8 +3548,25 @@ nav .navbar .links li .sub-menu li{
   .event{
     width: 100% !important;
   }
+  #counter-stats{
+    margin: 20px 0;
+  }
+  .fnt-siz{
+    margin-left: 10px;
+    margin-bottom: 0!important;
+    font-size: 25px!important;
+  }
   .donate{
     font-size: 12px;
+  }
+  .partners{
+    padding-top: 250px;
+  }
+  .home-space{
+    margin-top: 0px;
+  }
+  .home-space{
+    padding: 15px;
   }
   .mar-t-0{
     margin-top: 0!important;
@@ -3561,6 +3579,14 @@ nav .navbar .links li .sub-menu li{
   }
   .pad-b-0{
     padding-bottom: 0!important;
+  }
+  .pad-t-b{
+    padding: 15px;
+  }
+  .get-in{
+    margin-top: 10px;
+    font-size: 25px!important;
+    font-family: 'Lato'!important;
   }
 
 }

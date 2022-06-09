@@ -409,22 +409,22 @@
           </div>
           <div class="col-12 col-sm-6">
             <div class="row p-0">
-              <div class="col-6 col-sm-6 col-lg-4 ">
+              <div class="col-6 col-sm-6 col-lg-4 home-space">
                 <img src="image/agni_college_logo.png" class="img-fluid">
               </div>
-              <div class="col-6 col-sm-6 col-lg-4 ">
+              <div class="col-6 col-sm-6 col-lg-4 home-space ">
                 <img src="image/apollo_tyres.png" class="img-fluid">
               </div>
-              <div class="col-6 col-lg-4 ">
+              <div class="col-6 col-lg-4 home-space">
                 <img src="image/CavinKare.png" class="img-fluid">
               </div>
-              <div class="col-6 col-lg-4 space">
+              <div class="col-6 col-lg-4 space home-space">
                 <img src="image/DGVC_LOGO.png" class="img-fluid" >
               </div>
-              <div class="col-6 col-lg-4 space">
+              <div class="col-6 col-lg-4 space home-space">
                 <img src="image/ITC.png" class="img-fluid"  >
               </div>
-              <div class="col-6 col-lg-4 space">
+              <div class="col-6 col-lg-4 space home-space">
                 <img src="image/Flex.png" class="img-fluid" >
               </div>
             </div>
@@ -436,22 +436,22 @@
         <div class="row">
           <div class="col-12 col-md-6 col-xl-6 mt-50">
             <div class="row p-0">
-              <div class="col-6 col-sm-6 col-lg-4 ">
+              <div class="col-6 col-sm-6 col-lg-4 home-space">
                 <img src="image/bradken.png" class="img-fluid">
               </div>
-              <div class="col-6 col-sm-6 col-lg-4 ">
+              <div class="col-6 col-sm-6 col-lg-4 home-space">
                 <img src="image/cat.png" class="img-fluid">
               </div>
-              <div class="col-6 col-lg-4 ">
+              <div class="col-6 col-lg-4 home-space">
                 <img src="image/CII_YI.png" class="img-fluid">
               </div>
-              <div class="col-6 col-lg-4 space">
+              <div class="col-6 col-lg-4 space home-space">
                 <img src="image/Cognizant_Outreach.png" class="img-fluid" >
               </div>
-              <div class="col-6 col-lg-4 space">
+              <div class="col-6 col-lg-4 space home-space">
                 <img src="image/Danfoss_high_res.png" class="img-fluid" >
               </div>
-              <div class="col-6 col-lg-4 space">
+              <div class="col-6 col-lg-4 space home-space">
                 <img src="image/D&B.png" class="img-fluid">
               </div>
             </div>
@@ -473,24 +473,24 @@
       <!--==================================================================
        Impact
       ==================================================================-->
-      <section class="impact text-center" id="">
+      <section class="impact text-center pad-t-0" id="">
         <div class="mx-auto">
           <h6>#FEATURED</h6>
           <h3>Featured Schools</h3>
           <br>
           <div class="container">
             <div class="row">
-              <div class="col-12 col-md-6 col-lg-6 col-xl-4 m-auto">
+              <div class="col-12 col-md-6 col-lg-6 col-xl-4 m-auto pad-t-b">
                 <img src="img/featured-1.jpg" class="responsive">
                 <h6 class="impact-mnth">Schools of the Month</h6>
                 <h5 class="impact-date">09 Jul 2021</h5>
               </div>
-              <div class="col-12 col-md-6 col-lg-6 col-xl-4 m-auto">
+              <div class="col-12 col-md-6 col-lg-6 col-xl-4 m-auto pad-t-b">
                 <img src="img/featured-2.jpg" class="responsive">
                 <h6 class="impact-mnth">Schools of the Month</h6>
                 <h5 class="impact-date">09 Jul 2021</h5>
               </div>
-              <div class="col-12 col-md-6 col-lg-6 col-xl-4 m-auto">
+              <div class="col-12 col-md-6 col-lg-6 col-xl-4 m-auto pad-t-b">
                 <img src="img/featured-3.jpg" class="responsive">
                 <h6 class="impact-mnth">Schools of the Month</h6>
                 <h5 class="impact-date">09 Jul 2021</h5>
@@ -691,7 +691,7 @@
           <div class="container">
             <div class="row">
               <div class="col-12 col-sm-12 col-md-12 col-lg-6">
-                <h2 class="involved-heading">WANT TO GET INVOLVED ??</h2>
+                <h2 class="involved-heading get-in">WANT TO GET INVOLVED ??</h2>
               </div>
               <div class="col-6 col-sm-4 col-md-4 col-lg-4 col-xl-2">
                 <button type="button" class="involved-btn">INTERNSHIP</button>
@@ -708,7 +708,7 @@
                   </div>
                   <div class="col-md-4 col-lg-4">
                     <div class="letter">
-                      <h3 class="address-text counttext1">Subscribe to our Newsletter</h3> 
+                      <h3 class="address-text counttext1 get-in">Subscribe to our Newsletter</h3> 
                       <div class="address-content">
                         <div class="linked">
                           <form action="">
