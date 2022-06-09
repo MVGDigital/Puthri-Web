@@ -3,7 +3,7 @@
   <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta charset="UTF-8">
-    <title> Puthri </title>
+    <title>pcca</title>
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/hover_effects.css">
     <link href='https://unpkg.com/boxicons@2.0.7/css/boxicons.min.css' rel='stylesheet'>
@@ -14,7 +14,7 @@
 
       <!-- Nav bar -->
       <nav>
-      <div class="top-neader">
+      <div class="top-header">
         <div class="social-m-icon">
         <a href=" https://www.facebook.com/projectputhri"><img src="img/card-fb.svg" alt=""></a>
           <a href="https://twitter.com/projectputhri"><img src="img/card-twit.svg" alt=""></a>
@@ -22,7 +22,7 @@
           <a href="https://www.youtube.com/channel/UCLqnJJC6w6pHdyKucH8HaMQ/featured"><img src="img/card-ytube.svg" alt=""></a>
           <a href=" https://www.instagram.com/project_puthri"><img src="img/card-insta.svg" alt=""></a>
         </div>
-        <p>VOLUNTEER NOW</p>
+        <p>Volunteer Now</p>
       </div>
        <div class="navbar">
           <i class="bx bx-menu"></i>
@@ -99,7 +99,7 @@
       <section class="main-container">
           <div class="first-head main-header"> 
             <h6>#PCCA</h6>
-            <h3>Puthri Career Choice Assessment</h3>
+            <h3 class="width63 fnt-sub-hed">Puthri Career Choice Assessment</h3>
             <p class="width63">The objective of career coaching in project Puthri is to help the Puthri Scholars to make informed decisions about their career development and trajectory by identifying their strengths & passions.</p>
             
           </div>
@@ -119,9 +119,9 @@
                   <img src="img/pcca-2.jpg" alt="">
               </div>
           </div>  
-          <div class="first-head main-header"> 
+          <div class="first-head main-header home-space"> 
             <h6>#BENIFITS</h6>
-            <h3>How Does PCCA Benefits A Puthri Scholar?</h3>
+            <h3 class="fnt-sub-hed">How Does PCCA Benefits A Puthri Scholar?</h3>
             <p>Puthri Career Choice Assessment (PCCA) is a one-of-a-kind self-assessment tool developed indigenously to fit the students in India. PCCA helps Puthri Scholars two-fold.</p>
             <p>To understand her personality better to make an informed career choice.</p>
             <p>To understand her strengths, passion and interest which will enable her to study her choice of subjects and pursue her dream career, thus minimizing stress.</p>
@@ -133,28 +133,53 @@
           </div>
           <div class="ahtc-card-title">
             <h6>#COMPONENTS</h6>
-            <h3>What are the components of the PCCA assessment report?</h3>
+            <h3 class="fnt-sub-hed">What are the components of the PCCA assessment report?</h3>
           </div>
-          <div class="d-flex mitr-text-content">
-              <div class="text-setion-1 col-6">
-              <p class="ahtc-head-txt">Section 1: Personality Traits</p>
-              <p class="ahtc-head-txt">Section 2: Basic Personality Traits</p>
-              <p class="ahtc-head-txt">Section 3: Career Oriented Personality Traits</p>
-              <p class="ahtc-head-txt">Section 4: Personality-Career Mapping</p>
-              <p class="ahtc-head-txt">Section 5: Career Clusters</p>
-              </div>
-              <div class="text section-2 col-6">
-              <p>Describes the twelve personality traits that are measured</p>
-              <p>Gives her scores on the basic personality traits</p>
-              <p>Gives her scores on career oriented personality traits and also identifies her dominant career oriented personality traits.</p>
-              <p>Maps her dominant career oriented personality traits with appropriate/suitable career clusters</p>
-              <p>Describes the career clusters of the dominant career oriented traits and gives an indicative list of career domains</p>
 
-              </div>
+          <div class="d-flex col-lg-10 m-auto"> <!-- poits-1 -->
+            <div class="poins-header col-6">
+            <p class="ahtc-head-txt pcca-p-head">Section 1: Personality Traits</p>
+            </div>
+            <div class="points-sub-header col-6">
+            <p>Describes the twelve personality traits that are measured</p>
+            </div>
+            </div>
+
+            <div class="d-flex col-lg-10 m-auto"><!-- poits-2 -->
+            <div class="poins-header col-6">
+            <p class="ahtc-head-txt pcca-p-head">Section 2: Basic Personality Traits</p>
+            </div>
+            <div class="points-sub-header col-6">
+            <p>Gives her scores on the basic personality traits</p>
+            </div>
+          </div>
+          <div class="d-flex col-lg-10 m-auto"><!-- poits-3 -->
+            <div class="poins-header col-6">
+            <p class="ahtc-head-txt pcca-t-head">Section 3: Career Oriented Personality Traits</p>
+            </div>
+            <div class="points-sub-header col-6">
+            <p>Gives her scores on career oriented personality traits and also identifies her dominant career oriented personality traits.</p>
+            </div>
+          </div>
+          <div class="d-flex col-lg-10 m-auto"><!-- poits-4 -->
+            <div class="poins-header col-6">
+            <p class="ahtc-head-txt pcca-4-head">Section 4: Personality-Career Mapping</p>
+            </div>
+            <div class="points-sub-header col-6">
+            <p>Maps her dominant career oriented personality traits with appropriate/suitable career clusters</p>
+            </div>
+          </div>
+          <div class="d-flex col-lg-10 m-auto"><!-- poits-5-->
+            <div class="poins-header col-6">
+            <p class="ahtc-head-txt pcca-5-head">Section 5: Career Clusters</p>
+            </div>
+            <div class="points-sub-header col-6">
+            <p>Describes the career clusters of the dominant career oriented traits and gives an indicative list of career domains</p>
+            </div>
           </div>
           <div class="card-title">
             <h6 class="c-img-title1">#CONTACT US</h6>
-            <h3 class="c-img-title2">Contact Us</h3>
+            <h3 class="c-img-title2 fnt-sub-hed">Contact Us</h3>
           </div>
           <!-- CARDS -->
           <div class="d-flex details-cards">
@@ -245,7 +270,7 @@
                     </div>
                     <div class="col-md-6 col-lg-3">
                       <div class="footer-link">
-                         <h5>Quick link</h5>
+                         <h5>Quick link</h5>  
                            <div class="linked">
                             <ul>
                               <li>

@@ -4,7 +4,7 @@
       <head>
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <meta charset="UTF-8">
-      <title> Puthri </title>
+      <title> our-team </title>
       <link rel="stylesheet" href="css/style.css">
       <link href='https://unpkg.com/boxicons@2.0.7/css/boxicons.min.css' rel='stylesheet'>
       <link rel="stylesheet" type="text/css" href="css/slick-slider.css">
@@ -17,7 +17,7 @@
       </head>
 <body>
 <nav>
-      <div class="top-neader">
+      <div class="top-header">
         <div class="social-m-icon">
         <a href=" https://www.facebook.com/projectputhri"><img src="img/card-fb.svg" alt=""></a>
           <a href="https://twitter.com/projectputhri"><img src="img/card-twit.svg" alt=""></a>
@@ -25,7 +25,7 @@
           <a href="https://www.youtube.com/channel/UCLqnJJC6w6pHdyKucH8HaMQ/featured"><img src="img/card-ytube.svg" alt=""></a>
           <a href=" https://www.instagram.com/project_puthri"><img src="img/card-insta.svg" alt=""></a>
         </div>
-        <p>VOLUNTEER NOW</p>
+        <p>Volunteer Now</p>
       </div>
        <div class="navbar">
           <i class="bx bx-menu"></i>
@@ -88,7 +88,7 @@
       <div class="card-img-section">
           <div class="card-title">
           <h6 class="text11">#TRUSTEES</h6>
-          <h3 class="text11">Our Trustees</h3>
+          <h3 class="text11 fnt-sub-hed">Our Trustees</h3>
           </div>
           <div class="card-img d-flex m-auto col-lg-10">
           <a href="sr_mam.php">
@@ -123,7 +123,7 @@
           </div>
           <div class="card-title">
           <h6 class="text11">#TEAM</h6>
-          <h3 class="text11">Our Team</h3>
+          <h3 class="text11 fnt-sub-hed">Our Team</h3>
           </div>
           <div class="card-img d-flex m-auto col-lg-10">
           <div id="three" class="card-container">
@@ -264,7 +264,7 @@ for (var i = 0; i < btns.length; i++) {
 </script>
           <div class="card-title">
           <h6 class="text11">#CONTACT US</h6>
-          <h3 class="text11">Contact Us</h3>
+          <h3 class="text11 fnt-sub-hed">Contact Us</h3>
           </div>
           <div class="d-flex details-cards f-rap">
           <div class='home-box-fifth hbf-lblue'>

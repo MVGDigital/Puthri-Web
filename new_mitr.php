@@ -3,7 +3,7 @@
   <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta charset="UTF-8">
-    <title> Puthri </title>
+    <title>mitr</title>
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/hover_effects.css">
     <link href='https://unpkg.com/boxicons@2.0.7/css/boxicons.min.css' rel='stylesheet'>
@@ -14,7 +14,7 @@
 
       <!-- Nav bar -->
       <nav>
-      <div class="top-neader">
+      <div class="top-header">
         <div class="social-m-icon">
         <a href=" https://www.facebook.com/projectputhri"><img src="img/card-fb.svg" alt=""></a>
           <a href="https://twitter.com/projectputhri"><img src="img/card-twit.svg" alt=""></a>
@@ -22,7 +22,7 @@
           <a href="https://www.youtube.com/channel/UCLqnJJC6w6pHdyKucH8HaMQ/featured"><img src="img/card-ytube.svg" alt=""></a>
           <a href=" https://www.instagram.com/project_puthri"><img src="img/card-insta.svg" alt=""></a>
         </div>
-        <p>VOLUNTEER NOW</p>
+        <p>Volunteer Now</p>
       </div>
        <div class="navbar">
           <i class="bx bx-menu"></i>
@@ -98,7 +98,7 @@
       <section class="main-container">
           <div class="first-head">
             <h6 class="text11">#MITR</h6>
-            <h3 class="text11">MITR</h3>
+            <h3 class="text11 fnt-sub-hed">MITR</h3>
           </div>
           <div class="row d-flex img-txt" style="margin:auto;">
               <div class="main-content col-lg-6 pr-0">
@@ -142,7 +142,7 @@ Thus AVTAR Human Capital Trust formulated “MITR” for young school going boys
           </div>
           <div class="ahtc-card-title">
             <h6>#MODEL</h6>
-            <h3>OUR MODEL</h3>
+            <h3 class="fnt-sub-hed">OUR MODEL</h3>
           </div>
           <div class="mitr-card-title pt-0">
           <p class="ahtc-head-txt"></p>
@@ -154,7 +154,7 @@ Thus AVTAR Human Capital Trust formulated “MITR” for young school going boys
           </div>
           <div class="ahtc-card-title">
             <h6>#KNOWLEDGE SHARING</h6>
-            <h3>AGE APPROPRIATE TOPICS FOR KNOWLEDGE SHARING</h3>
+            <h3 class="fnt-sub-hed">AGE APPROPRIATE TOPICS FOR KNOWLEDGE SHARING</h3>
           </div>
           <div class="d-flex mitr-text-content">
               <div class="text-setion-1 col-6">
@@ -171,7 +171,7 @@ Thus AVTAR Human Capital Trust formulated “MITR” for young school going boys
           </div>
           <div class="card-title">
             <h6 class="text11">#C0NTACT US</h6>
-            <h3 class="text11">Contact Us</h3>
+            <h3 class="text11 fnt-sub-hed">Contact Us</h3>
           </div>
           <!-- CARDS -->
           <div class="d-flex details-cards">

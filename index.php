@@ -3,7 +3,7 @@
       <head>
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <meta charset="UTF-8">
-      <title> Puthri </title>
+      <title> home </title>
       <link rel="stylesheet" href="css/style.css">
       <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
       <link href="css/ninja-slider.css" rel="stylesheet" type="text/css" />
@@ -18,7 +18,7 @@
 
       <!-- Nav bar -->
       <nav>
-      <div class="top-neader">
+      <div class="top-header">
         <div class="social-m-icon">
           <a href="https://www.facebook.com/projectputhri"><img src="img/card-fb.svg" alt=""></a>
           <a href="https://twitter.com/projectputhri"><img src="img/card-twit.svg" alt=""></a>
@@ -26,7 +26,7 @@
           <a href="https://www.youtube.com/channel/UCLqnJJC6w6pHdyKucH8HaMQ/featured"><img src="img/card-ytube.svg" alt=""></a>
           <a href="https://www.instagram.com/project_puthri"><img src="img/card-insta.svg" alt=""></a>
         </div>
-        <p>VOLUNTEER NOW</p>
+        <p>Volunteer Now</p>
       </div>
        <div class="navbar">
           <i class="bx bx-menu"></i>
@@ -210,7 +210,7 @@
 
       <section id="transformations" class="section-padding container">
         <h6>#PUTHRI MODEL</h6>
-        <h3>Puthri Model</h3>
+        <h3 class="fnt-sub-hed">Puthri Model</h3>
         <section class="center slider m-0">
           <div>
             <div class="hover">
@@ -289,7 +289,7 @@
       <section id="home-vision transformations" class="section-padding">
         <div class="text-center hm-left">
           <h6>#VISION</h6>
-          <h3>Our Vision</h3>
+          <h3 class="fnt-sub-hed">Our Vision</h3>
         </div>
         <div class="container">
           <div class="row">
@@ -318,7 +318,7 @@
               <div class="col-12 col-sm-12 col-md-6 col-lg-3 col-xl-5">
                 <div class="event text-left pad-t-0">  
                 <h6>#EVENTS</h6>
-                  <h3>Project Puthri Events</h3>
+                  <h3 class="fnt-sub-hed">Project Puthri Events</h3>
                   <h5 class="event-subheading">Udyog Utsav, PRAYAG, Puthri Talent Show</h5>
                   <p >Project Puthri events are a reflection of our core values and culture. A culmination of team work and cohesiveness, every event plays a significant role in redefining the identities of our Puthri scholars.</p>
                   <a href="news.php">
@@ -403,7 +403,7 @@
             <div class="col-lg-6">
               <div class="accrediations">
                 <h6>#PARTNERS</h6>
-                <h3>Our Partners</h3>
+                <h3 class="fnt-sub-hed">Our Partners</h3>
                 <p class="text-left">Help Project Puthri become the preferred charity partner in your work place events and involve your colleagues as advocates and participants of Puthri</p>
             </div>
           </div>
@@ -459,7 +459,7 @@
           <div class="col-12 col-sm-12 col-lg-6 mt-50 move-first">
             <div class="accrediations">
               <h6>#DONORS</h6>
-              <h3>Our Donors</h3>
+              <h3 class="fnt-sub-hed">Our Donors</h3>
               <p class="text-left">Adopt a school for a year and sponsor 100 Puthri scholars to transform and empower them</p>
             </div>
           </div>
@@ -476,7 +476,7 @@
       <section class="impact text-center pad-t-0" id="">
         <div class="mx-auto">
           <h6>#FEATURED</h6>
-          <h3>Featured Schools</h3>
+          <h3 class="fnt-sub-hed">Featured Schools</h3>
           <br>
           <div class="container">
             <div class="row">
@@ -507,7 +507,7 @@
       ==================================================================-->
       <section class="testimonials">
         <h6>#TESTIMONIALS</h6>
-        <h3>Volunteers Feedback</h3>
+        <h3 class="fnt-sub-hed">Volunteers Feedback</h3>
         <div class="container">
           <div class="card col-md-12 mt-2 p-0">
               <div id="carouselExampleControls" class="carousel slide" data-ride="carousel" data-interval="100000">
