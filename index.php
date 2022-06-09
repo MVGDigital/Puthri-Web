@@ -94,7 +94,7 @@
                       <div class="container rl-width">
                         <div class="row">
                           <div class="col-sm-11 col-md-11 col-lg-11 col-xs-11">
-                            <h1 class="banner-text"> Ensure every girl student pursues<br>a white collar job upon graduation</h1>
+                            <h1 class="banner-text"> Ensure every girl student pursues a white collar job upon graduation</h1>
                               <p class="counttext1 mrgb">Make 10,000 government school girl students ‘Career Intentional’ every year</p>
                               <button class="donate">donate now</button>
                           </div>
@@ -211,15 +211,20 @@
       <section id="transformations" class="section-padding container">
         <h6>#PUTHRI MODEL</h6>
         <h3>Puthri Model</h3>
+        <p>Avtar Human Capital Trust (AHCT) conducted a research study in 2016 to understand what made over 500 corporation school girl students (over the years 1992 to 2010) break out of poverty and pursue white collar jobs today.
+
+Research says, a well-rounded mentoring & training program will inspire and encourage the government school girls to study well at school, decrease their dropout rates, support & motivate them to take up tertiary education and grow into a confident career professional, thus elevating them from their present economic status, to live a life of fulfillment & advancement.
+</p>
         <section class="center slider m-0">
           <div>
             <div class="hover">
               <a href="puthri-process.php">
                 <div class="content pos-r">
                   <div class="content-overlay"></div>
-                    <img src="img/Attitudinal Training.png  ">
+                    <img src="img/Talent Search.png">
                     <div class="content-details fadeIn-bottom">
-                      <p class="content-text pos-ab">Attitudinal training for over a period of 5 years, beginning from class 8th till class 12th, delivered through a combination of classroom sessions, games and corporate exposure</p>
+                      <h5 class="counttext1">Talent Search </h5>
+                      <p class="content-text pos-ab">The year 2021 saw the unveiling of our most-awaited and planned series of events to identify our Star Puthris - The Talent Search Event. Puthri encourages the students to showcase their talent through Talent contests under different categories like Eloquent contest, Poster Making competition, Essay Writing, AdZap et al.</p>
                     </div>
                 </div>
               </a>
@@ -230,9 +235,10 @@
               <a href="puthri-process.php">
                 <div class="content pos-r">
                   <div class="content-overlay"></div>
-                    <img src="img/career intentionality.png" >
+                    <img src="img/Scolarship.png" >
                     <div class="content-details fadeIn-bottom">
-                      <p class="content-text pos-ab">CAREER INTENTIONALITY mentoring & training till the age of 18 years and till they complete their graduation</p>
+                      <h5 class="counttext1">Scholarship</h5>
+                      <p class="content-text pos-ab">The scholarship program involves the process of screening, selection of scholars, identifying donors and funding after university enrolment, evaluation of academic progress of the scholars, and continued mentoring until the set goal is achieved</p>
                     </div>
                 </div>
               </a>
@@ -243,9 +249,10 @@
               <a href="puthri-process.php">
                 <div class="content pos-r">
                   <div class="content-overlay"></div>
-                    <img src="img/Health & Hygiene.png" >
+                    <img src="img/Mentoring.png" >
                     <div class="content-details fadeIn-bottom">
-                      <p class="content-text pos-ab">Health & hygiene education, including knowledge on malnutrition, healthy eating habits and how it will lead to begetting healthy children and raise them better for a brighter future.</p>
+                      <h5 class="counttext1">Mentoring</h5>
+                      <p class="content-text pos-ab"> A mentor will encourage, motivate, challenge and guide every Puthri scholar to think through different solutions for various problems in life. The Mentor will link and support her long term goals, values and emotions to a larger organizational agenda, as she becomes career oriented and career intentional to better her future and quality of life.</p>
                     </div>
                 </div>
               </div>
@@ -256,9 +263,10 @@
               <a href="puthri-process.php">
                 <div class="content pos-r">
                   <div class="content-overlay"></div>
-                    <img src="img/Digital Knowledge.png" >
+                    <img src="img/Role Model 2.png" >
                     <div class="content-details fadeIn-bottom">
-                      <p class="content-text pos-ab">Empower them with digital knowledge & economy, so that they get into white collar jobs and directly contribute to the increase in GDP of our country.</p>
+                      <h5 class="counttext1">Role Model</h5>
+                      <p class="content-text pos-ab"> Role models will lead by example and inspire Puthri scholars to achieve their potential in life. They will share real life success stories with these girls as to how they achieved success despite the various challenges & hurdles in their life and give them the confidence to overcome every hurdle with perseverance and eventually succeed in life.</p>
                     </div>
                 </div>
               </div>
@@ -269,15 +277,28 @@
               <a href="puthri-process.php">
                 <div class="content pos-r">
                   <div class="content-overlay"></div>
-                    <img src="img/Enable them for white collar jobs.png" >
+                    <img src="img/Career coaching.png" >
                     <div class="content-details fadeIn-bottom">
-                      <p class="content-text pos-ab">Enable them to get into white-collar jobs to help them come out of poverty and help their families and future generations to live a life of fulfillment and advancement.</p>
+                      <h5 class="counttext1">Career Coaching</h5>
+                      <p class="content-text pos-ab">Career coaches provide expert guidance which empowers Puthri scholars to identify their strengths & passions, the means & ways to realise them and help them see their present challenges as advantages and help overcome them.</p>
                     </div>
                 </div>
               </a>
             </div>
           </div>
-         
+          <div class="hover">
+              <a href="puthri-process.php">
+                <div class="content pos-r">
+                  <div class="content-overlay"></div>
+                    <img src="img/8 dimension of transformation.png" >
+                    <div class="content-details fadeIn-bottom">
+                      <h5 class="counttext1">8 Dimensions of transformation </h5>
+                      <p class="content-text pos-ab"> The 8 themes are the core pillars on which Puthri scholars are provided interventions which result in building career intentional future-ready citizens. Health & Hygiene, Self-Defence, Financial Acumen, Nutrition, Analytical Thinking, Digital Knowledge, Art of Selling, & Entrepreneurship.</p>
+                    </div>
+                </div>
+                </a>
+              </div>
+          </div>
         </div>
       </div>
     </div>
@@ -330,11 +351,10 @@
                   <div class="swiper-container">
                     <div class="swiper-wrapper">
                       <!-- <div class="swiper-slide"><img src="img/PRAYAG`19-Bharatanatyam 2.jpg" class="img-fluid"></div> -->
-                      <div class="swiper-slide"><img src="img/PRAYAG`19-Group Song 3.jpg" class="img-fluid"></div>
-                      <div class="swiper-slide"><img src="img/Talent Show Prize Chennai 1.jpeg" class="img-fluid"></div>
+                      <div class="swiper-slide"><img src="img/PRAYAG`19-Bharatanatyam 2.png" class="img-fluid"></div>
+                      <div class="swiper-slide"><img src="img/eventsimg.png" class="img-fluid"></div>
                       <!-- <div class="swiper-slide"><img src="img/Talent Show Prize Chennai 4.jpeg" class="img-fluid"></div> -->
-                      <div class="swiper-slide"><img src="img/event-2.png" class="img-fluid"></div>
-                      <div class="swiper-slide"><img src="img/event-1.png" class="img-fluid"></div>
+                      <div class="swiper-slide"><img src="img/Udyog Utsav 3.png" class="img-fluid"></div>
                     </div>
                     <div class="swiper-button-prev"></div>
                     <div class="swiper-button-next"></div>
@@ -519,12 +539,12 @@
                           <div class="carousel-caption">
                               <div class="row">
                                 <div class="col-sm-5 p-0">
-                                  <img class="img-fluid" src="img/balaram.png" alt="Balaraman-img" >
+                                  <img class="img-fluid" src="img/Anitha Kothandapani.png" alt="Balaraman-img" >
                                 </div>
                                 <div class="col-sm-7 col-12 testimonials-box">
-                                 <h3 class="testimonials-text">Balaraman</h3>
+                                 <h3 class="testimonials-text">Anitha kothandapani</h3>
                                 <h5 class="sub-heading">Volunteer</h5>
-                                <p class="testimonials-content">The vision of team Puthri to make every girl child career intentional so that she makes an informed career choice has evolved during the Pandemic situation. I am with team Puthri since its inception and have witnessed the mettle and courage the team has shown during the covid year. I thank the team for providing me with a variety of roles to be a part of this wonderful project.</p>
+                                <p class="testimonials-content">Mentoring online through webinar sessions has encouraged me to be creative in my presentation. Searching for stories that Puthri’s can identify or connect with, and presenting them so that every Puthri participates during the mentoring session, has been a rewarding experience. I thank all the Puthri volunteers for helping me through the sessions and making my learning experience a satisfying journey.</p>
                               </div>
                               </div>
                             </div>
@@ -533,12 +553,12 @@
                           <div class="carousel-caption">
                               <div class="row">
                                  <div class="col-sm-5 p-0">
-                                  <img class="img-fluid" src="img/vamsi-krishna.png" alt="vamsi-img" >
+                                  <img class="img-fluid" src="img/Anu Karthikeyan.png" alt="vamsi-img" >
                                 </div>
                                 <div class="col-sm-7 col-12 testimonials-box">
-                                 <h3 class="testimonials-text">Vamsi Krishna </h3>
+                                 <h3 class="testimonials-text">Anu Karthikeyan</h3>
                                  <h5 class="sub-heading">Volunteer</h5>
-                                <p class="testimonials-content">I have been an active volunteer since the inception of Project Puthri. Team Puthri has tackled the ills of society that bind a girl child at its roots. Educating a girl child and making her qualified for all the white-collar jobs gives her economic independence. By teaching her the much-needed life skills, Project Puthri empowers her. During the difficult year of 2020, team Puthri united to push through and reach more Puthri scholars via online mentoring sessions. I am proud to be a part of Project Puthri. </p>
+                                <p class="testimonials-content">Being a mentor gives me immense satisfaction because I can help and guide Puthri scholars in developing career intentionality. An educated girl can empower an entire generation, and an informed Puthri scholar will opt for the right career path and inspire the next generation. I take pride in being a part of the team that works hard to interact, identify, and hone the skills, of deserving Puthri scholars for a bright future.</p>
                               </div>
                               </div>
                           </div>
@@ -552,12 +572,12 @@
                           <div class="carousel-caption">
                               <div class="row">
                                 <div class="col-sm-5 p-0">
-                                  <img class="img-fluid" src="img/anu.png" alt="anu-img" >
+                                  <img class="img-fluid" src="img/Aparna Ram.png" alt="anu-img" >
                                 </div>
                                 <div class="col-sm-7 col-12 testimonials-box">
-                                 <h3 class="testimonials-text">Anu Karthikeyan</h3>
+                                 <h3 class="testimonials-text">Aparna Ram</h3>
                                  <h5 class="sub-heading">Volunteer</h5>
-                                <p class="testimonials-content">Being a mentor gives me immense satisfaction because I can help and guide Puthri scholars in developing career intentionality. An educated girl can empower an entire generation, and an informed Puthri scholar will opt for the right career path and inspire the next generation.</p>
+                                <p class="testimonials-content">I have witnessed the Puthri team redefine the new normal during the pandemic situation within a short duration. Continuing to strive and achieve the goal, team Puthri evolved by changing the mode of connecting with Puthri scholars. Personally, Project Puthri offered me a space of normalcy and hope.</p>
                               </div>
                               </div>
                             </div>
@@ -566,12 +586,12 @@
                           <div class="carousel-caption">
                               <div class="row">
                                  <div class="col-sm-5 p-0">
-                                  <img class="img-fluid" src="img/anitha.png" alt="anitha-img" >
+                                  <img class="img-fluid" src="img/Balaraman.png" alt="anitha-img" >
                                 </div>
                                 <div class="col-sm-7 col-12 testimonials-box">
-                                 <h3 class="testimonials-text">Anitha kothandapani</h3>
+                                 <h3 class="testimonials-text">Balaraman</h3>
                                  <h5 class="sub-heading">Volunteer</h5>
-                                <p class="testimonials-content">Mentoring online through webinar sessions has encouraged me to be creative in my presentation. Searching for stories that Puthri’s can identify or connect.</p>
+                                <p class="testimonials-content">The vision of team Puthri to make every girl child career intentional so that she makes an informed career choice has evolved during the Pandemic situation. I am with team Puthri since its inception and have witnessed the mettle and courage the team has shown during the covid year. I thank the team for providing me with a variety of roles to be a part of this wonderful project.</p>
                               </div>
                             </div>
                           </div>
@@ -585,12 +605,12 @@
                              <div class="carousel-caption">
                               <div class="row">
                                 <div class="col-sm-5 p-0">
-                                  <img class="img-fluid" src="img/Girija Sridhar.svg" alt="anu-img" >
+                                  <img class="img-fluid" src="img/Bharani A.png" alt="anu-img" >
                                 </div>
                                 <div class="col-sm-7 col-12 testimonials-box">
-                                 <h3 class="testimonials-text">Girija Sridhar</h3>
+                                 <h3 class="testimonials-text">Bharani Aravind</h3>
                                  <h5 class="sub-heading">Volunteer</h5>
-                                <p class="testimonials-content">The jury role in 100th virtual session celebration made clear to me the longing ness of our Puthris towards such an exposure. Being a part of both physical and virtual PCCA sessions, I feel, it definitely helps as an eye opener in their future career choices. The support, guidance and the teamwork of Project Puthri is highly admirable. Happy to be a part of it.</p>
+                                <p class="testimonials-content">I congratulate team Puthri for overcoming the challenges of the pandemic situation and making my journey a learning and fulfilling experience. Kudos to the team for its hard work, dedication and commitment in making every online session a success. The eagerness to learn in Puthri scholars makes me push my limits and contribute more.</p>
                               </div>
                               </div>
                             </div>
@@ -599,12 +619,12 @@
                           <div class="carousel-caption">
                               <div class="row">
                                  <div class="col-sm-5 p-0">
-                                  <img class="img-fluid" src="img/Madhavi.svg" alt="anitha-img" >
+                                  <img class="img-fluid" src="img/Kamala Subramanian.png" alt="anitha-img" >
                                 </div>
                                 <div class="col-sm-7 col-12 testimonials-box">
-                                 <h3 class="testimonials-text">Madhavi Praveen </h3>
+                                 <h3 class="testimonials-text">Kamala Subramanian </h3>
                                  <h5 class="sub-heading">Volunteer</h5>
-                                <p class="testimonials-content">I had observed that team Puthri had worked out a strategic plan for the flawless execution of webinar modules for mentoring and training sessions. Writing motivating and engaging content has subconsciously affected me positively. Watching Puthri scholars confidence and interaction during the online sessions gives me immense satisfaction.</p>
+                                <p class="testimonials-content">It is my pleasure to be writing about my experience with team Puthri during the “covidemic” academic year 20-21. During the pandemic times, Team Puthri has set a benchmark in spearheading towards its goal. Project Puthri has crossed important milestones. Proud to be part of the team united with the single aim of educating and empowering girl children.</p>
                               </div>
                             </div>
                           </div>
@@ -619,12 +639,12 @@
                           <div class="carousel-caption">
                               <div class="row">
                                 <div class="col-sm-5 p-0">
-                                  <img class="img-fluid" src="img/Sowmiyaa Sivakumar.svg" alt="Rajeswari-img" >
+                                  <img class="img-fluid" src="img/Karthigha.png" alt="Rajeswari-img" >
                                 </div>
                                 <div class="col-sm-7 col-12 testimonials-box">
-                                 <h3 class="testimonials-text">Sowmiyaa Sivakumar</h3>
+                                 <h3 class="testimonials-text">Karthigha</h3>
                                  <h5 class="sub-heading">Volunteer</h5>
-                                <p class="testimonials-content">Puthri participation. Teaching them life skills through interesting graphical content is indeed a learning experience for me too. I congratulate team Puthri for kindling this transformation.</p>
+                                <p class="testimonials-content">As the world opened up to a new normal during the pandemic, so did Project Puthri. With meticulous planning and endless coordination, team Puthri came up with online mentoring sessions. Our volunteers are united in the vision to make a difference in the lives of Puthri scholars. Kudos to every volunteer for their altruistic service.</p>
                               </div>
                               </div>
                             </div>
@@ -638,12 +658,12 @@
                           <div class="carousel-caption">
                               <div class="row">
                                 <div class="col-sm-5 p-0">
-                                  <img class="img-fluid" src="img/rajeshwari-shankar.png" alt="Rajeswari-img" >
+                                  <img class="img-fluid" src="img/Rajeswari Shankar.png" alt="Rajeswari-img" >
                                 </div>
                                 <div class="col-sm-7 col-12 testimonials-box">
                                  <h3 class="testimonials-text">Rajeswari Shankar</h3>
                                  <h5 class="sub-heading">Volunteer</h5>
-                                <p class="testimonials-content">Team Puthri has proved its mettle by celebrating the 100th virtual event, to which I was a jury. Showing quick adaptive skills, our team Puthri tided over the difficulties of presenting online mentoring sessions. </p>
+                                <p class="testimonials-content">Team Puthri has proved its mettle by quickly adapting to Virtual Life. Our team Puthri tided over the difficulties of presenting online mentoring sessions. The team took great pains to make it interactive like the real mentoring sessions. My experiences as a peer learning coach and a mentor have motivated me throughout the year. </p>
                               </div>
                               </div>
                             </div>
@@ -652,12 +672,12 @@
                           <div class="carousel-caption">
                               <div class="row">
                                  <div class="col-sm-5 p-0">
-                                  <img class="img-fluid" src="img/aparna-ram.png" alt="Aparna-img" >
+                                  <img class="img-fluid" src="img/Vamsi Krishna.png" alt="Aparna-img" >
                                 </div>
                                 <div class="col-sm-7 col-12 testimonials-box">
-                                 <h3 class="testimonials-text">Aparna Ram</h3>
+                                 <h3 class="testimonials-text">Vamsi Krishna</h3>
                                  <h5 class="sub-heading">Volunteer</h5>
-                                <p class="testimonials-content">I have witnessed the Puthri team redefine the new normal during the pandemic situation within a short duration. Continuing to strive and achieve the goal, team Puthri evolved by changing the mode of connecting with Puthri scholars. Personally, Project Puthri offered me a space of normalcy and hope.</p>
+                                <p class="testimonials-content">I have been an active volunteer since the inception of Project Puthri. By teaching her the much-needed life skills, Project Puthri empowers her. During the difficult year of 2020, team Puthri united to push through and reach more Puthri scholars via online mentoring sessions. I am proud to be a part of Project Puthri.</p>
                               </div>
                             </div>
                           </div>
@@ -691,7 +711,7 @@
           <div class="container">
             <div class="row">
               <div class="col-12 col-sm-12 col-md-12 col-lg-6">
-                <h2 class="involved-heading get-in">WANT TO GET INVOLVED ??</h2>
+                <h3 class="counttext1">WANT TO GET INVOLVED ??</h3>
               </div>
               <div class="col-6 col-sm-4 col-md-4 col-lg-4 col-xl-2">
                 <button type="button" class="involved-btn">INTERNSHIP</button>
