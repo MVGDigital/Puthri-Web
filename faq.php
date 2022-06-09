@@ -58,10 +58,10 @@
               </li>
               <li><a href="news.php" class="btns">NEWS &amp; EVENTS</a></li>
               <li><a href="faq.php" class="btns active">FAQ</a></li>
-                <div class="border"></div>
               </ul>
               </div>
               <div class="search-box">
+              <div class="border"></div>
                 <i class="bx bx-search"></i>
                   <div class="input-box">
                    <input type="text" placeholder="Search...">

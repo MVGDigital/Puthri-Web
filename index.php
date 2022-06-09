@@ -51,7 +51,7 @@
                 </li>
                 <li>
                   <a href="#" class="btns">PUTHRI MODEL</a>
-                    <i class="bx bxs-chevron-down htmlcss-arrow arrow"></i>
+                    <i class="bx bxs-chevron-down more-arrow arrow"></i>
                     <ul class="htmlCss-sub-menu sub-menu">
                     <li><a href="puthri-model.php">PUTHRI MODEL</a></li>
                       <li><a href="pcca.php">PCCA</a></li>
@@ -65,10 +65,10 @@
               </li>
               <li><a href="news.php" class="btns">NEWS &amp; EVENTS</a></li>
               <li><a href="faq.php" class="btns">FAQ</a></li>
-                <div class="border"></div>
               </ul>
               </div>
               <div class="search-box">
+              <div class="border"></div>
                 <i class="bx bx-search"></i>
                   <div class="input-box">
                    <input type="text" placeholder="Search...">
