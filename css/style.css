@@ -3544,9 +3544,25 @@ nav .navbar .links li .sub-menu li{
   .mrgb{
     margin-bottom: 5px;
   }
+  .event{
+    width: 100% !important;
+  }
   .donate{
     font-size: 12px;
   }
+  .mar-t-0{
+    margin-top: 0!important;
+  }
+  .mar-b-0{
+    margin-bottom: 0!important;
+  }
+  .pad-t-0{
+    padding-top: 0!important;
+  }
+  .pad-b-0{
+    padding-bottom: 0!important;
+  }
+
 }
 
 @media screen and (min-width: 900px){

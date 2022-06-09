@@ -316,7 +316,7 @@
             <div class="row">
               <div class="col-1"></div>
               <div class="col-12 col-sm-12 col-md-6 col-lg-3 col-xl-5">
-                <div class="event text-left">  
+                <div class="event text-left pad-t-0">  
                 <h6>#EVENTS</h6>
                   <h3>Project Puthri Events</h3>
                   <h5 class="event-subheading">Udyog Utsav, PRAYAG, Puthri Talent Show</h5>
