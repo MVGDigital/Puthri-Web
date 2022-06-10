@@ -14,6 +14,7 @@ searchBox.addEventListener("click", ()=>{
 
 // sidebar open close js code
 let navLinks = document.querySelector(".nav-links");
+let navLink = document.querySelector(".more-sub-menu");
 let menuOpenBtn = document.querySelector(".navbar .bx-menu");
 let menuCloseBtn = document.querySelector(".nav-links .bx-x");
 menuOpenBtn.onclick = function() {
@@ -31,7 +32,7 @@ htmlcssArrow.onclick = function() {
 }
 let moreArrow = document.querySelector(".more-arrow");
 moreArrow.onclick = function() {
- navLinks.classList.toggle("show1");
+ navLink.classList.toggle("show2");
 }
 let jsArrow = document.querySelector(".js-arrow");
 jsArrow.onclick = function() {
