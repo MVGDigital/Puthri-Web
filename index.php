@@ -221,7 +221,7 @@ Research says, a well-rounded mentoring & training program will inspire and enco
                 <div class="content pos-r">
                   <div class="content-overlay"></div>
                     <img src="img/Talent Search.png">
-                    <div class="content-details fadeIn-bottom">
+                    <div class="content-details fadeIn-bottom hover-txt">
                       <h5 class="counttext1">Talent Search </h5>
                       <p class="content-text pos-ab">The year 2021 saw the unveiling of our most-awaited and planned series of events to identify our Star Puthris - The Talent Search Event. Puthri encourages the students to showcase their talent through Talent contests under different categories like Eloquent contest, Poster Making competition, Essay Writing, AdZap et al.</p>
                     </div>
@@ -235,7 +235,7 @@ Research says, a well-rounded mentoring & training program will inspire and enco
                 <div class="content pos-r">
                   <div class="content-overlay"></div>
                     <img src="img/Scolarship.png" >
-                    <div class="content-details fadeIn-bottom">
+                    <div class="content-details fadeIn-bottom hover-txt">
                       <h5 class="counttext1">Scholarship</h5>
                       <p class="content-text pos-ab">The scholarship program involves the process of screening, selection of scholars, identifying donors and funding after university enrolment, evaluation of academic progress of the scholars, and continued mentoring until the set goal is achieved</p>
                     </div>
@@ -249,7 +249,7 @@ Research says, a well-rounded mentoring & training program will inspire and enco
                 <div class="content pos-r">
                   <div class="content-overlay"></div>
                     <img src="img/Mentoring.png" >
-                    <div class="content-details fadeIn-bottom">
+                    <div class="content-details fadeIn-bottom hover-txt">
                       <h5 class="counttext1">Mentoring</h5>
                       <p class="content-text pos-ab"> A mentor will encourage, motivate, challenge and guide every Puthri scholar to think through different solutions for various problems in life. The Mentor will link and support her long term goals, values and emotions to a larger organizational agenda, as she becomes career oriented and career intentional to better her future and quality of life.</p>
                     </div>
@@ -263,7 +263,7 @@ Research says, a well-rounded mentoring & training program will inspire and enco
                 <div class="content pos-r">
                   <div class="content-overlay"></div>
                     <img src="img/Role Model 2.png" >
-                    <div class="content-details fadeIn-bottom">
+                    <div class="content-details fadeIn-bottom hover-txt">
                       <h5 class="counttext1">Role Model</h5>
                       <p class="content-text pos-ab"> Role models will lead by example and inspire Puthri scholars to achieve their potential in life. They will share real life success stories with these girls as to how they achieved success despite the various challenges & hurdles in their life and give them the confidence to overcome every hurdle with perseverance and eventually succeed in life.</p>
                     </div>
@@ -277,7 +277,7 @@ Research says, a well-rounded mentoring & training program will inspire and enco
                 <div class="content pos-r">
                   <div class="content-overlay"></div>
                     <img src="img/Career coaching.png" >
-                    <div class="content-details fadeIn-bottom">
+                    <div class="content-details fadeIn-bottom hover-txt">
                       <h5 class="counttext1">Career Coaching</h5>
                       <p class="content-text pos-ab">Career coaches provide expert guidance which empowers Puthri scholars to identify their strengths & passions, the means & ways to realise them and help them see their present challenges as advantages and help overcome them.</p>
                     </div>
@@ -290,9 +290,9 @@ Research says, a well-rounded mentoring & training program will inspire and enco
                 <div class="content pos-r">
                   <div class="content-overlay"></div>
                     <img src="img/8 dimension of transformation.png" >
-                    <div class="content-details fadeIn-bottom">
+                    <div class="content-details fadeIn-bottom hover-txt">
                       <h5 class="counttext1">8 Dimensions of transformation </h5>
-                      <p class="content-text pos-ab"> The 8 themes are the core pillars on which Puthri scholars are provided interventions which result in building career intentional future-ready citizens. Health & Hygiene, Self-Defence, Financial Acumen, Nutrition, Analytical Thinking, Digital Knowledge, Art of Selling, & Entrepreneurship.</p>
+                      <p class="content-text"> The 8 themes are the core pillars on which Puthri scholars are provided interventions which result in building career intentional future-ready citizens. Health & Hygiene, Self-Defence, Financial Acumen, Nutrition, Analytical Thinking, Digital Knowledge, Art of Selling, & Entrepreneurship.</p>
                     </div>
                 </div>
                 </a>

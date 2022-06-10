@@ -523,7 +523,6 @@ span{
   text-transform: capitalize;
   font-weight: 500;
 }
-
 .navigation-links:hover{
   text-decoration: none;
 }
@@ -3750,4 +3749,17 @@ button.close{
 .slick-prev:before,
 .slick-next:before {
   color: black;
+}
+.hover-txt{
+  display: flex!important;
+  justify-content: start; 
+  width: 90%;
+}
+.content:hover .hover-txt{
+  top: 20%;
+  left: 49%;
+}
+.hover-txt p{
+  padding: 35px 0!important;
+  text-align: start;
 }
