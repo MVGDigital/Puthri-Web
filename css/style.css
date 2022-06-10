@@ -3344,7 +3344,6 @@ nav .navbar .links li .sub-menu li{
     align-items: center;
     /* justify-content: space-between; */
   }
-
   .links li .sub-menu .more:hover .more-sub-menu{
     display: none;
   }
