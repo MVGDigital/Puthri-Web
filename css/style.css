@@ -56,7 +56,8 @@ font-style: normal!important;
 font-weight: 600!important;
 font-size: 28px!important;
 line-height: 34px!important;
-color: #54575A!important;
+color: #FFFFFF!important;
+text-shadow: -1px 1px 0 #00000063, 1px 1px 0 #0000006b, 1px -1px 0 #00000070, -1px -1px 0 #0000005e;
 }
 h4{
 font-family: 'Segoe UI'!important;
@@ -80,6 +81,7 @@ font-style: normal!important;
 font-weight: 600!important;
 font-size: 18px!important;
 line-height: 22px!important;
+letter-spacing: 3px!important;
 color: #004389!important;
 }
 p{
@@ -1098,6 +1100,42 @@ input[type=submit]:hover {
 }
 .padding-bottom{
   padding-bottom: 40px;
+}
+.j-c-c{
+  justify-content: center;
+}
+.count-er{
+  display: flex!important;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0!important;
+}
+.p-0{
+  padding: 0;
+}
+.plr-50{
+  padding: 0 50px!important;
+}
+.t-a-left{
+    color: #FFFFFF !important;
+    text-align: left;
+}
+.p-6per{
+  padding: 0 6%;
+}
+.p-l-25{
+  color: #79307e;
+  text-shadow: -1px 1px 0 #ffffff, 1px 1px 0 #ffffff, 1px -1px 0 #ffffff, -1px -1px 0 #ffffff;
+}
+.plus-55{
+  font-size: 55px!important;
+  color: #79307e!important;
+  text-shadow: -1px 1px 0 #ffffff, 1px 1px 0 #ffffff, 1px -1px 0 #ffffff, -1px -1px 0 #ffffff;
+}
+.mrg-65{
+  margin-top: -65px;
+  z-index: 9;
+  height: 300px;
 }
 /* Home-Page End */
 /* ///////////////--------  Read More   -------///////// */

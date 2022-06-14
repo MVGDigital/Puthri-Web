@@ -341,9 +341,9 @@ Research says, a well-rounded mentoring & training program will inspire and enco
                   <h3 class="fnt-sub-hed">Project Puthri Events</h3>
                   <h5 class="event-subheading">Udyog Utsav, PRAYAG, Puthri Talent Show</h5>
                   <p >Project Puthri events are a reflection of our core values and culture. A culmination of team work and cohesiveness, every event plays a significant role in redefining the identities of our Puthri scholars.</p>
-                  <a href="news.php">
+                  <!-- <a href="news.php">
                   <button class="view-btn">View more</button>
-                  </a>
+                  </a> -->
                 </div>
               </div>
                 <div class="col-12 col-sm-12 col-md-12 col-lg-8 col-xl-6 p-0 m-0">
@@ -367,36 +367,31 @@ Research says, a well-rounded mentoring & training program will inspire and enco
       <!--==================================================================
        About-Us
       ==================================================================-->
-      <section class="about-us">
+      <section class="about-us mrg-65">
         <div class="about">
           <div class="container">
-            <div class="row ">
-              <div class="col-xs-8 col-sm-8 col-md-12 col-lg-7 col-xl-7">
-                <div class="poverty">
-                  <h4 class="counttext1">Our Impact</h4>
-                  <img src="img/home-aboutus-img.jpg" class="responsive">
-                  <a href="ahct.php">
-                  <button class="read-more">Read More</button>
-                  </a>
+          <div class="poverty p-6per">
+                  <h6 class="t-a-left">#IMPACT</h6>
                 </div>
-              </div>
-              <div class="col-xs-6 col-sm-2 col-md-12 col-lg-5 col-xl-5 mobile-width">
+            <div class="row j-c-c">
+            
+              <div class="col-xs-6 col-sm-2 col-md-12 col-lg-10 col-xl-11 mobile-width plr-50">
                 <!-- start count stats -->
-              <div id="counter-stats" class="wow fadeInRight" data-wow-duration="1.4s">
-                <div class=" stats rate1000">
-                  <div class="counting" data-count="1000">0</div> <p class="d-inline counttext1 fnt-siz">+</p><br>       
+              <div id="counter-stats" class="wow fadeInRight count-er" data-wow-duration="1.4s">
+                <div class=" stats rate1000 count-er p-l-25">
+                  <div class="counting" data-count="1000">0</div> <h3 class="d-inline counttext1 plus-55">+</h3><br>       
                 </div>
-                <div class=" stats">
-                  <div class="counting" data-count="65">0</div> <p class="d-inline counttext1 fnt-siz">+</p> <br>
+                <div class=" stats count-er p-l-25">
+                  <div class="counting" data-count="65">0</div> <h3 class="d-inline counttext1 plus-55">+</h3> <br>
                 </div>
-                <div class=" stats">    
-                  <div class="counting" data-count="10">0</div> <p class="d-inline counttext1 fnt-siz">+</p> <br>  
+                <div class=" stats count-er p-l-25">    
+                  <div class="counting" data-count="10">0</div> <h3 class="d-inline counttext1 plus-55">+</h3> <br>  
                 </div>
-                <div class="stats">   
-                  <div class="counting" data-count="50">0</div> <p class="d-inline counttext1 fnt-siz">+</p>
+                <div class="stats count-er p-l-25">   
+                  <div class="counting" data-count="50">0</div> <h3 class="d-inline counttext1 plus-55">+</h3>
                 </div>
               </div>
-              <div class="counting-text">
+              <div class="counting-text count-er p-0">
                 <p class="counttext1">Volunteering Hours</p>
                 <p class="counttext1">Scholarships</p>
                 <p class="counttext1">beneficiaries</p>
