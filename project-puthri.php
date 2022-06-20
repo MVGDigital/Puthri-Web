@@ -35,7 +35,7 @@
                 <ul class="links">
                   <li><a href="index.php" class="btns">HOME</a></li>
                   <li>
-                  <a href="#" class="btns">ABOUT</a>
+                  <a href="#" class="btns active">ABOUT</a>
                     <i class="bx bxs-chevron-down htmlcss-arrow arrow"></i>
                     <ul class="htmlCss-sub-menu sub-menu">
                       <li><a href="our_team.php">OUR TEAM</a></li>
@@ -44,7 +44,18 @@
                       <li><a href="ahct.php">AHCT</a></li> 
                   </ul>
                 </li>
-                <li>
+                <li class="puthri-m-des">
+                  <a href="#" class="btns">PUTHRI MODEL</a>
+                    <i class="bx bxs-chevron-down htmlcss-arrow arrow"></i>
+                    <ul class="htmlCss-sub-menu sub-menu">
+                    <li><a href="puthri-model.php">PUTHRI MODEL</a></li>
+                    <li><a href="pcca.php">PCCA</a></li>
+                    <li><a href="pcp.php">PCP</a></li>
+                    <li><a href="scholarship.php">SCHOLARSHIP</a></li>
+                  </ul>
+                </li>
+                
+                <li class="puthri-m-mob">
                   <a href="#" class="btns">PUTHRI MODEL</a>
                     <i class="bx bxs-chevron-down more-arrow arrow"></i>
                     <ul class="more-sub-menu sub-menu">
@@ -54,6 +65,7 @@
                       <li><a href="scholarship.php">SCHOLARSHIP</a></li>
                   </ul>
                 </li>
+              <li>
 
               <li>
                 <a href="get-involved.php" class="btns">GET INVOLVED</a>

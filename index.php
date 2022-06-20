@@ -49,7 +49,18 @@
                       <li><a href="ahct.php">AHCT</a></li> 
                   </ul>
                 </li>
-                <li>
+                <li class="puthri-m-des">
+                  <a href="#" class="btns">PUTHRI MODEL</a>
+                    <i class="bx bxs-chevron-down htmlcss-arrow arrow"></i>
+                    <ul class="htmlCss-sub-menu sub-menu">
+                    <li><a href="puthri-model.php">PUTHRI MODEL</a></li>
+                    <li><a href="pcca.php">PCCA</a></li>
+                    <li><a href="pcp.php">PCP</a></li>
+                    <li><a href="scholarship.php">SCHOLARSHIP</a></li>
+                  </ul>
+                </li>
+                
+                <li class="puthri-m-mob">
                   <a href="#" class="btns">PUTHRI MODEL</a>
                     <i class="bx bxs-chevron-down more-arrow arrow"></i>
                     <ul class="more-sub-menu sub-menu">
@@ -59,7 +70,6 @@
                       <li><a href="scholarship.php">SCHOLARSHIP</a></li>
                   </ul>
                 </li>
-
               <li>
                 <a href="get-involved.php" class="btns">GET INVOLVED</a>
               </li>
@@ -217,16 +227,22 @@ Research says, a well-rounded mentoring & training program will inspire and enco
         <section class="center slider m-0">
           <div>
             <div class="hover">
-              <a href="puthri-process.php">
+              
                 <div class="content pos-r">
-                  <div class="content-overlay"></div>
+                  <div id="open" class="content-overlay"></div>
                     <img src="img/Talent Search.png">
                     <div class="content-details fadeIn-bottom hover-txt">
-                      <h5 class="counttext1">Talent Search </h5>
-                      <p class="content-text pos-ab">The year 2021 saw the unveiling of our most-awaited and planned series of events to identify our Star Puthris - The Talent Search Event. Puthri encourages the students to showcase their talent through Talent contests under different categories like Eloquent contest, Poster Making competition, Essay Writing, AdZap et al.</p>
+                      <h5 class="counttext1 ">Talent Search </h5>
+                      <!-- <p class="content-text pos-ab">The year 2021 saw the unveiling of our most-awaited and planned series of events to identify our Star Puthris - The Talent Search Event. Puthri encourages the students to showcase their talent through Talent contests under different categories like Eloquent contest, Poster Making competition, Essay Writing, AdZap et al.</p> -->
                     </div>
-                </div>
-              </a>
+                   <div class="after-click">
+                     <div class="click-content">
+                     <h5 class="counttext1 ">Talent Search </h5>
+                      <p class="content-text">The year 2021 saw the unveiling of our most-awaited and planned series of events to identify our Star Puthris - The Talent Search Event. Puthri encourages the students to showcase their talent through Talent contests under different categories like Eloquent contest, Poster Making competition, Essay Writing, AdZap et al.</p>
+                      </div>
+                   </div>
+                </div><!-- end -->
+             
             </div>
           </div>
           <div>
@@ -237,7 +253,7 @@ Research says, a well-rounded mentoring & training program will inspire and enco
                     <img src="img/Scolarship.png" >
                     <div class="content-details fadeIn-bottom hover-txt">
                       <h5 class="counttext1">Scholarship</h5>
-                      <p class="content-text pos-ab">The scholarship program involves the process of screening, selection of scholars, identifying donors and funding after university enrolment, evaluation of academic progress of the scholars, and continued mentoring until the set goal is achieved</p>
+                      <!-- <p class="content-text pos-ab">The scholarship program involves the process of screening, selection of scholars, identifying donors and funding after university enrolment, evaluation of academic progress of the scholars, and continued mentoring until the set goal is achieved</p> -->
                     </div>
                 </div>
               </a>
@@ -251,7 +267,7 @@ Research says, a well-rounded mentoring & training program will inspire and enco
                     <img src="img/Mentoring.png" >
                     <div class="content-details fadeIn-bottom hover-txt">
                       <h5 class="counttext1">Mentoring</h5>
-                      <p class="content-text pos-ab"> A mentor will encourage, motivate, challenge and guide every Puthri scholar to think through different solutions for various problems in life. The Mentor will link and support her long term goals, values and emotions to a larger organizational agenda, as she becomes career oriented and career intentional to better her future and quality of life.</p>
+                      <!-- <p class="content-text pos-ab"> A mentor will encourage, motivate, challenge and guide every Puthri scholar to think through different solutions for various problems in life. The Mentor will link and support her long term goals, values and emotions to a larger organizational agenda, as she becomes career oriented and career intentional to better her future and quality of life.</p> -->
                     </div>
                 </div>
               </div>
@@ -265,7 +281,7 @@ Research says, a well-rounded mentoring & training program will inspire and enco
                     <img src="img/Role Model 2.png" >
                     <div class="content-details fadeIn-bottom hover-txt">
                       <h5 class="counttext1">Role Model</h5>
-                      <p class="content-text pos-ab"> Role models will lead by example and inspire Puthri scholars to achieve their potential in life. They will share real life success stories with these girls as to how they achieved success despite the various challenges & hurdles in their life and give them the confidence to overcome every hurdle with perseverance and eventually succeed in life.</p>
+                      <!-- <p class="content-text pos-ab"> Role models will lead by example and inspire Puthri scholars to achieve their potential in life. They will share real life success stories with these girls as to how they achieved success despite the various challenges & hurdles in their life and give them the confidence to overcome every hurdle with perseverance and eventually succeed in life.</p> -->
                     </div>
                 </div>
               </div>
@@ -279,23 +295,24 @@ Research says, a well-rounded mentoring & training program will inspire and enco
                     <img src="img/Career coaching.png" >
                     <div class="content-details fadeIn-bottom hover-txt">
                       <h5 class="counttext1">Career Coaching</h5>
-                      <p class="content-text pos-ab">Career coaches provide expert guidance which empowers Puthri scholars to identify their strengths & passions, the means & ways to realise them and help them see their present challenges as advantages and help overcome them.</p>
+                      <!-- <p class="content-text pos-ab">Career coaches provide expert guidance which empowers Puthri scholars to identify their strengths & passions, the means & ways to realise them and help them see their present challenges as advantages and help overcome them.</p> -->
                     </div>
                 </div>
               </a>
             </div>
           </div>
           <div class="hover">
-              <a href="puthri-process.php">
                 <div class="content pos-r">
                   <div class="content-overlay"></div>
                     <img src="img/8 dimension of transformation.png" >
-                    <div class="content-details fadeIn-bottom hover-txt">
-                      <h5 class="counttext1">8 Dimensions of transformation </h5>
-                      <p class="content-text"> The 8 themes are the core pillars on which Puthri scholars are provided interventions which result in building career intentional future-ready citizens. Health & Hygiene, Self-Defence, Financial Acumen, Nutrition, Analytical Thinking, Digital Knowledge, Art of Selling, & Entrepreneurship.</p>
+                    <div class="content-details fadeIn-bottom hover-txt t-r-a">
+                      <h5 class="counttext1 fontz-19">8 Dimensions of transformation </h5>
                     </div>
-                </div>
-                </a>
+                </div> <!-- hover-section-end -->
+                <!-- 
+                  <p class="content-text"> The 8 themes are the core pillars on which Puthri scholars are provided interventions which result in building career intentional future-ready citizens. Health &amp; Hygiene, Self-Defence, Financial Acumen, Nutrition, Analytical Thinking, Digital Knowledge, Art of Selling, &amp; Entrepreneurship.</p>
+                 -->
+
               </div>
           </div>
         </div>
@@ -303,34 +320,11 @@ Research says, a well-rounded mentoring & training program will inspire and enco
     </div>
   </div>
 </section>
-           <!--==================================================================
-       Vision
-      ==================================================================-->  
-      <section id="home-vision transformations" class="section-padding">
-        <div class="text-center hm-left">
-          <h6>#VISION</h6>
-          <h3 class="fnt-sub-hed">Our Vision</h3>
-        </div>
-        <div class="container">
-          <div class="row">
-            <div class="col-12">
-              <!--<h6 class="visiontext d-flex py-3 text-center">
-                
-              </h6>-->
-				<p class="text-center p-0">Puthri's vision, an India, where young girls at the bottom of the socio - economic pyramid are able to rise to their fullest potential by breaking out of the domestic labour economy to graduate into the knowledge economy, thus, eventually being able to contribute directly to the GDP of our country</p>
-            </div>
-            <div class="col-3"></div>
-            <div class="col-sm-6 col-12 mt-5">
-              <iframe class="responsive" height="300px" src="https://www.youtube.com/embed/K0yypav0zfw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-          </div>
-          <div class="col-3"></div>
-        </div>
-      </div>
-    </section>
+        
       <!--==================================================================
        Events
       ==================================================================-->
-      <section id="events-section"  class="">
+      <section id="events-section"  class="pt-5">
         <div class="events">  
           <div class="container-fluid">
             <div class="row">
@@ -402,9 +396,58 @@ Research says, a well-rounded mentoring & training program will inspire and enco
         </div>
       </div>
     </section>
+   <!--==================================================================
+       Vision
+      ==================================================================-->  
+      <section id="home-vision transformations" class="section-padding">
+        <div class="text-center hm-left">
+          <h6>#VISION</h6>
+          <h3 class="fnt-sub-hed">Our Vision</h3>
+        </div>
+        <div class="container">
+          <div class="row">
+            <div class="col-12">
+              <!--<h6 class="visiontext d-flex py-3 text-center">
+                
+              </h6>-->
+				<p class="text-center p-0">Puthri's vision, an India, where young girls at the bottom of the socio - economic pyramid are able to rise to their fullest potential by breaking out of the domestic labour economy to graduate into the knowledge economy, thus, eventually being able to contribute directly to the GDP of our country</p>
+            </div>
+            <div class="col-3"></div>
+            <div class="col-sm-6 col-12 mt-5">
+              <iframe class="responsive" height="300px" src="https://www.youtube.com/embed/K0yypav0zfw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          </div>
+          <div class="col-3"></div>
+        </div>
+      </div>
+    </section>
 
-
-
+<!-- Featured -->
+<section class="impact text-center pad-t-0" id="">
+        <div class="mx-auto">
+          <h6>#FEATURED</h6>
+          <h3 class="fnt-sub-hed">Featured Schools</h3>
+          <br>
+          <div class="container">
+            <div class="row">
+              <div class="col-12 col-md-6 col-lg-6 col-xl-4 m-auto pad-t-b">
+                <img src="img/featured-1.jpg" class="responsive">
+                <h6 class="impact-mnth">Schools of the Month</h6>
+                <h5 class="impact-date">09 Jul 2021</h5>
+              </div>
+              <div class="col-12 col-md-6 col-lg-6 col-xl-4 m-auto pad-t-b">
+                <img src="img/featured-2.jpg" class="responsive">
+                <h6 class="impact-mnth">Schools of the Month</h6>
+                <h5 class="impact-date">09 Jul 2021</h5>
+              </div>
+              <div class="col-12 col-md-6 col-lg-6 col-xl-4 m-auto pad-t-b">
+                <img src="img/featured-3.jpg" class="responsive">
+                <h6 class="impact-mnth">Schools of the Month</h6>
+                <h5 class="impact-date">09 Jul 2021</h5>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
 
 
       <!--==================================================================
@@ -487,34 +530,6 @@ Research says, a well-rounded mentoring & training program will inspire and enco
       <!--==================================================================
        Impact
       ==================================================================-->
-      <section class="impact text-center pad-t-0" id="">
-        <div class="mx-auto">
-          <h6>#FEATURED</h6>
-          <h3 class="fnt-sub-hed">Featured Schools</h3>
-          <br>
-          <div class="container">
-            <div class="row">
-              <div class="col-12 col-md-6 col-lg-6 col-xl-4 m-auto pad-t-b">
-                <img src="img/featured-1.jpg" class="responsive">
-                <h6 class="impact-mnth">Schools of the Month</h6>
-                <h5 class="impact-date">09 Jul 2021</h5>
-              </div>
-              <div class="col-12 col-md-6 col-lg-6 col-xl-4 m-auto pad-t-b">
-                <img src="img/featured-2.jpg" class="responsive">
-                <h6 class="impact-mnth">Schools of the Month</h6>
-                <h5 class="impact-date">09 Jul 2021</h5>
-              </div>
-              <div class="col-12 col-md-6 col-lg-6 col-xl-4 m-auto pad-t-b">
-                <img src="img/featured-3.jpg" class="responsive">
-                <h6 class="impact-mnth">Schools of the Month</h6>
-                <h5 class="impact-date">09 Jul 2021</h5>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
-
-
 
       <!--==================================================================
        Testimonials
@@ -931,9 +946,9 @@ Research says, a well-rounded mentoring & training program will inspire and enco
       }
       });  
       });
-const open = document.getElementById('open');
-const close = document.getElementById('close');
-const modal = document.querySelector('.pop-body')
+/* const open = document.getElementById('open');
+const close = document.getElementById('after-click');
+const modal = document.querySelector('after-click')
 
 open.addEventListener('click', () => {
     modal.classList.add('show')    
@@ -941,7 +956,7 @@ open.addEventListener('click', () => {
 
 close.addEventListener('click', () => {
     modal.classList.remove('show')  
-});
+}); */
     </script>
     <!-- Slick Slider -->
 
