@@ -18,26 +18,29 @@
       <!-- Nav bar -->
       <nav>
       <div class="top-header">
-        <div class="social-m-icon">
-          <a href="https://www.facebook.com/projectputhri"><img src="img/card-fb.svg" alt=""></a>
-          <a href="https://twitter.com/projectputhri"><img src="img/card-twit.svg" alt=""></a>
-          <a href="https://www.linkedin.com/company/13339619/"><img src="img/card-in.svg" alt=""></a>
-          <a href="https://www.youtube.com/channel/UCLqnJJC6w6pHdyKucH8HaMQ/featured"><img src="img/card-ytube.svg" alt=""></a>
-          <a href=" https://www.instagram.com/project_puthri"><img src="img/card-insta.svg" alt=""></a>
+        <div class="container sub-container p-0">
+        <div class="social-m-icon col-5 col-lg-2 p-0">
+        <a href=" https://www.facebook.com/projectputhri"><img src="img/card-fb.svg" alt=""></a>
+        <a href="https://twitter.com/projectputhri"><img src="img/card-twit.svg" alt=""></a>
+        <a href="https://www.linkedin.com/company/13339619/"><img src="img/card-in.svg" alt=""></a>
+        <a href="https://www.youtube.com/channel/UCLqnJJC6w6pHdyKucH8HaMQ/featured"><img src="img/card-ytube.svg" alt=""></a>
+        <a href=" https://www.instagram.com/project_puthri"><img src="img/card-insta.svg" alt=""></a>
         </div>
-        <p>Volunteer Now</p>
+        <div class="col-lg-8"></div>
+        <p class="col-5 col-lg-2 p-0">Volunteer Now</p>
+        </div>
       </div>
        <div class="navbar">
-          <i class="bx bx-menu"></i>
-            <div class="logo"><a href="#">
+          <i class="bx bx-menu col-2"></i>
+            <div class="logo col-lg-2 p-0"><a href="#">
               <img src="img/logo.png" class="img-fluid nav-logo"></a></div>
-              <div id="myDIV" class="nav-links">
+              <div id="myDIV" class="nav-links col-lg-7 p-0">
                 <div class="sidebar-logo">
                   <span class="logo-name"><img src="img/logo.png"></span>
                     <i class="bx bx-x"></i>
                 </div>
                 <ul class="links">
-                  <li><a href="index.php" class="btns">HOME</a></li>
+                  <li><a href="index.php" class="btns active">HOME</a></li>
                   <li>
                   <a href="#" class="btns">ABOUT</a>
                     <i class="bx bxs-chevron-down htmlcss-arrow arrow"></i>
@@ -72,26 +75,30 @@
               <li>
 
               <li>
-                <a href="get-involved.php" class="btns active">GET INVOLVED</a>
+                <a href="get-involved.php" class="btns">GET INVOLVED</a>
               </li>
               <li><a href="news.php" class="btns">NEWS &amp; EVENTS</a></li>
               <li><a href="faq.php" class="btns">FAQ</a></li>
               </ul>
               </div>
-              <div class="search-box">
+              <div class="col-1">
               <div class="border"></div>
+              </div>
+              <div class="col-2 p-0 search-btn">
+              <div class="search-box">
                 <i class="bx bx-search"></i>
                   <div class="input-box">
                    <input type="text" placeholder="Search...">
                   </div>
               </div>
             <button class="contact-btn">contact us</button>
+            </div>
          </div>
       </nav>
 
 
        <div id="background" class="..">
-        <div id="abt-banner" class="..">
+        <!-- <div id="abt-banner" class="..">
             <img src="img/Collabration 1920x572.jpg" class="img-fluid" alt="banner-img">
             <div class="overlay-background previewbg">
             <img src="img/overlay-bg.png" class="img-fluid">
@@ -102,12 +109,18 @@
                 <div class="col-6 col-sm-5 col-md-4 col-lg-4 col-xl-5">
                   <div class="text-center">
                     <div class="centered">
-                      <h2 class="banner-heading-text">GET INVOLVED</h2>
+                      <h1 class="banner-heading-text">GET INVOLVED</h1>
                     </div>
                   </div>
                 </div>
             </div>
-        </div>
+        </div> -->
+        <div class="banner-img mrg-t">
+          <img src="img/Collabration 1920x572.jpg" alt="">
+          <div class="bg-shoadow black-bg">
+            <H1>Scholarship</H1>
+      </div>
+      </div>
       </div>
 
       <div class="container">

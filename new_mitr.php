@@ -15,20 +15,23 @@
       <!-- Nav bar -->
       <nav>
       <div class="top-header">
-        <div class="social-m-icon">
+        <div class="container sub-container p-0">
+        <div class="social-m-icon col-5 col-lg-2 p-0">
         <a href=" https://www.facebook.com/projectputhri"><img src="img/card-fb.svg" alt=""></a>
-          <a href="https://twitter.com/projectputhri"><img src="img/card-twit.svg" alt=""></a>
-          <a href="https://www.linkedin.com/company/13339619/"><img src="img/card-in.svg" alt=""></a>
-          <a href="https://www.youtube.com/channel/UCLqnJJC6w6pHdyKucH8HaMQ/featured"><img src="img/card-ytube.svg" alt=""></a>
-          <a href=" https://www.instagram.com/project_puthri"><img src="img/card-insta.svg" alt=""></a>
+        <a href="https://twitter.com/projectputhri"><img src="img/card-twit.svg" alt=""></a>
+        <a href="https://www.linkedin.com/company/13339619/"><img src="img/card-in.svg" alt=""></a>
+        <a href="https://www.youtube.com/channel/UCLqnJJC6w6pHdyKucH8HaMQ/featured"><img src="img/card-ytube.svg" alt=""></a>
+        <a href=" https://www.instagram.com/project_puthri"><img src="img/card-insta.svg" alt=""></a>
         </div>
-        <p>Volunteer Now</p>
+        <div class="col-lg-8"></div>
+        <p class="col-5 col-lg-2 p-0">Volunteer Now</p>
+        </div>
       </div>
        <div class="navbar">
-          <i class="bx bx-menu"></i>
-            <div class="logo"><a href="#">
+          <i class="bx bx-menu col-2"></i>
+            <div class="logo col-lg-2 p-0"><a href="#">
               <img src="img/logo.png" class="img-fluid nav-logo"></a></div>
-              <div id="myDIV" class="nav-links">
+              <div id="myDIV" class="nav-links col-lg-7 p-0">
                 <div class="sidebar-logo">
                   <span class="logo-name"><img src="img/logo.png"></span>
                     <i class="bx bx-x"></i>
@@ -75,20 +78,24 @@
               <li><a href="faq.php" class="btns">FAQ</a></li>
               </ul>
               </div>
-              <div class="search-box">
+              <div class="col-1">
               <div class="border"></div>
+              </div>
+              <div class="col-2 p-0 search-btn">
+              <div class="search-box">
                 <i class="bx bx-search"></i>
                   <div class="input-box">
                    <input type="text" placeholder="Search...">
                   </div>
               </div>
             <button class="contact-btn">contact us</button>
+            </div>
          </div>
       </nav>
 
 
       
-      <div class="banner-img mrg-t">
+      <div class="banner-img mitr-mrg-t">
           <img src="img/mitr-class-1.png" alt="">
           <div class="bg-shoadow">
             <h1>MITR</h1>
@@ -112,8 +119,8 @@
             <h6 class="text11">#MITR</h6>
             <h3 class="text11 fnt-sub-hed">MITR</h3>
           </div>
-          <div class="row d-flex img-txt" style="margin:auto;">
-              <div class="main-content col-lg-6 pr-0">
+          <div class="row d-flex img-txt container mitr-container">
+              <div class="main-content col-lg-6 p-0 pr-3">
                   <p>
                   About MITR
 MITR is the unique attempt of AVTAR Human Capital Trust in educating and empowering young, adolescent male population as empathetic “Gender Champions”. These young folk will develop and mature into a well-informed youth population of the country in creating a safe, secure and equal space to the female peers and counterparts.
@@ -140,7 +147,7 @@ Thus AVTAR Human Capital Trust formulated “MITR” for young school going boys
 
 </p>
               </div>
-              <div class="mitr-banner col-lg-6 mitr-p-r-l">
+              <div class="mitr-banner col-lg-6 mitr-p-r-l p-0">
                   <img src="img/why_mitr.png" alt="">
               </div>
           </div>
@@ -171,13 +178,17 @@ Thus AVTAR Human Capital Trust formulated “MITR” for young school going boys
           <div class="d-flex mitr-text-content">
               <div class="text-setion-1 col-6">
               <p class="ahtc-head-txt">Topic For Standard 9&10</p>
-              <p class="ahtc-head-txt">-Good touch vs Bad Touch</p>
-              <p class="ahtc-head-txt">Recruitment training programs</p>
+              <p class="ahtc-sub-head-txt">-Good touch vs Bad Touch</p>
+              <p class="ahtc-sub-head-txt">Mine, me & myself (understanding the physiological changes of adolescence)</p>
+              <p class="ahtc-sub-head-txt">- I am the best friend (understanding the physiological changes that happens in female)
+   Healthy lifestyle</p>
               </div>
               <div class="text section-2 col-6">
-              <p class="ahtc-head-txt">Recruitment training programs</p>
-              <p class="ahtc-head-txt">Recruitment training programsRecruitment training programsRecruitment training programs</p>
-              <p class="ahtc-head-txt">Recruitment training programs</p>
+              <p class="ahtc-head-txt">Topics for Standard 11 & 12</p>
+              <p class="ahtc-sub-head-txt">- Attraction vs distraction</p>
+              <p class="ahtc-sub-head-txt">- My best friend (How I can be a shield of protection to the female gender)</p>
+              <p class="ahtc-sub-head-txt">- Being safe is heroic (How to avoid risky impulsive decisions)
+         Healthy lifestyle</p>
 
               </div>
           </div>

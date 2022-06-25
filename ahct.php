@@ -15,28 +15,31 @@
       <!-- Nav bar -->
       <nav>
       <div class="top-header">
-        <div class="social-m-icon">
-          <a href="https://www.facebook.com/projectputhri"><img src="img/card-fb.svg" alt=""></a>
-          <a href="https://twitter.com/projectputhri"><img src="img/card-twit.svg" alt=""></a>
-          <a href=" https://www.linkedin.com/company/13339619/"><img src="img/card-in.svg" alt=""></a>
-          <a href=" https://www.youtube.com/channel/UCLqnJJC6w6pHdyKucH8HaMQ/featured"><img src="img/card-ytube.svg" alt=""></a>
-          <a href="https://www.instagram.com/project_puthri"><img src="img/card-insta.svg" alt=""></a>
+        <div class="container sub-container p-0">
+        <div class="social-m-icon col-5 col-lg-2 p-0">
+        <a href=" https://www.facebook.com/projectputhri"><img src="img/card-fb.svg" alt=""></a>
+        <a href="https://twitter.com/projectputhri"><img src="img/card-twit.svg" alt=""></a>
+        <a href="https://www.linkedin.com/company/13339619/"><img src="img/card-in.svg" alt=""></a>
+        <a href="https://www.youtube.com/channel/UCLqnJJC6w6pHdyKucH8HaMQ/featured"><img src="img/card-ytube.svg" alt=""></a>
+        <a href=" https://www.instagram.com/project_puthri"><img src="img/card-insta.svg" alt=""></a>
         </div>
-        <p>Volunteer Now</p>
+        <div class="col-lg-8"></div>
+        <p class="col-5 col-lg-2 p-0">Volunteer Now</p>
+        </div>
       </div>
        <div class="navbar">
-          <i class="bx bx-menu"></i>
-            <div class="logo"><a href="#">
+          <i class="bx bx-menu col-2"></i>
+            <div class="logo col-lg-2 p-0"><a href="#">
               <img src="img/logo.png" class="img-fluid nav-logo"></a></div>
-              <div id="myDIV" class="nav-links">
+              <div id="myDIV" class="nav-links col-lg-7 p-0">
                 <div class="sidebar-logo">
                   <span class="logo-name"><img src="img/logo.png"></span>
                     <i class="bx bx-x"></i>
                 </div>
                 <ul class="links">
-                  <li><a href="index.php" class="btns">HOME</a></li>
+                  <li><a href="index.php" class="btns active">HOME</a></li>
                   <li>
-                  <a href="#" class="btns active">ABOUT</a>
+                  <a href="#" class="btns">ABOUT</a>
                     <i class="bx bxs-chevron-down htmlcss-arrow arrow"></i>
                     <ul class="htmlCss-sub-menu sub-menu">
                       <li><a href="our_team.php">OUR TEAM</a></li>
@@ -75,14 +78,18 @@
               <li><a href="faq.php" class="btns">FAQ</a></li>
               </ul>
               </div>
-              <div class="search-box">
+              <div class="col-1">
               <div class="border"></div>
+              </div>
+              <div class="col-2 p-0 search-btn">
+              <div class="search-box">
                 <i class="bx bx-search"></i>
                   <div class="input-box">
                    <input type="text" placeholder="Search...">
                   </div>
               </div>
             <button class="contact-btn">contact us</button>
+            </div>
          </div>
       </nav>
       
@@ -90,7 +97,7 @@
       <div class="banner-img">
           <img src="img/ahct_Banner.png" alt="">
           <div class="bg-shoadow">
-            <h1 class="counttext1">AHCT</h1>
+            <h1 class="">AHCT</h1>
       </div>
       </div>
        <!-- Back to Page Content -->
@@ -107,21 +114,21 @@
       </div>
       </div>
       <!-- Back to Page Content End -->
-      <section class="main-container">
+      <section class="container mitr-first-main">
           <div class="first-head">
             <h6 class="c-img-title1">#AHCT</h6>
             <h3 class="c-img-title2 ahtc-sub-text fnt-sub-hed">AHCT Overview</h3>
           </div>
           <div class="row d-flex img-txt">
-              <div class="main-content col-lg-6">
+              <div class="main-content col-lg-7">
                 <h5>AVTAR Human Capital Trust</h5>
                   <p> is a not for-profit public charitable organization, working in the field of economic empowerment of women. Headquartered in Chennai, AHCT has been addressing gender equality, poverty eradication and inclusive economic growth for women across the State of Tamil Nadu & Pondicherry from 2008.
 With a strong belief that economic independence is key to women's empowerment and that women can make and continue to make enormous contributions to economies, whether in businesses, on farms, as entrepreneurs or employees, or by doing unpaid care work at home, we at AVTAR group are keen on facilitating women's social inclusion and economic empowerment in the economically backward strata of society too.
 Our life skills enhancement programs, employability workshops, Prevention of Sexual Harassment training and education support, have enabled many women (across lower, middle and upper middle strata of society) secure decent jobs to become economically independent & self-reliant, to think more progressively and make well informed decisions in life, to uphold positive self-esteem and participate confidently & contribute in areas like health, education, rights, political & social activities.
 Social responsibility continues to be an intrinsic part of AVTAR family, and today, with our flagship project ‘Puthri’ we endeavour to reach out to 10,000 underprivileged girl children in the age group of 13 to 18 years studying in government schools across India, making them career intentional every year, and with an initiative called MITR (Men Impacting Trust and Respect). MITR is an attempt in educating and empowering young, adolescent male population as empathetic “Gender Champions”. These young folk will develop and mature into a well-informed youth population of the country in creating a safe, secure and equal space to the female peers and counterparts.
 </p>
-              </div>
-              <div class="main-banner width100 col-lg-6">
+              </div> 
+              <div class="main-banner width100 col-lg-5 p-0">
                   <img src="img/ahct-right.png" alt="">
               </div>
           </div>
@@ -140,23 +147,73 @@ Social responsibility continues to be an intrinsic part of AVTAR family, and tod
           </div>
           <div class="ahtc-card-title">
             <h6 class="c-img-title1">#INITIATIVE</h6>
-            <h3 class="c-img-title2 ahtc-sub-text fnt-sub-hed">Important Initiative Of Avatar Human Capital Trust</h3>
-            <p class="ahtc-head-txt">Financial assistance to deserving students from underprivileged backgrounds</p>
-            <p class="ahtc-sub-txt">By funding the education of meritorious students from economically backward sections of the society (based on their intent for self-development, aptitude and academic record) the trust aims to extend the power of education to the underprivileged and thereby opening their access to a host of employment opportunities that education can bring.
+            <h3 class="c-img-title2 ahtc-sub-text fnt-sub-hed mb-30">Important Initiative Of Avatar Human Capital Trust</h3>
+            <!--  -->
+            <div class="d-flex col-lg-12 p-0"> <!-- poits-1 -->
+            <div class="poins-header col-4 p-0 text-left">
+            <p class="ahtc-head-txt pcca-p-head">Financial assistance to deserving students from underprivileged backgrounds</p>
+            </div>
+            <div class="col-1"></div>
+            <div class="points-sub-header col-7 p-0 text-left">
+            <p>By funding the education of meritorious students from economically backward sections of the society (based on their intent for self-development, aptitude and academic record) the trust aims to extend the power of education to the underprivileged and thereby opening their access to a host of employment opportunities that education can bring.
 AHCT also supports community initiatives to promote education and training of underprivileged women to ensure that they are in equal avail of all opportunities as their male counterparts.</p>
-<p class="ahtc-head-txt">Career counselling for young women and students</p>
-            <p class="ahtc-sub-txt">Investing in education and employment of women and students has been one of the primary objectives of the trust. Apart from providing financial assistance to the needy and meritorious students and young women, the trust also takes an active interest in preparing them for challenging careers</p>
-            <p class="ahtc-head-txt">Community initiatives for protection of the environment</p>
-            <p class="ahtc-sub-txt">The trust has always been sensitive to environmental concerns and hassled several campaigns to this end. Instilling in people, primarily the youth of today, the importance of respecting the environment and protecting it has been a key area of interest for AHCT. Such services are periodically undertaken on a need basis after requisite observation of environmental zones needing attention</p>
-            <p class="ahtc-head-txt">Social research</p>
-            <p class="ahtc-sub-txt">Another key mission of the trust is to publish socially relevant reports that can help organisations and institutions in pursuing a social cause. These reports are basis the research studies undertaken by the trust after careful identification of an issue that needs to be addressed by stakeholders. Through online/offline surveys and focus group discussions involving the above mentioned stakeholders (organisational/institutional representatives), data is collated and after subsequent analysis by volunteers of AHCT, reports take shape.</p>
-            <p class="ahtc-head-txt">Social campaigns for women careers</p>
-            <p class="ahtc-sub-txt">Campaigns supporting initiatives for women career sustainability in India are another focus area of the trust. In Tamil Nadu, the overall workforce participation of women is at 33% and that of urban women is only 26.8%. Moreover, of the 1.34 crore women in urban Tamil Nadu, only 24.8 lakh is gainfully employed. Research suggests that the key to improving women’s workforce participation is flexible working that are alternate working arrangements that give women greater autonomy over their schedules and attain better work life integration levels. 77% of Indian women quit work owing to the lack of it.</p>
-          <p class="ahtc-head-txt">Feeding the poor</p>
-            <p class="ahtc-sub-txt">AHCT believes that feeding the poor and the needy helps it achieve its humanitarian aspirations. The trust funds are periodically deployed for such purposes basis identifications of institutions that are in need. Volunteers are in charge of implementation of such initiatives – from identifying the beneficiaries, to collecting funds, to assigning the caterers to actual serving at the site.</p>
-            <p class="ahtc-head-txt">Recruitment training programs</p>
-            <p class="ahtc-sub-txt">Aligning with its objective of creating more opportunities to the less privileged segments of the society, the trust identifies needy students from such backgrounds who have completed school (10/ 10+2) and train them for careers in recruitment. Volunteers teach such ambitious and capable students communication basics as also the entire recruitment process cycle. Almost 18 students have been benefited by this programmed and have moved on to have careers within the Avtar Group or elsewhere in the industry.</p>
-          </div>
+            </div>
+            </div><!-- First-End -->
+            <div class="d-flex col-lg-12 p-0"> <!-- poits-1 -->
+            <div class="poins-header col-4 p-0 text-left">
+            <p class="ahtc-head-txt pcca-p-head">Career counselling for young women and students</p>
+            </div>
+            <div class="col-1"></div>
+            <div class="points-sub-header col-7 p-0 text-left">
+            <p>Investing in education and employment of women and students has been one of the primary objectives of the trust. Apart from providing financial assistance to the needy and meritorious students and young women, the trust also takes an active interest in preparing them for challenging careers.</p>
+            </div>
+            </div><!-- Sec-End -->
+            <div class="d-flex col-lg-12 p-0"> <!-- poits-1 -->
+            <div class="poins-header col-4 p-0 text-left">
+            <p class="ahtc-head-txt pcca-p-head">Community initiatives for protection of the environment</p>
+            </div>
+            <div class="col-1"></div>
+            <div class="points-sub-header col-7 p-0 text-left">
+            <p>The trust has always been sensitive to environmental concerns and hassled several campaigns to this end. Instilling in people, primarily the youth of today, the importance of respecting the environment and protecting it has been a key area of interest for AHCT. Such services are periodically undertaken on a need basis after requisite observation of environmental zones needing attention.</p>
+            </div>
+            </div><!-- Ther-End -->
+            <div class="d-flex col-lg-12 p-0"> <!-- poits-1 -->
+            <div class="poins-header col-4 p-0 text-left">
+            <p class="ahtc-head-txt pcca-p-head">Social research</p>
+            </div>
+            <div class="col-1"></div>
+            <div class="points-sub-header col-7 p-0 text-left">
+            <p>Another key mission of the trust is to publish socially relevant reports that can help organisations and institutions in pursuing a social cause. These reports are basis the research studies undertaken by the trust after careful identification of an issue that needs to be addressed by stakeholders. Through online/offline surveys and focus group discussions involving the above mentioned stakeholders (organisational/institutional representatives), data is collated and after subsequent analysis by volunteers of AHCT, reports take shape.</p>
+            </div>
+            </div><!-- For-End -->
+            <div class="d-flex col-lg-12 p-0"> <!-- poits-1 -->
+            <div class="poins-header col-4 p-0 text-left">
+            <p class="ahtc-head-txt pcca-p-head">Social campaigns for women careers</p>
+            </div>
+            <div class="col-1"></div>
+            <div class="points-sub-header col-7 p-0 text-left">
+            <p>Campaigns supporting initiatives for women career sustainability in India are another focus area of the trust. In Tamil Nadu, the overall workforce participation of women is at 33% and that of urban women is only 26.8%. Moreover, of the 1.34 crore women in urban Tamil Nadu, only 24.8 lakh is gainfully employed. Research suggests that the key to improving women’s workforce participation is flexible working that are alternate working arrangements that give women greater autonomy over their schedules and attain better work life integration levels. 77% of Indian women quit work owing to the lack of it.</p>
+            </div>
+            </div><!-- Five-End -->
+            <div class="d-flex col-lg-12 p-0"> <!-- poits-1 -->
+            <div class="poins-header col-4 p-0 text-left">
+            <p class="ahtc-head-txt pcca-p-head">Feeding the poor</p>
+            </div>
+            <div class="col-1"></div>
+            <div class="points-sub-header col-7 p-0 text-left">
+            <p>AHCT believes that feeding the poor and the needy helps it achieve its humanitarian aspirations. The trust funds are periodically deployed for such purposes basis identifications of institutions that are in need. Volunteers are in charge of implementation of such initiatives – from identifying the beneficiaries, to collecting funds, to assigning the caterers to actual serving at the site.</p>
+            </div>
+            </div><!-- For-End -->
+            <div class="d-flex col-lg-12 p-0"> <!-- poits-1 -->
+            <div class="poins-header col-4 p-0 text-left">
+            <p class="ahtc-head-txt pcca-p-head">Recruitment training programs</p>
+            </div>
+            <div class="col-1"></div>
+            <div class="points-sub-header col-7 p-0 text-left">
+            <p>Aligning with its objective of creating more opportunities to the less privileged segments of the society, the trust identifies needy students from such backgrounds who have completed school (10/ 10+2) and train them for careers in recruitment. Volunteers teach such ambitious and capable students communication basics as also the entire recruitment process cycle. Almost 18 students have been benefited by this programmed and have moved on to have careers within the Avtar Group or elsewhere in the industry.</p>
+            </div>
+            </div><!-- For-End -->
+<!--  -->
           <div class="card-title">
             <h6 class="c-img-title1">#C0NTACTUS</h6>
             <h3 class="c-img-title2 fnt-sub-hed">Contact Us</h3>

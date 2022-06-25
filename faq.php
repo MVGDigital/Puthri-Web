@@ -5,27 +5,36 @@
         <meta charset="UTF-8">
         <title> faq </title>
         <link rel="stylesheet" href="css/style.css">
-        <link href='https://unpkg.com/boxicons@2.0.7/css/boxicons.min.css' rel='stylesheet'>
-        <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+      <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+      <link href="css/ninja-slider.css" rel="stylesheet" type="text/css" />
+      <link href='https://unpkg.com/boxicons@2.0.7/css/boxicons.min.css' rel='stylesheet'>
+      <link rel="stylesheet" type="text/css" href="css/slick-slider.css">
+      <link rel="stylesheet" type="text/css" href="css/slick.theme.css">
+      <link rel="stylesheet" type="text/css" href="css/swiperslider.min.css">
+      <link rel="stylesheet" type="text/css" href="css/carousel-slider.css">
+      <script src="js/code-jquery.js" type="text/javascript"></script>
       </head>
 
-      <!-- Nav bar -->
-      <nav>
+     <!-- Nav bar -->
+     <nav>
       <div class="top-header">
-        <div class="social-m-icon">
-          <a href=" https://www.facebook.com/projectputhri"><img src="img/card-fb.svg" alt=""></a>
-          <a href="https://twitter.com/projectputhri"><img src="img/card-twit.svg" alt=""></a>
-          <a href="https://www.linkedin.com/company/13339619/"><img src="img/card-in.svg" alt=""></a>
-          <a href="https://www.youtube.com/channel/UCLqnJJC6w6pHdyKucH8HaMQ/featured"><img src="img/card-ytube.svg" alt=""></a>
-          <a href=" https://www.instagram.com/project_puthri"><img src="img/card-insta.svg" alt=""></a>
+        <div class="container sub-container p-0">
+        <div class="social-m-icon col-5 col-lg-2 p-0">
+        <a href=" https://www.facebook.com/projectputhri"><img src="img/card-fb.svg" alt=""></a>
+        <a href="https://twitter.com/projectputhri"><img src="img/card-twit.svg" alt=""></a>
+        <a href="https://www.linkedin.com/company/13339619/"><img src="img/card-in.svg" alt=""></a>
+        <a href="https://www.youtube.com/channel/UCLqnJJC6w6pHdyKucH8HaMQ/featured"><img src="img/card-ytube.svg" alt=""></a>
+        <a href=" https://www.instagram.com/project_puthri"><img src="img/card-insta.svg" alt=""></a>
         </div>
-        <p>Volunteer Now</p>
+        <div class="col-lg-8"></div>
+        <p class="col-5 col-lg-2 p-0">Volunteer Now</p>
+        </div>
       </div>
        <div class="navbar">
-          <i class="bx bx-menu"></i>
-            <div class="logo"><a href="#">
+          <i class="bx bx-menu col-2"></i>
+            <div class="logo col-lg-2 p-0"><a href="#">
               <img src="img/logo.png" class="img-fluid nav-logo"></a></div>
-              <div id="myDIV" class="nav-links">
+              <div id="myDIV" class="nav-links col-lg-7 p-0">
                 <div class="sidebar-logo">
                   <span class="logo-name"><img src="img/logo.png"></span>
                     <i class="bx bx-x"></i>
@@ -72,19 +81,23 @@
               <li><a href="faq.php" class="btns active">FAQ</a></li>
               </ul>
               </div>
-              <div class="search-box">
+              <div class="col-1">
               <div class="border"></div>
+              </div>
+              <div class="col-2 p-0 search-btn">
+              <div class="search-box">
                 <i class="bx bx-search"></i>
                   <div class="input-box">
                    <input type="text" placeholder="Search...">
                   </div>
               </div>
             <button class="contact-btn">contact us</button>
+            </div>
          </div>
       </nav>
 
 
-      <div class="container">
+      <div class="container p-0">
         <div class="row">
           <div class="col-12" >
               <div class="text-center headingpaddingtop">

@@ -19,20 +19,23 @@
       <!-- Nav bar -->
       <nav>
       <div class="top-header">
-        <div class="social-m-icon">
-          <a href="https://www.facebook.com/projectputhri"><img src="img/card-fb.svg" alt=""></a>
-          <a href="https://twitter.com/projectputhri"><img src="img/card-twit.svg" alt=""></a>
-          <a href="https://www.linkedin.com/company/13339619/"><img src="img/card-in.svg" alt=""></a>
-          <a href="https://www.youtube.com/channel/UCLqnJJC6w6pHdyKucH8HaMQ/featured"><img src="img/card-ytube.svg" alt=""></a>
-          <a href="https://www.instagram.com/project_puthri"><img src="img/card-insta.svg" alt=""></a>
+        <div class="container sub-container p-0">
+        <div class="social-m-icon col-5 col-lg-2 p-0">
+        <a href=" https://www.facebook.com/projectputhri"><img src="img/card-fb.svg" alt=""></a>
+        <a href="https://twitter.com/projectputhri"><img src="img/card-twit.svg" alt=""></a>
+        <a href="https://www.linkedin.com/company/13339619/"><img src="img/card-in.svg" alt=""></a>
+        <a href="https://www.youtube.com/channel/UCLqnJJC6w6pHdyKucH8HaMQ/featured"><img src="img/card-ytube.svg" alt=""></a>
+        <a href=" https://www.instagram.com/project_puthri"><img src="img/card-insta.svg" alt=""></a>
         </div>
-        <p>Volunteer Now</p>
+        <div class="col-lg-8"></div>
+        <p class="col-5 col-lg-2 p-0">Volunteer Now</p>
+        </div>
       </div>
        <div class="navbar">
-          <i class="bx bx-menu"></i>
-            <div class="logo"><a href="#">
+          <i class="bx bx-menu col-2"></i>
+            <div class="logo col-lg-2 p-0"><a href="#">
               <img src="img/logo.png" class="img-fluid nav-logo"></a></div>
-              <div id="myDIV" class="nav-links">
+              <div id="myDIV" class="nav-links col-lg-7 p-0">
                 <div class="sidebar-logo">
                   <span class="logo-name"><img src="img/logo.png"></span>
                     <i class="bx bx-x"></i>
@@ -71,20 +74,26 @@
                   </ul>
                 </li>
               <li>
+
+              <li>
                 <a href="get-involved.php" class="btns">GET INVOLVED</a>
               </li>
               <li><a href="news.php" class="btns">NEWS &amp; EVENTS</a></li>
               <li><a href="faq.php" class="btns">FAQ</a></li>
               </ul>
               </div>
-              <div class="search-box">
+              <div class="col-1">
               <div class="border"></div>
+              </div>
+              <div class="col-2 p-0 search-btn">
+              <div class="search-box">
                 <i class="bx bx-search"></i>
                   <div class="input-box">
                    <input type="text" placeholder="Search...">
                   </div>
               </div>
             <button class="contact-btn">contact us</button>
+            </div>
          </div>
       </nav>
 
@@ -100,8 +109,8 @@
                   <a class="ns-img" href="img/banner-1.jpg"></a>
                       <div class="container rl-width">
                         <div class="row">
-                          <div class="col-sm-11 col-md-11 col-lg-11 col-xs-11">
-                            <h1 class="banner-text"> Ensure every girl student pursues<br>a white collar job upon graduation</h1>
+                          <div class="col-sm-11 col-md-11 col-lg-6 col-xs-6">
+                            <h1 class="banner-text"> Ensure every girl student<br>pursuesa white collar job upon graduation</h1>
                               <p class="counttext1 mrgb">Make 10,000 government school girl students ‘Career Intentional’ every year</p>
                               <button class="donate">donate now</button>
                           </div>
@@ -111,8 +120,8 @@
                   <a class="ns-img" href="img/banner-2.jpg"></a>
                       <div class="container">
                         <div class="row">
-                          <div class="col-sm-11 col-md-11 col-lg-11 col-xs-11">
-                            <h1 class="banner-text"> Facilitate girl students <br>into tertiary education</h1>
+                          <div class="col-sm-11 col-md-11 col-lg-6 col-xs-6">
+                            <h1 class="banner-text"> Facilitate girl students<br>into tertiary education</h1>
                               <p class="counttext1 mrgb">Make 10,000 government school girl students ‘Career Intentional’ every year</p>
                               <button class="donate">donate now</button>
                           </div>
@@ -122,8 +131,8 @@
                   <a class="ns-img" href="img/banner-3.jpg"></a>
                       <div class="container">
                         <div class="row">
-                          <div class="col-sm-11 col-md-11 col-lg-11 col-xs-11">
-                            <h1 class="banner-text"> Facilitate every girl student <br>pursue a white collar Job</h1>
+                          <div class="col-sm-11 col-md-11 col-lg-6 col-xs-6">
+                            <h1 class="banner-text"> Facilitate every girl<br>student pursue a white collar Job</h1>
                               <p class="counttext1 mrgb">Make 10,000 government school girl students ‘Career Intentional’ every year</p>
                               <button class="donate">donate now</button>
                           </div>
@@ -152,56 +161,56 @@
       
 
 
-        <div class="container">
-          <div class="row home-lamp-card">
-              <div id="open" class="box effect padding_box-content homecontent">  
+        <div class="container tab-top p-0">
+          <div class="row home-lamp-card col-lg-12 col-11 p-0">
+              <div id="open" class="box effect padding_box-content lam-mr-l homecontent col-lg-2">  
               <h4 class="pb-0 pt-4 text11"></h4>
-                <div style="text-align:center;">
+                <div class="lamp-img-ctr">
                 <img src="img/people_black.svg" alt="">
                 </div>
                   <div class="text-center"> 
                    <h5 class="home-card-color">Mentoring</h5>
                   </div>
               </div>
-              <div class="box effect homecontent">
+              <div class="box effect homecontent lam-mrg-r col-lg-2">
                 <h4 class="pb-0 pt-4 text11"></h4>
-                <div style="text-align:center;">
+                <div class="lamp-img-ctr">
                 <img src="img/school-s.svg" alt="">
                 </div>
                   <div class="text-center">
                   <h5 class="home-card-color">Career Coach</h5>
                   </div>
               </div>
-              <div class="box effect homecontent">
+              <div class="box effect homecontent lam-mrg-r col-lg-2">
                 <h4 class="pb-0 pt-4 text11"></h4>
-                <div style="text-align:center;">
+                <div class="lamp-img-ctr">
                 <img src="img/school-svgrepo.svg" alt="">
                 </div>
                 <div class="text-center">
                   <h5 class="home-card-color">Role Model</h5>
                 </div>
               </div>
-              <div class="box effect homecontent">          
+              <div class="box effect homecontent lam-mrg-r col-lg-2">          
                 <h4 class="pb-0 pt-4 text11"></h4>
-                <div style="text-align:center;">
+                <div class="lamp-img-ctr">
                 <img src="img/home-card-icon.svg" alt="">
                 </div>
                 <div class="text-center">
                <h5 class="home-card-color">Scholarship</h5>
                 </div>
               </div>
-              <div class="box effect homecontent">
+              <div class="box effect homecontent lam-mrg-r col-lg-2">
                 <h4 class="pb-0 pt-4 mb-0 text11"></h4>
-                <div style="text-align:center;">
+                <div class="lamp-img-ctr">
                 <img src="img/city-buildings.svg" alt="">
                 </div>
                 <div class="text-center">
                   <h5 class="home-card-color">8 Dimension</h5>
                 </div>
               </div>
-              <div class="box effect homecontent"> 
+              <div class="box effect homecontent lam-mrg-r col-lg-2"> 
                 <h4 class="pb-0 pt-4 text11"></h4>
-                <div style="text-align:center;">
+                <div class="lamp-img-ctr">
                 <img src="img/heart.svg" alt="">
                 </div>
                   <div class="text-center"> 
@@ -258,7 +267,7 @@ $("#pop-6").click(function(){
 
 });
 </script>
-      <section id="transformations" class="section-padding container">
+      <section id="transformations" class="section-padding container p-0 mt-40">
         <h6>#PUTHRI MODEL</h6>
         <h3 class="fnt-sub-hed">Puthri Model</h3>
         <p>Avtar Human Capital Trust (AHCT) conducted a research study in 2016 to understand what made over 500 corporation school girl students (over the years 1992 to 2010) break out of poverty and pursue white collar jobs today.
@@ -488,18 +497,18 @@ Research says, a well-rounded mentoring & training program will inspire and enco
           <h3 class="fnt-sub-hed">Featured Schools</h3>
           <br>
           <div class="container">
-            <div class="row">
-              <div class="col-12 col-md-6 col-lg-6 col-xl-4 m-auto pad-t-b">
+            <div class="row center-al">
+              <div class="card2 col-12 col-md-6 col-lg-3 col-xl-3 p-0">
                 <img src="img/featured-1.jpg" class="responsive">
                 <h6 class="impact-mnth">Schools of the Month</h6>
                 <h5 class="impact-date">09 Jul 2021</h5>
               </div>
-              <div class="col-12 col-md-6 col-lg-6 col-xl-4 m-auto pad-t-b">
+              <div class="card-3 col-12 col-md-6 col-lg-3 col-xl-3 p-0">
                 <img src="img/featured-2.jpg" class="responsive">
                 <h6 class="impact-mnth">Schools of the Month</h6>
                 <h5 class="impact-date">09 Jul 2021</h5>
               </div>
-              <div class="col-12 col-md-6 col-lg-6 col-xl-4 m-auto pad-t-b">
+              <div class="card-3 col-12 col-md-6 col-lg-3 col-xl-3 p-0">
                 <img src="img/featured-3.jpg" class="responsive">
                 <h6 class="impact-mnth">Schools of the Month</h6>
                 <h5 class="impact-date">09 Jul 2021</h5>
@@ -574,17 +583,42 @@ Research says, a well-rounded mentoring & training program will inspire and enco
             </div>
           </div>
           <div class="col-12 col-sm-12 col-lg-6 mt-50 move-first">
-            <div class="accrediations">
+            <div class="donors">
               <h6>#DONORS</h6>
               <h3 class="fnt-sub-hed">Our Donors</h3>
-              <p class="text-left">Adopt a school for a year and sponsor 100 Puthri scholars to transform and empower them</p>
+              <p class="text-right">Adopt a school for a year and sponsor 100 Puthri scholars to transform and empower them</p>
             </div>
           </div>
         </div>
       </div>
     </section>
     
+<section class="compliance">
+      <h6>#TESTIMONIALS</h6>
+        <h3 class="fnt-sub-hed txt-bg-color">Regulatory & Government Compliance </h3>
+        <p class="txt-color">AHCT is complied under 12AA certified, 80/g tax  exemption & FCRA (amendment bill act 2020)</p>
+        <div class="row center-al mt-30">
+          <div class="col-lg-3 row-gut col-gut-r p-0">
+          <div class="">
+             <img src="img/c-1.png" alt="">
+          </div>
+          <p>AHCT is awarded the GuideStar India transparency key certificate</p>
+          </div>
+          
+          <div class="col-lg-2 p-0">
+          <img src="img/c-2.png" alt="">
+          </div>
 
+          <div class="col-lg-3 row-gut col-gut-l p-0">
+          <div class="">
+             <img src="img/c-3.png" alt="">
+          </div>
+          <p>AHCT is a GuideStar India validated Non-Government Organization</p>
+          </div>
+        </div>
+
+
+</section>
 
 
       <!--==================================================================
@@ -780,7 +814,7 @@ Research says, a well-rounded mentoring & training program will inspire and enco
           <div class="container">
             <div class="row">
               <div class="col-12 col-sm-12 col-md-12 col-lg-6">
-                <h3 class="counttext1">WANT TO GET INVOLVED ??</h3>
+                <h3 class="counttext1 want-to-txt">WANT TO GET INVOLVED ??</h3>
               </div>
               <div class="col-6 col-sm-4 col-md-4 col-lg-4 col-xl-2">
                 <button type="button" class="involved-btn">INTERNSHIP</button>
