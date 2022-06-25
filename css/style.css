@@ -2347,7 +2347,7 @@ Main Components
   overflow: hidden;
 }
 .content .content-overlay {
-  background: rgba(0,0,0,0.7);
+  background: #79307E;
   position: absolute;
   height: 100%;
   width: 100%;
@@ -2358,6 +2358,28 @@ Main Components
   opacity: 0;
   -webkit-transition: all 0.4s ease-in-out 0s;
   -moz-transition: all 0.4s ease-in-out 0s;
+}
+.content .content-overlay-home {
+  /* background: rgba(0,0,0,0.7); */
+  background: linear-gradient( #5855559e,#080808ab,#111112de );
+  position: absolute;
+  height: 25%;
+  width: 100%;
+  left: 0;
+  bottom: 0;
+  transition: all 0.4s ease-in-out 0s;
+  right: 0;
+  opacity: 0;
+  -webkit-transition: all 0.4s ease-in-out 0s;
+  -moz-transition: all 0.4s ease-in-out 0s;
+}
+.content:hover .content-overlay-home{
+  opacity: 1;
+}
+.content:hover .hover-txt-home{
+  top: 85%!important;
+  justify-content: start!important;
+  z-index: 19;
 }
 .content:hover .content-overlay{
   opacity: 1;
@@ -2379,9 +2401,15 @@ Main Components
   transition: all 0.3s ease-in-out 0s;
 }
 .content:hover .content-details{
-  top: 87%;
+ /*  top: 50%;
   left: 50%;
-  opacity: 1;
+  opacity: 1; */
+    top: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+
 }
 .content-details h3{
   color: #fff;
@@ -3697,9 +3725,8 @@ nav .navbar .links li .sub-menu li{
 }
 
 .content .content-overlay {
-  background-image: linear-gradient( #bcbcbc52,#484b4d33,#111112a1 );
  position: absolute;
-  height: 30%;
+  height: 100%;
   width: 99%;
   left: 2px;
   bottom: 0;
@@ -3800,7 +3827,7 @@ button.close{
   width: 90%;
 }
 .content:hover .hover-txt{
-  top: 83%;
+  top: 50%;
   left: 50%;
 }
 .hover-txt p{
@@ -3815,7 +3842,7 @@ button.close{
   font-size: 19px!important;
 }
 .after-click{
-    z-index: 9;
+    z-index: 20;
     width: 100%;
     height: 95%;
     position: absolute;
