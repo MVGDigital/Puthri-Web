@@ -15,8 +15,8 @@
     </head>
 
 
-      <!-- Nav bar -->
-      <nav>
+       <!-- Nav bar -->
+       <nav>
       <div class="top-header">
         <div class="container sub-container p-0">
         <div class="social-m-icon col-5 col-lg-2 p-0">
@@ -40,7 +40,7 @@
                     <i class="bx bx-x"></i>
                 </div>
                 <ul class="links">
-                  <li><a href="index.php" class="btns active">HOME</a></li>
+                  <li><a href="index.php" class="btns">HOME</a></li>
                   <li>
                   <a href="#" class="btns">ABOUT</a>
                     <i class="bx bxs-chevron-down htmlcss-arrow arrow"></i>
@@ -75,9 +75,27 @@
               <li>
 
               <li>
-                <a href="get-involved.php" class="btns">GET INVOLVED</a>
+                <a href="get-involved.php" class="btns active">GET INVOLVED</a>
               </li>
-              <li><a href="news.php" class="btns">NEWS &amp; EVENTS</a></li>
+              <!-- <li><a href="news.php" class="btns">NEWS &amp; EVENTS</a></li> -->
+              <li class="puthri-m-des">
+                  <a href="#" class="btns">NEWS &amp; EVENTS</a>
+                    <i class="bx bxs-chevron-down htmlcss-arrow arrow"></i>
+                    <ul class="htmlCss-sub-menu sub-menu">
+                    <li><a href="prayag.php">prayag</a></li>
+                    <li><a href="uu.php">Udyog Utsav</a></li>
+                  </ul>
+                </li>
+                
+                <li class="puthri-m-mob">
+                  <a href="#" class="btns">PUTHRI MODEL</a>
+                    <i class="bx bxs-chevron-down more-arrow arrow"></i>
+                    <ul class="more-sub-menu sub-menu">
+                    <li><a href="prayag.php">prayag</a></li>
+                      <li><a href="uu.php">Udyog Utsav</a></li>
+                  </ul>
+                </li>
+              <li>
               <li><a href="faq.php" class="btns">FAQ</a></li>
               </ul>
               </div>
@@ -133,7 +151,7 @@
           </div>
         </div>
       </div>
-      <div class="text-center mb-5">
+      <div class="text-center col-10 m-auto mb-5">
           <h6>#OURIMPACT</h6>
           <h3>Puthri volunteer Progammes</h3>
           <p>Volunteering integrates your work life with the rest of the world. It gives you an impetus towards fulfilling a deeper social responsibility by sharing and contributing to the society. It is enriching and immensely motivating with a purpose.The significant contribution you make to the underprivileged has a  direct correlation to the impact it creates and the rewards are exemplary.
@@ -144,46 +162,31 @@ As a PUTHRI volunteer you will not only stand to gain unique opportunities and r
         <div class="banner-img">
         <img src="img/get-involved-scholarship.jpg" class="img-fluid">
         </div>
-          <div class="container">
-            <div class="row mb-5 rating-card">
-              <div id="one" class="col-6 col-md-3 col-lg-3 col-xl-2">
-              <div class="box effect padding_box-content">  
-              <h4 class="text11 pt40"></h4>
-                  <div class="text-center"> <p><span>LAMP</span>
-                    </p>
+        <div class="container tab-top p-0">
+          <div class="row home-lamp-card get-lamp col-lg-12 col-11 p-0">
+              <div id="open" class="box effect padding_box-content lam-mr-l get-lamp-card homecontent col-lg-2">  
+                  <div class="text-center"> 
+                   <p class="home-card-color">LAMP</p>
                   </div>
               </div>
-            </div>
-            <div id="two" class="col-6 col-md-3 col-lg-3 col-xl-2">
-              <div class="box effect">          
-                <h4 class="text11 pt40"></h4>
-                <div class="text-center">
-                <span>LINK </span>
-                </div>
-              </div>
-            </div>
-            <div id="three" class="col-6  col-md-3 col-lg-3 col-xl-2">
-              <div class="box effect">
-                <h4 class="text11 pt40"></h4>
-                <div class="text-center">
-                  <span>PLUS</span>
-                </div>
-              </div>
-            </div>
-            <div id="four" class="col-6 col-md-3 col-lg-3 col-xl-2">
-              <div class="box effect"> 
-                <h4 class="text11 pt40"></h4>
+              <div class="box effect homecontent lam-mrg-r get-lamp-card col-lg-2">
                   <div class="text-center">
-                  <span >PAVE</span>
+                  <p class="home-card-color">LINK</p>
                   </div>
+              </div>
+              <div class="box effect homecontent lam-mrg-r get-lamp-card col-lg-2">
+                <div class="text-center">
+                  <p class="home-card-color">PLUS</p>
                 </div>
-              </span>
-            </div>
-            <div id="five" class="col-6 col-md-3 col-lg-3 col-xl-2">
-              <div class="box effect"> 
-                <h4 class="text11 pt40"></h4>
-                  <div class="text-center">
-                  <span >IMPACT</span>
+              </div>
+              <div class="box effect homecontent lam-mrg-r get-lamp-card col-lg-2">          
+                <div class="text-center">
+               <p class="home-card-color">PAVE</p>
+                </div>
+              </div>
+              <div class="box effect homecontent lam-mrg-r get-lamp-card col-lg-2"> 
+                  <div class="text-center"> 
+                  <p class="home-card-color">PAVE</p>
                   </div>
                 </div>
               </span>
@@ -431,7 +434,7 @@ for (var i = 0; i < btns.length; i++) {
       <div class="col-12 col-md-11 col-xl-12">
             <img alt="..." src="img/puthri-graph.png" class="img-fluid py-4 mb-0">
             <!-- Hover Graph CArds -->                
-        <div class="container mt-4 d-flex justify-content-center card-t">
+        <div class="container mt-4 card-t">
            
          <div class="row g-0 justify-content-center g-card">
 
@@ -472,19 +475,19 @@ for (var i = 0; i < btns.length; i++) {
           <h3>Education Institutes</h3>
         </div>
           <br>
-          <div class="container">
+          <div class="container p-15">
             <div class="row">
-              <div class="col-12 col-sm-6 col-md-6 col-lg-6 col-xl-4">
+              <div class="col-12 col-sm-6 col-md-6 col-lg-6 col-xl-4 p-0">
                 <img src="img/Internship.png" class="responsive">
                 <h5 class="impact-mnth">Intership</h5>
                 <p>The  significant contribution you make to the underprivileged has a  direct correlation to the impact it creates and the rewards are exemplary.</p>
               </div>
-              <div class="col-12 col-sm-6 col-md-6 col-lg-6 col-xl-4">
+              <div class="col-12 col-sm-6 col-md-6 col-lg-6 col-xl-4 p-0">
                 <img src="img/Infra for Events.png" class="responsive">
                 <h5 class="impact-mnth">Infra For Events</h5>
                 <p>The impact that has resulted from the Puthri Career Intentionality Virtual training Interventions in terms of knowledge, learning growth rate and skills gained were assessed both through quantitative (a.Pre and Post Assessment) and Qualitative (b.Puthri Satisfaction Survey ) methods, the results are amazing. There has been a significant and phenomenal change in the Average learning growth rate of the Puthri scholars.</p>
               </div>
-              <div class="col-12 col-sm-6 col-md-6 col-lg-6 col-xl-4 ">
+              <div class="col-12 col-sm-6 col-md-6 col-lg-6 col-xl-4 p-0">
                 <img src="img/Research support.png" class="responsive">
                 <h5 class="impact-mnth">Research Support</h5>
                 <p>In the march towards making 10,000 underprivileged girl children 'Career Intentional' every year and to expand its operation it is vital to have an excellent manpower which would be committed, passionate, vision driven and have a flair towards working for the under privileged. Project Puthri has a team of professionals from diversified backgrounds who are dynamic and committed working with a zeal towards helping girl children pursue a white-collar job upon graduation </p>
@@ -500,7 +503,7 @@ for (var i = 0; i < btns.length; i++) {
           <h3>Volunteers Feedback</h3>
           </div>
         <div class="volunteer d-flex">
-        <div class="main-cercle d-flex col-lg-5">
+        <div class="main-cercle d-flex col-lg-6">
           <div class="cercle-img">
             <img src="img/Sowmiyaa Sivakumar.png" alt="">
           </div>
@@ -512,8 +515,7 @@ for (var i = 0; i < btns.length; i++) {
           </div>
           </div>
         </div>
-        <div class="col-2"></div>
-        <div class="main-cercle d-flex col-lg-5">
+        <div class="main-cercle d-flex col-lg-6">
           <div class="cercle-img">
           <img src="img/rajeshwari-shankar.png" alt="">
           </div>

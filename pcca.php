@@ -12,8 +12,8 @@
   </head>
 
 
-     <!-- Nav bar -->
-     <nav>
+      <!-- Nav bar -->
+      <nav>
       <div class="top-header">
         <div class="container sub-container p-0">
         <div class="social-m-icon col-5 col-lg-2 p-0">
@@ -59,7 +59,7 @@
                   </ul>
                 </li>
                 
-                <li class="puthri-m-mob">
+                <li class="puthri-m-mob active">
                   <a href="#" class="btns">PUTHRI MODEL</a>
                     <i class="bx bxs-chevron-down more-arrow arrow"></i>
                     <ul class="more-sub-menu sub-menu">
@@ -74,7 +74,25 @@
               <li>
                 <a href="get-involved.php" class="btns">GET INVOLVED</a>
               </li>
-              <li><a href="news.php" class="btns">NEWS &amp; EVENTS</a></li>
+              <!-- <li><a href="news.php" class="btns">NEWS &amp; EVENTS</a></li> -->
+              <li class="puthri-m-des">
+                  <a href="#" class="btns">NEWS &amp; EVENTS</a>
+                    <i class="bx bxs-chevron-down htmlcss-arrow arrow"></i>
+                    <ul class="htmlCss-sub-menu sub-menu">
+                    <li><a href="prayag.php">prayag</a></li>
+                    <li><a href="uu.php">Udyog Utsav</a></li>
+                  </ul>
+                </li>
+                
+                <li class="puthri-m-mob">
+                  <a href="#" class="btns">PUTHRI MODEL</a>
+                    <i class="bx bxs-chevron-down more-arrow arrow"></i>
+                    <ul class="more-sub-menu sub-menu">
+                    <li><a href="prayag.php">prayag</a></li>
+                      <li><a href="uu.php">Udyog Utsav</a></li>
+                  </ul>
+                </li>
+              <li>
               <li><a href="faq.php" class="btns">FAQ</a></li>
               </ul>
               </div>
@@ -122,7 +140,7 @@
             <p class="width63">The objective of career coaching in project Puthri is to help the Puthri Scholars to make informed decisions about their career development and trajectory by identifying their strengths & passions.</p>
             
           </div>
-          <div class="row d-flex img-txt" style="margin:auto;">
+          <div class="row d-flex img-txt container p-15">
               <div class="main-content col-lg-6 pr-0">
                   <h5>About Puthri Career Choice Assessment (PCCA)</h5>
                   <p>PCCA is a self-assessment tool, which will help the Puthri Scholar to:</p>
@@ -138,7 +156,7 @@
                   <img src="img/pcca-2.jpg" alt="">
               </div>
           </div>  
-          <div class="first-head main-header home-space"> 
+          <div class="first-head main-header home-space ahtc-card-title"> 
             <h6>#BENIFITS</h6>
             <h3 class="fnt-sub-hed">How Does PCCA Benefits A Puthri Scholar?</h3>
             <p>Puthri Career Choice Assessment (PCCA) is a one-of-a-kind self-assessment tool developed indigenously to fit the students in India. PCCA helps Puthri Scholars two-fold.</p>
@@ -147,52 +165,68 @@
             
           </div>
 
-          <div class="ahtc-banner mt50">
+          <div class="ahtc-banner ">
           <img src="img/pcca-3.png" alt="">
           </div>
           <div class="ahtc-card-title">
             <h6>#COMPONENTS</h6>
-            <h3 class="fnt-sub-hed">What are the components of the PCCA assessment report?</h3>
+            <h3 class="fnt-sub-hed">What Are The Components Of The PCCA Assessment Report?</h3>
           </div>
 
-          <div class="d-flex col-lg-10 m-auto"> <!-- poits-1 -->
-            <div class="poins-header col-6">
-            <p class="ahtc-head-txt pcca-p-head">Section 1: Personality Traits</p>
+          <div class="d-flex col-lg-11 p-15 m-auto"> <!-- poits-1 -->
+          <div class="poins-header col-4 p-15">
+            <p class="ahtc-head-txt pcca-p-head">Section 1:</p>
             </div>
-            <div class="points-sub-header col-6">
+            <div class="poins-header col-4 p-15">
+            <p class="ahtc-head-txt pcca-p-head">Personality Traits</p>
+            </div>
+            <div class="points-sub-header col-4 p-15">
             <p>Describes the twelve personality traits that are measured</p>
             </div>
             </div>
 
-            <div class="d-flex col-lg-10 m-auto"><!-- poits-2 -->
-            <div class="poins-header col-6">
-            <p class="ahtc-head-txt pcca-p-head">Section 2: Basic Personality Traits</p>
+            <div class="d-flex col-lg-11 m-auto p-15"><!-- poits-2 -->
+            <div class="poins-header col-4 p-15">
+            <p class="ahtc-head-txt pcca-p-head">Section 2:</p>
             </div>
-            <div class="points-sub-header col-6">
+            <div class="poins-header col-4 p-15">
+            <p class="ahtc-head-txt pcca-p-head">Basic Personality Traits</p>
+            </div>
+            <div class="points-sub-header col-4 p-15">
             <p>Gives her scores on the basic personality traits</p>
             </div>
           </div>
-          <div class="d-flex col-lg-10 m-auto"><!-- poits-3 -->
-            <div class="poins-header col-6">
-            <p class="ahtc-head-txt pcca-t-head">Section 3: Career Oriented Personality Traits</p>
+
+          <div class="d-flex col-lg-11 p-15 m-auto"><!-- poits-3 -->
+          <div class="poins-header col-4 p-15">
+            <p class="ahtc-head-txt pcca-t-head">Section 3:</p>
             </div>
-            <div class="points-sub-header col-6">
+            <div class="poins-header col-4 p-15">
+            <p class="ahtc-head-txt pcca-t-head">Career Oriented Personality Traits</p>
+            </div>
+            <div class="points-sub-header col-4 p-15">
             <p>Gives her scores on career oriented personality traits and also identifies her dominant career oriented personality traits.</p>
             </div>
           </div>
-          <div class="d-flex col-lg-10 m-auto"><!-- poits-4 -->
-            <div class="poins-header col-6">
-            <p class="ahtc-head-txt pcca-4-head">Section 4: Personality-Career Mapping</p>
+          <div class="d-flex col-lg-11 p-15 m-auto"><!-- poits-4 -->
+          <div class="poins-header col-4 p-15">
+            <p class="ahtc-head-txt pcca-4-head">Section 4:</p>
             </div>
-            <div class="points-sub-header col-6">
+            <div class="poins-header col-4 p-15">
+            <p class="ahtc-head-txt pcca-4-head">Personality-Career Mapping</p>
+            </div>
+            <div class="points-sub-header col-4 p-15">
             <p>Maps her dominant career oriented personality traits with appropriate/suitable career clusters</p>
             </div>
           </div>
-          <div class="d-flex col-lg-10 m-auto"><!-- poits-5-->
-            <div class="poins-header col-6">
-            <p class="ahtc-head-txt pcca-5-head">Section 5: Career Clusters</p>
+          <div class="d-flex col-lg-11 p-15 m-auto"><!-- poits-5-->
+          <div class="poins-header col-4 p-15">
+            <p class="ahtc-head-txt pcca-5-head">Section 5:</p>
             </div>
-            <div class="points-sub-header col-6">
+            <div class="poins-header col-4 p-15">
+            <p class="ahtc-head-txt pcca-5-head">Career Clusters</p>
+            </div>
+            <div class="points-sub-header col-4 p-15">
             <p>Describes the career clusters of the dominant career oriented traits and gives an indicative list of career domains</p>
             </div>
           </div>

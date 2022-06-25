@@ -3,7 +3,7 @@
   <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta charset="UTF-8">
-    <title> ahct </title>
+    <title>prayag</title>
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/hover_effects.css">
     <link href='https://unpkg.com/boxicons@2.0.7/css/boxicons.min.css' rel='stylesheet'>
@@ -12,8 +12,8 @@
   </head>
 
 
-      <!-- Nav bar -->
-      <nav>
+       <!-- Nav bar -->
+       <nav>
       <div class="top-header">
         <div class="container sub-container p-0">
         <div class="social-m-icon col-5 col-lg-2 p-0">
@@ -39,7 +39,7 @@
                 <ul class="links">
                   <li><a href="index.php" class="btns">HOME</a></li>
                   <li>
-                  <a href="#" class="btns active">ABOUT</a>
+                  <a href="#" class="btns">ABOUT</a>
                     <i class="bx bxs-chevron-down htmlcss-arrow arrow"></i>
                     <ul class="htmlCss-sub-menu sub-menu">
                       <li><a href="our_team.php">OUR TEAM</a></li>
@@ -76,7 +76,7 @@
               </li>
               <!-- <li><a href="news.php" class="btns">NEWS &amp; EVENTS</a></li> -->
               <li class="puthri-m-des">
-                  <a href="#" class="btns">NEWS &amp; EVENTS</a>
+                  <a href="#" class="btns active">NEWS &amp; EVENTS</a>
                     <i class="bx bxs-chevron-down htmlcss-arrow arrow"></i>
                     <ul class="htmlCss-sub-menu sub-menu">
                     <li><a href="prayag.php">prayag</a></li>
@@ -113,9 +113,9 @@
       
       
       <div class="banner-img">
-          <img src="img/ahct_Banner.png" alt="">
-          <div class="bg-shoadow">
-            <h1 class="">AHCT</h1>
+          <img src="img/prayag-hero.png" alt="">
+          <div class="bg-shoadow white-bg">
+            <h1 class="">Prayag</h1>
       </div>
       </div>
        <!-- Back to Page Content -->
@@ -124,8 +124,8 @@
           <div class="col-12 mt-3">
             <div class="navigation-section">
               <a href="index.php" class="navigation-links"><h5>home</h5></a> >
-              <a href="#" class="navigation-links"><h5>about us</h5></a> >
-              <a href="index.php" class="navigation-links"><h5>AHCT</h5></a>
+              <a href="#" class="navigation-links"><h5>Puthri Model</h5></a> >
+              <a href="index.php" class="navigation-links"><h5>Prayag</h5></a>
             </div>
           </div>
         </div>
@@ -134,103 +134,71 @@
       <!-- Back to Page Content End -->
       <section class="container mitr-first-main">
           <div class="first-head">
-            <h6 class="c-img-title1">#AHCT</h6>
-            <h3 class="c-img-title2 ahtc-sub-text fnt-sub-hed">AHCT Overview</h3>
+            <h6 class="c-img-title1">#PRAYAG</h6>
+            <h3 class="c-img-title2 ahtc-sub-text fnt-sub-hed">Prayag</h3>
           </div>
           <div class="row d-flex img-txt">
               <div class="main-content col-lg-7">
-                <h5>AVTAR Human Capital Trust</h5>
-                  <p> is a not for-profit public charitable organization, working in the field of economic empowerment of women. Headquartered in Chennai, AHCT has been addressing gender equality, poverty eradication and inclusive economic growth for women across the State of Tamil Nadu & Pondicherry from 2008.
-With a strong belief that economic independence is key to women's empowerment and that women can make and continue to make enormous contributions to economies, whether in businesses, on farms, as entrepreneurs or employees, or by doing unpaid care work at home, we at AVTAR group are keen on facilitating women's social inclusion and economic empowerment in the economically backward strata of society too.
-Our life skills enhancement programs, employability workshops, Prevention of Sexual Harassment training and education support, have enabled many women (across lower, middle and upper middle strata of society) secure decent jobs to become economically independent & self-reliant, to think more progressively and make well informed decisions in life, to uphold positive self-esteem and participate confidently & contribute in areas like health, education, rights, political & social activities.
-Social responsibility continues to be an intrinsic part of AVTAR family, and today, with our flagship project ‘Puthri’ we endeavour to reach out to 10,000 underprivileged girl children in the age group of 13 to 18 years studying in government schools across India, making them career intentional every year, and with an initiative called MITR (Men Impacting Trust and Respect). MITR is an attempt in educating and empowering young, adolescent male population as empathetic “Gender Champions”. These young folk will develop and mature into a well-informed youth population of the country in creating a safe, secure and equal space to the female peers and counterparts.
+                  <p><b>Prayag</b> is an annual event that celebrates and recognises all our volunteers and stakeholders. The event commences with an array of cultural activities, followed by a sumptuous lunch, allowing the Puthri volunteers to spend time bonding with the group by sharing their wonderful experiences at Puthri. This event is also the time to celebrate the success and appreciate the journey of the Puthri Project. 
+The volunteers and stakeholders are awarded certificates. This event also marks an important interaction between the volunteers at Puthri alongside the announcement of new ventures. The volunteers come together to plan the itinerary and cultural activities and practice together for the same. This bonding makes them relive their student life becoming a memorable part of their life. Also, each volunteer’s journey is motivating to the rest. Prayag is where volunteers become self-motivated, energetic, and inspire others to come together for an important cause.
+
 </p>
               </div> 
               <div class="main-banner width100 col-lg-5 p-0">
-                  <img src="img/ahct-right.png" alt="">
+                  <img src="img/why-txt-img.png" alt="">
               </div>
           </div>
-          <div class="ahtc-card-title">
-            <h6 class="c-img-title1">#OBJECTIVES</h6>
-            <h3 class="c-img-title2 ahtc-sub-text fnt-sub-hed">Objectives Of The Truest</h3>
-          </div>
-          <div class="main-sub-Overview">
-              <p>To support initiatives within congregations or communities to promote education and training of girls and women.</p>
-              <p>•To provide education funding for deserving students from economically backward sections of the society, based on their keenness for self-development, aptitude and academic record, through our Puthri Scholarship Program. </p>
-              <p>•To undertake research in areas relating to development of women and children.</p>
-              <p>• To establish and run schools, institutions, centres of information on education, learning and development in such places as deemed fit for the promotion of education with focus on Indian traditional way of learning.</p>
-          </div>
-          <div class="ahtc-banner">
-          <img src="img/mitr-class.png" alt="">
-          </div>
-          <div class="ahtc-card-title">
-            <h6 class="c-img-title1">#INITIATIVE</h6>
-            <h3 class="c-img-title2 ahtc-sub-text fnt-sub-hed mb-30">Important Initiative Of Avatar Human Capital Trust</h3>
+          
+          <div class="prayag-card-title">
+            <h6 class="c-img-title1">#SNAPSHOT</h6>
+            <h3 class="c-img-title2 ahtc-sub-text fnt-sub-hed mb-30">Past Events</h3>
             <!--  -->
             <div class="d-flex col-lg-12 p-0"> <!-- poits-1 -->
-            <div class="poins-header col-4 p-0 text-left">
-            <p class="ahtc-head-txt pcca-p-head">Financial assistance to deserving students from underprivileged backgrounds</p>
+            <div class="poins-header col-lg-2 p-0 text-left">
+            <p class="ahtc-head-txt pcca-p-head">2017</p>
             </div>
-            <div class="col-1"></div>
-            <div class="points-sub-header col-7 p-0 text-left">
-            <p>By funding the education of meritorious students from economically backward sections of the society (based on their intent for self-development, aptitude and academic record) the trust aims to extend the power of education to the underprivileged and thereby opening their access to a host of employment opportunities that education can bring.
-AHCT also supports community initiatives to promote education and training of underprivileged women to ensure that they are in equal avail of all opportunities as their male counterparts.</p>
-            </div>
-            </div><!-- First-End -->
-            <div class="d-flex col-lg-12 p-0"> <!-- poits-1 -->
-            <div class="poins-header col-4 p-0 text-left">
-            <p class="ahtc-head-txt pcca-p-head">Career counselling for young women and students</p>
-            </div>
-            <div class="col-1"></div>
-            <div class="points-sub-header col-7 p-0 text-left">
-            <p>Investing in education and employment of women and students has been one of the primary objectives of the trust. Apart from providing financial assistance to the needy and meritorious students and young women, the trust also takes an active interest in preparing them for challenging careers.</p>
-            </div>
-            </div><!-- Sec-End -->
-            <div class="d-flex col-lg-12 p-0"> <!-- poits-1 -->
-            <div class="poins-header col-4 p-0 text-left">
-            <p class="ahtc-head-txt pcca-p-head">Community initiatives for protection of the environment</p>
-            </div>
-            <div class="col-1"></div>
-            <div class="points-sub-header col-7 p-0 text-left">
-            <p>The trust has always been sensitive to environmental concerns and hassled several campaigns to this end. Instilling in people, primarily the youth of today, the importance of respecting the environment and protecting it has been a key area of interest for AHCT. Such services are periodically undertaken on a need basis after requisite observation of environmental zones needing attention.</p>
-            </div>
-            </div><!-- Ther-End -->
-            <div class="d-flex col-lg-12 p-0"> <!-- poits-1 -->
-            <div class="poins-header col-4 p-0 text-left">
-            <p class="ahtc-head-txt pcca-p-head">Social research</p>
-            </div>
-            <div class="col-1"></div>
-            <div class="points-sub-header col-7 p-0 text-left">
-            <p>Another key mission of the trust is to publish socially relevant reports that can help organisations and institutions in pursuing a social cause. These reports are basis the research studies undertaken by the trust after careful identification of an issue that needs to be addressed by stakeholders. Through online/offline surveys and focus group discussions involving the above mentioned stakeholders (organisational/institutional representatives), data is collated and after subsequent analysis by volunteers of AHCT, reports take shape.</p>
+            <div class="col-lg-1 prayag-mob"></div>
+            <div class="points-sub-header col-lg-9 p-0 text-left">
+            <p>This event was a gala celebration with our first batch of volunteers and partners coming together and most of them meeting for the first time. Apart from the usual cultural programs  we launched our website www.puthri.org</p>
             </div>
             </div><!-- For-End -->
             <div class="d-flex col-lg-12 p-0"> <!-- poits-1 -->
-            <div class="poins-header col-4 p-0 text-left">
-            <p class="ahtc-head-txt pcca-p-head">Social campaigns for women careers</p>
+            <div class="poins-header col-lg-2 p-0 text-left">
+            <p class="ahtc-head-txt pcca-p-head">2018</p>
             </div>
-            <div class="col-1"></div>
-            <div class="points-sub-header col-7 p-0 text-left">
-            <p>Campaigns supporting initiatives for women career sustainability in India are another focus area of the trust. In Tamil Nadu, the overall workforce participation of women is at 33% and that of urban women is only 26.8%. Moreover, of the 1.34 crore women in urban Tamil Nadu, only 24.8 lakh is gainfully employed. Research suggests that the key to improving women’s workforce participation is flexible working that are alternate working arrangements that give women greater autonomy over their schedules and attain better work life integration levels. 77% of Indian women quit work owing to the lack of it.</p>
-            </div>
-            </div><!-- Five-End -->
-            <div class="d-flex col-lg-12 p-0"> <!-- poits-1 -->
-            <div class="poins-header col-4 p-0 text-left">
-            <p class="ahtc-head-txt pcca-p-head">Feeding the poor</p>
-            </div>
-            <div class="col-1"></div>
-            <div class="points-sub-header col-7 p-0 text-left">
-            <p>AHCT believes that feeding the poor and the needy helps it achieve its humanitarian aspirations. The trust funds are periodically deployed for such purposes basis identifications of institutions that are in need. Volunteers are in charge of implementation of such initiatives – from identifying the beneficiaries, to collecting funds, to assigning the caterers to actual serving at the site.</p>
+            <div class="col-lg-1 prayag-mob"></div>
+            <div class="points-sub-header col-lg-9 p-0 text-left">
+            <p>This year we grew in numbers; more volunteers were added to the list. It added more fun and more rejoicing. We also launched the Puthri Pulse newsletter.</p>
             </div>
             </div><!-- For-End -->
             <div class="d-flex col-lg-12 p-0"> <!-- poits-1 -->
-            <div class="poins-header col-4 p-0 text-left">
-            <p class="ahtc-head-txt pcca-p-head">Recruitment training programs</p>
+            <div class="poins-header col-lg-2 p-0 text-left">
+            <p class="ahtc-head-txt pcca-p-head">2019</p>
             </div>
-            <div class="col-1"></div>
-            <div class="points-sub-header col-7 p-0 text-left">
-            <p>Aligning with its objective of creating more opportunities to the less privileged segments of the society, the trust identifies needy students from such backgrounds who have completed school (10/ 10+2) and train them for careers in recruitment. Volunteers teach such ambitious and capable students communication basics as also the entire recruitment process cycle. Almost 18 students have been benefited by this programmed and have moved on to have careers within the Avtar Group or elsewhere in the industry.</p>
+            <div class="col-lg-1 prayag-mob"></div>
+            <div class="points-sub-header col-lg-9 p-0 text-left">
+            <p>Prayag was celebrated on a larger scale, with celebrities like singer Saindhavi gracing the event. We saw more professionalism in the way the cultural programs got conducted. We launched our First Workbook for the Puthri Scholars.</p>
             </div>
             </div><!-- For-End -->
+            <div class="d-flex col-lg-12 p-0"> <!-- poits-1 -->
+            <div class="poins-header col-lg-2 p-0 text-left">
+            <p class="ahtc-head-txt pcca-p-head">2020</p>
+            </div>
+            <div class="col-lg-1 prayag-mob"></div>
+            <div class="points-sub-header col-lg-9 p-0 text-left">
+            <p> The pandemic hit the nation hard. Many of us fell prey to the virus, but we all joined together virtually to celebrate ourselves despite the illness or desolation to motivate and pat our backs for the good things we did for our Puthri Scholars. Our Video makers got the chance to showcase their creativity. The entire skit was shot by volunteers from home, and our video editors spun their magic wand. Viola! We came up with an entertaining skit. We launched our much awaited intervention called Post Schooling Certificate course programs for our Puthris passed out of school.</p>
+            </div>
+            </div><!-- For-End -->
+            <div class="d-flex col-lg-12 p-0"> <!-- poits-1 -->
+            <div class="poins-header col-lg-2 p-0 text-left">
+            <p class="ahtc-head-txt pcca-p-head">2021</p>
+            </div>
+            <div class="col-lg-1 prayag-mob"></div>
+            <div class="points-sub-header col-lg-9 p-0 text-left">
+            <p> Once again, the celebrations went virtual.  We gathered together through a virtual platform and celebrated with the same zeal and energy. Our programs had a variety of skits and individual performances. We launched the second edition of our workbook to the Puthris.</p>
+            </div>
+            </div><!-- For-End -->
+        
 <!--  -->
           <div class="card-title">
             <h6 class="c-img-title1">#C0NTACTUS</h6>

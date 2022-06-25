@@ -12,8 +12,8 @@
   </head>
 
 
-      <!-- Nav bar -->
-      <nav>
+       <!-- Nav bar -->
+       <nav>
       <div class="top-header">
         <div class="container sub-container p-0">
         <div class="social-m-icon col-5 col-lg-2 p-0">
@@ -49,7 +49,7 @@
                   </ul>
                 </li>
                 <li class="puthri-m-des">
-                  <a href="#" class="btns">PUTHRI MODEL</a>
+                  <a href="#" class="btns active">PUTHRI MODEL</a>
                     <i class="bx bxs-chevron-down htmlcss-arrow arrow"></i>
                     <ul class="htmlCss-sub-menu sub-menu">
                     <li><a href="puthri-model.php">PUTHRI MODEL</a></li>
@@ -60,7 +60,7 @@
                 </li>
                 
                 <li class="puthri-m-mob">
-                  <a href="#" class="btns active">PUTHRI MODEL</a>
+                  <a href="#" class="btns">PUTHRI MODEL</a>
                     <i class="bx bxs-chevron-down more-arrow arrow"></i>
                     <ul class="more-sub-menu sub-menu">
                     <li><a href="puthri-model.php">PUTHRI MODEL</a></li>
@@ -74,7 +74,25 @@
               <li>
                 <a href="get-involved.php" class="btns">GET INVOLVED</a>
               </li>
-              <li><a href="news.php" class="btns">NEWS &amp; EVENTS</a></li>
+              <!-- <li><a href="news.php" class="btns">NEWS &amp; EVENTS</a></li> -->
+              <li class="puthri-m-des">
+                  <a href="#" class="btns">NEWS &amp; EVENTS</a>
+                    <i class="bx bxs-chevron-down htmlcss-arrow arrow"></i>
+                    <ul class="htmlCss-sub-menu sub-menu">
+                    <li><a href="prayag.php">prayag</a></li>
+                    <li><a href="uu.php">Udyog Utsav</a></li>
+                  </ul>
+                </li>
+                
+                <li class="puthri-m-mob">
+                  <a href="#" class="btns">PUTHRI MODEL</a>
+                    <i class="bx bxs-chevron-down more-arrow arrow"></i>
+                    <ul class="more-sub-menu sub-menu">
+                    <li><a href="prayag.php">prayag</a></li>
+                      <li><a href="uu.php">Udyog Utsav</a></li>
+                  </ul>
+                </li>
+              <li>
               <li><a href="faq.php" class="btns">FAQ</a></li>
               </ul>
               </div>
@@ -118,7 +136,7 @@
             <h6>#SCHOLARSHIP</h6>
             <h3 class="fnt-sub-hed">Puthri Scholarship</h3>
           </div>
-          <div class="row d-flex img-txt" style="margin:auto;">
+          <div class="row d-flex img-txt container p-15">
               <div class="main-content col-lg-6 pr-0">
                   <p>Project Puthri envisions digital inclusion for continuing education to girls from economically challenged backgrounds. Our programs impart holistic training to these young girls to get them career-ready. The programs based on a three-pronged approach (Mentoring, Role Model Anchoring and Career Coaching) are aimed at the holistic transformation and skills development of the young Puthris.</p>
                   <p>Project Puthri provides financial support to the deserving Puthri Scholars to assist them in completing their tertiary education and be ready for a flying career. The scholarship program aims-</p>

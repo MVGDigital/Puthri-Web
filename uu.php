@@ -3,7 +3,7 @@
   <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta charset="UTF-8">
-    <title> ahct </title>
+    <title>Udyog Utsav</title>
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/hover_effects.css">
     <link href='https://unpkg.com/boxicons@2.0.7/css/boxicons.min.css' rel='stylesheet'>
@@ -12,8 +12,8 @@
   </head>
 
 
-      <!-- Nav bar -->
-      <nav>
+       <!-- Nav bar -->
+       <nav>
       <div class="top-header">
         <div class="container sub-container p-0">
         <div class="social-m-icon col-5 col-lg-2 p-0">
@@ -39,7 +39,7 @@
                 <ul class="links">
                   <li><a href="index.php" class="btns">HOME</a></li>
                   <li>
-                  <a href="#" class="btns active">ABOUT</a>
+                  <a href="#" class="btns">ABOUT</a>
                     <i class="bx bxs-chevron-down htmlcss-arrow arrow"></i>
                     <ul class="htmlCss-sub-menu sub-menu">
                       <li><a href="our_team.php">OUR TEAM</a></li>
@@ -76,7 +76,7 @@
               </li>
               <!-- <li><a href="news.php" class="btns">NEWS &amp; EVENTS</a></li> -->
               <li class="puthri-m-des">
-                  <a href="#" class="btns">NEWS &amp; EVENTS</a>
+                  <a href="#" class="btns active">NEWS &amp; EVENTS</a>
                     <i class="bx bxs-chevron-down htmlcss-arrow arrow"></i>
                     <ul class="htmlCss-sub-menu sub-menu">
                     <li><a href="prayag.php">prayag</a></li>
@@ -113,9 +113,9 @@
       
       
       <div class="banner-img">
-          <img src="img/ahct_Banner.png" alt="">
-          <div class="bg-shoadow">
-            <h1 class="">AHCT</h1>
+          <img src="img/uu-hero.png" alt="">
+          <div class="bg-shoadow white-bg">
+            <h1 class="">Udyog Utsav</h1>
       </div>
       </div>
        <!-- Back to Page Content -->
@@ -124,8 +124,8 @@
           <div class="col-12 mt-3">
             <div class="navigation-section">
               <a href="index.php" class="navigation-links"><h5>home</h5></a> >
-              <a href="#" class="navigation-links"><h5>about us</h5></a> >
-              <a href="index.php" class="navigation-links"><h5>AHCT</h5></a>
+              <a href="#" class="navigation-links"><h5>Puthri Model</h5></a> >
+              <a href="index.php" class="navigation-links"><h5>Udyog Utsav</h5></a>
             </div>
           </div>
         </div>
@@ -134,103 +134,70 @@
       <!-- Back to Page Content End -->
       <section class="container mitr-first-main">
           <div class="first-head">
-            <h6 class="c-img-title1">#AHCT</h6>
-            <h3 class="c-img-title2 ahtc-sub-text fnt-sub-hed">AHCT Overview</h3>
+            <h6 class="c-img-title1">#UDYOG UTSAV</h6>
+            <h3 class="c-img-title2 ahtc-sub-text fnt-sub-hed">Udyog Utsav</h3>
           </div>
           <div class="row d-flex img-txt">
               <div class="main-content col-lg-7">
-                <h5>AVTAR Human Capital Trust</h5>
-                  <p> is a not for-profit public charitable organization, working in the field of economic empowerment of women. Headquartered in Chennai, AHCT has been addressing gender equality, poverty eradication and inclusive economic growth for women across the State of Tamil Nadu & Pondicherry from 2008.
-With a strong belief that economic independence is key to women's empowerment and that women can make and continue to make enormous contributions to economies, whether in businesses, on farms, as entrepreneurs or employees, or by doing unpaid care work at home, we at AVTAR group are keen on facilitating women's social inclusion and economic empowerment in the economically backward strata of society too.
-Our life skills enhancement programs, employability workshops, Prevention of Sexual Harassment training and education support, have enabled many women (across lower, middle and upper middle strata of society) secure decent jobs to become economically independent & self-reliant, to think more progressively and make well informed decisions in life, to uphold positive self-esteem and participate confidently & contribute in areas like health, education, rights, political & social activities.
-Social responsibility continues to be an intrinsic part of AVTAR family, and today, with our flagship project ‘Puthri’ we endeavour to reach out to 10,000 underprivileged girl children in the age group of 13 to 18 years studying in government schools across India, making them career intentional every year, and with an initiative called MITR (Men Impacting Trust and Respect). MITR is an attempt in educating and empowering young, adolescent male population as empathetic “Gender Champions”. These young folk will develop and mature into a well-informed youth population of the country in creating a safe, secure and equal space to the female peers and counterparts.
-</p>
+                  <p><b>UDYOG UTSAV</b> is one of its kind events that turns the spotlight on India’s underprivileged daughters to choose educational courses and career paths from a variety of options that will help them to rise out of poverty. Educational Institutions (such as Arts & Science Colleges, Engineering Colleges, Medical Colleges, and other institutions) and Corporates participate in this interactive event. UDYOG UTSAV will feature knowledge sharing sessions delivered by organizations like yours to explain the available career opportunities in your industry and in the process build aspirations among young minds to focus on education to build sustainable careers. The knowledge sharing sessions will be followed with an informal interaction with industry experts and youth icons who will share information on how educated young girls can be the fulcrum of support and sustenance for their families</p>
+                  <p>This conference cum career expo aims to inspire and motivate underprivileged girl children to pursue their tertiary education, build careers with organizations to contribute to the growing Indian economy.</p>
+                  <p>As part of AHCT’s endeavour to bring the underprivileged girl children close to pursuing careers, Project Puthri introduced India’s only career envisioning event aimed at young girls, who are part of the initiative, Udyog Utsav. The event brings together business leaders, academic leaders, policy-makers and many role models from different walks of life to put together an experience of its kind for Puthri scholars to turn their dreams into reality. The event has emerged as a default evolution in the Puthri paradigm, as the scholars tend to pick up the intentionality curve from theory to practice. The clarity that emerges out of these experiences are direct and intense, and also lasts longer in the minds of our Puthri scholars.</p>
               </div> 
               <div class="main-banner width100 col-lg-5 p-0">
-                  <img src="img/ahct-right.png" alt="">
+                  <img src="img/uu-txt-img.png" alt="">
               </div>
           </div>
-          <div class="ahtc-card-title">
-            <h6 class="c-img-title1">#OBJECTIVES</h6>
-            <h3 class="c-img-title2 ahtc-sub-text fnt-sub-hed">Objectives Of The Truest</h3>
-          </div>
-          <div class="main-sub-Overview">
-              <p>To support initiatives within congregations or communities to promote education and training of girls and women.</p>
-              <p>•To provide education funding for deserving students from economically backward sections of the society, based on their keenness for self-development, aptitude and academic record, through our Puthri Scholarship Program. </p>
-              <p>•To undertake research in areas relating to development of women and children.</p>
-              <p>• To establish and run schools, institutions, centres of information on education, learning and development in such places as deemed fit for the promotion of education with focus on Indian traditional way of learning.</p>
-          </div>
-          <div class="ahtc-banner">
-          <img src="img/mitr-class.png" alt="">
-          </div>
-          <div class="ahtc-card-title">
-            <h6 class="c-img-title1">#INITIATIVE</h6>
-            <h3 class="c-img-title2 ahtc-sub-text fnt-sub-hed mb-30">Important Initiative Of Avatar Human Capital Trust</h3>
+          
+          <div class="prayag-card-title">
+          <h6 class="c-img-title1">#SNAPSHOT</h6>
+            <h3 class="c-img-title2 ahtc-sub-text fnt-sub-hed mb-30">Past Events</h3>
             <!--  -->
             <div class="d-flex col-lg-12 p-0"> <!-- poits-1 -->
-            <div class="poins-header col-4 p-0 text-left">
-            <p class="ahtc-head-txt pcca-p-head">Financial assistance to deserving students from underprivileged backgrounds</p>
+            <div class="poins-header col-lg-2 p-0 text-left">
+            <p class="ahtc-head-txt pcca-p-head">2017</p>
             </div>
-            <div class="col-1"></div>
-            <div class="points-sub-header col-7 p-0 text-left">
-            <p>By funding the education of meritorious students from economically backward sections of the society (based on their intent for self-development, aptitude and academic record) the trust aims to extend the power of education to the underprivileged and thereby opening their access to a host of employment opportunities that education can bring.
-AHCT also supports community initiatives to promote education and training of underprivileged women to ensure that they are in equal avail of all opportunities as their male counterparts.</p>
-            </div>
-            </div><!-- First-End -->
-            <div class="d-flex col-lg-12 p-0"> <!-- poits-1 -->
-            <div class="poins-header col-4 p-0 text-left">
-            <p class="ahtc-head-txt pcca-p-head">Career counselling for young women and students</p>
-            </div>
-            <div class="col-1"></div>
-            <div class="points-sub-header col-7 p-0 text-left">
-            <p>Investing in education and employment of women and students has been one of the primary objectives of the trust. Apart from providing financial assistance to the needy and meritorious students and young women, the trust also takes an active interest in preparing them for challenging careers.</p>
-            </div>
-            </div><!-- Sec-End -->
-            <div class="d-flex col-lg-12 p-0"> <!-- poits-1 -->
-            <div class="poins-header col-4 p-0 text-left">
-            <p class="ahtc-head-txt pcca-p-head">Community initiatives for protection of the environment</p>
-            </div>
-            <div class="col-1"></div>
-            <div class="points-sub-header col-7 p-0 text-left">
-            <p>The trust has always been sensitive to environmental concerns and hassled several campaigns to this end. Instilling in people, primarily the youth of today, the importance of respecting the environment and protecting it has been a key area of interest for AHCT. Such services are periodically undertaken on a need basis after requisite observation of environmental zones needing attention.</p>
-            </div>
-            </div><!-- Ther-End -->
-            <div class="d-flex col-lg-12 p-0"> <!-- poits-1 -->
-            <div class="poins-header col-4 p-0 text-left">
-            <p class="ahtc-head-txt pcca-p-head">Social research</p>
-            </div>
-            <div class="col-1"></div>
-            <div class="points-sub-header col-7 p-0 text-left">
-            <p>Another key mission of the trust is to publish socially relevant reports that can help organisations and institutions in pursuing a social cause. These reports are basis the research studies undertaken by the trust after careful identification of an issue that needs to be addressed by stakeholders. Through online/offline surveys and focus group discussions involving the above mentioned stakeholders (organisational/institutional representatives), data is collated and after subsequent analysis by volunteers of AHCT, reports take shape.</p>
+            <div class="col-lg-1 prayag-mob"></div>
+            <div class="points-sub-header col-lg-9 p-0 text-left">
+            <p>Our inaugural edition was held during 2017-2018 at Dr.MGR Janaki College for Women Chennai bringing in best in best of organisations, institutions & around 1000 Puthris participated in it. Instantly grabbed the attention of prospective employers & spotted talents for grooming for future workforce.</p>
             </div>
             </div><!-- For-End -->
             <div class="d-flex col-lg-12 p-0"> <!-- poits-1 -->
-            <div class="poins-header col-4 p-0 text-left">
-            <p class="ahtc-head-txt pcca-p-head">Social campaigns for women careers</p>
+            <div class="poins-header col-lg-2 p-0 text-left">
+            <p class="ahtc-head-txt pcca-p-head">2018</p>
             </div>
-            <div class="col-1"></div>
-            <div class="points-sub-header col-7 p-0 text-left">
-            <p>Campaigns supporting initiatives for women career sustainability in India are another focus area of the trust. In Tamil Nadu, the overall workforce participation of women is at 33% and that of urban women is only 26.8%. Moreover, of the 1.34 crore women in urban Tamil Nadu, only 24.8 lakh is gainfully employed. Research suggests that the key to improving women’s workforce participation is flexible working that are alternate working arrangements that give women greater autonomy over their schedules and attain better work life integration levels. 77% of Indian women quit work owing to the lack of it.</p>
-            </div>
-            </div><!-- Five-End -->
-            <div class="d-flex col-lg-12 p-0"> <!-- poits-1 -->
-            <div class="poins-header col-4 p-0 text-left">
-            <p class="ahtc-head-txt pcca-p-head">Feeding the poor</p>
-            </div>
-            <div class="col-1"></div>
-            <div class="points-sub-header col-7 p-0 text-left">
-            <p>AHCT believes that feeding the poor and the needy helps it achieve its humanitarian aspirations. The trust funds are periodically deployed for such purposes basis identifications of institutions that are in need. Volunteers are in charge of implementation of such initiatives – from identifying the beneficiaries, to collecting funds, to assigning the caterers to actual serving at the site.</p>
+            <div class="col-lg-1 prayag-mob"></div>
+            <div class="points-sub-header col-lg-9 p-0 text-left">
+            <p>Our 2nd edition held in 2018 at PSG College, Coimbatore hosting some of the prestigious & entrepreneurial business houses featuring 500+ Puthris getting benefitted out of it.</p>
             </div>
             </div><!-- For-End -->
             <div class="d-flex col-lg-12 p-0"> <!-- poits-1 -->
-            <div class="poins-header col-4 p-0 text-left">
-            <p class="ahtc-head-txt pcca-p-head">Recruitment training programs</p>
+            <div class="poins-header col-lg-2 p-0 text-left">
+            <p class="ahtc-head-txt pcca-p-head">2019</p>
             </div>
-            <div class="col-1"></div>
-            <div class="points-sub-header col-7 p-0 text-left">
-            <p>Aligning with its objective of creating more opportunities to the less privileged segments of the society, the trust identifies needy students from such backgrounds who have completed school (10/ 10+2) and train them for careers in recruitment. Volunteers teach such ambitious and capable students communication basics as also the entire recruitment process cycle. Almost 18 students have been benefited by this programmed and have moved on to have careers within the Avtar Group or elsewhere in the industry.</p>
+            <div class="col-lg-1 prayag-mob"></div>
+            <div class="points-sub-header col-lg-9 p-0 text-left">
+            <p>Held at Sathyabama University amidst of diverse industries and their experts demystifying the technicalities and opportunities available in their sector. Over 1000 Puthris benefitted by participating in it.</p>
             </div>
             </div><!-- For-End -->
+            <div class="d-flex col-lg-12 p-0"> <!-- poits-1 -->
+            <div class="poins-header col-lg-2 p-0 text-left">
+            <p class="ahtc-head-txt pcca-p-head">2020</p>
+            </div>
+            <div class="col-lg-1 prayag-mob"></div>
+            <div class="points-sub-header col-lg-9 p-0 text-left">
+            <p>The virtual event occurred on Sundays 14th & 21st March keeping the Pandemic in mind. More than 800+ girls, their parents, teachers and a large group of professionals from various elds who volunteer for Project Puthri participated in the event.</p>
+            </div>
+            </div><!-- For-End -->
+            <div class="d-flex col-lg-12 p-0"> <!-- poits-1 -->
+            <div class="poins-header col-lg-2 p-0 text-left">
+            <p class="ahtc-head-txt pcca-p-head">2021</p>
+            </div>
+            <div class="col-lg-1 prayag-mob"></div>
+            <div class="points-sub-header col-lg-9 p-0 text-left">
+            <p>The event was conducted in a Hybrid Model. The Inaugural happened virtually on 20th Feb, featuring Leaders & Role Models from Corporate and from the entertainment industry. The following weeks.</p>
+            </div>
+            </div><!-- For-End -->
+        
 <!--  -->
           <div class="card-title">
             <h6 class="c-img-title1">#C0NTACTUS</h6>

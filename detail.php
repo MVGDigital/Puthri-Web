@@ -11,8 +11,8 @@
       </head>
 
 
-      <!-- Nav bar -->
-      <nav>
+       <!-- Nav bar -->
+       <nav>
       <div class="top-header">
         <div class="container sub-container p-0">
         <div class="social-m-icon col-5 col-lg-2 p-0">
@@ -36,7 +36,7 @@
                     <i class="bx bx-x"></i>
                 </div>
                 <ul class="links">
-                  <li><a href="index.php" class="btns active">HOME</a></li>
+                  <li><a href="index.php" class="btns">HOME</a></li>
                   <li>
                   <a href="#" class="btns">ABOUT</a>
                     <i class="bx bxs-chevron-down htmlcss-arrow arrow"></i>
@@ -73,7 +73,25 @@
               <li>
                 <a href="get-involved.php" class="btns">GET INVOLVED</a>
               </li>
-              <li><a href="news.php" class="btns">NEWS &amp; EVENTS</a></li>
+              <!-- <li><a href="news.php" class="btns">NEWS &amp; EVENTS</a></li> -->
+              <li class="puthri-m-des">
+                  <a href="#" class="btns">NEWS &amp; EVENTS</a>
+                    <i class="bx bxs-chevron-down htmlcss-arrow arrow"></i>
+                    <ul class="htmlCss-sub-menu sub-menu">
+                    <li><a href="prayag.php">prayag</a></li>
+                    <li><a href="uu.php">Udyog Utsav</a></li>
+                  </ul>
+                </li>
+                
+                <li class="puthri-m-mob">
+                  <a href="#" class="btns">PUTHRI MODEL</a>
+                    <i class="bx bxs-chevron-down more-arrow arrow"></i>
+                    <ul class="more-sub-menu sub-menu">
+                    <li><a href="prayag.php">prayag</a></li>
+                      <li><a href="uu.php">Udyog Utsav</a></li>
+                  </ul>
+                </li>
+              <li>
               <li><a href="faq.php" class="btns">FAQ</a></li>
               </ul>
               </div>

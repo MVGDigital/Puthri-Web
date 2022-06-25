@@ -12,8 +12,8 @@
   </head>
 
 
-      <!-- Nav bar -->
-      <nav>
+       <!-- Nav bar -->
+       <nav>
       <div class="top-header">
         <div class="container sub-container p-0">
         <div class="social-m-icon col-5 col-lg-2 p-0">
@@ -74,7 +74,25 @@
               <li>
                 <a href="get-involved.php" class="btns">GET INVOLVED</a>
               </li>
-              <li><a href="news.php" class="btns">NEWS &amp; EVENTS</a></li>
+              <!-- <li><a href="news.php" class="btns">NEWS &amp; EVENTS</a></li> -->
+              <li class="puthri-m-des">
+                  <a href="#" class="btns">NEWS &amp; EVENTS</a>
+                    <i class="bx bxs-chevron-down htmlcss-arrow arrow"></i>
+                    <ul class="htmlCss-sub-menu sub-menu">
+                    <li><a href="prayag.php">prayag</a></li>
+                    <li><a href="uu.php">Udyog Utsav</a></li>
+                  </ul>
+                </li>
+                
+                <li class="puthri-m-mob">
+                  <a href="#" class="btns">PUTHRI MODEL</a>
+                    <i class="bx bxs-chevron-down more-arrow arrow"></i>
+                    <ul class="more-sub-menu sub-menu">
+                    <li><a href="prayag.php">prayag</a></li>
+                      <li><a href="uu.php">Udyog Utsav</a></li>
+                  </ul>
+                </li>
+              <li>
               <li><a href="faq.php" class="btns">FAQ</a></li>
               </ul>
               </div>
@@ -153,11 +171,10 @@ Thus AVTAR Human Capital Trust formulated “MITR” for young school going boys
           </div>
           <div class="mitr-card-title">
           <h5>The objectives of MITR are:</h5>
-            <p class="ahtc-sub-txt">-To educate school going boys on understanding, accepting, respecting and giving space to the female gender of the society<br>
--To empower the school going boys as a friendly associate of female gender who will extend an empathetic hand towards their peer girls with right amount of understanding required for their age<br>
--To inculcate the concept of friendship and make the line “Friend in need…” a reality for our female school going population through an atmosphere that will be based out of pure knowledge and understanding<br>
--To identify “Gender Champions” in amongst the school going boys who reflects these ideologies and are the real “Mitr” to their opposite gender
-</p>
+            <p class="ahtc-sub-txt">-To educate school going boys on understanding, accepting, respecting and giving space to the female gender of the society.</p>
+<p>-To empower the school going boys as a friendly associate of female gender who will extend an empathetic hand towards their peer girls with right amount of understanding required for their age.</p>
+<p>-To inculcate the concept of friendship and make the line “Friend in need…” a reality for our female school going population through an atmosphere that will be based out of pure knowledge and understanding.</p>
+<p>-To identify “Gender Champions” in amongst the school going boys who reflects these ideologies and are the real “Mitr” to their opposite gender.</p>
           </div>
           <div class="ahtc-card-title">
             <h6>#MODEL</h6>

@@ -11,8 +11,8 @@
       </head>
 
 
-      <!-- Nav bar -->
-      <nav>
+       <!-- Nav bar -->
+       <nav>
       <div class="top-header">
         <div class="container sub-container p-0">
         <div class="social-m-icon col-5 col-lg-2 p-0">
@@ -73,7 +73,25 @@
               <li>
                 <a href="get-involved.php" class="btns">GET INVOLVED</a>
               </li>
-              <li><a href="news.php" class="btns">NEWS &amp; EVENTS</a></li>
+              <!-- <li><a href="news.php" class="btns">NEWS &amp; EVENTS</a></li> -->
+              <li class="puthri-m-des">
+                  <a href="#" class="btns">NEWS &amp; EVENTS</a>
+                    <i class="bx bxs-chevron-down htmlcss-arrow arrow"></i>
+                    <ul class="htmlCss-sub-menu sub-menu">
+                    <li><a href="prayag.php">prayag</a></li>
+                    <li><a href="uu.php">Udyog Utsav</a></li>
+                  </ul>
+                </li>
+                
+                <li class="puthri-m-mob">
+                  <a href="#" class="btns">PUTHRI MODEL</a>
+                    <i class="bx bxs-chevron-down more-arrow arrow"></i>
+                    <ul class="more-sub-menu sub-menu">
+                    <li><a href="prayag.php">prayag</a></li>
+                      <li><a href="uu.php">Udyog Utsav</a></li>
+                  </ul>
+                </li>
+              <li>
               <li><a href="faq.php" class="btns">FAQ</a></li>
               </ul>
               </div>
@@ -144,7 +162,7 @@
           <div class="col-12 col-md-11 col-xl-12">
             <img alt="..." src="img/puthri-graph.png" class="img-fluid py-4 mb-0">
             <!-- Hover Graph CArds -->                
-        <div class="container mt-4 d-flex justify-content-center card-t">
+        <!-- <div class="container mt-4 d-flex justify-content-center card-t">
            
          <div class="row g-0 justify-content-center g-card">
 
@@ -176,63 +194,38 @@
                 </div>
         </div>
      </div>           
-    </div>
+    </div> -->
             <!--  Hover Graph End-->
-          </div>
-          <div class="col-12 col-md-12 col-xl-12 m-auto">
-            <h3>Puthri is India’s first ever developmental project that seeks to create Career Intentionality among underprivileged girl students.</h3><br>
-            <p class="puthri-snapshot-carrierparagraph">Various interventions at Puthri help eliminate discriminations and help create more balanced societal set-ups which are necessary. Our Puthri Scholars gain confidence through these life changing interventions to take right decisions to pursue higher education for a sustainable career.</p>
-              <div class="body">
-                <details>
-                  <summary>
-                    
-                    </summary>
-                </details>
+            <!-- 3Cards -->
+            <div class="container p-15">
+            <div class="row">
+              <div class="col-12 col-sm-6 col-md-6 col-lg-6 col-xl-4 p-0">
+                <img src="img/Internship.png" class="responsive">
+                <h5 class="impact-mnth">Mentoring</h5>
+              </div>
+              <div class="col-12 col-sm-6 col-md-6 col-lg-6 col-xl-4 p-0">
+                <img src="img/Infra for Events.png" class="responsive">
+                <h5 class="impact-mnth">Role Model</h5>
+              </div>
+              <div class="col-12 col-sm-6 col-md-6 col-lg-6 col-xl-4 p-0">
+                <img src="img/Research support.png" class="responsive">
+                <h5 class="impact-mnth">Career Coash</h5>
               </div>
             </div>
-            <div class="col-1"></div>
+          </div>
+            <!--  -->
+          </div>
           </div>
         </div>
       </div>
     </section>
-    
-
-
-      <!--==================================================================
-       Featured Puthri
-      ==================================================================-->
-      <section id="ft-puthri-section" class="section-padding">
-        <div class="container-fluid">
-          <div class="row">
-            <div class="col-md-6 col-lg-2"></div>
-            <div class="col-md-6 col-lg-4">
-              <div class="event">
-                <h6>#PUTHRI PROGRAMS</h6>
-                <h3>What we do</h3>
-                <!--<h6 class="event-subheading">has started for all puthri<br>scholars</h6>-->
-                <p >At project PUTHRI, we follow a holistic approach of providing complete & wholesome education to every PUTHRI scholar. Our various intervention programs in collaboration with partners, helps us support & enable every PUTHRI to equip herself for a career readiness goal in life</p>
-              </div>
-            </div>
-              <div class="col-md-6 col-lg-6 p-0">
-                <div class="swiper-container">
-                  <div class="swiper-wrapper">
-                    <div class="swiper-slide"><img src="img/Puthri Process 1.jpeg" class="img-fluid"> </div>
-                      <div class="swiper-slide"><img src="img/Puthri Process 2 (1).jpg" class="img-fluid"></div>
-                      <div class="swiper-slide"><img src="img/Puthri Process 2 (2).jpg" class="img-fluid"></div>
-                      <div class="swiper-slide"><img src="img/Puthri process 4.jpeg" class="img-fluid"></div>
-                      <div class="swiper-slide"><img src="img/Puthri process 5.jpeg" class="img-fluid"></div>
-                  </div>
-                  <div class="swiper-button-prev"></div>
-                  <div class="swiper-button-next"></div>
-                </div>
-              </div>
-            </div>
-          </div>
-      </section>
-
-
-
-
+    <!--  -->
+    <div class="text-center container p-15">
+        <h6>#TRANSFORMATION</h6>
+        <h3>8 Dimentions Of Transformation</h3>
+        <p>The 3-pivoted training focus of Mentor-Role Model-Career Coach is augmented with dimensions of transformation along the following themes. These themes are the core pillars on which Puthri scholars are provided interventions which result in building career intentional future-ready citizens.</p>
+      </div>
+    <!--  -->
       <!--==================================================================
        IMPACT
       ==================================================================-->
@@ -293,7 +286,39 @@
             </div>
           </div>
         </section>
-    
+     <!--==================================================================
+       Featured Puthri
+      ==================================================================-->
+      <section id="ft-puthri-section" class="section-padding">
+        <div class="container-fluid">
+          <div class="row">
+            <div class="col-md-6 col-lg-2"></div>
+            <div class="col-md-6 col-lg-4">
+              <div class="event">
+                <h6>#TALENT SEARCH CONTEST</h6>
+                <h3>Talent Search Contest</h3>
+                <!--<h6 class="event-subheading">has started for all puthri<br>scholars</h6>-->
+                <p>The year 2021 saw the unveiling of our most-awaited and planned series of events to identify our Star Puthris - The Talent Show Event. 
+Puthri encourages the students to showcase their talent through Talent contests under different categories like Eloquent contest, Poster Making competition, Essay Writing, AdZap etc. It helps to identify Star Puthri students who excel in one or more categories. These students are further sponsored for other external competitions. Puthri also conducts a special short event for parents of Puthri students to help them understand the benefit a Puthri student has under the Puthri program. This synergy serves as a boost for students to excel with the additional support of family members.
+</p>
+              </div>
+            </div>
+              <div class="col-md-6 col-lg-6 p-0">
+                <div class="swiper-container">
+                  <div class="swiper-wrapper">
+                    <div class="swiper-slide"><img src="img/Talent-3.png" class="img-fluid"> </div>
+                      <div class="swiper-slide"><img src="img/Talent-1.png" class="img-fluid"></div>
+                      <div class="swiper-slide"><img src="img/Talent-2.png" class="img-fluid"></div>
+                      <div class="swiper-slide"><img src="img/Talent-3.png" class="img-fluid"></div>
+                      <div class="swiper-slide"><img src="img/Talent-1.png" class="img-fluid"></div>
+                  </div>
+                  <div class="swiper-button-prev"></div>
+                  <div class="swiper-button-next"></div>
+                </div>
+              </div>
+            </div>
+          </div>
+      </section>
 
       <!--==================================================================
        overview
@@ -302,18 +327,16 @@
         <div class="container">
           <div class="row">
             <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-4">
-              <h6>#OVERVIEW</h6>
-			  <p>puthri is India’s daughter from an underprivileged family, studying in Corporation or Government School, between the age group of 13 & 18 years, studying in classes 8th to 12th who will be trained through a combination of classroom sessions, games and corporate exposure, to understand her capabilities better, prevent her from dropping-out of school, helping her build meaningful relationships and developing the necessary skills to be successful in her career.</p>
+              <h6>#WORKBOOK</h6>
+              <h3>the Puthri Scholar’s Handbook is a handy Activity book which is introduced as an extra learning guidebook.</h3>
               <h6 class="prjct-puthri-heading"></h6>
-              <a href="project-puthri.php">
-              <button class="donate">More about us</button>
-              </a>
             </div>
             <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-4">
               <img src="img/overview.jpg" class="img-fluid">
             </div>
             <div class="col-12 col-sm-8 col-md-6 col-lg-4 col-xl-4">
-              <div class="prjct-puthri-heading-text">Attitudinal training for over a period of 5 years, beginning from class 8th till class 12th, delivered through a combination of classroom sessions, games and corporate exposure, helping the students understand their capabilities better, preventing drop-outs, building meaningful relationships and developing the necessary skills to be successful in their careers.
+              <div class="prjct-puthri-heading-text">
+                <p> The Handbook shall serve as a supplementary guidebook to the life skills taught through the mentoring sessions of Project Puthri. The book encompasses important concepts and definitions on Life skill topics that are backed with worksheets, solo- activities and stories. It is believed that this book shall provide opportunities for young Puthri Scholars to inculcate the habit of reading and shall facilitate them to be trained onto reading / writing comprehension skills. The book shall also pave the way for young Puthri Scholars to sharpen their analytical skills and to explore ways of being creative in order to excel in their career. The various skills that are discussed in the Handbook are designed in such a way that they direct the child to become career intentional.</p>
             </div>
           </div>
         </div> 
@@ -348,77 +371,7 @@
             </div>
           </div>
         </div>
-      </section>
-
-      <!--==================================================================
-       PCP
-      ==================================================================-->
-      <section class="career text-left"  id="section-padding">
-          <div class="container">
-            <div class="row">
-              <div class="col-12 col-md-6 col-lg-6 col-xl-6 m-auto">
-                <div class="mt-30">
-                  <img src="img/communicative.png" class="img-fluid ">
-                </div>
-              </div>
-              <div class="col-12 col-md-6 col-lg-6 col-xl-6 m-auto">
-                <div class="mt-30">
-                <h6>#PCP</h6>
-                <h3>Puthri Career Programme</h3>
-                <h6 class="prjct-text_summary pt-4">A structured certified program for the interested scholars  inorder to equip them  on certain practical skills sets that would facilitate  them to get into a better career. </h6>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
-
-      <!--==================================================================
-       scholarship
-      ==================================================================-->
-      <section id="scholarship" class="m-auto">
-        <div class="container">
-          <div class="row">
-            <div class="col-12">
-              <div class="text-center">
-                <h6>#SCHOLARSHIP</h6>
-                <h3>Puthri Scholarship </h3>
-                <img src="img/puthri-process-scholar.jpg" class="img-fluid">
-                <h5 class="internship_content">Project Puthri has launched the Puthri Scholarship Program  in order to provide financial assistance to needy and deserving Puthri scholars who are pursuing their tertiary education in colleges</h5>
-                <p class="text">Project Puthri provides financial support to the deserving Puthri Scholars to assist them in completing their tertiary education and be ready for a successful career</p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
-	  <!---------------------------------
-	  PCCA
-	  --------------------------------->
-	  <section id="intern collaboration"  class="section-padding">
-        <div class="container">
-          <div class="row">
-            <div class="col-12 col-sm-6 col-md-6 col-lg-6 col-xl-5 d-flex">
-              <img src="img/pcca-img.png" class="img-fluid">
-            </div>
-            <div class="col-1"></div>
-            <div class="col-12 col-sm-6 col-md-6 col-lg-6 col-xl-5 d-flex">
-              <div class="mt-100 collaboration">
-                <h6>#PCCA</h6>
-                <h3>Puthri Career Coach Assessment</h3>
-                <p>The objective of career coaching in project PUTHRI is to help the PUTHRI Scholars to make informed decisions about their career development and trajectory by identifying their strengths & passions.About Puthri Career Choice Assesment (PCCA)Puthri Career Choice Assesment (PCCA) is a one-of-a-kind self-assessment tool developed indigenously to fit the students in India. PCCA helps PUTHRI Scholars two-foldTo understand her personality better to make an informed career choice.To understand her strengths, passion and interest which will enable her to study her choice of subjects and pursue her dream career, thus minimizing stress.</p>
-                <button class="view-btn join">Join now</button>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
-
-
-
-      <!--==================================================================
-       Partners
-      ==================================================================-->
-  
-          
+      </section>   
 
       <!--==================================================================
        Get_involved

@@ -74,7 +74,25 @@
               <li>
                 <a href="get-involved.php" class="btns">GET INVOLVED</a>
               </li>
-              <li><a href="news.php" class="btns">NEWS &amp; EVENTS</a></li>
+              <!-- <li><a href="news.php" class="btns">NEWS &amp; EVENTS</a></li> -->
+              <li class="puthri-m-des">
+                  <a href="#" class="btns">NEWS &amp; EVENTS</a>
+                    <i class="bx bxs-chevron-down htmlcss-arrow arrow"></i>
+                    <ul class="htmlCss-sub-menu sub-menu">
+                    <li><a href="prayag.php">prayag</a></li>
+                    <li><a href="uu.php">Udyog Utsav</a></li>
+                  </ul>
+                </li>
+                
+                <li class="puthri-m-mob">
+                  <a href="#" class="btns">PUTHRI MODEL</a>
+                    <i class="bx bxs-chevron-down more-arrow arrow"></i>
+                    <ul class="more-sub-menu sub-menu">
+                    <li><a href="prayag.php">prayag</a></li>
+                      <li><a href="uu.php">Udyog Utsav</a></li>
+                  </ul>
+                </li>
+              <li>
               <li><a href="faq.php" class="btns">FAQ</a></li>
               </ul>
               </div>
@@ -110,24 +128,24 @@
       </div>
       <!-- Back to Page Content End -->
       <section class="main-container">
-          <div class="row d-flex img-txt" style="margin:auto;">
-          <div class="banner-img sr-mam col-lg-6 mt-4">
+          <div class="row d-flex img-txt container mitr-container">
+          <div class="banner-img sr-mam col-lg-5 mt-4 p-0">
                   <img src="img/sr-mam.png" alt="">
               </div>
-              <div class="main-content col-lg-6">
+              <div class="col-lg-7 mitr-p-r-l">
               <div class="first-head">
             <h6 class="sr-mam-img-title1 sr-mam-t-c">Dr Saundarya Rajesh</h6>
-            <h3 class="sr-mam-img-title2 ahtc-sub-text sr-mam-t-c fnt-sub-hed">Managing Trustee – Avtar Human Capital Trust</h3>
+            <h3 class="sr-mam-img-title2 ahtc-sub-text sr-mam-t-c fnt-sub-hed">Founder – President, Avtar Group</h3>
           </div>
                   <p>
 Dr. Saundarya Rajesh is one of India’s most respected thought leaders on Diversity, Equity & Inclusion. An award-winning social entrepreneur, she is best known as the pioneer of Second Career opportunities for women in Corporate India. A relentless advocate of the potential of women in the workplace, Dr. Saundarya is the founder of successful social enterprises such as Avtar Career Creators, Flexi Careers India, Bruhat Insights Global and Avtar Human Capital Trust. Her latest brainchild myAvtar.com is India’s first diversity jobs portal for candidates belonging to the under-represented groups such as Women, People with Disabilities, People with LGBTQ+ identity and Veterans. A recipient of several awards and recognitions, Dr. Saundarya has irrevocably changed the game for the Indian Woman Professional, by introducing the concept of “Career Intentionality” and “Career Re-entry” to Corporate India. Her path breaking and exemplary work in the space of Diversity, Equity, and Inclusion has established her into a much sought-after advisor of choice for an impressive list of organizations and leaders on the benefits of a diversely inclusive workplace. Dr. Saundarya is a highly sought-after speaker at conferences — both national and international– and a firm believer in integrating work and life. In her pursuit to develop and inspire people to grow to their full potential, she has made her debut in through the book – “The 99 Day Diversity Challenge™” published by SAGE that hit the stands on October 30, 2018.
 <p>Project Puthri an initiative by AVTAR Human Capital Trust (AHCT), is India’s first ever developmental project that seeks to create Career Intentionality among underprivileged girl students. Dr.Saundarya Rajesh envisions through Puthri, an India, where young girls at the bottom of the socio - economic pyramid are able to rise to their fullest potential by breaking out of the domestic labour economy to graduate into the knowledge economy, thus, eventually being able to contribute directly to the GDP of our country.</p>
 </p>     
-<div class="social-m-icon">
+<!-- <div class="social-m-icon">
           <img src="img/banner-fb.svg" alt="">
           <img src="img/banner-twit.svg" alt="">
           <img src="img/banner-in.svg" alt="">
-        </div>
+        </div> -->
       </div>
      </div>
           <!--banner-img End -->
@@ -155,25 +173,66 @@ Dr. Saundarya Rajesh is one of India’s most respected thought leaders on Diver
           <!--  -->
           
 
-          <div class="ahtc-card-title">
+          <div class="ahtc-card-title container p-15 mt-50">
             <h6>#AWARDS</h6>
-            <h3 class="fnt-sub-hed">AWARDS AND RECOGNITIONS</h3>
-            <br>
-            <h5 class="ahtc-head-txt wdth100">2016</h5>
-            <p class="ahtc-sub-txt wdth100">One among the #100 Women Achievers of India, an initiative by the Ministry of Women and Child Development, Government of India
-</p> <br>
-            <h5 class="ahtc-head-txt wdth100">2018</h5>
-            <p class="ahtc-sub-txt wdth100">Project Puthri wins  Parivarthan Award</p> <br>
-            <h5 class="ahtc-head-txt wdth100">2019</h5>
-            <p class="ahtc-sub-txt wdth100">WebWonderWomen Award by Ministry of Women and Child Development in collaboration with Twitter India and Breakthrough India for using the power of social media to run positive campaign to steer a change in the society on the International Women’s Day</p> <br>
-            <h5 class="ahtc-head-txt wdth100">2020</h5>
-            <p class="ahtc-sub-txt wdth100">Ooruni Foundation awarded  Project Puthri as best NGO in  the service of women  empowerment</p> <br>
-            <h5 class="ahtc-head-txt wdth100">2021</h5>
-          <p class="ahtc-sub-txt wdth100">Iswar Foundation awarded  Project Puthri as best NGO in  women empowerment</p>
-            <p class="ahtc-sub-txt wdth100">PMI South Asia Awards 2021  Winner - NGO Category</p> <br>
-            <h5 class="ahtc-head-txt wdth100">2022</h5>
-            <p class="ahtc-sub-txt wdth100">Project Puthri  Outstanding supporter to Dow India </p>
-            <p class="ahtc-sub-txt wdth100">Recognition as NielsenIQ India Inclusion Icon</p>
+            <h3 class="fnt-sub-hed mb-20">Award And Recongnitions</h3>
+                        <!--  -->
+                        <div class="d-flex col-lg-12 p-0"> <!-- poits-1 -->
+            <div class="poins-header col-1 p-0 text-left">
+            <p class="ahtc-head-txt pcca-p-head">2017</p>
+            </div>
+            <div class="col-3"></div>
+            <div class="points-sub-header col-8 p-0 text-left">
+            <p>One among the #100 Women Achievers of India, an initiative by the Ministry of Women and Child Development, Government of India.</p>
+            </div>
+            </div><!-- First-End -->
+            <div class="d-flex col-lg-12 p-0"> <!-- poits-1 -->
+            <div class="poins-header col-1 p-0 text-left">
+            <p class="ahtc-head-txt pcca-p-head">2018</p>
+            </div>
+            <div class="col-3"></div>
+            <div class="points-sub-header col-8 p-0 text-left">
+            <p>Project Puthri wins  Parivarthan Award.</p>
+            </div>
+            </div><!-- Sec-End -->
+            <div class="d-flex col-lg-12 p-0"> <!-- poits-1 -->
+            <div class="poins-header col-1 p-0 text-left">
+            <p class="ahtc-head-txt pcca-p-head">2019</p>
+            </div>
+            <div class="col-3"></div>
+            <div class="points-sub-header col-8 p-0 text-left">
+            <p>WebWonderWomen Award by Ministry of Women and Child Development in collaboration with Twitter India and Breakthrough India for using the power of social media to run positive campaign to steer a change in the society on the International Women’s Day.</p>
+            </div>
+            </div><!-- Ther-End -->
+            <div class="d-flex col-lg-12 p-0"> <!-- poits-1 -->
+            <div class="poins-header col-1 p-0 text-left">
+            <p class="ahtc-head-txt pcca-p-head">2020</p>
+            </div>
+            <div class="col-3"></div>
+            <div class="points-sub-header col-8 p-0 text-left">
+            <p>Ooruni Foundation awarded  Project Puthri as best NGO in  the service of women  empowerment</p>
+            </div>
+            </div><!-- For-End -->
+            <div class="d-flex col-lg-12 p-0"> <!-- poits-1 -->
+            <div class="poins-header col-1 p-0 text-left">
+            <p class="ahtc-head-txt pcca-p-head">2021</p>
+            </div>
+            <div class="col-3"></div>
+            <div class="points-sub-header col-8 p-0 text-left">
+            <p>Iswar Foundation awarded  Project Puthri as best NGO in  women empowerment.</p>
+            <p>PMI South Asia Awards 2021  Winner - NGO Category.</p>
+            </div>
+            </div><!-- Five-End -->
+            <div class="d-flex col-lg-12 p-0"> <!-- poits-1 -->
+            <div class="poins-header col-1 p-0 text-left">
+            <p class="ahtc-head-txt pcca-p-head">2022</p>
+            </div>
+            <div class="col-3"></div>
+            <div class="points-sub-header col-8 p-0 text-left">
+            <p>AHCT believes that feeding the poor and the needy helps it achieve its humanitarian aspirations. The trust funds are periodically deployed for such purposes basis identifications of institutions that are in need. Volunteers are in charge of implementation of such initiatives – from identifying the beneficiaries, to collecting funds, to assigning the caterers to actual serving at the site.</p>
+            </div>
+            </div><!-- For-End -->
+<!--  -->
           </div>
           <div class="card-title prl20">
             <h6 class="text11">#C0NTACT US</h6>
