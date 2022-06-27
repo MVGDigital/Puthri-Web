@@ -19,7 +19,7 @@
       <!-- Nav bar -->
       <nav>
       <div class="top-header">
-        <div class="container sub-container p-0">
+        <div class="sub-container p-0">
         <div class="social-m-icon col-5 col-lg-2 p-0">
         <a href=" https://www.facebook.com/projectputhri"><img src="img/card-fb.svg" alt=""></a>
         <a href="https://twitter.com/projectputhri"><img src="img/card-twit.svg" alt=""></a>
@@ -31,7 +31,7 @@
         <p class="col-5 col-lg-2 p-0">Volunteer Now</p>
         </div>
       </div>
-       <div class="navbar">
+       <div class="navbar container">
           <i class="bx bx-menu col-2"></i>
             <div class="logo col-lg-2 p-0"><a href="#">
               <img src="img/logo.png" class="img-fluid nav-logo"></a></div>
@@ -74,8 +74,6 @@
                   </ul>
                 </li>
               <li>
-
-              <li>
                 <a href="get-involved.php" class="btns">GET INVOLVED</a>
               </li>
               <!-- <li><a href="news.php" class="btns">NEWS &amp; EVENTS</a></li> -->
@@ -83,15 +81,17 @@
                   <a href="#" class="btns">NEWS &amp; EVENTS</a>
                     <i class="bx bxs-chevron-down htmlcss-arrow arrow"></i>
                     <ul class="htmlCss-sub-menu sub-menu">
+                    <li><a href="news.php">NEWS &amp; EVENTS</a></li>
                     <li><a href="prayag.php">prayag</a></li>
                     <li><a href="uu.php">Udyog Utsav</a></li>
                   </ul>
                 </li>
                 
                 <li class="puthri-m-mob">
-                  <a href="#" class="btns">PUTHRI MODEL</a>
-                    <i class="bx bxs-chevron-down more-arrow arrow"></i>
-                    <ul class="more-sub-menu sub-menu">
+                  <a href="#" class="btns">NEWS &amp; EVENTS</a>
+                    <i class="bx bxs-chevron-down js-arrow arrow"></i>
+                    <ul class="js-sub-menu sub-menu">
+                    <li><a href="news.php">NEWS &amp; EVENTS</a></li>
                     <li><a href="prayag.php">prayag</a></li>
                       <li><a href="uu.php">Udyog Utsav</a></li>
                   </ul>
@@ -288,7 +288,7 @@ $("#pop-6").click(function(){
       <section id="transformations" class="section-padding container p-0 mt-40">
         <h6>#PUTHRI MODEL</h6>
         <h3 class="fnt-sub-hed">Puthri Model</h3>
-        <p>Avtar Human Capital Trust (AHCT) conducted a research study in 2016 to understand what made over 500 corporation school girl students (over the years 1992 to 2010) break out of poverty and pursue white collar jobs today.
+        <p class="m-all">Avtar Human Capital Trust (AHCT) conducted a research study in 2016 to understand what made over 500 corporation school girl students (over the years 1992 to 2010) break out of poverty and pursue white collar jobs today.
 Research says, a well-rounded mentoring & training program will inspire and encourage the government school girls to study well at school, decrease their dropout rates, support & motivate them to take up tertiary education and grow into a confident career professional, thus elevating them from their present economic status, to live a life of fulfillment & advancement.
 </p>
         <section class="center slider m-0">
@@ -544,14 +544,14 @@ Research says, a well-rounded mentoring & training program will inspire and enco
 
         <div class="container">
           <div class="row p0">
-            <div class="col-lg-6">
+            <div class="col-lg-6 p-10">
               <div class="accrediations">
                 <h6>#PARTNERS</h6>
                 <h3 class="fnt-sub-hed">Our Partners</h3>
                 <p class="text-left">Help Project Puthri become the preferred charity partner in your work place events and involve your colleagues as advocates and participants of Puthri</p>
             </div>
           </div>
-          <div class="col-12 col-sm-6">
+          <div class=" col-12 col-lg-6 col-md-12 col-sm-6 p-10">
             <div class="row p-0">
               <div class="col-6 col-sm-6 col-lg-4 home-space">
                 <img src="image/agni_college_logo.png" class="img-fluid">
@@ -578,7 +578,7 @@ Research says, a well-rounded mentoring & training program will inspire and enco
       <div class="bar-line"></div>
       <div class="container">
         <div class="row">
-          <div class="col-12 col-md-6 col-xl-6 mt-50">
+          <div class="col-12 col-md-12 col-xl-6 mt-50 p-10">
             <div class="row p-0">
               <div class="col-6 col-sm-6 col-lg-4 home-space">
                 <img src="image/bradken.png" class="img-fluid">
@@ -600,7 +600,7 @@ Research says, a well-rounded mentoring & training program will inspire and enco
               </div>
             </div>
           </div>
-          <div class="col-12 col-sm-12 col-lg-6 mt-50 move-first">
+          <div class="col-12 col-sm-12 col-lg-6 mt-50 move-first p-10">
             <div class="donors">
               <h6>#DONORS</h6>
               <h3 class="fnt-sub-hed">Our Donors</h3>
@@ -649,11 +649,11 @@ Research says, a well-rounded mentoring & training program will inspire and enco
       <section class="testimonials">
         <h6>#TESTIMONIALS</h6>
         <h3 class="fnt-sub-hed">Volunteers Feedback</h3>
-        <div class="container">
+        <div class="container p-10">
           <div class="card col-md-12 mt-2 p-0">
               <div id="carouselExampleControls" class="carousel slide" data-ride="carousel" data-interval="100000">
                 <div class="w-100 carousel-inner mb-5" role="listbox" id="testimonilas-padding-contentcontrols" !important;>
-                    <div class="carousel-item active">
+                    <div class="carousel-item active p-0">
                       <div class="bg"></div>
                       <div class="row">
                         <div class="col-md-6">

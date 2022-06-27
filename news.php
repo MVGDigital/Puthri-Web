@@ -20,7 +20,7 @@
        <!-- Nav bar -->
        <nav>
       <div class="top-header">
-        <div class="container sub-container p-0">
+        <div class="sub-container p-0">
         <div class="social-m-icon col-5 col-lg-2 p-0">
         <a href=" https://www.facebook.com/projectputhri"><img src="img/card-fb.svg" alt=""></a>
         <a href="https://twitter.com/projectputhri"><img src="img/card-twit.svg" alt=""></a>
@@ -32,7 +32,7 @@
         <p class="col-5 col-lg-2 p-0">Volunteer Now</p>
         </div>
       </div>
-       <div class="navbar">
+       <div class="navbar container">
           <i class="bx bx-menu col-2"></i>
             <div class="logo col-lg-2 p-0"><a href="#">
               <img src="img/logo.png" class="img-fluid nav-logo"></a></div>
@@ -75,8 +75,6 @@
                   </ul>
                 </li>
               <li>
-
-              <li>
                 <a href="get-involved.php" class="btns">GET INVOLVED</a>
               </li>
               <!-- <li><a href="news.php" class="btns">NEWS &amp; EVENTS</a></li> -->
@@ -84,15 +82,17 @@
                   <a href="#" class="btns active">NEWS &amp; EVENTS</a>
                     <i class="bx bxs-chevron-down htmlcss-arrow arrow"></i>
                     <ul class="htmlCss-sub-menu sub-menu">
+                    <li><a href="news.php">NEWS &amp; EVENTS</a></li>
                     <li><a href="prayag.php">prayag</a></li>
                     <li><a href="uu.php">Udyog Utsav</a></li>
                   </ul>
                 </li>
                 
                 <li class="puthri-m-mob">
-                  <a href="#" class="btns">PUTHRI MODEL</a>
-                    <i class="bx bxs-chevron-down more-arrow arrow"></i>
-                    <ul class="more-sub-menu sub-menu">
+                  <a href="#" class="btns active">NEWS &amp; EVENTS</a>
+                    <i class="bx bxs-chevron-down js-arrow arrow"></i>
+                    <ul class="js-sub-menu sub-menu">
+                    <li><a href="news.php">NEWS &amp; EVENTS</a></li>
                     <li><a href="prayag.php">prayag</a></li>
                       <li><a href="uu.php">Udyog Utsav</a></li>
                   </ul>
@@ -148,11 +148,9 @@
         <a href="#" class="youtube">
         <img src="img/insta.png"></i></a> 
       </div> -->
-      
-
       <div class="container">
         <div class="row">
-          <div class="col-12 mt-3">
+          <div class="col-12 mt-3 p-10">
             <div class="navigation-section">
               <a href="index.php" class="navigation-links"><h5>home</h5></a> >
               <a href="news.php" class="navigation-links"><h5>news & events</h5></a>
@@ -229,28 +227,28 @@
         <div class="container-fluid">
           <div class="row">
           <div class="col-3"></div>
-            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-3">
+            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-3 p-10">
               <div class="t-a-r t-a-c">
                 <h6>#GALLERY</h6>
                 <h3>Projects Updates</h3>
               </div>
             </div>
-            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-3 p-0 card-container-1 new-img">
+            <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-3 p-16 card-container-1 new-img">
               <img src="img/gallery-1.jpg" class="img-fluid">
             </div>
-            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-3 p-0 card-container-1 new-img">
+            <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-3 p-16 card-container-1 new-img">
               <img src="img/gallery-5.jpg" class="img-fluid">
             </div>
-            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-3 p-0 card-container-1 new-img">
+            <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-3 p-16 card-container-1 new-img">
               <img src="img/gallery-3.jpg" class="img-fluid">
             </div>
-            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-3 p-0 card-container-1 new-img">
+            <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-3 p-16 card-container-1 new-img">
               <img src="img/gallery-4.jpg" class="img-fluid">
             </div>
-            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-3 p-0 card-container-1 new-img">
+            <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-3 p-16 card-container-1 new-img">
               <img src="img/our-stories-4.jpg" class="img-fluid">
             </div>
-            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-3 p-0 card-container-1 new-img">
+            <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-3 p-16 card-container-1 new-img">
               <img src="img/gallery-6.jpg" class="img-fluid">
             </div>
           </div>
@@ -300,17 +298,17 @@
                   <h3>Social Media Updates</h3>
                 </div>
               </div>
-              <div class="col-12 col-sm-6 col-md-6 col-lg-6 col-xl-4 p-15">
+              <div class="col-12 col-sm-6 col-md-6 col-lg-6 col-xl-4 p-10">
                 <img src="img/new-gall-1.png" class="responsive">
                 <h5 class="impact-mnth press-releasetext">PROJECT PUTHRI</h5>
                 <p>We are not-for-profit, charitable trust workig towards economically empowering women, since the past 10 years. Project PUTRHI- a flagship project of AVTAR Human Capital Trust strives to create, sustain & propel career intentionality among girl children studying in government schools across Tamilnadu & Pondicherry. Our work has been centered around life skills enhancement programs for the girl child and employability workshops</p>
               </div>
-              <div class="col-md-4">
+              <div class=" col-md-6 col-lg-6 col-xl-4">
                 <img src="img/new-gall-2.png" class="responsive">
                 <h5 class="impact-mnth press-releasetext">AVTAR HUMAN CAPITAL TRUST</h5>
                 <p>We are not-for-profit, charitable trust workig towards economically empowering women, since the past 8 years. Our work has been centred around skills enhancement programs for the girl child and employability workshops for underpriviliged women. We also work towards the prevention of sexual harassement of women and children. Our work is primarily focussed on the states of Tamilnadu and Pondicherry.</p>
               </div>
-              <div class="col-md-4">
+              <div class="col-md-6 col-lg-6 col-xl-4">
                 <img src="img/new-gall-3.png" class="responsive">
                 <h5 class="impact-mnth press-releasetext">FROM THE FOUNDER'S DESK</h5>
                 <p>I am extremely delighted to connect with you through the first edition of 'PUTHRI Pulse', our Quartely eZine launched at PRAYAG 2018, PUTHRI's first volunteer appreciation meet on April 28, 2018. Volunteering, much like leadership has to come from within and with a purpose. Besides gaining experience and networking, volunteers need to have intrinsic values that connect passionately with the vision and mission of any organisation.</p>
@@ -327,8 +325,8 @@
           <h3>Contact Us</h3>
         </div>
          <!-- CARDS -->
-         <div class="d-flex details-cards f-rap">
-          <div class='home-box-fifth hbf-lblue'>
+         <div class="d-flex details-cards f-rap row container p-10">
+          <div class='home-box-fifth hbf-lblue col-lg-3 col-md-5'>
                     <div class='home-box-fifth-top-bg bg-two'>
                       <div class='icon-circle icon-light-blue'></div>
                         <div class="contact_footer_backgroundcontent">
@@ -340,7 +338,7 @@
                         <div class='icon-paper'></div>
                     </div>
                   </div><!-- First Card End -->
-                  <div class='home-box-fifth hbf-lblue'>
+                  <div class='home-box-fifth hbf-lblue col-lg-3 col-md-5 prj-2-pr0'>
                     <div class='home-box-fifth-top-bg bg-one'>
                       <div class='icon-circle icon-light-blue'></div>
                         <div class="contact_footer_backgroundcontent">
@@ -352,7 +350,7 @@
                         <div class='icon-paper'></div>
                     </div>
                   </div><!-- Second Card End -->
-                  <div class='home-box-fifth hbf-lblue'>
+                  <div class='home-box-fifth hbf-lblue col-lg-3 col-md-5'>
                     <div class='home-box-fifth-top-bg bg-two'>
                       <div class='icon-circle icon-light-blue'></div>
                         <div class="contact_footer_backgroundcontent">
@@ -364,7 +362,7 @@
                         <div class='icon-paper'></div>
                     </div>
                   </div><!-- therd Card End -->
-                  <div class='home-box-fifth hbf-lblue mr-0'>
+                  <div class='home-box-fifth hbf-lblue mr-0 col-lg-3 col-md-5 prj-pr0'>
                     <div class='home-box-fifth-top-bg bg-one'>
                       <div class='icon-circle icon-light-blue'></div>
                         <div class="contact_footer_backgroundcontent">

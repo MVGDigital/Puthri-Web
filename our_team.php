@@ -18,10 +18,10 @@
 <body>
 
 
-      <!-- Nav bar -->
-      <nav>
+       <!-- Nav bar -->
+       <nav>
       <div class="top-header">
-        <div class="container sub-container p-0">
+        <div class="sub-container p-0">
         <div class="social-m-icon col-5 col-lg-2 p-0">
         <a href=" https://www.facebook.com/projectputhri"><img src="img/card-fb.svg" alt=""></a>
         <a href="https://twitter.com/projectputhri"><img src="img/card-twit.svg" alt=""></a>
@@ -33,7 +33,7 @@
         <p class="col-5 col-lg-2 p-0">Volunteer Now</p>
         </div>
       </div>
-       <div class="navbar">
+       <div class="navbar container">
           <i class="bx bx-menu col-2"></i>
             <div class="logo col-lg-2 p-0"><a href="#">
               <img src="img/logo.png" class="img-fluid nav-logo"></a></div>
@@ -76,8 +76,6 @@
                   </ul>
                 </li>
               <li>
-
-              <li>
                 <a href="get-involved.php" class="btns">GET INVOLVED</a>
               </li>
               <!-- <li><a href="news.php" class="btns">NEWS &amp; EVENTS</a></li> -->
@@ -85,15 +83,17 @@
                   <a href="#" class="btns">NEWS &amp; EVENTS</a>
                     <i class="bx bxs-chevron-down htmlcss-arrow arrow"></i>
                     <ul class="htmlCss-sub-menu sub-menu">
+                    <li><a href="news.php">NEWS &amp; EVENTS</a></li>
                     <li><a href="prayag.php">prayag</a></li>
                     <li><a href="uu.php">Udyog Utsav</a></li>
                   </ul>
                 </li>
                 
                 <li class="puthri-m-mob">
-                  <a href="#" class="btns">PUTHRI MODEL</a>
-                    <i class="bx bxs-chevron-down more-arrow arrow"></i>
-                    <ul class="more-sub-menu sub-menu">
+                  <a href="#" class="btns">NEWS &amp; EVENTS</a>
+                    <i class="bx bxs-chevron-down js-arrow arrow"></i>
+                    <ul class="js-sub-menu sub-menu">
+                    <li><a href="news.php">NEWS &amp; EVENTS</a></li>
                     <li><a href="prayag.php">prayag</a></li>
                       <li><a href="uu.php">Udyog Utsav</a></li>
                   </ul>
@@ -130,9 +130,10 @@
           <h6 class="text11">#TRUSTEES</h6>
           <h3 class="text11 fnt-sub-hed">Our Trustees</h3>
           </div>
-          <div class="card-img d-flex m-auto col-lg-10">
-          <a href="sr_mam.php">
-                <div class="card-container">
+          <div class="card-img d-flex row m-auto container our-card-desk p-10">
+          
+                <div class="card-container col-lg-3 col-md-5 p-0">
+                <a class="" href="sr_mam.php"> 
               <div class="mitr-banner img-1 mr-0">
                   <img src="img/sr-mam.png" alt="">
                   <div class="overlay-eff ">
@@ -140,9 +141,10 @@
                       <p class="counttext1">Founder President, Avtar Group</p>
                   </div>
               </div>
+              </a> 
               </div>
-              </a>
-              <div id="two" class="card-container">
+             
+              <div id="two" class="card-container col-lg-3 col-md-5 p-0">
               <div class="img-1">
                   <img src="img/abt-rajesh.png" alt="">
                   <div class="overlay-eff">
@@ -151,7 +153,7 @@
                   </div>
               </div>
               </div>
-              <div id="one" class="card-container">
+              <div id="one" class="card-container col-lg-3 col-md-5 p-0">
               <div class="img-1">
                   <img src="img/Um Kandaswamy.png" alt="">
                   <div class="overlay-eff">
@@ -165,8 +167,8 @@
           <h6 class="text11">#TEAM</h6>
           <h3 class="text11 fnt-sub-hed">Our Team</h3>
           </div>
-          <div class="card-img d-flex m-auto col-lg-10">
-          <div id="three" class="card-container">
+          <div class="card-img d-flex container p-10">
+          <div id="three" class="card-container col-lg-3 col-md-5 p-0">
               <div class="img-1">
                   <img src="img/abt-priya.png" alt="">
                   <div class="overlay-eff">
@@ -175,7 +177,7 @@
                   </div>
               </div>
           </div>
-          <div id="four" class="card-container">
+          <div id="four" class="card-container col-lg-3 col-md-5 p-0">
               <div class="img-1">
               <img src="img/Eswar Our team.png" alt="">
                   <div class="overlay-eff">
@@ -302,12 +304,12 @@ for (var i = 0; i < btns.length; i++) {
   });
 }
 </script>
-          <div class="card-title">
+<div class="card-title">
           <h6 class="text11">#CONTACT US</h6>
           <h3 class="text11 fnt-sub-hed">Contact Us</h3>
           </div>
-          <div class="d-flex details-cards f-rap">
-          <div class='home-box-fifth hbf-lblue'>
+          <div class="d-flex details-cards f-rap row container p-0">
+          <div class='home-box-fifth hbf-lblue col-lg-3 col-md-5'>
                     <div class='home-box-fifth-top-bg bg-two'>
                       <div class='icon-circle icon-light-blue'></div>
                         <div class="contact_footer_backgroundcontent">
@@ -319,7 +321,7 @@ for (var i = 0; i < btns.length; i++) {
                         <div class='icon-paper'></div>
                     </div>
                   </div><!-- First Card End -->
-                  <div class='home-box-fifth hbf-lblue'>
+                  <div class='home-box-fifth hbf-lblue col-lg-3 col-md-5 prj-2-pr0'>
                     <div class='home-box-fifth-top-bg bg-one'>
                       <div class='icon-circle icon-light-blue'></div>
                         <div class="contact_footer_backgroundcontent">
@@ -331,7 +333,7 @@ for (var i = 0; i < btns.length; i++) {
                         <div class='icon-paper'></div>
                     </div>
                   </div><!-- Second Card End -->
-                  <div class='home-box-fifth hbf-lblue'>
+                  <div class='home-box-fifth hbf-lblue col-lg-3 col-md-5'>
                     <div class='home-box-fifth-top-bg bg-two'>
                       <div class='icon-circle icon-light-blue'></div>
                         <div class="contact_footer_backgroundcontent">
@@ -343,7 +345,7 @@ for (var i = 0; i < btns.length; i++) {
                         <div class='icon-paper'></div>
                     </div>
                   </div><!-- therd Card End -->
-                  <div class='home-box-fifth hbf-lblue mr-0'>
+                  <div class='home-box-fifth hbf-lblue mr-0 col-lg-3 col-md-5 prj-pr0'>
                     <div class='home-box-fifth-top-bg bg-one'>
                       <div class='icon-circle icon-light-blue'></div>
                         <div class="contact_footer_backgroundcontent">

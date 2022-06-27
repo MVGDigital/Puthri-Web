@@ -5,16 +5,19 @@
       <meta charset="UTF-8">
       <title> puthri-model </title>
       <link rel="stylesheet" href="css/style.css">
-      <link href='https://unpkg.com/boxicons@2.0.7/css/boxicons.min.css' rel='stylesheet'>
+      <link rel="stylesheet" href="css/hover.css">
       <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
-      <link rel="stylesheet" type="text/css" href="css/swiperslider.min.css">
+      <link href='https://unpkg.com/boxicons@2.0.7/css/boxicons.min.css' rel='stylesheet'>
+      <link rel="stylesheet" type="text/css" href="css/slick-slider.css">
+      <link rel="stylesheet" type="text/css" href="css/slick.theme.css">
+      <script src="js/code-jquery.js" type="text/javascript"></script>
       </head>
 
 
-       <!-- Nav bar -->
-       <nav>
+        <!-- Nav bar -->
+      <nav>
       <div class="top-header">
-        <div class="container sub-container p-0">
+        <div class="sub-container p-0">
         <div class="social-m-icon col-5 col-lg-2 p-0">
         <a href=" https://www.facebook.com/projectputhri"><img src="img/card-fb.svg" alt=""></a>
         <a href="https://twitter.com/projectputhri"><img src="img/card-twit.svg" alt=""></a>
@@ -26,7 +29,7 @@
         <p class="col-5 col-lg-2 p-0">Volunteer Now</p>
         </div>
       </div>
-       <div class="navbar">
+       <div class="navbar container">
           <i class="bx bx-menu col-2"></i>
             <div class="logo col-lg-2 p-0"><a href="#">
               <img src="img/logo.png" class="img-fluid nav-logo"></a></div>
@@ -69,8 +72,6 @@
                   </ul>
                 </li>
               <li>
-
-              <li>
                 <a href="get-involved.php" class="btns">GET INVOLVED</a>
               </li>
               <!-- <li><a href="news.php" class="btns">NEWS &amp; EVENTS</a></li> -->
@@ -78,15 +79,17 @@
                   <a href="#" class="btns">NEWS &amp; EVENTS</a>
                     <i class="bx bxs-chevron-down htmlcss-arrow arrow"></i>
                     <ul class="htmlCss-sub-menu sub-menu">
+                    <li><a href="news.php">NEWS &amp; EVENTS</a></li>
                     <li><a href="prayag.php">prayag</a></li>
                     <li><a href="uu.php">Udyog Utsav</a></li>
                   </ul>
                 </li>
                 
                 <li class="puthri-m-mob">
-                  <a href="#" class="btns">PUTHRI MODEL</a>
-                    <i class="bx bxs-chevron-down more-arrow arrow"></i>
-                    <ul class="more-sub-menu sub-menu">
+                  <a href="#" class="btns">NEWS &amp; EVENTS</a>
+                    <i class="bx bxs-chevron-down js-arrow arrow"></i>
+                    <ul class="js-sub-menu sub-menu">
+                    <li><a href="news.php">NEWS &amp; EVENTS</a></li>
                     <li><a href="prayag.php">prayag</a></li>
                       <li><a href="uu.php">Udyog Utsav</a></li>
                   </ul>
@@ -142,7 +145,7 @@
           <div class="col-12 mt-3">
             <div class="navigation-section">
               <a href="index.php" class="navigation-links"><h5>home</h5></a> >
-              <a href="puthri-process.php" class="navigation-links"><h5>puthri process</h5></a>
+              <a href="puthri-process.php" class="navigation-links"><h5>puthri Model</h5></a>
             </div>
           </div>
         </div>
@@ -152,14 +155,14 @@
     <!--==================================================================
         Transformation Snapshot
     ==================================================================-->
-    <section id="puthri" class="section-padding">
+    <section id="puthri" class="section-padding p-10">
       <div class="text-center">
         <h6>#PUTHRI</h6>
-        <h3>Puthri Process Snapshot</h3>
+        <h3>Puthri Model Snapshot</h3>
       </div>
       <div class="container">
         <div class="row">
-          <div class="col-12 col-md-11 col-xl-12">
+          <div class="col-12 col-md-12 col-xl-12">
             <img alt="..." src="img/puthri-graph.png" class="img-fluid py-4 mb-0">
             <!-- Hover Graph CArds -->                
         <!-- <div class="container mt-4 d-flex justify-content-center card-t">
@@ -196,6 +199,168 @@
      </div>           
     </div> -->
             <!--  Hover Graph End-->
+            <div class="text-center mb-50">
+               <h3>Project Puthri turns the spotlight on India’s daughters studying in Government Schools</h3>
+               <p>Project Puthri turns the spotlight on India’s daughters studying in Government Schools in the age group of 13-18 years. It seeks to redesign the destinies of these girls from the lower economic backgrounds right from their childhood into their adulthood as young working women, by providing them education and the required support in the form of enablers like mentors, role models and career coaches throughout their development.</p>
+
+            </div>
+            <!--  -->
+            <section id="" class="section_padding">
+      <div class="text-center mt-5">
+        <h6>#COLLABORATION</h6>
+        <h3>Collaboration</h3>
+      </div>
+      <section class="center slider">
+       <div>
+        <div class="hover">
+          <div class="content">
+            <div class="content-overlay"></div>
+              <img src="img/our-stories-1.jpg" >
+              <div class="content-details fadeIn-bottom">
+                <p class="content-text">Educational institutions</p>
+              </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div class="hover">
+          <div class="content">
+            <div class="content-overlay"></div>
+              <img src="img/our-stories-2.jpg" >
+              <div class="content-details fadeIn-bottom">
+                <p class="content-text">Schools</p>
+              </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div class="hover">
+          <div class="content">
+            <div class="content-overlay"></div>
+              <img src="img/Our Stories 1.jpg" >
+              <div class="content-details fadeIn-bottom">
+                <p class="content-text">Individual Donors</p>
+              </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div class="hover">
+          <div class="content">
+            <div class="content-overlay"></div>
+              <img src="img/our-stories-3.jpg" >
+              <div class="content-details fadeIn-bottom">
+                <p class="content-text">Subject Matter Experts</p>
+              </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div class="hover">
+          <div class="content">
+            <div class="content-overlay"></div>
+              <img src="img/our-stories-4.jpg" >
+              <div class="content-details fadeIn-bottom">
+                <p class="content-text">Associates/NGOs.None of them incorporated</p>
+              </div>
+          </div>
+        </div>
+      </div>
+      </section>
+            <script type="text/javascript">
+              $(document).on('ready', function() {
+                
+                $(".center").slick({
+                  dots:false,
+                  infinite: true,
+                  centerMode: true,
+                  slidesToShow: 3,
+                  slidesToScroll: 3,
+                  responsive: [
+                {
+                breakpoint: 1024,
+                 settings: {
+                  slidesToShow: 2,
+                  centerMode: false
+                    }
+                  },
+                {
+                breakpoint: 767,
+                 settings: {
+                  slidesToShow: 1,
+                  centerMode: false
+                          }
+                        }
+                      ]
+
+                });
+              });
+      const one = document.getElementById('one');
+      const two = document.getElementById('two');
+      const three = document.getElementById('three');
+      const four = document.getElementById('four');
+      const five = document.getElementById('five');
+      const closeOne = document.getElementById('close-one');
+      const closeTwo = document.getElementById('close-two');
+      const closeTree = document.getElementById('close-three');
+      const closeFour = document.getElementById('close-four');
+      const closeFive = document.getElementById('close-five');
+      const modalOne = document.querySelector('.lamp')
+      const modalTwo = document.querySelector('.link')
+      const modalTree = document.querySelector('.plus')
+      const modalFour = document.querySelector('.pave')
+      const modalFive = document.querySelector('.impact')
+
+      one.addEventListener('click', () => {
+      modalOne.classList.add('show')   
+    });
+     two.addEventListener('click', () => {
+      modalTwo.classList.add('show')
+    });
+    three.addEventListener('click', () => {
+      modalTree.classList.add('show')
+    });
+    four.addEventListener('click', () => {
+      modalFour.classList.add('show')
+    });
+    five.addEventListener('click', () => {
+      modalFive.classList.add('show')
+    });
+
+    closeOne.addEventListener('click', () => {
+    modalOne.classList.remove('show')
+    });
+    closeTwo.addEventListener('click', () => {
+    modalTwo.classList.remove('show')
+    });
+    closeTree.addEventListener('click', () => {
+    modalTree.classList.remove('show')
+    });
+    closeFour.addEventListener('click', () => {
+    modalFour.classList.remove('show')
+    });
+    closeFive.addEventListener('click', () => {
+    modalFive.classList.remove('show')
+    });
+
+var header = document.getElementById("myDIV");
+var btns = header.getElementsByClassName("btn");
+for (var i = 0; i < btns.length; i++) {
+  btns[i].addEventListener("click", function() {
+  var current = document.getElementsByClassName("active");
+  current[0].className = current[0].className.replace(" active", "");
+  this.className += " active";
+  });
+}
+
+    </script>
+            <!--  -->
+            <div class="text-center">
+              <h6>#OURPROGRAMMERS</h6>
+               <h3>Our Programs</h3>
+               <p>Attitudinal training for over a period of 5 years, beginning from class 8th till class 12th, delivered through a combination of classroom sessions, games and corporate exposure, helping the students understand their capabilities better, preventing drop-outs, building meaningful relationships and developing the necessary skills to be successful in their careers.</p>
+            </div>
+
             <!-- 3Cards -->
             <div class="container p-15">
             <div class="row">
@@ -220,7 +385,7 @@
       </div>
     </section>
     <!--  -->
-    <div class="text-center container p-15">
+    <div class="text-center container p-10 mt-50">
         <h6>#TRANSFORMATION</h6>
         <h3>8 Dimentions Of Transformation</h3>
         <p>The 3-pivoted training focus of Mentor-Role Model-Career Coach is augmented with dimensions of transformation along the following themes. These themes are the core pillars on which Puthri scholars are provided interventions which result in building career intentional future-ready citizens.</p>
@@ -326,7 +491,7 @@ Puthri encourages the students to showcase their talent through Talent contests 
       <section id="prjct-puthri_overview" >
         <div class="container">
           <div class="row">
-            <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-4">
+            <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-4 p-10">
               <h6>#WORKBOOK</h6>
               <h3>the Puthri Scholar’s Handbook is a handy Activity book which is introduced as an extra learning guidebook.</h3>
               <h6 class="prjct-puthri-heading"></h6>
@@ -334,8 +499,8 @@ Puthri encourages the students to showcase their talent through Talent contests 
             <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-4">
               <img src="img/overview.jpg" class="img-fluid">
             </div>
-            <div class="col-12 col-sm-8 col-md-6 col-lg-4 col-xl-4">
-              <div class="prjct-puthri-heading-text">
+            <div class="col-12 col-sm-8 col-md-6 col-lg-4 col-xl-4 p-0">
+              <div class="prjct-puthri-heading-text p-10">
                 <p> The Handbook shall serve as a supplementary guidebook to the life skills taught through the mentoring sessions of Project Puthri. The book encompasses important concepts and definitions on Life skill topics that are backed with worksheets, solo- activities and stories. It is believed that this book shall provide opportunities for young Puthri Scholars to inculcate the habit of reading and shall facilitate them to be trained onto reading / writing comprehension skills. The book shall also pave the way for young Puthri Scholars to sharpen their analytical skills and to explore ways of being creative in order to excel in their career. The various skills that are discussed in the Handbook are designed in such a way that they direct the child to become career intentional.</p>
             </div>
           </div>
@@ -530,12 +695,13 @@ Puthri encourages the students to showcase their talent through Talent contests 
       <script src="js/popper.min.js"></script>
       <script src="js/maxcdn-bootstrap.min.js"></script>
       <script src="js/across-top.js"></script>
-      <script src="bootstrap/js/bootstrap.min.js"></script>
       <script src="js/cloudflare-swiper.js"></script>
       <script src="js/jquery.min.js"></script>
       <script src="js/search.js"></script>
       <script src="js/swiper.js"></script>
+      <script src="js/slick-slider.js"></script>
       <script src="js/slicky-slider.js"></script>
+      
 
       <!--   Counting -->
 

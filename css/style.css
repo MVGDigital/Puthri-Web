@@ -799,7 +799,7 @@ section#counter-stats {
   margin-top: -45px;
 }
 .testimonials-text{
-  color: #004389!important;
+  color: #EA1584!important;
   font-family:  "Segoe UI";
   font-size: 24px!important;
   text-align: start;
@@ -2178,7 +2178,7 @@ Main Components
   width: 19%;
   margin: 0 0%;
   border-radius: 5px;
-  margin-right: 15px;
+  margin-right: 0;
 }
 
 .home-box-fifth-wrap {
@@ -2861,10 +2861,13 @@ Main Components
   .navbar{
     max-width: 1221px!important;
   }
+  .top-header .sub-container{
+    margin: 0 64px;
+  }
 }
 @media screen and (min-width: 1920px) {
-  .container{
-    max-width: 1999px!important;
+  .home-lamp-card{
+    justify-content: center;
   }
 }
 @media screen and (max-width: 1200px) {
@@ -3178,7 +3181,14 @@ nav .navbar .links li:hover .js-sub-menu{
 .card-container{
   position: relative;
   margin-right: 15px;
+  margin-bottom: 10px;
   cursor: pointer;
+}
+.p-10{
+  padding: 0!important;
+}
+.p-16{
+  padding: 0!important;
 }
 .card-container-1{
   position: relative;
@@ -3204,8 +3214,8 @@ nav .navbar .links li:hover .js-sub-menu{
   color: #FFFFFF;
 }
 .img-1 img{
-  width: 310px;
-  height: 310px;
+  width: 100%;
+  height:305px;
 }
 .home-box-cards{
   width: 310px;
@@ -3214,7 +3224,7 @@ nav .navbar .links li:hover .js-sub-menu{
   border-radius: 5px;
 }
 .details-cards{
-  margin-bottom: 60px!important;
+  margin:auto auto 50px auto!important;
   width: 98%;
   margin: auto;
   justify-content: center;
@@ -3260,7 +3270,6 @@ nav .navbar .links li:hover .js-sub-menu{
 .ahtc-card-title{
   margin: auto;
   text-align: center;
-  padding: 50px 0;
 }
 .prayag-card-title{
   margin: auto;
@@ -3425,6 +3434,12 @@ nav .navbar .links li:hover .js-sub-menu{
       font-size: 35px;
       color: #79307E;
       cursor: pointer;
+      padding-right: 0;
+      display: flex;
+      justify-content: end;
+    }
+    .top-header .sub-container{
+      margin: 0 50px;
     }
   nav .navbar .links{
     display: block;
@@ -3494,6 +3509,9 @@ nav .navbar .links li .sub-menu li{
      .show2{
       display: block!important;
     } 
+    .show3{
+      display: block!important;
+    }
    .navbar .nav-links.show1 .links .htmlcss-arrow,
     .navbar .nav-links.show3 .links .js-arrow{
         transform: rotate(180deg);
@@ -3753,16 +3771,22 @@ nav .navbar .links li .sub-menu li{
   width: 90%;
 }
 }
-@media screen and (max-width: 376px) and (max-width: 470px){
+@media screen and (min-width: 376px) and (max-width: 470px){
   .sr-mam-mrg-t{
     margin-top: 34%;
   } 
+  .top-header .sub-container{
+    margin: 0 25px;
+  }
 }
 @media screen and (max-width: 375px){
   .mrgb{
     margin-bottom:3px;
     line-height: 16px!important;
     font-size: 13px!important;
+  }
+  .top-header .sub-container{
+    margin: 0 24px;
   }
   .donate{
     font-size: 10px;
@@ -3957,17 +3981,35 @@ button.close{
   display: flex;
   justify-content:center;
 }
+.hbf-lblue{
+  padding: 0!important;
+  padding-right: 16px!important;
+}
+.prj-pr0{
+  padding-right: 0!important;
+}
+.mam img{
+  height: 305px;
+}
+
 @media(max-width:767px){
-  .top-header .social-m-icon{
-    text-align: right!important;
+  .hbf-lblue{
+    padding-right: 10px!important;
+    padding-left: 10px!important;
+  }
+  .p-10{
+    padding: 10px!important;
+  }
+  .card-img{
+    flex-wrap: wrap;
   }
   .top-header .social-m-icon img{
     margin-right: 5px!important;
-    width: 20px;
-    height: 20px;
+    width: 17px;
+    height: 17px;
   }
   .top-header p{
-    text-align: left!important;
+    font-size: 15px!important;
   }
   .slider-inner ul{
     margin-top: 38%!important;
@@ -3976,9 +4018,15 @@ button.close{
   display: none;
   }
   .banner-text{
-    line-height: 25px!important;
+    line-height: 20px!important;
     padding-top: 35px!important;
     font-size: 18px!important;
+  }
+  .swiper-container{
+    margin: 16px!important;
+  }
+  .m-all{
+    margin: 16px;
   }
   .p-6per h6{
     padding: 0;
@@ -4000,9 +4048,6 @@ button.close{
   .about{
     padding-top: 20px;
   }
-  .lam-mrg-r{
-    margin-left: 0!important;
-  }
   .home-lamp-card{
     justify-content: space-evenly;
   }
@@ -4012,8 +4057,41 @@ button.close{
   .card-3{
    margin: 10px 0 10px 0;
   }
+  .card-t{
+    display: none;
+  }
+  .home-lamp-card {
+    justify-content: center;
+  }
+  .prayag-mob{
+    display: none;
+  }
+  .img-1 img{
+    height:auto;
+  }
 }
-@media(max-width:768px){
+@media(min-width:768px) and (max-width:1024px){
+  .card-container{
+    margin-bottom: 25px;
+  }
+  .prayag-mob{
+    display: none;
+  }
+  .p-16{
+    padding: 8px!important;
+  }
+  .card-t{
+    display: none;
+  }
+  .get-tab{
+    margin-right: 0;
+  }
+  .home-lamp-card {
+    justify-content: center;
+  }
+  .prj-2-pr0{
+    padding-right: 0!important;
+  }
   .card-t{
     display: none!important;
   }

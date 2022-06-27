@@ -12,10 +12,10 @@
   </head>
 
 
-       <!-- Nav bar -->
-       <nav>
+        <!-- Nav bar -->
+      <nav>
       <div class="top-header">
-        <div class="container sub-container p-0">
+        <div class="sub-container p-0">
         <div class="social-m-icon col-5 col-lg-2 p-0">
         <a href=" https://www.facebook.com/projectputhri"><img src="img/card-fb.svg" alt=""></a>
         <a href="https://twitter.com/projectputhri"><img src="img/card-twit.svg" alt=""></a>
@@ -27,7 +27,7 @@
         <p class="col-5 col-lg-2 p-0">Volunteer Now</p>
         </div>
       </div>
-       <div class="navbar">
+       <div class="navbar container">
           <i class="bx bx-menu col-2"></i>
             <div class="logo col-lg-2 p-0"><a href="#">
               <img src="img/logo.png" class="img-fluid nav-logo"></a></div>
@@ -70,8 +70,6 @@
                   </ul>
                 </li>
               <li>
-
-              <li>
                 <a href="get-involved.php" class="btns">GET INVOLVED</a>
               </li>
               <!-- <li><a href="news.php" class="btns">NEWS &amp; EVENTS</a></li> -->
@@ -79,15 +77,17 @@
                   <a href="#" class="btns active">NEWS &amp; EVENTS</a>
                     <i class="bx bxs-chevron-down htmlcss-arrow arrow"></i>
                     <ul class="htmlCss-sub-menu sub-menu">
+                    <li><a href="news.php">NEWS &amp; EVENTS</a></li>
                     <li><a href="prayag.php">prayag</a></li>
                     <li><a href="uu.php">Udyog Utsav</a></li>
                   </ul>
                 </li>
                 
                 <li class="puthri-m-mob">
-                  <a href="#" class="btns">PUTHRI MODEL</a>
-                    <i class="bx bxs-chevron-down more-arrow arrow"></i>
-                    <ul class="more-sub-menu sub-menu">
+                  <a href="#" class="btns">NEWS &amp; EVENTS</a>
+                    <i class="bx bxs-chevron-down js-arrow arrow"></i>
+                    <ul class="js-sub-menu sub-menu">
+                    <li><a href="news.php">NEWS &amp; EVENTS</a></li>
                     <li><a href="prayag.php">prayag</a></li>
                       <li><a href="uu.php">Udyog Utsav</a></li>
                   </ul>
@@ -138,18 +138,18 @@
             <h3 class="c-img-title2 ahtc-sub-text fnt-sub-hed">Prayag</h3>
           </div>
           <div class="row d-flex img-txt">
-              <div class="main-content col-lg-7">
+              <div class="main-content col-lg-7 p-10">
                   <p><b>Prayag</b> is an annual event that celebrates and recognises all our volunteers and stakeholders. The event commences with an array of cultural activities, followed by a sumptuous lunch, allowing the Puthri volunteers to spend time bonding with the group by sharing their wonderful experiences at Puthri. This event is also the time to celebrate the success and appreciate the journey of the Puthri Project. 
 The volunteers and stakeholders are awarded certificates. This event also marks an important interaction between the volunteers at Puthri alongside the announcement of new ventures. The volunteers come together to plan the itinerary and cultural activities and practice together for the same. This bonding makes them relive their student life becoming a memorable part of their life. Also, each volunteer’s journey is motivating to the rest. Prayag is where volunteers become self-motivated, energetic, and inspire others to come together for an important cause.
 
 </p>
               </div> 
-              <div class="main-banner width100 col-lg-5 p-0">
+              <div class="main-banner width100 col-lg-5 p-10">
                   <img src="img/why-txt-img.png" alt="">
               </div>
           </div>
           
-          <div class="prayag-card-title">
+          <div class="prayag-card-title p-10">
             <h6 class="c-img-title1">#SNAPSHOT</h6>
             <h3 class="c-img-title2 ahtc-sub-text fnt-sub-hed mb-30">Past Events</h3>
             <!--  -->
@@ -205,8 +205,8 @@ The volunteers and stakeholders are awarded certificates. This event also marks 
             <h3 class="c-img-title2 fnt-sub-hed">Contact Us</h3>
           </div>
           <!-- CARDS -->
-          <div class="d-flex details-cards">
-          <div class='home-box-fifth hbf-lblue'>
+         <div class="d-flex details-cards container row mb-50 p-10">
+          <div class='home-box-fifth hbf-lblue col-lg-3 col-md-5'>
                     <div class='home-box-fifth-top-bg bg-two-prjct'>
                       <div class='icon-circle icon-light-blue'></div>
                         <div class="contact_footer_backgroundcontent p-0">
@@ -217,7 +217,7 @@ The volunteers and stakeholders are awarded certificates. This event also marks 
                         </div>
                     </div>
                   </div><!-- First Card End -->
-                  <div class='home-box-fifth hbf-lblue'>
+                  <div class='home-box-fifth hbf-lblue col-lg-3 col-md-5 prj-2-pr0'>
                     <div class='home-box-fifth-top-bg bg-one'>
                       <div class='icon-circle icon-light-blue'></div>
                         <div class="contact_footer_backgroundcontent p-0">
@@ -229,7 +229,7 @@ The volunteers and stakeholders are awarded certificates. This event also marks 
                         <div class='icon-paper'></div>
                     </div>
                   </div><!-- Second Card End -->
-                  <div class='home-box-fifth hbf-lblue'>
+                  <div class='home-box-fifth hbf-lblue col-lg-3 col-md-5'>
                     <div class='home-box-fifth-top-bg bg-two-prjct'>
                       <div class='icon-circle icon-light-blue'></div>
                         <div class="contact_footer_backgroundcontent p-0">
@@ -241,7 +241,7 @@ The volunteers and stakeholders are awarded certificates. This event also marks 
                         <div class='icon-paper'></div>
                     </div>
                   </div><!-- therd Card End -->
-                  <div class='home-box-fifth hbf-lblue mr-0'>
+                  <div class='home-box-fifth hbf-lblue mr-0 col-lg-3 col-md-5 prj-pr0'>
                     <div class='home-box-fifth-top-bg bg-one'>
                       <div class='icon-circle icon-light-blue'></div>
                         <div class="contact_footer_backgroundcontent p-0">

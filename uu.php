@@ -15,7 +15,7 @@
        <!-- Nav bar -->
        <nav>
       <div class="top-header">
-        <div class="container sub-container p-0">
+        <div class="sub-container p-0">
         <div class="social-m-icon col-5 col-lg-2 p-0">
         <a href=" https://www.facebook.com/projectputhri"><img src="img/card-fb.svg" alt=""></a>
         <a href="https://twitter.com/projectputhri"><img src="img/card-twit.svg" alt=""></a>
@@ -27,7 +27,7 @@
         <p class="col-5 col-lg-2 p-0">Volunteer Now</p>
         </div>
       </div>
-       <div class="navbar">
+       <div class="navbar container">
           <i class="bx bx-menu col-2"></i>
             <div class="logo col-lg-2 p-0"><a href="#">
               <img src="img/logo.png" class="img-fluid nav-logo"></a></div>
@@ -70,8 +70,6 @@
                   </ul>
                 </li>
               <li>
-
-              <li>
                 <a href="get-involved.php" class="btns">GET INVOLVED</a>
               </li>
               <!-- <li><a href="news.php" class="btns">NEWS &amp; EVENTS</a></li> -->
@@ -79,15 +77,17 @@
                   <a href="#" class="btns active">NEWS &amp; EVENTS</a>
                     <i class="bx bxs-chevron-down htmlcss-arrow arrow"></i>
                     <ul class="htmlCss-sub-menu sub-menu">
+                    <li><a href="news.php">NEWS &amp; EVENTS</a></li>
                     <li><a href="prayag.php">prayag</a></li>
                     <li><a href="uu.php">Udyog Utsav</a></li>
                   </ul>
                 </li>
                 
                 <li class="puthri-m-mob">
-                  <a href="#" class="btns">PUTHRI MODEL</a>
-                    <i class="bx bxs-chevron-down more-arrow arrow"></i>
-                    <ul class="more-sub-menu sub-menu">
+                  <a href="#" class="btns">NEWS &amp; EVENTS</a>
+                    <i class="bx bxs-chevron-down js-arrow arrow"></i>
+                    <ul class="js-sub-menu sub-menu">
+                    <li><a href="news.php">NEWS &amp; EVENTS</a></li>
                     <li><a href="prayag.php">prayag</a></li>
                       <li><a href="uu.php">Udyog Utsav</a></li>
                   </ul>
@@ -138,21 +138,21 @@
             <h3 class="c-img-title2 ahtc-sub-text fnt-sub-hed">Udyog Utsav</h3>
           </div>
           <div class="row d-flex img-txt">
-              <div class="main-content col-lg-7">
+              <div class="main-content col-lg-7 p-10">
                   <p><b>UDYOG UTSAV</b> is one of its kind events that turns the spotlight on India’s underprivileged daughters to choose educational courses and career paths from a variety of options that will help them to rise out of poverty. Educational Institutions (such as Arts & Science Colleges, Engineering Colleges, Medical Colleges, and other institutions) and Corporates participate in this interactive event. UDYOG UTSAV will feature knowledge sharing sessions delivered by organizations like yours to explain the available career opportunities in your industry and in the process build aspirations among young minds to focus on education to build sustainable careers. The knowledge sharing sessions will be followed with an informal interaction with industry experts and youth icons who will share information on how educated young girls can be the fulcrum of support and sustenance for their families</p>
                   <p>This conference cum career expo aims to inspire and motivate underprivileged girl children to pursue their tertiary education, build careers with organizations to contribute to the growing Indian economy.</p>
                   <p>As part of AHCT’s endeavour to bring the underprivileged girl children close to pursuing careers, Project Puthri introduced India’s only career envisioning event aimed at young girls, who are part of the initiative, Udyog Utsav. The event brings together business leaders, academic leaders, policy-makers and many role models from different walks of life to put together an experience of its kind for Puthri scholars to turn their dreams into reality. The event has emerged as a default evolution in the Puthri paradigm, as the scholars tend to pick up the intentionality curve from theory to practice. The clarity that emerges out of these experiences are direct and intense, and also lasts longer in the minds of our Puthri scholars.</p>
               </div> 
-              <div class="main-banner width100 col-lg-5 p-0">
+              <div class="main-banner width100 col-lg-5 p-10">
                   <img src="img/uu-txt-img.png" alt="">
               </div>
           </div>
           
-          <div class="prayag-card-title">
+          <div class="prayag-card-title p-10">
           <h6 class="c-img-title1">#SNAPSHOT</h6>
             <h3 class="c-img-title2 ahtc-sub-text fnt-sub-hed mb-30">Past Events</h3>
             <!--  -->
-            <div class="d-flex col-lg-12 p-0"> <!-- poits-1 -->
+            <div class="d-flex col-lg-12 p-10"> <!-- poits-1 -->
             <div class="poins-header col-lg-2 p-0 text-left">
             <p class="ahtc-head-txt pcca-p-head">2017</p>
             </div>
@@ -204,8 +204,8 @@
             <h3 class="c-img-title2 fnt-sub-hed">Contact Us</h3>
           </div>
           <!-- CARDS -->
-          <div class="d-flex details-cards">
-          <div class='home-box-fifth hbf-lblue'>
+         <div class="d-flex details-cards container row mb-50 p-10">
+          <div class='home-box-fifth hbf-lblue col-lg-3 col-md-5'>
                     <div class='home-box-fifth-top-bg bg-two-prjct'>
                       <div class='icon-circle icon-light-blue'></div>
                         <div class="contact_footer_backgroundcontent p-0">
@@ -216,7 +216,7 @@
                         </div>
                     </div>
                   </div><!-- First Card End -->
-                  <div class='home-box-fifth hbf-lblue'>
+                  <div class='home-box-fifth hbf-lblue col-lg-3 col-md-5 prj-2-pr0'>
                     <div class='home-box-fifth-top-bg bg-one'>
                       <div class='icon-circle icon-light-blue'></div>
                         <div class="contact_footer_backgroundcontent p-0">
@@ -228,7 +228,7 @@
                         <div class='icon-paper'></div>
                     </div>
                   </div><!-- Second Card End -->
-                  <div class='home-box-fifth hbf-lblue'>
+                  <div class='home-box-fifth hbf-lblue col-lg-3 col-md-5'>
                     <div class='home-box-fifth-top-bg bg-two-prjct'>
                       <div class='icon-circle icon-light-blue'></div>
                         <div class="contact_footer_backgroundcontent p-0">
@@ -240,7 +240,7 @@
                         <div class='icon-paper'></div>
                     </div>
                   </div><!-- therd Card End -->
-                  <div class='home-box-fifth hbf-lblue mr-0'>
+                  <div class='home-box-fifth hbf-lblue mr-0 col-lg-3 col-md-5 prj-pr0'>
                     <div class='home-box-fifth-top-bg bg-one'>
                       <div class='icon-circle icon-light-blue'></div>
                         <div class="contact_footer_backgroundcontent p-0">

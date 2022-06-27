@@ -12,10 +12,10 @@
   </head>
 
 
-       <!-- Nav bar -->
-       <nav>
+        <!-- Nav bar -->
+      <nav>
       <div class="top-header">
-        <div class="container sub-container p-0">
+        <div class="sub-container p-0">
         <div class="social-m-icon col-5 col-lg-2 p-0">
         <a href=" https://www.facebook.com/projectputhri"><img src="img/card-fb.svg" alt=""></a>
         <a href="https://twitter.com/projectputhri"><img src="img/card-twit.svg" alt=""></a>
@@ -27,7 +27,7 @@
         <p class="col-5 col-lg-2 p-0">Volunteer Now</p>
         </div>
       </div>
-       <div class="navbar">
+       <div class="navbar container">
           <i class="bx bx-menu col-2"></i>
             <div class="logo col-lg-2 p-0"><a href="#">
               <img src="img/logo.png" class="img-fluid nav-logo"></a></div>
@@ -60,7 +60,7 @@
                 </li>
                 
                 <li class="puthri-m-mob">
-                  <a href="#" class="btns active">PUTHRI MODEL</a>
+                  <a href="#" class="btns">PUTHRI MODEL</a>
                     <i class="bx bxs-chevron-down more-arrow arrow"></i>
                     <ul class="more-sub-menu sub-menu">
                     <li><a href="puthri-model.php">PUTHRI MODEL</a></li>
@@ -70,8 +70,6 @@
                   </ul>
                 </li>
               <li>
-
-              <li>
                 <a href="get-involved.php" class="btns">GET INVOLVED</a>
               </li>
               <!-- <li><a href="news.php" class="btns">NEWS &amp; EVENTS</a></li> -->
@@ -79,15 +77,17 @@
                   <a href="#" class="btns">NEWS &amp; EVENTS</a>
                     <i class="bx bxs-chevron-down htmlcss-arrow arrow"></i>
                     <ul class="htmlCss-sub-menu sub-menu">
+                    <li><a href="news.php">NEWS &amp; EVENTS</a></li>
                     <li><a href="prayag.php">prayag</a></li>
                     <li><a href="uu.php">Udyog Utsav</a></li>
                   </ul>
                 </li>
                 
                 <li class="puthri-m-mob">
-                  <a href="#" class="btns">PUTHRI MODEL</a>
-                    <i class="bx bxs-chevron-down more-arrow arrow"></i>
-                    <ul class="more-sub-menu sub-menu">
+                  <a href="#" class="btns">NEWS &amp; EVENTS</a>
+                    <i class="bx bxs-chevron-down js-arrow arrow"></i>
+                    <ul class="js-sub-menu sub-menu">
+                    <li><a href="news.php">NEWS &amp; EVENTS</a></li>
                     <li><a href="prayag.php">prayag</a></li>
                       <li><a href="uu.php">Udyog Utsav</a></li>
                   </ul>
@@ -138,26 +138,27 @@
             <h6>#PCP</h6>
             <h3 class="fnt-sub-hed">Puthri Career Pathing Program</h3>
           </div>
-          <div class="row d-flex img-txt" style="margin:auto;">
+          <div class="row d-flex img-txt container p-10" style="margin:auto;">
               <div class="main-content col-lg-6 pr-0">
                   <p>Puthri has been steadily pursuing the noble task of ensuring the completion of tertiary education among young girls from economically under privileged class. Their training and mentoring sessions have been focusing on imparting career-intentionality and confidence among these young scholars. In the past academic year, Puthri introduced the concept of post-schooling intervention, aimed at 12th grade students who are in the verge of completing schooling. The project focuses on orienting theses scholars on university/college education and prepares them in advance to face the new challenges. They are mentored on aspects of university academic models and scope, the cultural environment, peer co-existence and pressures, relocation etc. this early-on mentoring gives them the confidence to face the challenges they might encounter in an university situation and further on. The program trains these scholars to gauge options and opinions in order to make appropriate situational decisions, while also mentoring them to don the leaders hat as the circumstances warrant. The program also ropes in corporate leaders to deliver talk sessions to these scholars, which is aimed to further boost the knowledge and confidence in them. The leaders engage in talk sessions on topics such as prospective career opportunities in various industries, the corporate work world, the gains and pains associated in there and how to overcome situational shortcomings to emerge successful ,in order to climb up the organizational ladder. The program also has role model sessions which encourages and motivates these young scholars to excel in their academic performance towards getting absorbed into the corporate band-wagon.</p>
               </div>
-              <div class="mitr-banner col-lg-6 mitr-p-r-l">
+              <div class="mitr-banner col-lg-6 p-0">
                   <img src="img/pcp-2.png" alt="">
               </div>
           </div>
 
-          <div class="mitr-banner mt50 pcp-r-l">
+          <div class="mitr-banner mt50 p-10">
                   <img src="img/pcp-3.jpeg" alt="">
           </div>
 
-          <div class="card-title">
-            <h6 class="c-img-title1">#CONTACT US</h6>
-            <h3 class="c-img-title2 fnt-sub-hed">Contact Us</h3>
-          </div>
-          <!-- CARDS -->
-          <div class="d-flex details-cards">
-          <div class='home-box-fifth hbf-lblue'>
+          <section class="contact mt-30"  id="">
+      <div class="text-center padding-bottom pad-t-b">
+          <h6>#CONTACT US</h6>
+          <h3 class="fnt-sub-hed">Contact Us</h3>
+        </div>
+         <!-- CARDS -->
+         <div class="d-flex details-cards container row mb-50 p-10">
+          <div class='home-box-fifth hbf-lblue col-lg-3 col-md-5'>
                     <div class='home-box-fifth-top-bg bg-two-prjct'>
                       <div class='icon-circle icon-light-blue'></div>
                         <div class="contact_footer_backgroundcontent p-0">
@@ -168,7 +169,7 @@
                         </div>
                     </div>
                   </div><!-- First Card End -->
-                  <div class='home-box-fifth hbf-lblue'>
+                  <div class='home-box-fifth hbf-lblue col-lg-3 col-md-5 prj-2-pr0'>
                     <div class='home-box-fifth-top-bg bg-one'>
                       <div class='icon-circle icon-light-blue'></div>
                         <div class="contact_footer_backgroundcontent p-0">
@@ -180,7 +181,7 @@
                         <div class='icon-paper'></div>
                     </div>
                   </div><!-- Second Card End -->
-                  <div class='home-box-fifth hbf-lblue'>
+                  <div class='home-box-fifth hbf-lblue col-lg-3 col-md-5'>
                     <div class='home-box-fifth-top-bg bg-two-prjct'>
                       <div class='icon-circle icon-light-blue'></div>
                         <div class="contact_footer_backgroundcontent p-0">
@@ -192,7 +193,7 @@
                         <div class='icon-paper'></div>
                     </div>
                   </div><!-- therd Card End -->
-                  <div class='home-box-fifth hbf-lblue mr-0'>
+                  <div class='home-box-fifth hbf-lblue mr-0 col-lg-3 col-md-5 prj-pr0'>
                     <div class='home-box-fifth-top-bg bg-one'>
                       <div class='icon-circle icon-light-blue'></div>
                         <div class="contact_footer_backgroundcontent p-0">
@@ -204,7 +205,7 @@
                         <div class='icon-paper'></div>
                     </div>
                   </div><!-- forth Card End -->
-                </div>
+    </section>
       </section>
 
 

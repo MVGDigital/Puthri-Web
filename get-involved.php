@@ -18,7 +18,7 @@
        <!-- Nav bar -->
        <nav>
       <div class="top-header">
-        <div class="container sub-container p-0">
+        <div class="sub-container p-0">
         <div class="social-m-icon col-5 col-lg-2 p-0">
         <a href=" https://www.facebook.com/projectputhri"><img src="img/card-fb.svg" alt=""></a>
         <a href="https://twitter.com/projectputhri"><img src="img/card-twit.svg" alt=""></a>
@@ -30,7 +30,7 @@
         <p class="col-5 col-lg-2 p-0">Volunteer Now</p>
         </div>
       </div>
-       <div class="navbar">
+       <div class="navbar container">
           <i class="bx bx-menu col-2"></i>
             <div class="logo col-lg-2 p-0"><a href="#">
               <img src="img/logo.png" class="img-fluid nav-logo"></a></div>
@@ -72,7 +72,6 @@
                       <li><a href="scholarship.php">SCHOLARSHIP</a></li>
                   </ul>
                 </li>
-              <li>
 
               <li>
                 <a href="get-involved.php" class="btns active">GET INVOLVED</a>
@@ -82,15 +81,17 @@
                   <a href="#" class="btns">NEWS &amp; EVENTS</a>
                     <i class="bx bxs-chevron-down htmlcss-arrow arrow"></i>
                     <ul class="htmlCss-sub-menu sub-menu">
+                    <li><a href="news.php">NEWS &amp; EVENTS</a></li>
                     <li><a href="prayag.php">prayag</a></li>
                     <li><a href="uu.php">Udyog Utsav</a></li>
                   </ul>
                 </li>
                 
                 <li class="puthri-m-mob">
-                  <a href="#" class="btns">PUTHRI MODEL</a>
-                    <i class="bx bxs-chevron-down more-arrow arrow"></i>
-                    <ul class="more-sub-menu sub-menu">
+                  <a href="#" class="btns">NEWS &amp; EVENTS</a>
+                    <i class="bx bxs-chevron-down js-arrow arrow"></i>
+                    <ul class="js-sub-menu sub-menu">
+                    <li><a href="news.php">NEWS &amp; EVENTS</a></li>
                     <li><a href="prayag.php">prayag</a></li>
                       <li><a href="uu.php">Udyog Utsav</a></li>
                   </ul>
@@ -143,7 +144,7 @@
 
       <div class="container">
         <div class="row">
-          <div class="col-12 mt-3">
+          <div class="col-12 mt-3 p-0">
             <div class="navigation-section">
               <a href="index.php" class="navigation-links"><h5>home</h5></a> >
               <a href="get-involved.php" class="navigation-links"><h5>get involved</h5></a>
@@ -179,12 +180,12 @@ As a PUTHRI volunteer you will not only stand to gain unique opportunities and r
                   <p class="home-card-color">PLUS</p>
                 </div>
               </div>
-              <div class="box effect homecontent lam-mrg-r get-lamp-card col-lg-2">          
+              <div class="box effect homecontent lam-mrg-r get-lamp-card col-lg-2 get-tab">          
                 <div class="text-center">
                <p class="home-card-color">PAVE</p>
                 </div>
               </div>
-              <div class="box effect homecontent lam-mrg-r get-lamp-card col-lg-2"> 
+              <div class="box effect homecontent lam-mrg-r get-lamp-card col-lg-2 get-tab"> 
                   <div class="text-center"> 
                   <p class="home-card-color">PAVE</p>
                   </div>
@@ -431,7 +432,7 @@ for (var i = 0; i < btns.length; i++) {
         <h6>#COLLABORATION</h6>
         <h3>Collaboration</h3>
       </div>
-      <div class="col-12 col-md-11 col-xl-12">
+      <div class="container p-10">
             <img alt="..." src="img/puthri-graph.png" class="img-fluid py-4 mb-0">
             <!-- Hover Graph CArds -->                
         <div class="container mt-4 card-t">
