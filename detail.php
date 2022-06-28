@@ -76,8 +76,8 @@
                   <a href="#" class="btns">NEWS &amp; EVENTS</a>
                     <i class="bx bxs-chevron-down htmlcss-arrow arrow"></i>
                     <ul class="htmlCss-sub-menu sub-menu">
-                    <li><a href="prayag.php">prayag</a></li>
-                    <li><a href="uu.php">Udyog Utsav</a></li>
+                    <li><a href="prayag.php">PRAYAG</a></li>
+                    <li><a href="uu.php">UDYOG UTSAV</a></li>
                   </ul>
                 </li>
                 
@@ -85,8 +85,8 @@
                   <a href="#" class="btns">PUTHRI MODEL</a>
                     <i class="bx bxs-chevron-down more-arrow arrow"></i>
                     <ul class="more-sub-menu sub-menu">
-                    <li><a href="prayag.php">prayag</a></li>
-                      <li><a href="uu.php">Udyog Utsav</a></li>
+                    <li><a href="prayag.php">PRAYAG</a></li>
+                    <li><a href="uu.php">UDYOG UTSAV</a></li>
                   </ul>
                 </li>
               <li>

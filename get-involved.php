@@ -82,8 +82,8 @@
                     <i class="bx bxs-chevron-down htmlcss-arrow arrow"></i>
                     <ul class="htmlCss-sub-menu sub-menu">
                     <li><a href="news.php">NEWS &amp; EVENTS</a></li>
-                    <li><a href="prayag.php">prayag</a></li>
-                    <li><a href="uu.php">Udyog Utsav</a></li>
+                    <li><a href="prayag.php">PRAYAG</a></li>
+                    <li><a href="uu.php">UDYOG UTSAV</a></li>
                   </ul>
                 </li>
                 
@@ -92,8 +92,8 @@
                     <i class="bx bxs-chevron-down js-arrow arrow"></i>
                     <ul class="js-sub-menu sub-menu">
                     <li><a href="news.php">NEWS &amp; EVENTS</a></li>
-                    <li><a href="prayag.php">prayag</a></li>
-                      <li><a href="uu.php">Udyog Utsav</a></li>
+                    <li><a href="prayag.php">PRAYAG</a></li>
+                    <li><a href="uu.php">UDYOG UTSAV</a></li>
                   </ul>
                 </li>
               <li>
@@ -135,8 +135,8 @@
             </div>
         </div> -->
         <div class="banner-img mrg-t">
-          <img src="img/Collabration 1920x572.jpg" alt="">
-          <div class="bg-shoadow black-bg">
+          <img src="img/get-banner-img.png" alt="">
+          <div class="bg-shoadow white-bg">
             <H1>Scholarship</H1>
       </div>
       </div>
@@ -153,15 +153,12 @@
         </div>
       </div>
       <div class="text-center col-10 m-auto mb-5">
-          <h6>#OURIMPACT</h6>
+          <h6>#OUR IMPACT</h6>
           <h3>Puthri volunteer Progammes</h3>
-          <p>Volunteering integrates your work life with the rest of the world. It gives you an impetus towards fulfilling a deeper social responsibility by sharing and contributing to the society. It is enriching and immensely motivating with a purpose.The significant contribution you make to the underprivileged has a  direct correlation to the impact it creates and the rewards are exemplary.
-
-As a PUTHRI volunteer you will not only stand to gain unique opportunities and remarkable experiences by donning one or many of these hats, but also transform the life of every PUTHRI in your own way!
-</p>
+          <p>Puthri volunteers have felt a “larger-than-life” way of impact by engaging in activities of Project Puthri. They feel a sense of pride and rewarding fulfilment when they see the positive pay-off created by their work. And most of all, these volunteers get self-motivated when they motivate and encourage these young girls during their training sessions. They find a deeper sense of satisfaction when they see the results wherein the girls they mentored are now performing well and with confidence. The volunteers feel true power and fulfilment when the girls look up to them for guidance and direction. They become more resilient, cohesive, agile, committed and socially connected through their volunteering activities.</p>
         </div>
-        <div class="banner-img">
-        <img src="img/get-involved-scholarship.jpg" class="img-fluid">
+        <div class="banner-img mt-50">
+        <img src="img/get-card-banner.png" class="img-fluid">
         </div>
         <div class="container tab-top p-0">
           <div class="row home-lamp-card get-lamp col-lg-12 col-11 p-0">
@@ -285,12 +282,25 @@ As a PUTHRI volunteer you will not only stand to gain unique opportunities and r
       </div>
       <section class="center slider">
        <div>
+         <div class="hover">
+          <div class="content">
+            <div class="content-overlay"></div>
+              <img src="img/collab-3.png" >
+              <div class="content-details fadeIn-bottom">
+                <h5 class="content-text">Educational institutions</h5>
+                <p>As student volunteers you have the privilege & opportunity to create better environments for the underprivileged. Blessed with the basic requirements of food, shelter, clothing & education, you will be able to appreciate life better, hence understand the importance of creating healthier communities to brighten their lives</p>
+              </div>
+          </div>
+        </div>
+      </div>
+      <div> 
         <div class="hover">
           <div class="content">
             <div class="content-overlay"></div>
-              <img src="img/our-stories-1.jpg" >
-              <div class="content-details fadeIn-bottom">
-                <p class="content-text">Educational institutions</p>
+              <img src="img/collab-4.png" >
+              <div class="content-details fadeIn-bottom g-fadeIn-bottom">
+                <h5 class="content-text">Schools</h5>
+                <p>In addition to offering space and infrastructure to conduct Puthri training programmes, well established and heritage schools in every town or city can help us identify school alumni who have made a mark in their career path to facilitate as role models or mentors in creating a positive influence to the Puthri scholars on various subjects related to student life and beyond</p>
               </div>
           </div>
         </div>
@@ -299,9 +309,10 @@ As a PUTHRI volunteer you will not only stand to gain unique opportunities and r
         <div class="hover">
           <div class="content">
             <div class="content-overlay"></div>
-              <img src="img/our-stories-2.jpg" >
-              <div class="content-details fadeIn-bottom">
-                <p class="content-text">Schools</p>
+              <img src="img/collab-3.png" >
+              <div class="content-details fadeIn-bottom g-fadeIn-bottom">
+                <h5 class="content-text">Individual Donors</h5>
+                <p>As an individual you can sponsor a Puthri scholar for Rs. 5000 per annum. You can Help Project Puthri become the preferred charity partner in your work place events and involve your colleagues as advocates and participants of Puthri. You can support us in spreading the word about Puthri through social network</p>
               </div>
           </div>
         </div>
@@ -310,9 +321,10 @@ As a PUTHRI volunteer you will not only stand to gain unique opportunities and r
         <div class="hover">
           <div class="content">
             <div class="content-overlay"></div>
-              <img src="img/Our Stories 1.jpg" >
-              <div class="content-details fadeIn-bottom">
-                <p class="content-text">Individual Donors</p>
+              <img src="img/collab-1.png" >
+              <div class="content-details fadeIn-bottom g-fadeIn-bottom">
+                <h5 class="content-text">Subject Matter Experts</h5>
+                <p>As a Subject Matter Expert you can support us to up-skill every Puthri and build their confidence to pursue gainful employment. You can be a role model to the Puthris and create a meaningful impact in their lives. Your skills, knowledge, and experience will create an impact and make a difference in the lives of these young Puthris.</p>
               </div>
           </div>
         </div>
@@ -321,20 +333,10 @@ As a PUTHRI volunteer you will not only stand to gain unique opportunities and r
         <div class="hover">
           <div class="content">
             <div class="content-overlay"></div>
-              <img src="img/our-stories-3.jpg" >
-              <div class="content-details fadeIn-bottom">
-                <p class="content-text">Subject Matter Experts</p>
-              </div>
-          </div>
-        </div>
-      </div>
-      <div>
-        <div class="hover">
-          <div class="content">
-            <div class="content-overlay"></div>
-              <img src="img/our-stories-4.jpg" >
-              <div class="content-details fadeIn-bottom">
-                <p class="content-text">Associates/NGOs.None of them incorporated</p>
+              <img src="img/collab-2.png" >
+              <div class="content-details fadeIn-bottom g-fadeIn-bottom">
+                <h5 class="content-text">Associates/NGOs.None of them incorporated</h5>
+                <p>As fellow NGOs you can join hands with us in realising our dream of making 10,000 underprivileged girl children 'Career Intentional' every year. Your partnership will help us to spread wings in your city of operation.</p>
               </div>
           </div>
         </div>
@@ -433,7 +435,7 @@ for (var i = 0; i < btns.length; i++) {
         <h3>Collaboration</h3>
       </div>
       <div class="container p-10">
-            <img alt="..." src="img/puthri-graph.png" class="img-fluid py-4 mb-0">
+            <img alt="..." src="img/collab-2-banner.png" class="img-fluid py-4 mb-0">
             <!-- Hover Graph CArds -->                
         <div class="container mt-4 card-t">
            
@@ -441,9 +443,9 @@ for (var i = 0; i < btns.length; i++) {
 
            <div class="col-md-4 border-righ">
                 <div class="cards">   
-                <div class=" second bg-white p-4 text-center card-height">
-
-                <h6>CSR Donations</h6>
+                <div class=" second bg-white text-center card-height hover-3">
+                 <img src="img/3-hover-icon-1.svg" alt="">
+                <h4>Employee Volunteering</h4>
                     
                 </div>
                  </div>               
@@ -451,17 +453,18 @@ for (var i = 0; i < btns.length; i++) {
            
         <div class="col-md-4 border-righ">
             <div class="cards">
-           <div class=" second bg-white p-4 text-center card-height">
-
-                    <h6>CSR Donations</h6>
+           <div class=" second bg-white text-center card-height hover-3">
+           <img src="img/3-hover-icon-2.svg" alt="">
+                    <h4>CSR Donations</h4>
                    
                 </div>
             </div>
         </div>
         <div class="col-md-4 border-righ">
             <div class="cards">
-            <div class=" third bg-white p-4 text-center card-height">
-                    <h6>Employee Giving</h6>
+            <div class=" third bg-white text-center card-height hover-3">
+            <img src="img/3-hover-icon-3.svg" alt="">
+                    <h4>Employee Giving</h4>
                    
                 </div>
                 </div>
@@ -479,17 +482,17 @@ for (var i = 0; i < btns.length; i++) {
           <div class="container p-15">
             <div class="row">
               <div class="col-12 col-sm-6 col-md-6 col-lg-6 col-xl-4 p-0">
-                <img src="img/Internship.png" class="responsive">
+                <img src="img/inst-1.png" class="responsive">
                 <h5 class="impact-mnth">Intership</h5>
                 <p>The  significant contribution you make to the underprivileged has a  direct correlation to the impact it creates and the rewards are exemplary.</p>
               </div>
               <div class="col-12 col-sm-6 col-md-6 col-lg-6 col-xl-4 p-0">
-                <img src="img/Infra for Events.png" class="responsive">
+                <img src="img/inst-2.png" class="responsive">
                 <h5 class="impact-mnth">Infra For Events</h5>
                 <p>The impact that has resulted from the Puthri Career Intentionality Virtual training Interventions in terms of knowledge, learning growth rate and skills gained were assessed both through quantitative (a.Pre and Post Assessment) and Qualitative (b.Puthri Satisfaction Survey ) methods, the results are amazing. There has been a significant and phenomenal change in the Average learning growth rate of the Puthri scholars.</p>
               </div>
               <div class="col-12 col-sm-6 col-md-6 col-lg-6 col-xl-4 p-0">
-                <img src="img/Research support.png" class="responsive">
+                <img src="img/inst-3.png" class="responsive">
                 <h5 class="impact-mnth">Research Support</h5>
                 <p>In the march towards making 10,000 underprivileged girl children 'Career Intentional' every year and to expand its operation it is vital to have an excellent manpower which would be committed, passionate, vision driven and have a flair towards working for the under privileged. Project Puthri has a team of professionals from diversified backgrounds who are dynamic and committed working with a zeal towards helping girl children pursue a white-collar job upon graduation </p>
               </div>

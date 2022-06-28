@@ -78,8 +78,8 @@
                     <i class="bx bxs-chevron-down htmlcss-arrow arrow"></i>
                     <ul class="htmlCss-sub-menu sub-menu">
                     <li><a href="news.php">NEWS &amp; EVENTS</a></li>
-                    <li><a href="prayag.php">prayag</a></li>
-                    <li><a href="uu.php">Udyog Utsav</a></li>
+                    <li><a href="prayag.php">PRAYAG</a></li>
+                    <li><a href="uu.php">UDYOG UTSAV</a></li>
                   </ul>
                 </li>
                 
@@ -88,8 +88,8 @@
                     <i class="bx bxs-chevron-down js-arrow arrow"></i>
                     <ul class="js-sub-menu sub-menu">
                     <li><a href="news.php">NEWS &amp; EVENTS</a></li>
-                    <li><a href="prayag.php">prayag</a></li>
-                      <li><a href="uu.php">Udyog Utsav</a></li>
+                    <li><a href="prayag.php">PRAYAG</a></li>
+                    <li><a href="uu.php">UDYOG UTSAV</a></li>
                   </ul>
                 </li>
               <li>
@@ -112,7 +112,7 @@
       </nav>
 
       <div class="banner-img mrg-t">
-          <img src="img/Scolarship-1.png" alt="">
+          <img src="img/Scholarship-Banner.png" alt="">
           <div class="bg-shoadow white-bg">
             <H1>Scholarship</H1>
       </div>
@@ -147,7 +147,7 @@
                   The scholarship program involves the process of screening, selection of scholars, identifying donors and funding after university enrolment, evaluation of academic progress of the scholars, and continued mentoring until the set goal is achieved. As a part of the donor campaign drive, the organizations/employees/individuals stand to accrue benefits in many ways such as tax deduction, brand presence etc.</p>
               </div>
               <div class="mitr-banner col-lg-6 mitr-p-r-l">
-                  <img src="img/Scholarship-2.png" alt="">
+                  <img src="img/shcol-right-img.png" alt="">
               </div>
           </div>
 

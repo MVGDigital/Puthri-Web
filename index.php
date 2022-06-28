@@ -82,8 +82,8 @@
                     <i class="bx bxs-chevron-down htmlcss-arrow arrow"></i>
                     <ul class="htmlCss-sub-menu sub-menu">
                     <li><a href="news.php">NEWS &amp; EVENTS</a></li>
-                    <li><a href="prayag.php">prayag</a></li>
-                    <li><a href="uu.php">Udyog Utsav</a></li>
+                    <li><a href="prayag.php">PRAYAG</a></li>
+                    <li><a href="uu.php">UDYOG UTSAV</a></li>
                   </ul>
                 </li>
                 
@@ -92,8 +92,8 @@
                     <i class="bx bxs-chevron-down js-arrow arrow"></i>
                     <ul class="js-sub-menu sub-menu">
                     <li><a href="news.php">NEWS &amp; EVENTS</a></li>
-                    <li><a href="prayag.php">prayag</a></li>
-                      <li><a href="uu.php">Udyog Utsav</a></li>
+                    <li><a href="prayag.php">PRAYAG</a></li>
+                    <li><a href="uu.php">UDYOG UTSAV</a></li>
                   </ul>
                 </li>
               <li>
@@ -516,18 +516,18 @@ Research says, a well-rounded mentoring & training program will inspire and enco
           <br>
           <div class="container">
             <div class="row center-al">
-              <div class="card2 col-12 col-md-6 col-lg-3 col-xl-3 p-0">
-                <img src="img/featured-1.jpg" class="responsive">
+              <div class="card-3 col-12 col-md-5 col-lg-3 col-xl-3 p-0">
+                <img src="img/feature-1.png" class="responsive">
                 <h6 class="impact-mnth">Schools of the Month</h6>
                 <h5 class="impact-date">09 Jul 2021</h5>
               </div>
-              <div class="card-3 col-12 col-md-6 col-lg-3 col-xl-3 p-0">
-                <img src="img/featured-2.jpg" class="responsive">
+              <div class="card-3 col-12 col-md-5 col-lg-3 col-xl-3 p-0">
+                <img src="img/feature-2.png" class="responsive">
                 <h6 class="impact-mnth">Schools of the Month</h6>
                 <h5 class="impact-date">09 Jul 2021</h5>
               </div>
-              <div class="card-3 col-12 col-md-6 col-lg-3 col-xl-3 p-0">
-                <img src="img/featured-3.jpg" class="responsive">
+              <div class="card-3 col-12 col-md-5 col-lg-3 col-xl-3 p-0">
+                <img src="img/feature-3.png" class="responsive">
                 <h6 class="impact-mnth">Schools of the Month</h6>
                 <h5 class="impact-date">09 Jul 2021</h5>
               </div>

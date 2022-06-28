@@ -78,8 +78,8 @@
                     <i class="bx bxs-chevron-down htmlcss-arrow arrow"></i>
                     <ul class="htmlCss-sub-menu sub-menu">
                     <li><a href="news.php">NEWS &amp; EVENTS</a></li>
-                    <li><a href="prayag.php">prayag</a></li>
-                    <li><a href="uu.php">Udyog Utsav</a></li>
+                    <li><a href="prayag.php">PRAYAG</a></li>
+                    <li><a href="uu.php">UDYOG UTSAV</a></li>
                   </ul>
                 </li>
                 
@@ -88,8 +88,8 @@
                     <i class="bx bxs-chevron-down js-arrow arrow"></i>
                     <ul class="js-sub-menu sub-menu">
                     <li><a href="news.php">NEWS &amp; EVENTS</a></li>
-                    <li><a href="prayag.php">prayag</a></li>
-                      <li><a href="uu.php">Udyog Utsav</a></li>
+                    <li><a href="prayag.php">PRAYAG</a></li>
+                    <li><a href="uu.php">UDYOG UTSAV</a></li>
                   </ul>
                 </li>
               <li>
@@ -159,16 +159,21 @@
           <div class="first-head main-header home-space ahtc-card-title"> 
             <h6>#BENIFITS</h6>
             <h3 class="fnt-sub-hed">How Does PCCA Benefits A Puthri Scholar?</h3>
-            <p>Puthri Career Choice Assessment (PCCA) is a one-of-a-kind self-assessment tool developed indigenously to fit the students in India. PCCA helps Puthri Scholars two-fold.</p>
-            <p>To understand her personality better to make an informed career choice.</p>
-            <p>To understand her strengths, passion and interest which will enable her to study her choice of subjects and pursue her dream career, thus minimizing stress.</p>
+            <h5>PCCA is a self-assessment tool, which will help the Puthri Scholar to:</h5>
+            <p>-Gain insights about her personality.</p>
+            <p>-Gain better self-understanding.</p>
+            <p>-Point out the areas that she should work to improve.</p>
+            <p>-Determine her preferred work environment.</p>
+            <p>-Match her personality dimensions and her preferences onto a compatible/suitable/appropriate career.</p>
+            <p>-Make informed decisions on her career where-by it reduces stress levels.</p>
+            <p>-Attain satisfaction at work and build a successful career.</p>
             
           </div>
 
           <div class="ahtc-banner ">
           <img src="img/pcca-3.png" alt="">
           </div>
-          <div class="ahtc-card-title p-10">
+          <div class="ahtc-card-title p-10 mt-50">
             <h6>#COMPONENTS</h6>
             <h3 class="fnt-sub-hed">What Are The Components Of The PCCA Assessment Report?</h3>
           </div>

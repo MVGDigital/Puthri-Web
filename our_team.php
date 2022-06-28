@@ -84,8 +84,8 @@
                     <i class="bx bxs-chevron-down htmlcss-arrow arrow"></i>
                     <ul class="htmlCss-sub-menu sub-menu">
                     <li><a href="news.php">NEWS &amp; EVENTS</a></li>
-                    <li><a href="prayag.php">prayag</a></li>
-                    <li><a href="uu.php">Udyog Utsav</a></li>
+                    <li><a href="prayag.php">PRAYAG</a></li>
+                    <li><a href="uu.php">UDYOG UTSAV</a></li>
                   </ul>
                 </li>
                 
@@ -94,8 +94,8 @@
                     <i class="bx bxs-chevron-down js-arrow arrow"></i>
                     <ul class="js-sub-menu sub-menu">
                     <li><a href="news.php">NEWS &amp; EVENTS</a></li>
-                    <li><a href="prayag.php">prayag</a></li>
-                      <li><a href="uu.php">Udyog Utsav</a></li>
+                    <li><a href="prayag.php">PRAYAG</a></li>
+                    <li><a href="uu.php">UDYOG UTSAV</a></li>
                   </ul>
                 </li>
               <li>
@@ -122,6 +122,16 @@
           <div class="bg-shoadow">
             <H1>Our Team</H1>
       </div>
+      </div>
+      <div class="container">
+        <div class="row">
+          <div class="col-12 mt-3 p-0">
+            <div class="navigation-section">
+              <a href="index.php" class="navigation-links"><h5>Home</h5></a> >
+              <a href="get-involved.php" class="navigation-links"><h5>Our Team</h5></a>
+            </div>
+          </div>
+        </div>
       </div>
 
       <!-- Card Image Sections -->
@@ -163,7 +173,7 @@
               </div>
               </div>
           </div>
-          <div class="card-title">
+          <div class="card-title m-0">
           <h6 class="text11">#TEAM</h6>
           <h3 class="text11 fnt-sub-hed">Our Team</h3>
           </div>
@@ -352,7 +362,7 @@ for (var i = 0; i < btns.length; i++) {
                           <img src="img/card-time.svg" class="img-fluid">
                           <br><br>
                           <h5>Work Hours</h5>
-                          <p class="counttext1">MONDAY - SATURDAY</p>
+                          <p class="counttext1 work-hours">MONDAY - SATURDAY<br>10AM-5PM</p>
                         </div>
                         <div class='icon-paper'></div>
                     </div>

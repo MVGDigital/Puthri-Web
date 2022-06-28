@@ -78,8 +78,8 @@
                     <i class="bx bxs-chevron-down htmlcss-arrow arrow"></i>
                     <ul class="htmlCss-sub-menu sub-menu">
                     <li><a href="news.php">NEWS &amp; EVENTS</a></li>
-                    <li><a href="prayag.php">prayag</a></li>
-                    <li><a href="uu.php">Udyog Utsav</a></li>
+                    <li><a href="prayag.php">PRAYAG</a></li>
+                    <li><a href="uu.php">UDYOG UTSAV</a></li>
                   </ul>
                 </li>
                 
@@ -88,8 +88,8 @@
                     <i class="bx bxs-chevron-down js-arrow arrow"></i>
                     <ul class="js-sub-menu sub-menu">
                     <li><a href="news.php">NEWS &amp; EVENTS</a></li>
-                    <li><a href="prayag.php">prayag</a></li>
-                      <li><a href="uu.php">Udyog Utsav</a></li>
+                    <li><a href="prayag.php">PRAYAG</a></li>
+                    <li><a href="uu.php">UDYOG UTSAV</a></li>
                   </ul>
                 </li>
               <li>
@@ -112,7 +112,7 @@
       </nav>
       
       <div class="banner-img sr-mam-mrg-t">
-          <img src="img/getinvolved-banner.jpg" alt="">
+          <img src="img/sr-mam-hero.png" alt="">
       </div>
        <!-- Back to Page Content -->
       <div class="container">
@@ -282,7 +282,7 @@ Dr. Saundarya Rajesh is one of India’s most respected thought leaders on Diver
                           <img src="img/card-time.svg" class="img-fluid">
                           <br><br>
                           <h5>Work Hours</h5>
-                          <p class="counttext1">MONDAY - SATURDAY</p>
+                          <p class="counttext1 work-hours">MONDAY - SATURDAY<br>10AM-5PM</p>
                         </div>
                         <div class='icon-paper'></div>
                     </div>

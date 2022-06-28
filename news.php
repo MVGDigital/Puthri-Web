@@ -83,8 +83,8 @@
                     <i class="bx bxs-chevron-down htmlcss-arrow arrow"></i>
                     <ul class="htmlCss-sub-menu sub-menu">
                     <li><a href="news.php">NEWS &amp; EVENTS</a></li>
-                    <li><a href="prayag.php">prayag</a></li>
-                    <li><a href="uu.php">Udyog Utsav</a></li>
+                    <li><a href="prayag.php">PRAYAG</a></li>
+                    <li><a href="uu.php">UDYOG UTSAV</a></li>
                   </ul>
                 </li>
                 
@@ -93,8 +93,8 @@
                     <i class="bx bxs-chevron-down js-arrow arrow"></i>
                     <ul class="js-sub-menu sub-menu">
                     <li><a href="news.php">NEWS &amp; EVENTS</a></li>
-                    <li><a href="prayag.php">prayag</a></li>
-                      <li><a href="uu.php">Udyog Utsav</a></li>
+                    <li><a href="prayag.php">PRAYAG</a></li>
+                    <li><a href="uu.php">UDYOG UTSAV</a></li>
                   </ul>
                 </li>
               <li>
@@ -117,7 +117,7 @@
       </nav>
 
     
-      <div id="background" class="..">
+      <!-- <div id="background" class="..">
         <div id="abt-banner" class="..">
           <img src="img/news-banner.jpg" class="img-fluid" alt="banner-img">
           <div class="overlay-background previewbg">
@@ -135,6 +135,12 @@
                 </div>
             </div>
         </div>
+      </div> -->
+      <div class="banner-img mitr-mrg-t">
+          <img src="img/mitr-class-1.png" alt="">
+          <div class="bg-shoadow white-bg">
+            <h1>News & Events</h1>
+      </div>
       </div>
       <!-- <div class="icon-bar">
         <a href="#" class="facebook">
@@ -212,7 +218,7 @@
                   <h3>Projects Updates</h3>
                 </div>
               </div>
-              <div class="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-8 mt-4 m-auto">
+              <div class="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-8 mt-4 m-auto text-center">
                 <img src="img/Project Updates.jpg" class="responsive mb-3">
                 <h5>As a Corporate house your association will help us connect</h5>
                 <p>We are not-for-profit,public, charitable Trust working towards economically empowering women, since the past 8 years, our work has been centred around life skills enhancement programs for the girl child and employability workshops for underprivileged women. We also work towards the prevention of sexual harassement of women and children. our work is primarily focused on the states of Tamil Nadu And Pondicherry.</p>
@@ -225,32 +231,34 @@
 
       <section id="gallery" class="section-padding">
         <div class="container-fluid">
-          <div class="row">
+          <div class="row gal-imgs">
           <div class="col-3"></div>
-            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-3 p-10">
-              <div class="t-a-r t-a-c">
+            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-3">
+              <div class="t-a-r t-a-c news-right-txt">
                 <h6>#GALLERY</h6>
                 <h3>Projects Updates</h3>
               </div>
             </div>
-            <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-3 p-16 card-container-1 new-img">
-              <img src="img/gallery-1.jpg" class="img-fluid">
+      
+            <div class="col-12 col-sm-12 col-md-5 col-lg-6 col-xl-3 card-container-1 tab-pr-8 new-img">
+              <img src="img/gal-1.png" class="img-fluid">
             </div>
-            <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-3 p-16 card-container-1 new-img">
-              <img src="img/gallery-5.jpg" class="img-fluid">
+            <div class="col-12 col-sm-12 col-md-5 col-lg-6 col-xl-3 card-container-1 tab-pr-8 new-img">
+              <img src="img/gal-2.png" class="img-fluid">
             </div>
-            <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-3 p-16 card-container-1 new-img">
-              <img src="img/gallery-3.jpg" class="img-fluid">
+            <div class="col-12 col-sm-12 col-md-5 col-lg-6 col-xl-3 card-container-1 tab-pr-8 tab-pr-8 new-img">
+              <img src="img/gal-3.png" class="img-fluid">
             </div>
-            <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-3 p-16 card-container-1 new-img">
-              <img src="img/gallery-4.jpg" class="img-fluid">
+            <div class="col-12 col-sm-12 col-md-5 col-lg-6 col-xl-3 card-container-1  tab-pr-8 new-img">
+              <img src="img/gal-4.png" class="img-fluid">
             </div>
-            <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-3 p-16 card-container-1 new-img">
-              <img src="img/our-stories-4.jpg" class="img-fluid">
+            <div class="col-12 col-sm-12 col-md-5 col-lg-6 col-xl-3 card-container-1 tab-pr-8 new-img">
+              <img src="img/gal-5.png" class="img-fluid">
             </div>
-            <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-3 p-16 card-container-1 new-img">
-              <img src="img/gallery-6.jpg" class="img-fluid">
+            <div class="col-12 col-sm-12 col-md-5 col-lg-6 col-xl-3 card-container-1 tab-pr-8 new-img">
+              <img src="img/gal-6.png" class="img-fluid">
             </div>
+           
           </div>
         </div>
       </section>
@@ -293,7 +301,7 @@
           <div class="container">
             <div class="row">
               <div class="col-12">
-                <div class="text-center mb-50">
+                <div class="text-center mb-50 mt-30">
                   <h6>#PRESS</h6>
                   <h3>Social Media Updates</h3>
                 </div>
@@ -369,7 +377,7 @@
                           <img src="img/card-time.svg" class="img-fluid">
                           <br><br>
                           <h5>Work Hours</h5>
-                          <p class="counttext1">MONDAY - SATURDAY</p>
+                          <p class="counttext1 work-hours">MONDAY - SATURDAY<br>10AM-5PM</p>
                         </div>
                         <div class='icon-paper'></div>
                     </div>

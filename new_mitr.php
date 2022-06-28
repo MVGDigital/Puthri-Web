@@ -78,8 +78,8 @@
                     <i class="bx bxs-chevron-down htmlcss-arrow arrow"></i>
                     <ul class="htmlCss-sub-menu sub-menu">
                     <li><a href="news.php">NEWS &amp; EVENTS</a></li>
-                    <li><a href="prayag.php">prayag</a></li>
-                    <li><a href="uu.php">Udyog Utsav</a></li>
+                    <li><a href="prayag.php">PRAYAG</a></li>
+                    <li><a href="uu.php">UDYOG UTSAV</a></li>
                   </ul>
                 </li>
                 
@@ -88,8 +88,8 @@
                     <i class="bx bxs-chevron-down js-arrow arrow"></i>
                     <ul class="js-sub-menu sub-menu">
                     <li><a href="news.php">NEWS &amp; EVENTS</a></li>
-                    <li><a href="prayag.php">prayag</a></li>
-                      <li><a href="uu.php">Udyog Utsav</a></li>
+                    <li><a href="prayag.php">PRAYAG</a></li>
+                    <li><a href="uu.php">UDYOG UTSAV</a></li>
                   </ul>
                 </li>
               <li>
@@ -188,7 +188,7 @@ Thus AVTAR Human Capital Trust formulated “MITR” for young school going boys
           <div class="ahtc-banner">
           <img src="img/mitr-class.png" alt="">
           </div>
-          <div class="ahtc-card-title">
+          <div class="ahtc-card-title mt-30">
             <h6>#KNOWLEDGE SHARING</h6>
             <h3 class="fnt-sub-hed">AGE APPROPRIATE TOPICS FOR KNOWLEDGE SHARING</h3>
           </div>
@@ -273,7 +273,7 @@ Thus AVTAR Human Capital Trust formulated “MITR” for young school going boys
       <!--==================================================================
        Footer
       ==================================================================-->
-      <footer class="footer">
+      <footer class="footer mt-50">
         <div class="container-fluid">
           <div class="row">
             <div class="container">

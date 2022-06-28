@@ -80,8 +80,8 @@
                     <i class="bx bxs-chevron-down htmlcss-arrow arrow"></i>
                     <ul class="htmlCss-sub-menu sub-menu">
                     <li><a href="news.php">NEWS &amp; EVENTS</a></li>
-                    <li><a href="prayag.php">prayag</a></li>
-                    <li><a href="uu.php">Udyog Utsav</a></li>
+                    <li><a href="prayag.php">PRAYAG</a></li>
+                    <li><a href="uu.php">UDYOG UTSAV</a></li>
                   </ul>
                 </li>
                 
@@ -90,8 +90,8 @@
                     <i class="bx bxs-chevron-down js-arrow arrow"></i>
                     <ul class="js-sub-menu sub-menu">
                     <li><a href="news.php">NEWS &amp; EVENTS</a></li>
-                    <li><a href="prayag.php">prayag</a></li>
-                      <li><a href="uu.php">Udyog Utsav</a></li>
+                    <li><a href="prayag.php">PRAYAG</a></li>
+                    <li><a href="uu.php">UDYOG UTSAV</a></li>
                   </ul>
                 </li>
               <li>
@@ -134,7 +134,7 @@
         </div>
       </div> -->
       <div class="banner-img mrg-t">
-             <img src="img/projectputhri-banner.jpg" alt="">
+             <img src="img/p-m-b.png" alt="">
                <div class="bg-shoadow">
                  <h1>Puthri Model</h1>
                </div>
@@ -204,12 +204,46 @@
                <p>Project Puthri turns the spotlight on India’s daughters studying in Government Schools in the age group of 13-18 years. It seeks to redesign the destinies of these girls from the lower economic backgrounds right from their childhood into their adulthood as young working women, by providing them education and the required support in the form of enablers like mentors, role models and career coaches throughout their development.</p>
 
             </div>
+                 <!--  -->
+                 <div class="text-center">
+              <h6>#OUR PROGRAMMES</h6>
+               <h3>Our Programs</h3>
+               <p>Attitudinal training for over a period of 5 years, beginning from class 8th till class 12th, delivered through a combination of classroom sessions, games and corporate exposure, helping the students understand their capabilities better, preventing drop-outs, building meaningful relationships and developing the necessary skills to be successful in their careers.</p>
+            </div>
+
+            <!-- 3Cards -->
+            <div class="container p-15">
+            <div class="row">
+              <div class="col-12 col-sm-6 col-md-6 col-lg-6 col-xl-4 p-0">
+                <img src="img/Career-Coach-1.png" class="responsive">
+                <h5 class="impact-mnth">Mentoring</h5>
+              </div>
+              <div class="col-12 col-sm-6 col-md-6 col-lg-6 col-xl-4 p-0">
+                <img src="img/Career-Coach-2.png" class="responsive">
+                <h5 class="impact-mnth">Role Model</h5>
+              </div>
+              <div class="col-12 col-sm-6 col-md-6 col-lg-6 col-xl-4 p-0">
+                <img src="img/Career-Coach-3.png" class="responsive">
+                <h5 class="impact-mnth">Career Coash</h5>
+              </div>
+            </div>
+          </div>
+            <!--  -->
+          </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    
             <!--  -->
             <section id="" class="section_padding">
-      <div class="text-center mt-5">
-        <h6>#COLLABORATION</h6>
-        <h3>Collaboration</h3>
+      <!--  -->
+    <div class="text-center container p-10 mt-50">
+        <h6>#TRANSFORMATION</h6>
+        <h3>8 Dimentions Of Transformation</h3>
+        <p>The 3-pivoted training focus of Mentor-Role Model-Career Coach is augmented with dimensions of transformation along the following themes. These themes are the core pillars on which Puthri scholars are provided interventions which result in building career intentional future-ready citizens.</p>
       </div>
+    <!--  -->
       <section class="center slider">
        <div>
         <div class="hover">
@@ -295,53 +329,6 @@
 
                 });
               });
-      const one = document.getElementById('one');
-      const two = document.getElementById('two');
-      const three = document.getElementById('three');
-      const four = document.getElementById('four');
-      const five = document.getElementById('five');
-      const closeOne = document.getElementById('close-one');
-      const closeTwo = document.getElementById('close-two');
-      const closeTree = document.getElementById('close-three');
-      const closeFour = document.getElementById('close-four');
-      const closeFive = document.getElementById('close-five');
-      const modalOne = document.querySelector('.lamp')
-      const modalTwo = document.querySelector('.link')
-      const modalTree = document.querySelector('.plus')
-      const modalFour = document.querySelector('.pave')
-      const modalFive = document.querySelector('.impact')
-
-      one.addEventListener('click', () => {
-      modalOne.classList.add('show')   
-    });
-     two.addEventListener('click', () => {
-      modalTwo.classList.add('show')
-    });
-    three.addEventListener('click', () => {
-      modalTree.classList.add('show')
-    });
-    four.addEventListener('click', () => {
-      modalFour.classList.add('show')
-    });
-    five.addEventListener('click', () => {
-      modalFive.classList.add('show')
-    });
-
-    closeOne.addEventListener('click', () => {
-    modalOne.classList.remove('show')
-    });
-    closeTwo.addEventListener('click', () => {
-    modalTwo.classList.remove('show')
-    });
-    closeTree.addEventListener('click', () => {
-    modalTree.classList.remove('show')
-    });
-    closeFour.addEventListener('click', () => {
-    modalFour.classList.remove('show')
-    });
-    closeFive.addEventListener('click', () => {
-    modalFive.classList.remove('show')
-    });
 
 var header = document.getElementById("myDIV");
 var btns = header.getElementsByClassName("btn");
@@ -354,43 +341,7 @@ for (var i = 0; i < btns.length; i++) {
 }
 
     </script>
-            <!--  -->
-            <div class="text-center">
-              <h6>#OURPROGRAMMERS</h6>
-               <h3>Our Programs</h3>
-               <p>Attitudinal training for over a period of 5 years, beginning from class 8th till class 12th, delivered through a combination of classroom sessions, games and corporate exposure, helping the students understand their capabilities better, preventing drop-outs, building meaningful relationships and developing the necessary skills to be successful in their careers.</p>
-            </div>
-
-            <!-- 3Cards -->
-            <div class="container p-15">
-            <div class="row">
-              <div class="col-12 col-sm-6 col-md-6 col-lg-6 col-xl-4 p-0">
-                <img src="img/Internship.png" class="responsive">
-                <h5 class="impact-mnth">Mentoring</h5>
-              </div>
-              <div class="col-12 col-sm-6 col-md-6 col-lg-6 col-xl-4 p-0">
-                <img src="img/Infra for Events.png" class="responsive">
-                <h5 class="impact-mnth">Role Model</h5>
-              </div>
-              <div class="col-12 col-sm-6 col-md-6 col-lg-6 col-xl-4 p-0">
-                <img src="img/Research support.png" class="responsive">
-                <h5 class="impact-mnth">Career Coash</h5>
-              </div>
-            </div>
-          </div>
-            <!--  -->
-          </div>
-          </div>
-        </div>
-      </div>
-    </section>
-    <!--  -->
-    <div class="text-center container p-10 mt-50">
-        <h6>#TRANSFORMATION</h6>
-        <h3>8 Dimentions Of Transformation</h3>
-        <p>The 3-pivoted training focus of Mentor-Role Model-Career Coach is augmented with dimensions of transformation along the following themes. These themes are the core pillars on which Puthri scholars are provided interventions which result in building career intentional future-ready citizens.</p>
-      </div>
-    <!--  -->
+       
       <!--==================================================================
        IMPACT
       ==================================================================-->
@@ -431,7 +382,7 @@ for (var i = 0; i < btns.length; i++) {
           </div>
         </div>
       </section>
-        <img src="img/video-background.png" class="img-fluid mx-auto" id="more-btn" data-toggle="modal" data-target="#exampleModal">
+        <img src="img/video-background.png" class="img-fluid mx-auto count-vdo-top" id="more-btn" data-toggle="modal" data-target="#exampleModal">
           <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
             <div class="modal-dialog modal-fullscreen-xl" role="document">
               <div class="modal-content">
@@ -454,7 +405,7 @@ for (var i = 0; i < btns.length; i++) {
      <!--==================================================================
        Featured Puthri
       ==================================================================-->
-      <section id="ft-puthri-section" class="section-padding">
+      <section id="ft-puthri-section" class="section-padding talented-sec">
         <div class="container-fluid">
           <div class="row">
             <div class="col-md-6 col-lg-2"></div>
@@ -488,7 +439,7 @@ Puthri encourages the students to showcase their talent through Talent contests 
       <!--==================================================================
        overview
       ==================================================================-->
-      <section id="prjct-puthri_overview" >
+      <section id="prjct-puthri_overview"class="mt-30" >
         <div class="container">
           <div class="row">
             <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-4 p-10">
@@ -547,7 +498,7 @@ Puthri encourages the students to showcase their talent through Talent contests 
             <div class="row">
               <div class="col-4 col-sm-4 col-md-2 col-lg-3 col-xl-4"></div>
               <div class="col-sm-8 col-md-8 col-lg-8">
-                <h2>WANT TO GET INVOLVED ??</h2>
+                <h2 class="get-invol">WANT TO GET INVOLVED ??</h2>
               </div>
               <div class=" col-sm-4 col-md-2 col-lg-2 col-xl-4"></div>
               <div class="col-8 col-sm-4 col-md-4 col-lg-4 col-xl-2">

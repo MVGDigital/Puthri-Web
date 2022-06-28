@@ -77,8 +77,8 @@
                     <i class="bx bxs-chevron-down htmlcss-arrow arrow"></i>
                     <ul class="htmlCss-sub-menu sub-menu">
                     <li><a href="news.php">NEWS &amp; EVENTS</a></li>
-                    <li><a href="prayag.php">prayag</a></li>
-                    <li><a href="uu.php">Udyog Utsav</a></li>
+                    <<li><a href="prayag.php">PRAYAG</a></li>
+                    <li><a href="uu.php">UDYOG UTSAV</a></li>
                   </ul>
                 </li>
                 
@@ -87,8 +87,8 @@
                     <i class="bx bxs-chevron-down js-arrow arrow"></i>
                     <ul class="js-sub-menu sub-menu">
                     <li><a href="news.php">NEWS &amp; EVENTS</a></li>
-                    <li><a href="prayag.php">prayag</a></li>
-                      <li><a href="uu.php">Udyog Utsav</a></li>
+                    <li><a href="prayag.php">PRAYAG</a></li>
+                    <li><a href="uu.php">UDYOG UTSAV</a></li>
                   </ul>
                 </li>
               <li>
@@ -111,7 +111,7 @@
       </nav>
 
           <div class="banner-img mrg-t">
-             <img src="img/projectputhri-banner.jpg" alt="">
+             <img src="img/project-puthri-hero.png" alt="">
                <div class="bg-shoadow">
                  <h1>Project Puthri</h1>
                </div>
@@ -153,7 +153,7 @@
           <div class="container">
             <div class="row">
               <div class="col-12 col-sm-6 col-md-12 col-lg-6 col-xl-6 d-flex">
-                <img src="img/About Project Puthri.jpeg" class="img-fluid">
+                <img src="img/About Project Puthri.png" class="img-fluid">
               </div>
               <div class="col-12 col-sm-6 col-md-12 col-lg-6 col-xl-6 mt-3">
                  <h5 class="pad-t-b">Project Puthri:</h5>
