@@ -12,7 +12,7 @@
   </head>
 
 
-        <!-- Nav bar -->
+       <!-- Nav bar -->
       <nav>
       <div class="top-header">
         <div class="sub-container p-0">
@@ -24,14 +24,14 @@
         <a href=" https://www.instagram.com/project_puthri"><img src="img/card-insta.svg" alt=""></a>
         </div>
         <div class="col-lg-8"></div>
-        <p class="col-5 col-lg-2 p-0">Volunteer Now</p>
+        <h5 class="col-5 col-lg-2 p-0">Volunteer Now</h5>
         </div>
       </div>
        <div class="navbar container">
           <i class="bx bx-menu col-2"></i>
             <div class="logo col-lg-2 p-0"><a href="#">
               <img src="img/logo.png" class="img-fluid nav-logo"></a></div>
-              <div id="myDIV" class="nav-links col-lg-7 p-0">
+              <div id="myDIV" class="nav-links col-lg-8 p-0">
                 <div class="sidebar-logo">
                   <span class="logo-name"><img src="img/logo.png"></span>
                     <i class="bx bx-x"></i>
@@ -84,7 +84,7 @@
                 </li>
                 
                 <li class="puthri-m-mob">
-                  <a href="#" class="btns">NEWS &amp; EVENTS</a>
+                  <a href="#" class="btns active">NEWS &amp; EVENTS</a>
                     <i class="bx bxs-chevron-down js-arrow arrow"></i>
                     <ul class="js-sub-menu sub-menu">
                     <li><a href="news.php">NEWS &amp; EVENTS</a></li>
@@ -92,13 +92,12 @@
                     <li><a href="uu.php">UDYOG UTSAV</a></li>
                   </ul>
                 </li>
-              <li>
               <li><a href="faq.php" class="btns">FAQ</a></li>
-              </ul>
-              </div>
-              <div class="col-1">
               <div class="border"></div>
+              </ul>
+              
               </div>
+              
               <div class="col-2 p-0 search-btn">
               <div class="search-box">
                 <i class="bx bx-search"></i>
@@ -133,7 +132,7 @@
       </div>
       <!-- Back to Page Content End -->
       <section class="container mitr-first-main">
-          <div class="first-head">
+          <div class="first-head mt-60 mb-30">
             <h6 class="c-img-title1">#PRAYAG</h6>
             <h3 class="c-img-title2 ahtc-sub-text fnt-sub-hed">Prayag</h3>
           </div>
@@ -149,7 +148,7 @@ The volunteers and stakeholders are awarded certificates. This event also marks 
               </div>
           </div>
           
-          <div class="prayag-card-title p-10">
+          <div class="prayag-card-title p-10 mt-60">
             <h6 class="c-img-title1">#SNAPSHOT</h6>
             <h3 class="c-img-title2 ahtc-sub-text fnt-sub-hed mb-30">Past Events</h3>
             <!--  -->
@@ -200,7 +199,7 @@ The volunteers and stakeholders are awarded certificates. This event also marks 
             </div><!-- For-End -->
         
 <!--  -->
-          <div class="card-title">
+          <div class="card-title mt-60 mb-30">
             <h6 class="c-img-title1">#C0NTACTUS</h6>
             <h3 class="c-img-title2 fnt-sub-hed">Contact Us</h3>
           </div>

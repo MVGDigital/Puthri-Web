@@ -18,7 +18,7 @@
 
 
        <!-- Nav bar -->
-       <nav>
+      <nav>
       <div class="top-header">
         <div class="sub-container p-0">
         <div class="social-m-icon col-5 col-lg-2 p-0">
@@ -29,14 +29,14 @@
         <a href=" https://www.instagram.com/project_puthri"><img src="img/card-insta.svg" alt=""></a>
         </div>
         <div class="col-lg-8"></div>
-        <p class="col-5 col-lg-2 p-0">Volunteer Now</p>
+        <h5 class="col-5 col-lg-2 p-0">Volunteer Now</h5>
         </div>
       </div>
        <div class="navbar container">
           <i class="bx bx-menu col-2"></i>
             <div class="logo col-lg-2 p-0"><a href="#">
               <img src="img/logo.png" class="img-fluid nav-logo"></a></div>
-              <div id="myDIV" class="nav-links col-lg-7 p-0">
+              <div id="myDIV" class="nav-links col-lg-8 p-0">
                 <div class="sidebar-logo">
                   <span class="logo-name"><img src="img/logo.png"></span>
                     <i class="bx bx-x"></i>
@@ -97,13 +97,12 @@
                     <li><a href="uu.php">UDYOG UTSAV</a></li>
                   </ul>
                 </li>
-              <li>
               <li><a href="faq.php" class="btns">FAQ</a></li>
-              </ul>
-              </div>
-              <div class="col-1">
               <div class="border"></div>
+              </ul>
+              
               </div>
+              
               <div class="col-2 p-0 search-btn">
               <div class="search-box">
                 <i class="bx bx-search"></i>
@@ -137,7 +136,7 @@
         </div>
       </div> -->
       <div class="banner-img mitr-mrg-t">
-          <img src="img/mitr-class-1.png" alt="">
+          <img src="img/news-banner-img.png" alt="">
           <div class="bg-shoadow white-bg">
             <h1>News & Events</h1>
       </div>
@@ -165,7 +164,7 @@
         </div>
       </div>
 
-      <section id="news">
+      <section id="news" class="mt-60">
         <div class="text-center">
           <h6>#EVENTS</h6>
           <h3>Recent Events</h3>
@@ -209,16 +208,16 @@
          </section>
   
 
-        <section id="prjct-updates" class="section-padding pb-0">
+        <section id="prjct-updates" class="section-padding mt-60 pb-0">
           <div class="container">
             <div class="row">
               <div class="col-12">
-                <div class="text-center">
+                <div class="text-center mb-30">
                   <h6>#OUR PROJECT</h6>
                   <h3>Projects Updates</h3>
                 </div>
               </div>
-              <div class="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-8 mt-4 m-auto text-center">
+              <div class="col-12 col-sm-12 col-md-12 col-lg-11 col-xl-11 mt-4 m-auto text-center">
                 <img src="img/Project Updates.jpg" class="responsive mb-3">
                 <h5>As a Corporate house your association will help us connect</h5>
                 <p>We are not-for-profit,public, charitable Trust working towards economically empowering women, since the past 8 years, our work has been centred around life skills enhancement programs for the girl child and employability workshops for underprivileged women. We also work towards the prevention of sexual harassement of women and children. our work is primarily focused on the states of Tamil Nadu And Pondicherry.</p>
@@ -229,7 +228,7 @@
 
 
 
-      <section id="gallery" class="section-padding">
+      <section id="gallery" class="section-padding mt-60">
         <div class="container-fluid">
           <div class="row gal-imgs">
           <div class="col-3"></div>
@@ -289,6 +288,8 @@
                       <div class="swiper-slide"><img src="img/news-1.png" class="img-fluid"></div>
                       <div class="swiper-slide"><img src="img/news-2.png" class="img-fluid"></div>
                     </div>
+                    <div class="swiper-button-prev"></div>
+                    <div class="swiper-button-next"></div>
                   </div>
                 </div>
               </div>
@@ -301,7 +302,7 @@
           <div class="container">
             <div class="row">
               <div class="col-12">
-                <div class="text-center mb-50 mt-30">
+                <div class="text-center mt-60 mb-30">
                   <h6>#PRESS</h6>
                   <h3>Social Media Updates</h3>
                 </div>
@@ -327,7 +328,7 @@
       </section>
 
 
-      <section class="contact" id="">
+      <section class="contact mt-60" id="">
         <div id="news" class="text-center">
           <h6>#CONTACT US</h6>
           <h3>Contact Us</h3>

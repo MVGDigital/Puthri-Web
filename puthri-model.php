@@ -10,11 +10,12 @@
       <link href='https://unpkg.com/boxicons@2.0.7/css/boxicons.min.css' rel='stylesheet'>
       <link rel="stylesheet" type="text/css" href="css/slick-slider.css">
       <link rel="stylesheet" type="text/css" href="css/slick.theme.css">
+      <link rel="stylesheet" type="text/css" href="css/swiperslider.min.css">
       <script src="js/code-jquery.js" type="text/javascript"></script>
       </head>
 
 
-        <!-- Nav bar -->
+       <!-- Nav bar -->
       <nav>
       <div class="top-header">
         <div class="sub-container p-0">
@@ -26,14 +27,14 @@
         <a href=" https://www.instagram.com/project_puthri"><img src="img/card-insta.svg" alt=""></a>
         </div>
         <div class="col-lg-8"></div>
-        <p class="col-5 col-lg-2 p-0">Volunteer Now</p>
+        <h5 class="col-5 col-lg-2 p-0">Volunteer Now</h5>
         </div>
       </div>
        <div class="navbar container">
           <i class="bx bx-menu col-2"></i>
             <div class="logo col-lg-2 p-0"><a href="#">
               <img src="img/logo.png" class="img-fluid nav-logo"></a></div>
-              <div id="myDIV" class="nav-links col-lg-7 p-0">
+              <div id="myDIV" class="nav-links col-lg-8 p-0">
                 <div class="sidebar-logo">
                   <span class="logo-name"><img src="img/logo.png"></span>
                     <i class="bx bx-x"></i>
@@ -62,7 +63,7 @@
                 </li>
                 
                 <li class="puthri-m-mob">
-                  <a href="#" class="btns">PUTHRI MODEL</a>
+                  <a href="#" class="btns active">PUTHRI MODEL</a>
                     <i class="bx bxs-chevron-down more-arrow arrow"></i>
                     <ul class="more-sub-menu sub-menu">
                     <li><a href="puthri-model.php">PUTHRI MODEL</a></li>
@@ -94,13 +95,12 @@
                     <li><a href="uu.php">UDYOG UTSAV</a></li>
                   </ul>
                 </li>
-              <li>
               <li><a href="faq.php" class="btns">FAQ</a></li>
-              </ul>
-              </div>
-              <div class="col-1">
               <div class="border"></div>
+              </ul>
+              
               </div>
+              
               <div class="col-2 p-0 search-btn">
               <div class="search-box">
                 <i class="bx bx-search"></i>
@@ -156,13 +156,13 @@
         Transformation Snapshot
     ==================================================================-->
     <section id="puthri" class="section-padding p-10">
-      <div class="text-center">
+      <div class="text-center mt-60">
         <h6>#PUTHRI</h6>
         <h3>Puthri Model Snapshot</h3>
       </div>
       <div class="container">
         <div class="row">
-          <div class="col-12 col-md-12 col-xl-12">
+          <div class="col-12 col-md-12 col-xl-12 p-10">
             <img alt="..." src="img/puthri-graph.png" class="img-fluid py-4 mb-0">
             <!-- Hover Graph CArds -->                
         <!-- <div class="container mt-4 d-flex justify-content-center card-t">
@@ -199,13 +199,13 @@
      </div>           
     </div> -->
             <!--  Hover Graph End-->
-            <div class="text-center mb-50">
+            <div class="text-center">
                <h3>Project Puthri turns the spotlight on India’s daughters studying in Government Schools</h3>
                <p>Project Puthri turns the spotlight on India’s daughters studying in Government Schools in the age group of 13-18 years. It seeks to redesign the destinies of these girls from the lower economic backgrounds right from their childhood into their adulthood as young working women, by providing them education and the required support in the form of enablers like mentors, role models and career coaches throughout their development.</p>
 
             </div>
                  <!--  -->
-                 <div class="text-center">
+                 <div class="text-center mt-60 mb-30">
               <h6>#OUR PROGRAMMES</h6>
                <h3>Our Programs</h3>
                <p>Attitudinal training for over a period of 5 years, beginning from class 8th till class 12th, delivered through a combination of classroom sessions, games and corporate exposure, helping the students understand their capabilities better, preventing drop-outs, building meaningful relationships and developing the necessary skills to be successful in their careers.</p>
@@ -238,20 +238,33 @@
             <!--  -->
             <section id="" class="section_padding">
       <!--  -->
-    <div class="text-center container p-10 mt-50">
+    <div class="text-center container p-10 mt-60">
         <h6>#TRANSFORMATION</h6>
         <h3>8 Dimentions Of Transformation</h3>
         <p>The 3-pivoted training focus of Mentor-Role Model-Career Coach is augmented with dimensions of transformation along the following themes. These themes are the core pillars on which Puthri scholars are provided interventions which result in building career intentional future-ready citizens.</p>
       </div>
     <!--  -->
+      <!--  //////////////////////////////////////////////////////-->
       <section class="center slider">
-       <div>
         <div class="hover">
           <div class="content">
             <div class="content-overlay"></div>
-              <img src="img/our-stories-1.jpg" >
-              <div class="content-details fadeIn-bottom">
-                <p class="content-text">Educational institutions</p>
+            <img src="img/Digital Kmowledge.png" >
+              <div class="content-details fadeIn-bottom g-fadeIn-bottom">
+                <h5 class="content-text">Digital Knowledge</h5>
+                <p>Empowering the girls with knowledge of the digital world</p>
+              </div>
+          </div>
+        </div>
+      </div>
+      <div> 
+        <div class="hover">
+          <div class="content">
+            <div class="content-overlay"></div>
+            <img src="img/Entrepreneurship.png" >
+              <div class="content-details fadeIn-bottom g-fadeIn-bottom">
+                <h5 class="content-text">Entrepreneurship</h5>
+                <p> Lessons in entrepreneurship can help the Puthri Scholar pick up life skills that can be useful in various situations</p>
               </div>
           </div>
         </div>
@@ -260,9 +273,10 @@
         <div class="hover">
           <div class="content">
             <div class="content-overlay"></div>
-              <img src="img/our-stories-2.jpg" >
-              <div class="content-details fadeIn-bottom">
-                <p class="content-text">Schools</p>
+            <img src="img/Analytics.png">
+              <div class="content-details fadeIn-bottom g-fadeIn-bottom">
+                <h5 class="content-text">Analytical thinking</h5>
+                <p> Developing the skill of Analytical thinking will help Puthri scholars make well-informed and correct decisions.</p>
               </div>
           </div>
         </div>
@@ -271,9 +285,10 @@
         <div class="hover">
           <div class="content">
             <div class="content-overlay"></div>
-              <img src="img/Our Stories 1.jpg" >
-              <div class="content-details fadeIn-bottom">
-                <p class="content-text">Individual Donors</p>
+            <img src="img/Financial Accumen.png" >
+              <div class="content-details fadeIn-bottom g-fadeIn-bottom">
+                <h5 class="content-text">Financial Acumen</h5>
+                <p>Empower girls with financial literacy</p>
               </div>
           </div>
         </div>
@@ -282,9 +297,10 @@
         <div class="hover">
           <div class="content">
             <div class="content-overlay"></div>
-              <img src="img/our-stories-3.jpg" >
-              <div class="content-details fadeIn-bottom">
-                <p class="content-text">Subject Matter Experts</p>
+            <img src="img/Health.png">
+              <div class="content-details fadeIn-bottom g-fadeIn-bottom">
+                <h5 class="content-text">Health</h5>
+                <p>Hygiene- accurate health education to the Puthri scholars who are in the post-pubescent age group of 13-18.</p>
               </div>
           </div>
         </div>
@@ -293,14 +309,28 @@
         <div class="hover">
           <div class="content">
             <div class="content-overlay"></div>
-              <img src="img/our-stories-4.jpg" >
-              <div class="content-details fadeIn-bottom">
-                <p class="content-text">Associates/NGOs.None of them incorporated</p>
+            <img src="img/Self Defence.png">
+              <div class="content-details fadeIn-bottom g-fadeIn-bottom">
+                <h5 class="content-text">Self-Defence</h5>
+                <p>Safety is a critical barrier for girls to attend school, one of the objectives of the Puthri program.</p>
+              </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div class="hover">
+          <div class="content">
+            <div class="content-overlay"></div>
+            <img src="img/Hygine.png" >
+              <div class="content-details fadeIn-bottom g-fadeIn-bottom">
+                <h5 class="content-text">Hygiene</h5>
+                <p>accurate health education to the Puthri scholars who are in the post-pubescent age group of 13-18.</p>
               </div>
           </div>
         </div>
       </div>
       </section>
+      <!--  -->
             <script type="text/javascript">
               $(document).on('ready', function() {
                 
@@ -405,7 +435,7 @@ for (var i = 0; i < btns.length; i++) {
      <!--==================================================================
        Featured Puthri
       ==================================================================-->
-      <section id="ft-puthri-section" class="section-padding talented-sec">
+     <!--  <section id="ft-puthri-section" class="section-padding talented-sec">
         <div class="container-fluid">
           <div class="row">
             <div class="col-md-6 col-lg-2"></div>
@@ -413,7 +443,7 @@ for (var i = 0; i < btns.length; i++) {
               <div class="event">
                 <h6>#TALENT SEARCH CONTEST</h6>
                 <h3>Talent Search Contest</h3>
-                <!--<h6 class="event-subheading">has started for all puthri<br>scholars</h6>-->
+                
                 <p>The year 2021 saw the unveiling of our most-awaited and planned series of events to identify our Star Puthris - The Talent Show Event. 
 Puthri encourages the students to showcase their talent through Talent contests under different categories like Eloquent contest, Poster Making competition, Essay Writing, AdZap etc. It helps to identify Star Puthri students who excel in one or more categories. These students are further sponsored for other external competitions. Puthri also conducts a special short event for parents of Puthri students to help them understand the benefit a Puthri student has under the Puthri program. This synergy serves as a boost for students to excel with the additional support of family members.
 </p>
@@ -434,12 +464,42 @@ Puthri encourages the students to showcase their talent through Talent contests 
               </div>
             </div>
           </div>
-      </section>
+      </section> -->
+      <section id="press" class="">
+      <div class="container-fluid">
+        <div class="row">
+          <div class="col-1"></div>
+            <div class="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-5">
+              <div class="text-start">
+                <h6>#PRESS</h6>
+                <h3>In The News</h3>
+                 <span class="press-subcontext">'Project Puthri a step towards'</span>
+                 <p class="prjct-text_summary">'Project Puthri', in an initiative to empower underpriviliged girls to rise to their full potential was launched in M.O.P Vaishnav College for Women on Thursday. The event included the
+              </div>
+              </div>
+                <div class="col-md-6 col-lg-6 p-0">
+                  <div class="swiper-container">
+                    <div class="swiper-wrapper">
+                      <div class="swiper-slide"><img src="img/news-1.png" class="img-fluid"> </div>
+                      <div class="swiper-slide"><img src="img/news-2.png" class="img-fluid"></div>
+                      <div class="swiper-slide"><img src="img/news-1.png" class="img-fluid"></div>
+                      <div class="swiper-slide"><img src="img/news-2.png" class="img-fluid"></div>
+                      <div class="swiper-slide"><img src="img/news-1.png" class="img-fluid"></div>
+                      <div class="swiper-slide"><img src="img/news-2.png" class="img-fluid"></div>
+                    </div>
+                    <div class="swiper-button-prev"></div>
+                    <div class="swiper-button-next"></div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
 
       <!--==================================================================
        overview
       ==================================================================-->
-      <section id="prjct-puthri_overview"class="mt-30" >
+      <section id="prjct-puthri_overview"class="mt-60" >
         <div class="container">
           <div class="row">
             <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-4 p-10">
@@ -657,6 +717,33 @@ Puthri encourages the students to showcase their talent through Talent contests 
       <!--   Counting -->
 
       <script type="text/javascript">
+        $(document).on('ready', function() {
+        
+        $(".center").slick({
+          dots:false,
+          infinite: true,
+          centerMode: true,
+          slidesToShow: 3,
+          slidesToScroll: 3,
+          responsive: [
+        {
+        breakpoint: 1024,
+         settings: {
+          slidesToShow: 2,
+          centerMode: false
+            }
+          },
+        {
+        breakpoint: 767,
+         settings: {
+          slidesToShow: 1,
+          centerMode: false
+                  }
+                }
+              ]
+
+        });
+      });
        $('.counting').each(function() {
        var $this = $(this),
       countTo = $this.attr('data-count');

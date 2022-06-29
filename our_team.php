@@ -18,8 +18,8 @@
 <body>
 
 
-       <!-- Nav bar -->
-       <nav>
+      <!-- Nav bar -->
+      <nav>
       <div class="top-header">
         <div class="sub-container p-0">
         <div class="social-m-icon col-5 col-lg-2 p-0">
@@ -30,14 +30,14 @@
         <a href=" https://www.instagram.com/project_puthri"><img src="img/card-insta.svg" alt=""></a>
         </div>
         <div class="col-lg-8"></div>
-        <p class="col-5 col-lg-2 p-0">Volunteer Now</p>
+        <h5 class="col-5 col-lg-2 p-0">Volunteer Now</h5>
         </div>
       </div>
        <div class="navbar container">
           <i class="bx bx-menu col-2"></i>
             <div class="logo col-lg-2 p-0"><a href="#">
               <img src="img/logo.png" class="img-fluid nav-logo"></a></div>
-              <div id="myDIV" class="nav-links col-lg-7 p-0">
+              <div id="myDIV" class="nav-links col-lg-8 p-0">
                 <div class="sidebar-logo">
                   <span class="logo-name"><img src="img/logo.png"></span>
                     <i class="bx bx-x"></i>
@@ -98,13 +98,12 @@
                     <li><a href="uu.php">UDYOG UTSAV</a></li>
                   </ul>
                 </li>
-              <li>
               <li><a href="faq.php" class="btns">FAQ</a></li>
-              </ul>
-              </div>
-              <div class="col-1">
               <div class="border"></div>
+              </ul>
+              
               </div>
+              
               <div class="col-2 p-0 search-btn">
               <div class="search-box">
                 <i class="bx bx-search"></i>
@@ -136,7 +135,7 @@
 
       <!-- Card Image Sections -->
       <div class="card-img-section">
-          <div class="card-title">
+          <div class="mt-60">
           <h6 class="text11">#TRUSTEES</h6>
           <h3 class="text11 fnt-sub-hed">Our Trustees</h3>
           </div>
@@ -173,7 +172,7 @@
               </div>
               </div>
           </div>
-          <div class="card-title m-0">
+          <div class="mt-60">
           <h6 class="text11">#TEAM</h6>
           <h3 class="text11 fnt-sub-hed">Our Team</h3>
           </div>
@@ -198,11 +197,15 @@
           </div>
           </div>
           <section class="pop-up">
-          <div class="pop-body lamp">
+         <!--  <div class="pop-body lamp">
        <div class="card-pop">
-        <div class="sub-pop">
-        <div class="pop-close">
+       <div class="pop-close">
           <img id="close-one" src="img/close-icon.svg" alt="">
+        </div>
+        <div class="sub-pop">
+        
+        <div class="col-2">
+        <img src="img/Um Kandaswamy.png" alt="">
         </div>
         <div class="pop-content">
           <h3>Mr K. Umasanker</h3>
@@ -212,8 +215,30 @@
         </div>
         </div>
       </div>
+      </div> -->
+      <div class="pop-body lamp">
+       <div class="card-pop">   
+        <div class="pop-close col-11">
+          <img id="close-one" src="img/close-icon.svg" alt="">
+        </div>
+        <div class="row col-12 col-md-11 col-lg-10  m-auto d-flex img-data">
+        
+        <div class=" our-pop-mrg">
+         <div class="col-6 col-md-5 col-lg-2 pl-0">
+         <img src="img/Um Kandaswamy.png" alt="">
+         </div>
+
+         <div class="pop-content mt-20">
+          <h3>Mr K. Umasanker</h3>
+          <h4 class="mb-16">Senior Vice President, Sales & Relationships, Founding Team Member</h4>
+          <p>An expert recruiter who holds a Masters in Public Administration from the University of Madras, Umasanker is an Electronics & Communication Engineer and has done MDP from Indian Institute of Management, Ahmedabad. With over 20 years of experience in Recruitment Consulting, Umasanker is a prolific headhunter, with over 3500 closures in his career, comprising of top management, senior management and reporting-to-board positions. Currently managing all India Sales & Relationships for the entire Avtar Group for more than 350 companies across industries. Every year, Umasanker has, as a personal goal, been training young generation in the path of Leadership and has been invited by many colleges to be the Chief Guest to address the young graduates & post graduates.</p>
+        </div>
+        </div>
+        </div>
       </div>
-      <!-- Link -->
+      </div>
+      
+      <!-- Link 
       <div class="pop-body link">
        <div class="card-pop">
         <div class="sub-pop">
@@ -221,17 +246,38 @@
           <img id="close-two" src="img/close-icon.svg" alt="">
         </div>
         <div class="pop-content">
-          <h3>Mr V. Rajesh </h3>
+          <h3>Mr V. Rajesh</h3>
           <h4>Trustee</h4><br>
-          <p>V Rajesh is a well known and widely acknowledged Retail and Shopper Behaviour expert who has been an integral part of the transformation of Indian Retail. He has successfully introduced several modern retail formats in India starting with supermarkets in the mid 90’s and various other mass merchandise, lifestyle and speciality stores. His expertise stems from having handled varied functional roles, specially the marketing and customer service function at a CXO level. Rajesh has been involved with strategy formulation as also the roll out and execution for multiple start ups. His keen understanding of shopper behaviour has played an important role in the successful launch of the various formats and stores. Apart from this, he also has international retail exposure with MAKRO - UK and Walmart’s UK subsidiary – ASDA
-                              Rajesh’s toughest challenge and the also the most successful one he has handled is to have influenced consumer mindset, with regard to grocery shopping, in a market dominated by traditional formats. This is largely due to his in-depth understanding of consumer and shopper behaviour as also his consistent capability to plan and execute customer centric programs which have been cost effective.
-                              He is a prolific writer, having written several hundred articles and case studies for leading publications. As part of his knowledge sharing initiatives, he has also authored several books. He is now very active in the knowledge space and is engaged in sharing his extensive expertise at diverse forums through various initiatives.
+          <p>
 </p>
         </div>
         </div>
       </div>
+      </div>  -->
+      <div class="pop-body link">
+       <div class="card-pop">   
+        <div class="pop-close col-11">
+        <img id="close-two" src="img/close-icon.svg" alt="">
+        </div>
+        <div class="row col-12 col-md-11 col-lg-10  m-auto d-flex img-data">
+         
+        <div class=" our-pop-mrg">
+         <div class="col-6 col-md-5 col-lg-2 pl-0">
+         <img src="img/abt-rajesh.png" alt="">
+         </div>
+
+         <div class="pop-content mt-20">
+         <h3>Mr V. Rajesh</h3>
+          <h4 class="mb-16">Senior Vice President, Sales & Relationships, Founding Team Member</h4>
+          <p>V Rajesh is a well known and widely acknowledged Retail and Shopper Behaviour expert who has been an integral part of the transformation of Indian Retail. He has successfully introduced several modern retail formats in India starting with supermarkets in the mid 90’s and various other mass merchandise, lifestyle and speciality stores. His expertise stems from having handled varied functional roles, specially the marketing and customer service function at a CXO level. Rajesh has been involved with strategy formulation as also the roll out and execution for multiple start ups. His keen understanding of shopper behaviour has played an important role in the successful launch of the various formats and stores. Apart from this, he also has international retail exposure with MAKRO - UK and Walmart’s UK subsidiary – ASDA
+                              Rajesh’s toughest challenge and the also the most successful one he has handled is to have influenced consumer mindset, with regard to grocery shopping, in a market dominated by traditional formats. This is largely due to his in-depth understanding of consumer and shopper behaviour as also his consistent capability to plan and execute customer centric programs which have been cost effective.
+                              He is a prolific writer, having written several hundred articles and case studies for leading publications. As part of his knowledge sharing initiatives, he has also authored several books. He is now very active in the knowledge space and is engaged in sharing his extensive expertise at diverse forums through various initiatives.</p>
+        </div>
+        </div>
+        </div>
       </div>
-      <!-- PLUS -->
+      </div>
+      <!-- PLUS 
       <div class="pop-body plus">
        <div class="card-pop">
         <div class="sub-pop">
@@ -246,8 +292,29 @@
         </div>
         </div>
       </div>
+      </div> -->
+      <div class="pop-body plus">
+       <div class="card-pop">   
+        <div class="pop-close col-11">
+        <img id="close-three" src="img/close-icon.svg" alt="">
+        </div>
+        <div class="row col-12 col-md-11 col-lg-10  m-auto d-flex img-data">
+         
+        <div class=" our-pop-mrg">
+         <div class="col-6 col-md-5 col-lg-2 pl-0">
+         <img src="img/abt-priya.png" alt="">
+         </div>
+
+         <div class="pop-content mt-20">
+         <h3>Priya Dayabaran</h3>
+          <h4 class="mb-16">Vice President – Organizational Development</h4>
+          <p>One of the founder members of Avtar, Priya heads the Organizational Development function. Since joining Avtar in 2000 she has handled multiple roles – Recruiter, Management Representative – ISO, Team Leader and Head of Practice. A true blue Avtarite, her multifarious experience has made Priya a very astute talent strategy consultant &amp; a perfect culture ambassador. She also leads the Centralized Support Function of the Avtar Group.An avid reader of both Tamil and English fiction, her favourite hobby is the translation of English articles, poetry and themes into chaste Tamil- her love for vintage Tamil film music makes her unbeatable in this genre!.</p>
+        </div>
+        </div>
+        </div>
       </div>
-      <!--PAVE -->
+      </div>
+      <!--PAVE 
       <div class="pop-body pave">
        <div class="card-pop">
         <div class="sub-pop">
@@ -259,6 +326,27 @@
           <h4>Head-Out Reach</h4><br>
           <p>Eswar Balasubramanian, Head - Outreach Programs, AVTAR Human Capital Trust, (Registered trust under Section 12AA of incometax Act 1961). Phone: 044 4294 1100
           </p>
+        </div>
+        </div>
+      </div>
+      </div> -->
+      <div class="pop-body pave">
+       <div class="card-pop">   
+        <div class="pop-close col-11">
+        <img id="close-four" src="img/close-icon.svg" alt="">
+        </div>
+        <div class="row col-12 col-md-11 col-lg-10  m-auto d-flex img-data">
+         
+        <div class=" our-pop-mrg">
+         <div class="col-6 col-md-5 col-lg-2 pl-0">
+         <img src="img/Eswar Our team.png" alt="">
+         </div>
+
+         <div class="pop-content mt-20">
+         <h3>Eswar Balasubramanian</h3>
+          <h4 class="mb-16">Head-Out Reach</h4>
+          <p>Eswar Balasubramanian, Head - Outreach Programs, AVTAR Human Capital Trust, (Registered trust under Section 12AA of incometax Act 1961). Phone: 044 4294 1100.</p>
+        </div>
         </div>
         </div>
       </div>
@@ -314,7 +402,7 @@ for (var i = 0; i < btns.length; i++) {
   });
 }
 </script>
-<div class="card-title">
+<div class="mt-60 mb-30">
           <h6 class="text11">#CONTACT US</h6>
           <h3 class="text11 fnt-sub-hed">Contact Us</h3>
           </div>

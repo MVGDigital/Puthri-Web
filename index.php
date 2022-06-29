@@ -28,14 +28,14 @@
         <a href=" https://www.instagram.com/project_puthri"><img src="img/card-insta.svg" alt=""></a>
         </div>
         <div class="col-lg-8"></div>
-        <p class="col-5 col-lg-2 p-0">Volunteer Now</p>
+        <h5 class="col-5 col-lg-2 p-0">Volunteer Now</h5>
         </div>
       </div>
        <div class="navbar container">
           <i class="bx bx-menu col-2"></i>
             <div class="logo col-lg-2 p-0"><a href="#">
               <img src="img/logo.png" class="img-fluid nav-logo"></a></div>
-              <div id="myDIV" class="nav-links col-lg-7 p-0">
+              <div id="myDIV" class="nav-links col-lg-8 p-0">
                 <div class="sidebar-logo">
                   <span class="logo-name"><img src="img/logo.png"></span>
                     <i class="bx bx-x"></i>
@@ -96,13 +96,12 @@
                     <li><a href="uu.php">UDYOG UTSAV</a></li>
                   </ul>
                 </li>
-              <li>
               <li><a href="faq.php" class="btns">FAQ</a></li>
-              </ul>
-              </div>
-              <div class="col-1">
               <div class="border"></div>
+              </ul>
+              
               </div>
+              
               <div class="col-2 p-0 search-btn">
               <div class="search-box">
                 <i class="bx bx-search"></i>
@@ -285,12 +284,59 @@ $("#pop-6").click(function(){
 
 });
 </script>
-      <section id="transformations" class="section-padding container p-0 mt-40">
+      <section id="transformations" class="section-padding container p-0 mt-60">
         <h6>#PUTHRI MODEL</h6>
-        <h3 class="fnt-sub-hed">Puthri Model</h3>
-        <p class="m-all">Avtar Human Capital Trust (AHCT) conducted a research study in 2016 to understand what made over 500 corporation school girl students (over the years 1992 to 2010) break out of poverty and pursue white collar jobs today.
-Research says, a well-rounded mentoring & training program will inspire and encourage the government school girls to study well at school, decrease their dropout rates, support & motivate them to take up tertiary education and grow into a confident career professional, thus elevating them from their present economic status, to live a life of fulfillment & advancement.
-</p>
+        <h3 class="fnt-sub-hed">The Puthri Model</h3>
+        <!-- <p class="m-all mb-30">Avtar Human Capital Trust (AHCT) conducted a research study in 2016 to understand what made over 500 corporation school girl students (over the years 1992 to 2010) break out of poverty and pursue white collar jobs today. Research says, a well-rounded mentoring & training program will inspire and encourage the government school girls to study well at school, decrease their dropout rates, support & motivate them to take up tertiary education and grow into a confident career professional, thus elevating them from their present economic status, to live a life of fulfillment & advancement.
+</p> -->
+<!--  -->
+
+<p style="margin-top: 3px;" class="more">
+  Avtar Human Capital Trust (AHCT) conducted a research study in 2016 to understand what made over 500
+   corporation school girl students (over the years 1992 to 2010) break out of poverty and pursue white collar jobs today. 
+   Research says, a well-rounded mentoring & training program will inspire and encourage the government school girls to study 
+   well at school, decrease their dropout rates, support & motivate them to take up tertiary education and grow into a confident
+    career professional, thus elevating them from their present economic status, to live a life of fulfillment & advancement</p>
+  <script>
+    $(document).ready(function() {
+    // Configure/customize these variables.
+    var showChar = 299;  // How many characters are shown by default
+    var ellipsestext = "";
+    var moretext = "More...";
+    var lesstext = "Less...";
+    
+
+    $('.more').each(function() {
+        var content = $(this).html();
+ 
+        if(content.length > showChar) {
+ 
+            var c = content.substr(0, showChar);
+            var h = content.substr(showChar, content.length - showChar);
+ 
+            var html = '<span>'+c+'</span' + '<span class="moreellipses">' + ellipsestext+ '&nbsp;</span><span class="morecontent"><span>' + h + 
+            '</span>&nbsp;&nbsp;<a href="" class="morelink">' + moretext + '</a></span>';
+ 
+            $(this).html(html);
+        }
+ 
+    });
+ 
+    $(".morelink").click(function(){
+        if($(this).hasClass("less")) {
+            $(this).removeClass("less");
+            $(this).html(moretext);
+        } else {
+            $(this).addClass("less");
+            $(this).html(lesstext);
+        }
+        // $(this).parent().prev().toggle();
+        $(this).prev().toggle();
+        return false;
+    });
+});
+  </script>
+       <!--  -->
         <section class="center slider m-0">
           <div>
             <div class="hover">
@@ -411,22 +457,23 @@ Research says, a well-rounded mentoring & training program will inspire and enco
       <!--==================================================================
        Events
       ==================================================================-->
-      <section id="events-section"  class="pt-5">
+      <section id="events-section"  class="mt-60">
         <div class="events">  
-          <div class="container-fluid">
-            <div class="row">
-              <div class="col-1"></div>
-              <div class="col-12 col-sm-12 col-md-6 col-lg-3 col-xl-5">
+          <div class="container-fluid p-10">
+            <div class="row container p-10 m-0">
+
+              <div class="col-12 col-sm-12 col-md-6 col-lg-3 col-xl-5 p-0">
                 <div class="event text-left pad-t-0">  
                 <h6>#EVENTS</h6>
                   <h3 class="fnt-sub-hed">Project Puthri Events</h3>
-                  <h5 class="event-subheading">Udyog Utsav, PRAYAG, Puthri Talent Show</h5>
+                  <h5 class="event-subheading mb-20">Udyog Utsav, PRAYAG, Puthri Talent Show</h5>
                   <p >Project Puthri events are a reflection of our core values and culture. A culmination of team work and cohesiveness, every event plays a significant role in redefining the identities of our Puthri scholars.</p>
                   <!-- <a href="news.php">
                   <button class="view-btn">View more</button>
                   </a> -->
                 </div>
               </div>
+              <div class="col-1"></div>
                 <div class="col-12 col-sm-12 col-md-12 col-lg-8 col-xl-6 p-0 m-0">
                   <div class="swiper-container">
                     <div class="swiper-wrapper">
@@ -456,10 +503,10 @@ Research says, a well-rounded mentoring & training program will inspire and enco
                 </div>
             <div class="row j-c-c">
             
-              <div class="col-xs-6 col-sm-2 col-md-12 col-lg-10 col-xl-11 mobile-width plr-50">
+              <div class="col-xs-6 col-sm-2 col-md-12 col-lg-10 col-xl-10 mobile-width p-10">
                 <!-- start count stats -->
               <div id="counter-stats" class="wow fadeInRight count-er" data-wow-duration="1.4s">
-                <div class=" stats rate1000 count-er p-l-25">
+                <div class=" stats rate1000 count-er p-l-25 count-first">
                   <div class="counting" data-count="1000">0</div> <h3 class="d-inline counttext1 plus-55">+</h3><br>       
                 </div>
                 <div class=" stats count-er p-l-25">
@@ -473,7 +520,7 @@ Research says, a well-rounded mentoring & training program will inspire and enco
                 </div>
               </div>
               <div class="counting-text count-er p-0">
-                <p class="counttext1">Volunteering Hours</p>
+                <p class="counttext1">Volunteering<br>Hours</p>
                 <p class="counttext1">Scholarships</p>
                 <p class="counttext1">beneficiaries</p>
                 <p class="counttext1">Corporates</p>
@@ -486,7 +533,7 @@ Research says, a well-rounded mentoring & training program will inspire and enco
    <!--==================================================================
        Vision
       ==================================================================-->  
-      <section id="home-vision transformations" class="section-padding">
+      <section id="home-vision transformations" class="mt-60">
         <div class="text-center hm-left">
           <h6>#VISION</h6>
           <h3 class="fnt-sub-hed">Our Vision</h3>
@@ -499,37 +546,37 @@ Research says, a well-rounded mentoring & training program will inspire and enco
               </h6>-->
 				<p class="text-center p-0">Puthri's vision, an India, where young girls at the bottom of the socio - economic pyramid are able to rise to their fullest potential by breaking out of the domestic labour economy to graduate into the knowledge economy, thus, eventually being able to contribute directly to the GDP of our country</p>
             </div>
-            <div class="col-3"></div>
-            <div class="col-sm-6 col-12 mt-5">
+            <div class="col-2"></div>
+            <div class="col-sm-6 col-md-8 col-lg-8 mt-30">
               <iframe class="responsive" height="300px" src="https://www.youtube.com/embed/K0yypav0zfw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
           </div>
-          <div class="col-3"></div>
+          <div class="col-2"></div>
         </div>
       </div>
     </section>
 
 <!-- Featured -->
-<section class="impact text-center pad-t-0" id="">
+<section class="impact text-center pad-t-0 mt-60" id="">
         <div class="mx-auto">
           <h6>#FEATURED</h6>
           <h3 class="fnt-sub-hed">Featured Schools</h3>
           <br>
-          <div class="container">
+          <div class="container Schools">
             <div class="row center-al">
               <div class="card-3 col-12 col-md-5 col-lg-3 col-xl-3 p-0">
                 <img src="img/feature-1.png" class="responsive">
-                <h6 class="impact-mnth">Schools of the Month</h6>
-                <h5 class="impact-date">09 Jul 2021</h5>
+                <h5 class="impact-mnth">Schools of the Month</h5>
+                <h4 class="impact-date">09 Jul 2021</h4>
               </div>
               <div class="card-3 col-12 col-md-5 col-lg-3 col-xl-3 p-0">
                 <img src="img/feature-2.png" class="responsive">
-                <h6 class="impact-mnth">Schools of the Month</h6>
-                <h5 class="impact-date">09 Jul 2021</h5>
+                <h5 class="impact-mnth">Schools of the Month</h5>
+                <h4 class="impact-date">09 Jul 2021</h4>
               </div>
               <div class="card-3 col-12 col-md-5 col-lg-3 col-xl-3 p-0">
                 <img src="img/feature-3.png" class="responsive">
-                <h6 class="impact-mnth">Schools of the Month</h6>
-                <h5 class="impact-date">09 Jul 2021</h5>
+                <h5 class="impact-mnth">Schools of the Month</h5>
+                <h4 class="impact-date">09 Jul 2021</h4>
               </div>
             </div>
           </div>
@@ -544,38 +591,52 @@ Research says, a well-rounded mentoring & training program will inspire and enco
 
         <div class="container">
           <div class="row p0">
-            <div class="col-lg-6 p-10">
+            <div class="col-lg-5 p-10">
               <div class="accrediations">
                 <h6>#PARTNERS</h6>
                 <h3 class="fnt-sub-hed">Our Partners</h3>
                 <p class="text-left">Help Project Puthri become the preferred charity partner in your work place events and involve your colleagues as advocates and participants of Puthri</p>
             </div>
           </div>
+          <div class="col-1"></div>
           <div class=" col-12 col-lg-6 col-md-12 col-sm-6 p-10">
-            <div class="row p-0">
-              <div class="col-6 col-sm-6 col-lg-4 home-space">
-                <img src="image/agni_college_logo.png" class="img-fluid">
+          <div class="row p-0">
+              <div class="col-6 col-sm-6 col-lg-4 home-space p-10">
+    <div class="newcl">
+                <img class="height-img" src="image/agni-college-logo.png" class="img-fluid">
+    </div>
               </div>
-              <div class="col-6 col-sm-6 col-lg-4 home-space ">
-                <img src="image/apollo_tyres.png" class="img-fluid">
+              <div class="col-6 col-sm-6 col-lg-4 home-space p-10">
+                <div class="newcl">
+    <img class="height-img"  src="image/apollo tyres.png" class="img-fluid">
+</div>
               </div>
-              <div class="col-6 col-lg-4 home-space">
-                <img src="image/CavinKare.png" class="img-fluid">
+              <div class="col-6 col-lg-4 home-space p-10">
+                <div class="newcl">
+    <img class="height-img" src="image/CavinKare.png" class="img-fluid">
+</div>
               </div>
-              <div class="col-6 col-lg-4 space home-space">
-                <img src="image/DGVC_LOGO.png" class="img-fluid" >
+              <div class="col-6 col-lg-4 space home-space p-10">
+              <div class="newcl">
+                <img class="height-img" src="image/DGVC_LOGO.png" class="img-fluid">
               </div>
-              <div class="col-6 col-lg-4 space home-space">
-                <img src="image/ITC.png" class="img-fluid"  >
               </div>
-              <div class="col-6 col-lg-4 space home-space">
-                <img src="image/Flex.png" class="img-fluid" >
+              <div class="col-6 col-lg-4 space home-space p-10">
+              <div class="newcl">
+                <img class="height-img" src="image/ITC.png" class="img-fluid">
+              </div>
+              </div>
+              <div class="col-6 col-lg-4 space home-space p-10">
+              <div class="newcl">
+                <img class="height-img" src="image/Flex.png" class="img-fluid">
+              </div>
+              </div>
               </div>
             </div>
           </div>
         </div>
       </div>
-      <div class="bar-line"></div>
+      <div class="bar-line col-10"></div>
       <div class="container">
         <div class="row">
           <div class="col-12 col-md-12 col-xl-6 mt-50 p-10">
@@ -600,7 +661,8 @@ Research says, a well-rounded mentoring & training program will inspire and enco
               </div>
             </div>
           </div>
-          <div class="col-12 col-sm-12 col-lg-6 mt-50 move-first p-10">
+          <div class="col-1"></div>
+          <div class="col-12 col-sm-12 col-lg-5 mt-50 move-first p-10">
             <div class="donors">
               <h6>#DONORS</h6>
               <h3 class="fnt-sub-hed">Our Donors</h3>
@@ -612,26 +674,29 @@ Research says, a well-rounded mentoring & training program will inspire and enco
     </section>
     
 <section class="compliance">
-      <h6>#TESTIMONIALS</h6>
-        <h3 class="fnt-sub-hed txt-bg-color">Regulatory & Government Compliance </h3>
-        <p class="txt-color">AHCT is complied under 12AA certified, 80/g tax  exemption & FCRA (amendment bill act 2020)</p>
+      <h6>#COMPLIANCE</h6>
+        <h3 class="fnt-sub-hed txt-bg-color mb-50">Regulatory & Government Compliance </h3>
+        <!-- <p class="txt-color">AHCT is complied under 12AA certified, 80/g tax  exemption & FCRA (amendment bill act 2020)</p> -->
         <div class="row center-al mt-30">
           <div class="col-lg-3 row-gut col-gut-r p-0">
           <div class="">
              <img src="img/c-1.png" alt="">
           </div>
-          <p>AHCT is awarded the GuideStar India transparency key certificate</p>
+          <p class="mt-30">AHCT is awarded the GuideStar India transparency key certificate</p>
           </div>
-          
-          <div class="col-lg-2 p-0">
-          <img src="img/c-2.png" alt="">
+          <div class="col-1"></div>
+          <div class="col-lg-4 row-gut col-gut-l p-0">
+          <div class="">
+             <img src="img/c-new-2.png" alt="">
           </div>
-
+          <p class="mt-30">AHCT is complied under 12AA certified, 80/g tax  exemption & FCRA (amendment bill act 2020)</p>
+          </div>
+          <div class="col-1"></div>
           <div class="col-lg-3 row-gut col-gut-l p-0">
           <div class="">
              <img src="img/c-3.png" alt="">
           </div>
-          <p>AHCT is a GuideStar India validated Non-Government Organization</p>
+          <p class="mt-30">AHCT is a GuideStar India validated Non-Government Organization</p>
           </div>
         </div>
 
@@ -647,7 +712,7 @@ Research says, a well-rounded mentoring & training program will inspire and enco
        Testimonials
       ==================================================================-->
       <section class="testimonials">
-        <h6>#TESTIMONIALS</h6>
+        <h6>#FEEDBACK</h6>
         <h3 class="fnt-sub-hed">Volunteers Feedback</h3>
         <div class="container p-10">
           <div class="card col-md-12 mt-2 p-0">
@@ -656,7 +721,7 @@ Research says, a well-rounded mentoring & training program will inspire and enco
                     <div class="carousel-item active p-0">
                       <div class="bg"></div>
                       <div class="row">
-                        <div class="col-md-6">
+                        <div class="col-md-6 col-lg-5">
                           <div class="carousel-caption">
                               <div class="row">
                                 <div class="col-sm-5 p-0">
@@ -665,12 +730,13 @@ Research says, a well-rounded mentoring & training program will inspire and enco
                                 <div class="col-sm-7 col-12 testimonials-box">
                                  <h3 class="testimonials-text">Anitha kothandapani</h3>
                                 <h5 class="sub-heading">Volunteer</h5>
-                                <p class="testimonials-content">Mentoring online through webinar sessions has encouraged me to be creative in my presentation. Searching for stories that Puthri’s can identify or connect with, and presenting them so that every Puthri participates during the mentoring session, has been a rewarding experience. I thank all the Puthri volunteers for helping me through the sessions and making my learning experience a satisfying journey.</p>
+                                <p class="testimonials-content Volunteer-1-more">Mentoring online through webinar sessions has encouraged me to be creative in my presentation. Searching for stories that Puthri’s can identify or connect with, and presenting them so that every Puthri participates during the mentoring session, has been a rewarding experience. I thank all the Puthri volunteers for helping me through the sessions and making my learning experience a satisfying journey.</p>
                               </div>
                               </div>
                             </div>
                           </div>
-                        <div class="col-md-6">
+                          <div class="col-1"></div>
+                        <div class="col-md-6 col-lg-5">
                           <div class="carousel-caption">
                               <div class="row">
                                  <div class="col-sm-5 p-0">
@@ -679,17 +745,18 @@ Research says, a well-rounded mentoring & training program will inspire and enco
                                 <div class="col-sm-7 col-12 testimonials-box">
                                  <h3 class="testimonials-text">Anu Karthikeyan</h3>
                                  <h5 class="sub-heading">Volunteer</h5>
-                                <p class="testimonials-content">Being a mentor gives me immense satisfaction because I can help and guide Puthri scholars in developing career intentionality. An educated girl can empower an entire generation, and an informed Puthri scholar will opt for the right career path and inspire the next generation. I take pride in being a part of the team that works hard to interact, identify, and hone the skills, of deserving Puthri scholars for a bright future.</p>
+                                <p class="testimonials-content Volunteer-2-more">Being a mentor gives me immense satisfaction because I can help and guide Puthri scholars in developing career intentionality. An educated girl can empower an entire generation, and an informed Puthri scholar will opt for the right career path and inspire the next generation. I take pride in being a part of the team that works hard to interact, identify, and hone the skills, of deserving Puthri scholars for a bright future.</p>
                               </div>
                               </div>
                           </div>
                         </div>
                       </div>
                     </div>
-					   <div class="carousel-item">
+                    <div class="col-1"></div>
+					            <div class="carousel-item">
                       <div class="bg"></div>
                           <div class="row">
-                            <div class="col-md-6">
+                            <div class="col-md-6 col-lg-5">
                           <div class="carousel-caption">
                               <div class="row">
                                 <div class="col-sm-5 p-0">
@@ -698,12 +765,13 @@ Research says, a well-rounded mentoring & training program will inspire and enco
                                 <div class="col-sm-7 col-12 testimonials-box">
                                  <h3 class="testimonials-text">Aparna Ram</h3>
                                  <h5 class="sub-heading">Volunteer</h5>
-                                <p class="testimonials-content">I have witnessed the Puthri team redefine the new normal during the pandemic situation within a short duration. Continuing to strive and achieve the goal, team Puthri evolved by changing the mode of connecting with Puthri scholars. Personally, Project Puthri offered me a space of normalcy and hope.</p>
+                                <p class="testimonials-content Volunteer-1-more">I have witnessed the Puthri team redefine the new normal during the pandemic situation within a short duration. Continuing to strive and achieve the goal, team Puthri evolved by changing the mode of connecting with Puthri scholars. Personally, Project Puthri offered me a space of normalcy and hope.</p>
                               </div>
                               </div>
                             </div>
                           </div>
-                        <div class="col-md-6">
+                          <div class="col-1"></div>
+                        <div class="col-md-6 col-lg-5">
                           <div class="carousel-caption">
                               <div class="row">
                                  <div class="col-sm-5 p-0">
@@ -712,17 +780,18 @@ Research says, a well-rounded mentoring & training program will inspire and enco
                                 <div class="col-sm-7 col-12 testimonials-box">
                                  <h3 class="testimonials-text">Balaraman</h3>
                                  <h5 class="sub-heading">Volunteer</h5>
-                                <p class="testimonials-content">The vision of team Puthri to make every girl child career intentional so that she makes an informed career choice has evolved during the Pandemic situation. I am with team Puthri since its inception and have witnessed the mettle and courage the team has shown during the covid year. I thank the team for providing me with a variety of roles to be a part of this wonderful project.</p>
+                                <p class="testimonials-content Volunteer-2-more">The vision of team Puthri to make every girl child career intentional so that she makes an informed career choice has evolved during the Pandemic situation. I am with team Puthri since its inception and have witnessed the mettle and courage the team has shown during the covid year. I thank the team for providing me with a variety of roles to be a part of this wonderful project.</p>
                               </div>
                             </div>
                           </div>
                         </div>
                       </div>
                     </div>
+                    <div class="col-1"></div>
 					  <div class="carousel-item">
                       <div class="bg"></div>
                           <div class="row">
-                            <div class="col-md-6">
+                            <div class="col-md-6 col-lg-5">
                              <div class="carousel-caption">
                               <div class="row">
                                 <div class="col-sm-5 p-0">
@@ -731,12 +800,13 @@ Research says, a well-rounded mentoring & training program will inspire and enco
                                 <div class="col-sm-7 col-12 testimonials-box">
                                  <h3 class="testimonials-text">Bharani Aravind</h3>
                                  <h5 class="sub-heading">Volunteer</h5>
-                                <p class="testimonials-content">I congratulate team Puthri for overcoming the challenges of the pandemic situation and making my journey a learning and fulfilling experience. Kudos to the team for its hard work, dedication and commitment in making every online session a success. The eagerness to learn in Puthri scholars makes me push my limits and contribute more.</p>
+                                <p class="testimonials-content Volunteer-1-more">I congratulate team Puthri for overcoming the challenges of the pandemic situation and making my journey a learning and fulfilling experience. Kudos to the team for its hard work, dedication and commitment in making every online session a success. The eagerness to learn in Puthri scholars makes me push my limits and contribute more.</p>
                               </div>
                               </div>
                             </div>
                           </div>
-                        <div class="col-md-6">
+                          <div class="col-1"></div>
+                        <div class="col-md-6 col-lg-5">
                           <div class="carousel-caption">
                               <div class="row">
                                  <div class="col-sm-5 p-0">
@@ -745,18 +815,18 @@ Research says, a well-rounded mentoring & training program will inspire and enco
                                 <div class="col-sm-7 col-12 testimonials-box">
                                  <h3 class="testimonials-text">Kamala Subramanian </h3>
                                  <h5 class="sub-heading">Volunteer</h5>
-                                <p class="testimonials-content">It is my pleasure to be writing about my experience with team Puthri during the “covidemic” academic year 20-21. During the pandemic times, Team Puthri has set a benchmark in spearheading towards its goal. Project Puthri has crossed important milestones. Proud to be part of the team united with the single aim of educating and empowering girl children.</p>
+                                <p class="testimonials-content Volunteer-2-more">It is my pleasure to be writing about my experience with team Puthri during the “covidemic” academic year 20-21. During the pandemic times, Team Puthri has set a benchmark in spearheading towards its goal. Project Puthri has crossed important milestones. Proud to be part of the team united with the single aim of educating and empowering girl children.</p>
                               </div>
                             </div>
                           </div>
                         </div>
                       </div>
                     </div>
-					
+                    <div class="col-1"></div>
 					 <div class="carousel-item">
                       <div class="bg"></div>
                           <div class="row">
-                            <div class="col-md-6">
+                            <div class="col-md-6 col-lg-5">
                           <div class="carousel-caption">
                               <div class="row">
                                 <div class="col-sm-5 p-0">
@@ -765,17 +835,18 @@ Research says, a well-rounded mentoring & training program will inspire and enco
                                 <div class="col-sm-7 col-12 testimonials-box">
                                  <h3 class="testimonials-text">Karthigha</h3>
                                  <h5 class="sub-heading">Volunteer</h5>
-                                <p class="testimonials-content">As the world opened up to a new normal during the pandemic, so did Project Puthri. With meticulous planning and endless coordination, team Puthri came up with online mentoring sessions. Our volunteers are united in the vision to make a difference in the lives of Puthri scholars. Kudos to every volunteer for their altruistic service.</p>
+                                <p class="testimonials-content Volunteer-1-more">As the world opened up to a new normal during the pandemic, so did Project Puthri. With meticulous planning and endless coordination, team Puthri came up with online mentoring sessions. Our volunteers are united in the vision to make a difference in the lives of Puthri scholars. Kudos to every volunteer for their altruistic service.</p>
                               </div>
                               </div>
                             </div>
                           </div>
 						  </div>
 						  </div>
+              <div class="col-1"></div>
                     <div class="carousel-item">
                       <div class="bg"></div>
                           <div class="row">
-                            <div class="col-md-6">
+                            <div class="col-md-6 col-lg-5">
                           <div class="carousel-caption">
                               <div class="row">
                                 <div class="col-sm-5 p-0">
@@ -784,12 +855,13 @@ Research says, a well-rounded mentoring & training program will inspire and enco
                                 <div class="col-sm-7 col-12 testimonials-box">
                                  <h3 class="testimonials-text">Rajeswari Shankar</h3>
                                  <h5 class="sub-heading">Volunteer</h5>
-                                <p class="testimonials-content">Team Puthri has proved its mettle by quickly adapting to Virtual Life. Our team Puthri tided over the difficulties of presenting online mentoring sessions. The team took great pains to make it interactive like the real mentoring sessions. My experiences as a peer learning coach and a mentor have motivated me throughout the year. </p>
+                                <p class="testimonials-content Volunteer-2-more">Team Puthri has proved its mettle by quickly adapting to Virtual Life. Our team Puthri tided over the difficulties of presenting online mentoring sessions. The team took great pains to make it interactive like the real mentoring sessions. My experiences as a peer learning coach and a mentor have motivated me throughout the year. </p>
                               </div>
                               </div>
                             </div>
                           </div>
-                        <div class="col-md-6">
+                          <div class="col-1"></div>
+                        <div class="col-md-6 col-lg-5">
                           <div class="carousel-caption">
                               <div class="row">
                                  <div class="col-sm-5 p-0">
@@ -798,12 +870,12 @@ Research says, a well-rounded mentoring & training program will inspire and enco
                                 <div class="col-sm-7 col-12 testimonials-box">
                                  <h3 class="testimonials-text">Vamsi Krishna</h3>
                                  <h5 class="sub-heading">Volunteer</h5>
-                                <p class="testimonials-content">I have been an active volunteer since the inception of Project Puthri. By teaching her the much-needed life skills, Project Puthri empowers her. During the difficult year of 2020, team Puthri united to push through and reach more Puthri scholars via online mentoring sessions. I am proud to be a part of Project Puthri.</p>
+                                <p class="testimonials-content Volunteer-1-more">I have been an active volunteer since the inception of Project Puthri. By teaching her the much-needed life skills, Project Puthri empowers her. During the difficult year of 2020, team Puthri united to push through and reach more Puthri scholars via online mentoring sessions. I am proud to be a part of Project Puthri.</p>
                               </div>
                             </div>
                           </div>
                         </div>
-						
+                        <div class="col-1"></div>
                      </div>
                     </div>       
                   </div>
@@ -827,29 +899,28 @@ Research says, a well-rounded mentoring & training program will inspire and enco
       <!--==================================================================
        Involvation
       ==================================================================-->
-      <section class="">
+      <section class="mt-50">
         <div class="involved-text">
           <div class="container">
-            <div class="row">
-              <div class="col-12 col-sm-12 col-md-12 col-lg-6">
-                <h3 class="counttext1 want-to-txt">WANT TO GET INVOLVED ??</h3>
+            <div class="row j-ctr">
+              <div class="col-12 col-sm-12 col-md-12 col-lg-4 mt-20">
+                <h6 class="counttext1">#Get Involved</h6>
+                <h3 class="counttext1 want-to-txt">Want to get involved with Project Puthri?</h3>
               </div>
+              <div class="col-2 tab-d-n"></div>
               <div class="col-6 col-sm-4 col-md-4 col-lg-4 col-xl-2">
                 <button type="button" class="involved-btn">INTERNSHIP</button>
               </div>
               <div class="col-6 col-sm-4 col-md-4 col-lg-4 col-xl-2">
                 <button type="button" class="involved-btn">VOLUNTEER</button>
               </div>
-              <div class="col-2 col-sm-2 col-md-2 col-lg-2 col-xl-2">
+              <div class="col-6 col-sm-4 col-md-4 col-lg-4 col-xl-2">
                 <button type="button" class="involved-btn">DONATE</button><br>
               </div>
-              <div class="container">
+              <div class="container seacr-footer-box">
                 <div class="row">
-                  <div class="col-md-4 col-lg-4">
-                  </div>
-                  <div class="col-md-4 col-lg-4">
+                  <div class="col-md-6 col-lg-4 m-auto">
                     <div class="letter">
-                      <h3 class="address-text counttext1 get-in">Subscribe to our Newsletter</h3> 
                       <div class="address-content">
                         <div class="linked">
                           <form action="">
@@ -1058,19 +1129,86 @@ Research says, a well-rounded mentoring & training program will inspire and enco
       }
       });  
       });
-/* const open = document.getElementById('open');
-const close = document.getElementById('after-click');
-const modal = document.querySelector('after-click')
+  /* Volunteers Feedback More Button */
+$(document).ready(function() {
+    // Configure/customize these variables.
+    var showChar = 45;  // How many characters are shown by default
+    var ellipsestext = "";
+    var moretext = "More...";
+    var lesstext = "Less...";
+    
 
-open.addEventListener('click', () => {
-    modal.classList.add('show')    
+    $('.Volunteer-1-more').each(function(index) {
+      console.log(index)
+        var content = $(this).html();
+ 
+        if(content.length > showChar) {
+ 
+            var c = content.substr(0, showChar);
+            var h = content.substr(showChar, content.length - showChar);
+ 
+            var html = c + '<span class="moreellipses">' + ellipsestext+ '&nbsp;</span><span class="morecontent"><span>'
+             + h + '</span>&nbsp;&nbsp;<a href="" class="Volunteer-1-morelink">' + moretext + '</a></span>';
+ 
+            $(this).html(html);
+        }
+ 
+    });
+ 
+    $(".Volunteer-1-morelink").click(function(){
+        if($(this).hasClass("less")) {
+            $(this).removeClass("less");
+            $(this).html(moretext);
+        } else {
+            $(this).addClass("less");
+            $(this).html(lesstext);
+        }
+        $(this).parent().prev().toggle();
+        $(this).prev().toggle();
+        return false;
+    });
 });
+/* Volunteer-2 start */
+$(document).ready(function() {
+    // Configure/customize these variables.
+    var showChar = 45;  // How many characters are shown by default
+    var ellipsestext = "";
+    var moretext = "More...";
+    var lesstext = "Less...";
+    
 
-close.addEventListener('click', () => {
-    modal.classList.remove('show')  
-}); */
+    $('.Volunteer-2-more').each(function(index) {
+      console.log(index)
+        var content = $(this).html();
+ 
+        if(content.length > showChar) {
+ 
+            var c = content.substr(0, showChar);
+            var h = content.substr(showChar, content.length - showChar);
+ 
+            var html = c + '<span class="moreellipses">' + ellipsestext+ '&nbsp;</span><span class="morecontent"><span>'
+             + h + '</span>&nbsp;&nbsp;<a href="" class="Volunteer-2-morelink">' + moretext + '</a></span>';
+ 
+            $(this).html(html);
+        }
+ 
+    });
+ 
+    $(".Volunteer-2-morelink").click(function(){
+        if($(this).hasClass("less")) {
+            $(this).removeClass("less");
+            $(this).html(moretext);
+        } else {
+            $(this).addClass("less");
+            $(this).html(lesstext);
+        }
+        $(this).parent().prev().toggle();
+        $(this).prev().toggle();
+        return false;
+    });
+});
     </script>
-    <!-- Slick Slider -->
+    
 
 
     

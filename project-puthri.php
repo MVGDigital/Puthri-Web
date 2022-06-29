@@ -12,7 +12,7 @@
 
 
        <!-- Nav bar -->
-       <nav>
+      <nav>
       <div class="top-header">
         <div class="sub-container p-0">
         <div class="social-m-icon col-5 col-lg-2 p-0">
@@ -23,14 +23,14 @@
         <a href=" https://www.instagram.com/project_puthri"><img src="img/card-insta.svg" alt=""></a>
         </div>
         <div class="col-lg-8"></div>
-        <p class="col-5 col-lg-2 p-0">Volunteer Now</p>
+        <h5 class="col-5 col-lg-2 p-0">Volunteer Now</h5>
         </div>
       </div>
        <div class="navbar container">
           <i class="bx bx-menu col-2"></i>
             <div class="logo col-lg-2 p-0"><a href="#">
               <img src="img/logo.png" class="img-fluid nav-logo"></a></div>
-              <div id="myDIV" class="nav-links col-lg-7 p-0">
+              <div id="myDIV" class="nav-links col-lg-8 p-0">
                 <div class="sidebar-logo">
                   <span class="logo-name"><img src="img/logo.png"></span>
                     <i class="bx bx-x"></i>
@@ -77,7 +77,7 @@
                     <i class="bx bxs-chevron-down htmlcss-arrow arrow"></i>
                     <ul class="htmlCss-sub-menu sub-menu">
                     <li><a href="news.php">NEWS &amp; EVENTS</a></li>
-                    <<li><a href="prayag.php">PRAYAG</a></li>
+                    <li><a href="prayag.php">PRAYAG</a></li>
                     <li><a href="uu.php">UDYOG UTSAV</a></li>
                   </ul>
                 </li>
@@ -91,13 +91,12 @@
                     <li><a href="uu.php">UDYOG UTSAV</a></li>
                   </ul>
                 </li>
-              <li>
               <li><a href="faq.php" class="btns">FAQ</a></li>
-              </ul>
-              </div>
-              <div class="col-1">
               <div class="border"></div>
+              </ul>
+              
               </div>
+              
               <div class="col-2 p-0 search-btn">
               <div class="search-box">
                 <i class="bx bx-search"></i>
@@ -144,18 +143,18 @@
         </div>
 
     
-        <section id='project-summaryputhri' class="... m-auto" >
+        <section id='project-summaryputhri' class="mt-60" >
           <div class="text-center padding-bottom">
             <h6>#ABOUT</h6>
-            <h3 class="fnt-sub-hed">Project PUTHRI</h3>
+            <h3 class="fnt-sub-hed ">Project PUTHRI</h3>
           </div>
-          <div class="pt-50">
+          <div class="mt-60">
           <div class="container">
             <div class="row">
-              <div class="col-12 col-sm-6 col-md-12 col-lg-6 col-xl-6 d-flex">
+              <div class="col-12 col-sm-6 col-md-12 col-lg-6 col-xl-6 d-flex j-c-c p-10">
                 <img src="img/About Project Puthri.png" class="img-fluid">
               </div>
-              <div class="col-12 col-sm-6 col-md-12 col-lg-6 col-xl-6 mt-3">
+              <div class="col-12 col-sm-6 col-md-12 col-lg-6 col-xl-6">
                  <h5 class="pad-t-b">Project Puthri:</h5>
                   <p class="">Puthri is India’s first ever developmental project that seeks to create Career Intentionality among underprivileged girl students.It is an initiative by Avtar Human Capital Trust (AHCT), a not for-profit public charitable organization, working in the field of economic empowerment of women.</p>
                   <h5>Who is Puthri?</h5>
@@ -168,7 +167,7 @@
           </div>
         </section>
 
-        <div class="ahtc-card-title container pt-0">
+        <div class="ahtc-card-title container mt-60">
           <h6>#ABOUT</h6>
           <h3 class="fnt-sub-hed">Vision and Mission</h3><br>
           <h5>Vision</h5>
@@ -187,10 +186,10 @@
           </div>
 
 
-      <section class="contact"  id="">
+      <section class="contact mb-50"  id="">
       <div class="text-center padding-bottom pad-t-b">
           <h6>#CONTACT US</h6>
-          <h3 class="fnt-sub-hed">Contact Us</h3>
+          <h3 class="fnt-sub-hed mb-30">Contact Us</h3>
         </div>
          <!-- CARDS -->
          <div class="d-flex details-cards container row mb-50 p-10">

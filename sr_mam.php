@@ -12,8 +12,8 @@
   </head>
 
 
-       <!-- Nav bar -->
-       <nav>
+      <!-- Nav bar -->
+      <nav>
       <div class="top-header">
         <div class="sub-container p-0">
         <div class="social-m-icon col-5 col-lg-2 p-0">
@@ -24,22 +24,22 @@
         <a href=" https://www.instagram.com/project_puthri"><img src="img/card-insta.svg" alt=""></a>
         </div>
         <div class="col-lg-8"></div>
-        <p class="col-5 col-lg-2 p-0">Volunteer Now</p>
+        <h5 class="col-5 col-lg-2 p-0">Volunteer Now</h5>
         </div>
       </div>
        <div class="navbar container">
           <i class="bx bx-menu col-2"></i>
             <div class="logo col-lg-2 p-0"><a href="#">
               <img src="img/logo.png" class="img-fluid nav-logo"></a></div>
-              <div id="myDIV" class="nav-links col-lg-7 p-0">
+              <div id="myDIV" class="nav-links col-lg-8 p-0">
                 <div class="sidebar-logo">
                   <span class="logo-name"><img src="img/logo.png"></span>
                     <i class="bx bx-x"></i>
                 </div>
                 <ul class="links">
-                  <li><a href="index.php" class="btns">HOME</a></li>
+                  <li><a href="index.php" class="btns active">HOME</a></li>
                   <li>
-                  <a href="#" class="btns active">ABOUT</a>
+                  <a href="#" class="btns">ABOUT</a>
                     <i class="bx bxs-chevron-down htmlcss-arrow arrow"></i>
                     <ul class="htmlCss-sub-menu sub-menu">
                       <li><a href="our_team.php">OUR TEAM</a></li>
@@ -92,13 +92,12 @@
                     <li><a href="uu.php">UDYOG UTSAV</a></li>
                   </ul>
                 </li>
-              <li>
               <li><a href="faq.php" class="btns">FAQ</a></li>
-              </ul>
-              </div>
-              <div class="col-1">
               <div class="border"></div>
+              </ul>
+              
               </div>
+              
               <div class="col-2 p-0 search-btn">
               <div class="search-box">
                 <i class="bx bx-search"></i>
@@ -111,7 +110,7 @@
          </div>
       </nav>
       
-      <div class="banner-img sr-mam-mrg-t">
+      <div class="banner-img sr-mam-one-mrg-t">
           <img src="img/sr-mam-hero.png" alt="">
       </div>
        <!-- Back to Page Content -->
@@ -127,9 +126,9 @@
       </div>
       </div>
       <!-- Back to Page Content End -->
-      <section class="main-container">
+      <section class="main-container mt-60">
           <div class="row d-flex img-txt container mitr-container">
-          <div class="banner-img sr-mam col-lg-5 mt-4 p-0">
+          <div class="banner-img sr-mam col-lg-5 m-0 p-0">
                   <img src="img/sr-mam.png" alt="">
               </div>
               <div class="col-lg-7 mitr-p-r-l">
@@ -149,7 +148,7 @@ Dr. Saundarya Rajesh is one of India’s most respected thought leaders on Diver
       </div>
      </div>
           <!--banner-img End -->
-          <div class="sr-mam-pb">
+          <div class="sr-mam-pb mt-60">
           <div class="ahtc-card-title">
           <h6>#vision</h6>
           <h3 class="fnt-sub-hed">Our Vision</h3>
@@ -157,14 +156,14 @@ Dr. Saundarya Rajesh is one of India’s most respected thought leaders on Diver
           <!--  -->
           <div class="container">
           <div class="row">
-            <div class="col-12">
+            <div class="col-12 mb-30">
               <!--<h6 class="visiontext d-flex py-3 text-center">
                 
               </h6>-->
 				<p class="text-center wdth100">Puthri's vision, an India, where young girls at the bottom of the socio - economic pyramid are able to rise to their fullest potential by breaking out of the domestic labour economy to graduate into the knowledge economy, thus, eventually being able to contribute directly to the GDP of our country</p>
             </div>
             <div class="col-3"></div>
-            <div class="col-sm-6 col-12 mt-5">
+            <div class="col-sm-6 col-lg-6">
               <iframe class="responsive" height="300px" src="https://www.youtube.com/embed/K0yypav0zfw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
           </div>
           <div class="col-3"></div>
@@ -173,7 +172,7 @@ Dr. Saundarya Rajesh is one of India’s most respected thought leaders on Diver
           <!--  -->
           
 
-          <div class="ahtc-card-title container p-15 mt-50">
+          <div class="ahtc-card-title container p-10 mt-60">
             <h6>#AWARDS</h6>
             <h3 class="fnt-sub-hed mb-20">Award And Recongnitions</h3>
                         <!--  -->
@@ -234,7 +233,7 @@ Dr. Saundarya Rajesh is one of India’s most respected thought leaders on Diver
             </div><!-- For-End -->
 <!--  -->
           </div>
-          <div class="card-title">
+          <div class="mt-60 p-10 mb-30">
           <h6 class="text11">#CONTACT US</h6>
           <h3 class="text11 fnt-sub-hed">Contact Us</h3>
           </div>

@@ -12,7 +12,7 @@
   </head>
 
 
-        <!-- Nav bar -->
+       <!-- Nav bar -->
       <nav>
       <div class="top-header">
         <div class="sub-container p-0">
@@ -24,14 +24,14 @@
         <a href=" https://www.instagram.com/project_puthri"><img src="img/card-insta.svg" alt=""></a>
         </div>
         <div class="col-lg-8"></div>
-        <p class="col-5 col-lg-2 p-0">Volunteer Now</p>
+        <h5 class="col-5 col-lg-2 p-0">Volunteer Now</h5>
         </div>
       </div>
        <div class="navbar container">
           <i class="bx bx-menu col-2"></i>
             <div class="logo col-lg-2 p-0"><a href="#">
               <img src="img/logo.png" class="img-fluid nav-logo"></a></div>
-              <div id="myDIV" class="nav-links col-lg-7 p-0">
+              <div id="myDIV" class="nav-links col-lg-8 p-0">
                 <div class="sidebar-logo">
                   <span class="logo-name"><img src="img/logo.png"></span>
                     <i class="bx bx-x"></i>
@@ -92,13 +92,12 @@
                     <li><a href="uu.php">UDYOG UTSAV</a></li>
                   </ul>
                 </li>
-              <li>
               <li><a href="faq.php" class="btns">FAQ</a></li>
-              </ul>
-              </div>
-              <div class="col-1">
               <div class="border"></div>
+              </ul>
+              
               </div>
+              
               <div class="col-2 p-0 search-btn">
               <div class="search-box">
                 <i class="bx bx-search"></i>
@@ -133,7 +132,7 @@
       </div>
       <!-- Back to Page Content End -->
       <section class="main-container">
-          <div class="first-head">
+          <div class="first-head mt-60 mb-30">
             <h6 class="text11">#MITR</h6>
             <h3 class="text11 fnt-sub-hed">MITR</h3>
           </div>
@@ -169,18 +168,18 @@ Thus AVTAR Human Capital Trust formulated “MITR” for young school going boys
                   <img src="img/why_mitr.png" alt="">
               </div>
           </div>
-          <div class="mitr-card-title container p-10">
+          <div class="mitr-card-title container p-10 mt-30">
           <h5>The objectives of MITR are:</h5>
             <p class="ahtc-sub-txt">-To educate school going boys on understanding, accepting, respecting and giving space to the female gender of the society.</p>
 <p>-To empower the school going boys as a friendly associate of female gender who will extend an empathetic hand towards their peer girls with right amount of understanding required for their age.</p>
 <p>-To inculcate the concept of friendship and make the line “Friend in need…” a reality for our female school going population through an atmosphere that will be based out of pure knowledge and understanding.</p>
 <p>-To identify “Gender Champions” in amongst the school going boys who reflects these ideologies and are the real “Mitr” to their opposite gender.</p>
           </div>
-          <div class="ahtc-card-title">
+          <div class="ahtc-card-title mt-60">
             <h6>#MODEL</h6>
             <h3 class="fnt-sub-hed">OUR MODEL</h3>
           </div>
-          <div class="mitr-card-title pt-0">
+          <div class="mitr-card-title container mb-30 p-10">
           <p class="ahtc-head-txt"></p>
             <p class="ahtc-sub-txt">“Values and beliefs that are practised from young formative ages have their foot prints in human being till their grave” with this psychological fact in mind, AVTAR Human Capital Trust has devised a model of “catch them young”. Boys during their formative years of adolescence, if provided age appropriate information with well-meant discussions and other interventions, will mature into young male brigade of this country in understanding, accepting and providing equal space of dignity to the female community at large. Thus, this mature will help in shielding the female community against risk and will accept them as educated peers both at home and in the outside world. To summarise, given a continuous hand holding during the formative years, the male crowd can and will develop into a sportive crowd to provide space and accept challenges in the country.
 </p>
@@ -188,7 +187,7 @@ Thus AVTAR Human Capital Trust formulated “MITR” for young school going boys
           <div class="ahtc-banner">
           <img src="img/mitr-class.png" alt="">
           </div>
-          <div class="ahtc-card-title mt-30">
+          <div class="ahtc-card-title mt-60 mb-30">
             <h6>#KNOWLEDGE SHARING</h6>
             <h3 class="fnt-sub-hed">AGE APPROPRIATE TOPICS FOR KNOWLEDGE SHARING</h3>
           </div>
@@ -209,7 +208,7 @@ Thus AVTAR Human Capital Trust formulated “MITR” for young school going boys
 
               </div>
           </div>
-          <div class="card-title">
+          <div class="card-title mt-60 mb-30">
             <h6 class="text11">#C0NTACT US</h6>
             <h3 class="text11 fnt-sub-hed">Contact Us</h3>
           </div>
@@ -273,7 +272,7 @@ Thus AVTAR Human Capital Trust formulated “MITR” for young school going boys
       <!--==================================================================
        Footer
       ==================================================================-->
-      <footer class="footer mt-50">
+      <footer class="footer mt-60">
         <div class="container-fluid">
           <div class="row">
             <div class="container">

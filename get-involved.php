@@ -10,13 +10,14 @@
       <link href='https://unpkg.com/boxicons@2.0.7/css/boxicons.min.css' rel='stylesheet'>
       <link rel="stylesheet" type="text/css" href="css/slick-slider.css">
       <link rel="stylesheet" type="text/css" href="css/slick.theme.css">
+      
+      <link rel="stylesheet" type="text/css" href="css/carousel-slider.css">
       <script src="js/code-jquery.js" type="text/javascript"></script>
-
     </head>
 
 
        <!-- Nav bar -->
-       <nav>
+      <nav>
       <div class="top-header">
         <div class="sub-container p-0">
         <div class="social-m-icon col-5 col-lg-2 p-0">
@@ -27,14 +28,14 @@
         <a href=" https://www.instagram.com/project_puthri"><img src="img/card-insta.svg" alt=""></a>
         </div>
         <div class="col-lg-8"></div>
-        <p class="col-5 col-lg-2 p-0">Volunteer Now</p>
+        <h5 class="col-5 col-lg-2 p-0">Volunteer Now</h5>
         </div>
       </div>
        <div class="navbar container">
           <i class="bx bx-menu col-2"></i>
             <div class="logo col-lg-2 p-0"><a href="#">
               <img src="img/logo.png" class="img-fluid nav-logo"></a></div>
-              <div id="myDIV" class="nav-links col-lg-7 p-0">
+              <div id="myDIV" class="nav-links col-lg-8 p-0">
                 <div class="sidebar-logo">
                   <span class="logo-name"><img src="img/logo.png"></span>
                     <i class="bx bx-x"></i>
@@ -72,7 +73,6 @@
                       <li><a href="scholarship.php">SCHOLARSHIP</a></li>
                   </ul>
                 </li>
-
               <li>
                 <a href="get-involved.php" class="btns active">GET INVOLVED</a>
               </li>
@@ -96,13 +96,12 @@
                     <li><a href="uu.php">UDYOG UTSAV</a></li>
                   </ul>
                 </li>
-              <li>
               <li><a href="faq.php" class="btns">FAQ</a></li>
-              </ul>
-              </div>
-              <div class="col-1">
               <div class="border"></div>
+              </ul>
+              
               </div>
+              
               <div class="col-2 p-0 search-btn">
               <div class="search-box">
                 <i class="bx bx-search"></i>
@@ -155,12 +154,13 @@
       <div class="text-center col-10 m-auto mb-5">
           <h6>#OUR IMPACT</h6>
           <h3>Puthri volunteer Progammes</h3>
-          <p>Puthri volunteers have felt a “larger-than-life” way of impact by engaging in activities of Project Puthri. They feel a sense of pride and rewarding fulfilment when they see the positive pay-off created by their work. And most of all, these volunteers get self-motivated when they motivate and encourage these young girls during their training sessions. They find a deeper sense of satisfaction when they see the results wherein the girls they mentored are now performing well and with confidence. The volunteers feel true power and fulfilment when the girls look up to them for guidance and direction. They become more resilient, cohesive, agile, committed and socially connected through their volunteering activities.</p>
+          <p style="margin-top: 3px;" class="our-impact-more">Puthri volunteers have felt a “larger-than-life” way of impact by engaging in activities of Project Puthri. They feel a sense of pride and rewarding fulfilment when they see the positive pay-off created by their work. And most of all, these volunteers get self-motivated when they motivate and encourage these young girls during their training sessions. They find a deeper sense of satisfaction when they see the results wherein the girls they mentored are now performing well and with confidence. The volunteers feel true power and fulfilment when the girls look up to them for guidance and direction. They become more resilient, cohesive, agile, committed and socially connected through their volunteering activities..</p>
+  
         </div>
         <div class="banner-img mt-50">
         <img src="img/get-card-banner.png" class="img-fluid">
         </div>
-        <div class="container tab-top p-0">
+       <!--  <div class="container tab-top p-0">
           <div class="row home-lamp-card get-lamp col-lg-12 col-11 p-0">
               <div id="open" class="box effect padding_box-content lam-mr-l get-lamp-card homecontent col-lg-2">  
                   <div class="text-center"> 
@@ -190,7 +190,59 @@
               </span>
             </div>
           </div>
-        </div>
+        </div> -->
+        <div class="row container p-10 lamp-card-sec">
+        <div class="flip-card col-lg-2 p-0">
+  <div class="flip-card-inner">
+    <div class="flip-card-front lamp-txt-center">
+    <p class="home-card-color">LAMP</p>
+    </div>
+    <div class="flip-card-back lamp-txt-center">
+      <p>Program Content Development</p> 
+    </div>
+  </div>
+</div>
+<div class="flip-card col-2 p-0">
+  <div class="flip-card-inner">
+    <div class="flip-card-front lamp-txt-center">
+    <p class="home-card-color">LINK</p>
+    </div>
+    <div class="flip-card-back lamp-txt-center">
+      <p>Acquire and manage the entire school network</p> 
+    </div>
+  </div>
+</div>
+<div class="flip-card col-2 p-0">
+  <div class="flip-card-inner">
+    <div class="flip-card-front lamp-txt-center">
+    <p class="home-card-color">PLUS</p>
+    </div>
+    <div class="flip-card-back lamp-txt-center">
+      <p>Social media and PR management</p> 
+    </div>
+  </div>
+</div>
+<div class="flip-card col-2 p-0">
+  <div class="flip-card-inner">
+    <div class="flip-card-front lamp-txt-center">
+    <p class="home-card-color">PAVE</p>
+    </div>
+    <div class="flip-card-back lamp-txt-center">
+      <p>Build and engage the entire Volunteer team including the fund raising activities</p> 
+    </div>
+  </div>
+</div>
+<div class="flip-card col-2 p-0 lamp-mr-0">
+  <div class="flip-card-inner">
+    <div class="flip-card-front lamp-txt-center">
+    <p class="home-card-color">IMPACT</p>
+    </div>
+    <div class="flip-card-back lamp-txt-center">
+      <p>Create an impact through Mentoring, Career Counselling & being a Role Model</p> 
+    </div>
+  </div>
+</div>
+ </div>
           </section>
         <section>
       <div class="pop-body lamp">
@@ -276,17 +328,17 @@
       </section>
 
       <section id="" class="section_padding">
-      <div class="text-center mt-5">
+      <div class="text-center mt-60">
         <h6>#COLLABORATION</h6>
         <h3>Collaboration</h3>
       </div>
       <section class="center slider">
-       <div>
-         <div class="hover">
+      <div> 
+        <div class="hover">
           <div class="content">
             <div class="content-overlay"></div>
-              <img src="img/collab-3.png" >
-              <div class="content-details fadeIn-bottom">
+            <img src="img/collab-3.png">
+              <div class="content-details fadeIn-bottom g-fadeIn-bottom">
                 <h5 class="content-text">Educational institutions</h5>
                 <p>As student volunteers you have the privilege & opportunity to create better environments for the underprivileged. Blessed with the basic requirements of food, shelter, clothing & education, you will be able to appreciate life better, hence understand the importance of creating healthier communities to brighten their lives</p>
               </div>
@@ -335,7 +387,7 @@
             <div class="content-overlay"></div>
               <img src="img/collab-2.png" >
               <div class="content-details fadeIn-bottom g-fadeIn-bottom">
-                <h5 class="content-text">Associates/NGOs.None of them incorporated</h5>
+                <h5 class="content-text">Associates/NGOs.None of them incorporated</h5><br>
                 <p>As fellow NGOs you can join hands with us in realising our dream of making 10,000 underprivileged girl children 'Career Intentional' every year. Your partnership will help us to spread wings in your city of operation.</p>
               </div>
           </div>
@@ -484,59 +536,211 @@ for (var i = 0; i < btns.length; i++) {
               <div class="col-12 col-sm-6 col-md-6 col-lg-6 col-xl-4 p-0">
                 <img src="img/inst-1.png" class="responsive">
                 <h5 class="impact-mnth">Intership</h5>
-                <p>The  significant contribution you make to the underprivileged has a  direct correlation to the impact it creates and the rewards are exemplary.</p>
+                
+                <p style="margin-top: 3px;" class="more">The Students from institutions are provided adequate exposure in
+                 working on ‘live’ projects relating to areas on, Life Skill mentoring sessions, Content Development ,
+                 Volunteer and People Resources Management ,Outreach Project Operations,  Social Surveys  and in Media and
+                  Communication related activities...</p>
               </div>
               <div class="col-12 col-sm-6 col-md-6 col-lg-6 col-xl-4 p-0">
                 <img src="img/inst-2.png" class="responsive">
-                <h5 class="impact-mnth">Infra For Events</h5>
-                <p>The impact that has resulted from the Puthri Career Intentionality Virtual training Interventions in terms of knowledge, learning growth rate and skills gained were assessed both through quantitative (a.Pre and Post Assessment) and Qualitative (b.Puthri Satisfaction Survey ) methods, the results are amazing. There has been a significant and phenomenal change in the Average learning growth rate of the Puthri scholars.</p>
+                <h5 class="impact-mnth">Infrastructure Support</h5>
+                <p style="margin-top: 3px;" class="Infrastructure-more"> Apart from collaborating for internship institutions can offer space and infrastructure to conduct Puthri training programmes, large scale events such as Udyog Utsav (One of its kind career conference), & PRAYAG (event to celebrate all our volunteers).</p>
               </div>
               <div class="col-12 col-sm-6 col-md-6 col-lg-6 col-xl-4 p-0">
                 <img src="img/inst-3.png" class="responsive">
                 <h5 class="impact-mnth">Research Support</h5>
-                <p>In the march towards making 10,000 underprivileged girl children 'Career Intentional' every year and to expand its operation it is vital to have an excellent manpower which would be committed, passionate, vision driven and have a flair towards working for the under privileged. Project Puthri has a team of professionals from diversified backgrounds who are dynamic and committed working with a zeal towards helping girl children pursue a white-collar job upon graduation </p>
+                <p style="margin-top: 3px;" class="Research-more"> AHCT comes out with various research reports on women empowerment and women workforce participation, girl child education ratio, and likes.  Well established and heritage educational institutes can collaborate and contribute on these robust research studies.</p>
               </div>
             </div>
           </div>
         </div>
       </section>
       <!-- Volunteers Feedback SEction -->
-      <section class="cercle-section">
-      <div class="card-title text11 mt0">
-          <h6>#CORPORATE TESTIMONIALS</h6>
-          <h3>Volunteers Feedback</h3>
-          </div>
-        <div class="volunteer d-flex">
-        <div class="main-cercle d-flex col-lg-6">
-          <div class="cercle-img">
-            <img src="img/Sowmiyaa Sivakumar.png" alt="">
-          </div>
-          <div class="cercle-detials">
-          <div class="first-head">
-            <h6>Sowmiyaa Sivakumar</h6>
-            <h5>volunteer</h5>
-            <p>As a volunteer, I have personally learned a great deal along with Puthri scholars. I derive immense satisfaction in presenting the animation and graphical content to the online sessions that attract Puthri participation. Teaching them life skills through interesting graphical content is indeed a learning experience for me too. I congratulate team Puthri for kindling this transformation from real mentoring, to online mentoring of our Puthri scholars, during the Pandemic situation.</p>
-          </div>
-          </div>
+      <section class="testimonials">
+        <h6>#FEEDBACK</h6>
+        <h3 class="fnt-sub-hed">Volunteers Feedback</h3>
+        <div class="container p-10">
+          <div class="card col-md-12 mt-2 p-0">
+              <div id="carouselExampleControls" class="carousel slide" data-ride="carousel" data-interval="100000">
+                <div class="w-100 carousel-inner mb-5" role="listbox" id="testimonilas-padding-contentcontrols" !important;>
+                    <div class="carousel-item active p-0">
+                      <div class="bg"></div>
+                      <div class="row">
+                        <div class="col-md-6 col-lg-5">
+                          <div class="carousel-caption">
+                              <div class="row">
+                                <div class="col-sm-5 p-0">
+                                  <img class="img-fluid" src="img/Anitha Kothandapani.png" alt="Balaraman-img" >
+                                </div>
+                                <div class="col-sm-7 col-12 testimonials-box">
+                                 <h3 class="testimonials-text">Anitha kothandapani</h3>
+                                <h5 class="sub-heading">Volunteer</h5>
+                                <p class="testimonials-content Volunteer-1-more">Mentoring online through webinar sessions has encouraged me to be creative in my presentation. Searching for stories that Puthri’s can identify or connect with, and presenting them so that every Puthri participates during the mentoring session, has been a rewarding experience. I thank all the Puthri volunteers for helping me through the sessions and making my learning experience a satisfying journey.</p>
+                              </div>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="col-1"></div>
+                        <div class="col-md-6 col-lg-5">
+                          <div class="carousel-caption">
+                              <div class="row">
+                                 <div class="col-sm-5 p-0">
+                                  <img class="img-fluid" src="img/Anu Karthikeyan.png" alt="vamsi-img" >
+                                </div>
+                                <div class="col-sm-7 col-12 testimonials-box">
+                                 <h3 class="testimonials-text">Anu Karthikeyan</h3>
+                                 <h5 class="sub-heading">Volunteer</h5>
+                                <p class="testimonials-content Volunteer-2-more">Being a mentor gives me immense satisfaction because I can help and guide Puthri scholars in developing career intentionality. An educated girl can empower an entire generation, and an informed Puthri scholar will opt for the right career path and inspire the next generation. I take pride in being a part of the team that works hard to interact, identify, and hone the skills, of deserving Puthri scholars for a bright future.</p>
+                              </div>
+                              </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="col-1"></div>
+					            <div class="carousel-item">
+                      <div class="bg"></div>
+                          <div class="row">
+                            <div class="col-md-6 col-lg-5">
+                          <div class="carousel-caption">
+                              <div class="row">
+                                <div class="col-sm-5 p-0">
+                                  <img class="img-fluid" src="img/Aparna Ram.png" alt="anu-img" >
+                                </div>
+                                <div class="col-sm-7 col-12 testimonials-box">
+                                 <h3 class="testimonials-text">Aparna Ram</h3>
+                                 <h5 class="sub-heading">Volunteer</h5>
+                                <p class="testimonials-content Volunteer-1-more">I have witnessed the Puthri team redefine the new normal during the pandemic situation within a short duration. Continuing to strive and achieve the goal, team Puthri evolved by changing the mode of connecting with Puthri scholars. Personally, Project Puthri offered me a space of normalcy and hope.</p>
+                              </div>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="col-1"></div>
+                        <div class="col-md-6 col-lg-5">
+                          <div class="carousel-caption">
+                              <div class="row">
+                                 <div class="col-sm-5 p-0">
+                                  <img class="img-fluid" src="img/Balaraman.png" alt="anitha-img" >
+                                </div>
+                                <div class="col-sm-7 col-12 testimonials-box">
+                                 <h3 class="testimonials-text">Balaraman</h3>
+                                 <h5 class="sub-heading">Volunteer</h5>
+                                <p class="testimonials-content Volunteer-2-more">The vision of team Puthri to make every girl child career intentional so that she makes an informed career choice has evolved during the Pandemic situation. I am with team Puthri since its inception and have witnessed the mettle and courage the team has shown during the covid year. I thank the team for providing me with a variety of roles to be a part of this wonderful project.</p>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="col-1"></div>
+					  <div class="carousel-item">
+                      <div class="bg"></div>
+                          <div class="row">
+                            <div class="col-md-6 col-lg-5">
+                             <div class="carousel-caption">
+                              <div class="row">
+                                <div class="col-sm-5 p-0">
+                                  <img class="img-fluid" src="img/Bharani A.png" alt="anu-img" >
+                                </div>
+                                <div class="col-sm-7 col-12 testimonials-box">
+                                 <h3 class="testimonials-text">Bharani Aravind</h3>
+                                 <h5 class="sub-heading">Volunteer</h5>
+                                <p class="testimonials-content Volunteer-1-more">I congratulate team Puthri for overcoming the challenges of the pandemic situation and making my journey a learning and fulfilling experience. Kudos to the team for its hard work, dedication and commitment in making every online session a success. The eagerness to learn in Puthri scholars makes me push my limits and contribute more.</p>
+                              </div>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="col-1"></div>
+                        <div class="col-md-6 col-lg-5">
+                          <div class="carousel-caption">
+                              <div class="row">
+                                 <div class="col-sm-5 p-0">
+                                  <img class="img-fluid" src="img/Kamala Subramanian.png" alt="anitha-img" >
+                                </div>
+                                <div class="col-sm-7 col-12 testimonials-box">
+                                 <h3 class="testimonials-text">Kamala Subramanian </h3>
+                                 <h5 class="sub-heading">Volunteer</h5>
+                                <p class="testimonials-content Volunteer-2-more">It is my pleasure to be writing about my experience with team Puthri during the “covidemic” academic year 20-21. During the pandemic times, Team Puthri has set a benchmark in spearheading towards its goal. Project Puthri has crossed important milestones. Proud to be part of the team united with the single aim of educating and empowering girl children.</p>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="col-1"></div>
+					 <div class="carousel-item">
+                      <div class="bg"></div>
+                          <div class="row">
+                            <div class="col-md-6 col-lg-5">
+                          <div class="carousel-caption">
+                              <div class="row">
+                                <div class="col-sm-5 p-0">
+                                  <img class="img-fluid" src="img/Karthigha.png" alt="Rajeswari-img" >
+                                </div>
+                                <div class="col-sm-7 col-12 testimonials-box">
+                                 <h3 class="testimonials-text">Karthigha</h3>
+                                 <h5 class="sub-heading">Volunteer</h5>
+                                <p class="testimonials-content Volunteer-1-more">As the world opened up to a new normal during the pandemic, so did Project Puthri. With meticulous planning and endless coordination, team Puthri came up with online mentoring sessions. Our volunteers are united in the vision to make a difference in the lives of Puthri scholars. Kudos to every volunteer for their altruistic service.</p>
+                              </div>
+                              </div>
+                            </div>
+                          </div>
+						  </div>
+						  </div>
+              <div class="col-1"></div>
+                    <div class="carousel-item">
+                      <div class="bg"></div>
+                          <div class="row">
+                            <div class="col-md-6 col-lg-5">
+                          <div class="carousel-caption">
+                              <div class="row">
+                                <div class="col-sm-5 p-0">
+                                  <img class="img-fluid" src="img/Rajeswari Shankar.png" alt="Rajeswari-img" >
+                                </div>
+                                <div class="col-sm-7 col-12 testimonials-box">
+                                 <h3 class="testimonials-text">Rajeswari Shankar</h3>
+                                 <h5 class="sub-heading">Volunteer</h5>
+                                <p class="testimonials-content Volunteer-2-more">Team Puthri has proved its mettle by quickly adapting to Virtual Life. Our team Puthri tided over the difficulties of presenting online mentoring sessions. The team took great pains to make it interactive like the real mentoring sessions. My experiences as a peer learning coach and a mentor have motivated me throughout the year. </p>
+                              </div>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="col-1"></div>
+                        <div class="col-md-6 col-lg-5">
+                          <div class="carousel-caption">
+                              <div class="row">
+                                 <div class="col-sm-5 p-0">
+                                  <img class="img-fluid" src="img/Vamsi Krishna.png" alt="Aparna-img" >
+                                </div>
+                                <div class="col-sm-7 col-12 testimonials-box">
+                                 <h3 class="testimonials-text">Vamsi Krishna</h3>
+                                 <h5 class="sub-heading">Volunteer</h5>
+                                <p class="testimonials-content Volunteer-1-more">I have been an active volunteer since the inception of Project Puthri. By teaching her the much-needed life skills, Project Puthri empowers her. During the difficult year of 2020, team Puthri united to push through and reach more Puthri scholars via online mentoring sessions. I am proud to be a part of Project Puthri.</p>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="col-1"></div>
+                     </div>
+                    </div>       
+                  </div>
+                  <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+                    <span class="carousel-control-prev-icon" aria-hidden="true">
+                      <img src="img/arrow.png" class="arrow-previous">
+                    </span>
+                    <span class="sr-only">Previous</span>
+                  </a>
+                  <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+                    <span class="carousel-control-next-icon" aria-hidden="true">
+                      <img src="img/arrow-next.png" class="arrow-next">
+                    </span>
+                    <span class="sr-only">Next</span>
+                  </a>
+              </div>
+            </div> 
         </div>
-        <div class="main-cercle d-flex col-lg-6">
-          <div class="cercle-img">
-          <img src="img/rajeshwari-shankar.png" alt="">
-          </div>
-          <div class="cercle-detials">
-          <div class="first-head ">
-          <h6>Rajeswari shankar</h6>
-          <h5>volunteer</h5>
-          <p>As a volunteer, I have personally learned a great deal along with Puthri scholars. I derive immense satisfaction in presenting the animation and graphical content to the online sessions that attract Puthri participation. Teaching them life skills through interesting graphical content is indeed a learning experience for me too. I congratulate team Puthri for kindling this transformation from real mentoring, to online mentoring of our Puthri scholars, during the Pandemic situation.</p>
-          </div>
-          </div>
-        </div>
-        </div>
-        <div class="cercle-btn">
-        <a href=""><img src="img/arrow.png" class="arrow-previous b1"></a>
-        <a href=""><img src="img/arrow-next.png" class="arrow-next a1"></a>
-        </div>
-      </section>
+      </section></section>
 
      <!--==================================================================
        Footer
@@ -632,10 +836,243 @@ for (var i = 0; i < btns.length; i++) {
                </div>
              </div>
            </footer>
+           <script>
+              $(document).ready(function() {
+    // Configure/customize these variables.
+    var showChar = 216;  // How many characters are shown by default
+    var ellipsestext = "";
+    var moretext = "More...";
+    var lesstext = "Less...";
     
 
+    $('.our-impact-more').each(function(index) {
+      console.log(index)
+        var content = $(this).html();
+ 
+        if(content.length > showChar) {
+ 
+            var c = content.substr(0, showChar);
+            var h = content.substr(showChar, content.length - showChar);
+ 
+            var html = c + '<span class="moreellipses">' + ellipsestext+ '&nbsp;</span><span class="morecontent"><span>'
+             + h + '</span>&nbsp;&nbsp;<a href="" class="our-impact-morelink">' + moretext + '</a></span>';
+ 
+            $(this).html(html);
+        }
+ 
+    });
+ 
+    $(".our-impact-morelink").click(function(){
+        if($(this).hasClass("less")) {
+            $(this).removeClass("less");
+            $(this).html(moretext);
+        } else {
+            $(this).addClass("less");
+            $(this).html(lesstext);
+        }
+        $(this).parent().prev().toggle();
+        $(this).prev().toggle();
+        return false;
+    });
+});
 
-      <!--===================== Scroll to top ==================================--> 
+    $(document).ready(function() {
+    // Configure/customize these variables.
+    var showChar = 85;  // How many characters are shown by default
+    var ellipsestext = "";
+    var moretext = "More...";
+    var lesstext = "Less...";
+    
+
+    $('.more').each(function(index) {
+      console.log(index)
+        var content = $(this).html();
+ 
+        if(content.length > showChar) {
+ 
+            var c = content.substr(0, showChar);
+            var h = content.substr(showChar, content.length - showChar);
+ 
+            var html = c + '<span class="moreellipses">' + ellipsestext+ '&nbsp;</span><span class="morecontent"><span>'
+             + h + '</span>&nbsp;&nbsp;<a href="" class="morelink">' + moretext + '</a></span>';
+ 
+            $(this).html(html);
+        }
+ 
+    });
+ 
+    $(".morelink").click(function(){
+        if($(this).hasClass("less")) {
+            $(this).removeClass("less");
+            $(this).html(moretext);
+        } else {
+            $(this).addClass("less");
+            $(this).html(lesstext);
+        }
+        $(this).parent().prev().toggle();
+        $(this).prev().toggle();
+        return false;
+    });
+});
+  
+    $(document).ready(function() {
+    // Configure/customize these variables.
+    var showChar = 85;  // How many characters are shown by default
+    var ellipsestext = "";
+    var moretext = "More...";
+    var lesstext = "Less...";
+    
+
+    $('.Infrastructure-more').each(function(index) {
+      console.log(index)
+        var content = $(this).html();
+ 
+        if(content.length > showChar) {
+ 
+            var c = content.substr(0, showChar);
+            var h = content.substr(showChar, content.length - showChar);
+ 
+            var html = c + '<span class="moreellipses">' + ellipsestext+ '&nbsp;</span><span class="morecontent"><span>'
+             + h + '</span>&nbsp;&nbsp;<a href="" class="Infrastructure-morelink">' + moretext + '</a></span>';
+ 
+            $(this).html(html);
+        }
+ 
+    });
+ 
+    $(".Infrastructure-morelink").click(function(){
+        if($(this).hasClass("less")) {
+            $(this).removeClass("less");
+            $(this).html(moretext);
+        } else {
+            $(this).addClass("less");
+            $(this).html(lesstext);
+        }
+        $(this).parent().prev().toggle();
+        $(this).prev().toggle();
+        return false;
+    });
+});
+  
+    $(document).ready(function() {
+    // Configure/customize these variables.
+    var showChar = 75;  // How many characters are shown by default
+    var ellipsestext = "";
+    var moretext = "More...";
+    var lesstext = "Less...";
+    
+
+    $('.Research-more').each(function(index) {
+      console.log(index)
+        var content = $(this).html();
+ 
+        if(content.length > showChar) {
+ 
+            var c = content.substr(0, showChar);
+            var h = content.substr(showChar, content.length - showChar);
+ 
+            var html = c + '<span class="moreellipses">' + ellipsestext+ '&nbsp;</span><span class="morecontent"><span>'
+             + h + '</span>&nbsp;&nbsp;<a href="" class="Research-morelink">' + moretext + '</a></span>';
+ 
+            $(this).html(html);
+        }
+ 
+    });
+ 
+    $(".Research-morelink").click(function(){
+        if($(this).hasClass("less")) {
+            $(this).removeClass("less");
+            $(this).html(moretext);
+        } else {
+            $(this).addClass("less");
+            $(this).html(lesstext);
+        }
+        $(this).parent().prev().toggle();
+        $(this).prev().toggle();
+        return false;
+    });
+});
+/* Volunteers Feedback More Button */
+$(document).ready(function() {
+    // Configure/customize these variables.
+    var showChar = 45;  // How many characters are shown by default
+    var ellipsestext = "";
+    var moretext = "More...";
+    var lesstext = "Less...";
+    
+
+    $('.Volunteer-1-more').each(function(index) {
+      console.log(index)
+        var content = $(this).html();
+ 
+        if(content.length > showChar) {
+ 
+            var c = content.substr(0, showChar);
+            var h = content.substr(showChar, content.length - showChar);
+ 
+            var html = c + '<span class="moreellipses">' + ellipsestext+ '&nbsp;</span><span class="morecontent"><span>'
+             + h + '</span>&nbsp;&nbsp;<a href="" class="Volunteer-1-morelink">' + moretext + '</a></span>';
+ 
+            $(this).html(html);
+        }
+ 
+    });
+ 
+    $(".Volunteer-1-morelink").click(function(){
+        if($(this).hasClass("less")) {
+            $(this).removeClass("less");
+            $(this).html(moretext);
+        } else {
+            $(this).addClass("less");
+            $(this).html(lesstext);
+        }
+        $(this).parent().prev().toggle();
+        $(this).prev().toggle();
+        return false;
+    });
+});
+/* Volunteer-2 start */
+$(document).ready(function() {
+    // Configure/customize these variables.
+    var showChar = 45;  // How many characters are shown by default
+    var ellipsestext = "";
+    var moretext = "More...";
+    var lesstext = "Less...";
+    
+
+    $('.Volunteer-2-more').each(function(index) {
+      console.log(index)
+        var content = $(this).html();
+ 
+        if(content.length > showChar) {
+ 
+            var c = content.substr(0, showChar);
+            var h = content.substr(showChar, content.length - showChar);
+ 
+            var html = c + '<span class="moreellipses">' + ellipsestext+ '&nbsp;</span><span class="morecontent"><span>'
+             + h + '</span>&nbsp;&nbsp;<a href="" class="Volunteer-2-morelink">' + moretext + '</a></span>';
+ 
+            $(this).html(html);
+        }
+ 
+    });
+ 
+    $(".Volunteer-2-morelink").click(function(){
+        if($(this).hasClass("less")) {
+            $(this).removeClass("less");
+            $(this).html(moretext);
+        } else {
+            $(this).addClass("less");
+            $(this).html(lesstext);
+        }
+        $(this).parent().prev().toggle();
+        $(this).prev().toggle();
+        return false;
+    });
+});
+  </script>
+
+      <!--===================== Scroll to top Volunteer-1 ==================================--> 
 
       <a onclick="topFunction()" id="myBtn" title="Go to top"><img src="img/scroll-top.png"></a>
 
@@ -647,3 +1084,8 @@ for (var i = 0; i < btns.length; i++) {
       <script src="js/bootstrap.min.js"></script>
       <script src="js/search.js"></script>
       <script src="js/slicky-slider.js"></script>
+      
+      <script src="js/cloudflare-swiper.js"></script>
+      <script src="js/ninja-slider.js" type="text/javascript"></script>
+      <script src="js/swiper.js"></script>
+     

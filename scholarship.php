@@ -13,7 +13,7 @@
 
 
        <!-- Nav bar -->
-       <nav>
+      <nav>
       <div class="top-header">
         <div class="sub-container p-0">
         <div class="social-m-icon col-5 col-lg-2 p-0">
@@ -24,14 +24,14 @@
         <a href=" https://www.instagram.com/project_puthri"><img src="img/card-insta.svg" alt=""></a>
         </div>
         <div class="col-lg-8"></div>
-        <p class="col-5 col-lg-2 p-0">Volunteer Now</p>
+        <h5 class="col-5 col-lg-2 p-0">Volunteer Now</h5>
         </div>
       </div>
        <div class="navbar container">
           <i class="bx bx-menu col-2"></i>
             <div class="logo col-lg-2 p-0"><a href="#">
               <img src="img/logo.png" class="img-fluid nav-logo"></a></div>
-              <div id="myDIV" class="nav-links col-lg-7 p-0">
+              <div id="myDIV" class="nav-links col-lg-8 p-0">
                 <div class="sidebar-logo">
                   <span class="logo-name"><img src="img/logo.png"></span>
                     <i class="bx bx-x"></i>
@@ -60,7 +60,7 @@
                 </li>
                 
                 <li class="puthri-m-mob">
-                  <a href="#" class="btns">PUTHRI MODEL</a>
+                  <a href="#" class="btns active">PUTHRI MODEL</a>
                     <i class="bx bxs-chevron-down more-arrow arrow"></i>
                     <ul class="more-sub-menu sub-menu">
                     <li><a href="puthri-model.php">PUTHRI MODEL</a></li>
@@ -92,13 +92,12 @@
                     <li><a href="uu.php">UDYOG UTSAV</a></li>
                   </ul>
                 </li>
-              <li>
               <li><a href="faq.php" class="btns">FAQ</a></li>
-              </ul>
-              </div>
-              <div class="col-1">
               <div class="border"></div>
+              </ul>
+              
               </div>
+              
               <div class="col-2 p-0 search-btn">
               <div class="search-box">
                 <i class="bx bx-search"></i>
@@ -132,7 +131,7 @@
       </div>
       <!-- Back to Page Content End -->
       <section class="main-container">
-          <div class="first-head main-header"> 
+          <div class="first-head main-header mt-60 mb-30"> 
             <h6>#SCHOLARSHIP</h6>
             <h3 class="fnt-sub-hed">Puthri Scholarship</h3>
           </div>
@@ -151,7 +150,7 @@
               </div>
           </div>
 
-          <div class="card-title">
+          <div class="card-title mt-60 mb-30">
             <h6 class="c-img-title1">#CONTACT US</h6>
             <h3 class="c-img-title2 fnt-sub-hed">Contact Us</h3>
           </div>
