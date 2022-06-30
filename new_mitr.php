@@ -9,11 +9,12 @@
     <link href='https://unpkg.com/boxicons@2.0.7/css/boxicons.min.css' rel='stylesheet'>
     <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="css/swiperslider.min.css">
+    <script src="js/code-jquery.js" type="text/javascript"></script>
   </head>
 
 
        <!-- Nav bar -->
-      <nav>
+       <nav>
       <div class="top-header">
         <div class="sub-container p-0">
         <div class="social-m-icon col-5 col-lg-2 p-0">
@@ -37,7 +38,7 @@
                     <i class="bx bx-x"></i>
                 </div>
                 <ul class="links">
-                  <li><a href="index.php" class="btns">HOME</a></li>
+                  <li class="pr-0"><a href="index.php" class="btns">HOME</a></li>
                   <li>
                   <a href="#" class="btns active">ABOUT</a>
                     <i class="bx bxs-chevron-down htmlcss-arrow arrow"></i>
@@ -124,7 +125,8 @@
           <div class="col-12 mt-3">
             <div class="navigation-section">
               <a href="index.php" class="navigation-links"><h5>home</h5></a> >
-              <a href="about.php" class="navigation-links"><h5>about us</h5></a>
+              <a href="about.php" class="navigation-links"><h5>about us</h5></a>>
+              <a href="about.php" class="navigation-links"><h5>MITR</h5></a>
             </div>
           </div>
         </div>
@@ -142,38 +144,36 @@
                   About MITR
 MITR is the unique attempt of AVTAR Human Capital Trust in educating and empowering young, adolescent male population as empathetic “Gender Champions”. These young folk will develop and mature into a well-informed youth population of the country in creating a safe, secure and equal space to the female peers and counterparts.
                   </p>
-                  <p>
+                
                   <h5>Vision</h5>
-To develop a rich brigade of young male population of the country with age appropriate information, sensitising them empathetically understanding the female community, thus reducing the crime against women in the country and acquiring the real freedom and Gandhi’s dream come true.
+                  <p>To develop a rich brigade of young male population of the country with age appropriate information, sensitising them empathetically understanding the female community, thus reducing the crime against women in the country and acquiring the real freedom and Gandhi’s dream come true.
 
 </p>
-<p>
+
 <h5>Mission</h5>
-To educate, empower and educate 10000 school going adolescent boys as well informed adolescents before 2020, in providing and protecting the safety, security for their female counterparts and to mature as peer educators. These peer educators will carry the torch of “Gender Champions” Year after year, till we have a crime free country against women.
+<p>To educate, empower and educate 10000 school going adolescent boys as well informed adolescents before 2020, in providing and protecting the safety, security for their female counterparts and to mature as peer educators. These peer educators will carry the torch of “Gender Champions” Year after year, till we have a crime free country against women.
 
 </p>
-<p>
 <h5>Why MITR?</h5>
-Every day we come one other disturbing news on crime and abuse against women. Be it girls, young women or a married lady, the crime is in the form of sexual assault, work place advances, domestic atrocities or in some other form.
+<p class="Research-more">Every day we come one other disturbing news on crime and abuse against women. Be it girls, young women or a married lady, the crime is in the form of sexual assault, work place advances, domestic atrocities or in some other form.
 Most of these crimes are due to:<br>
 -Lack of empathy on the other gender<br>
 -Lack of knowledge about the consequences of the perpetrator’s action<br>
 -Lack of age appropriate guided information during the formative years<br>
 -Dwindling values system of otherwise a rich culturally strong country
 Thus AVTAR Human Capital Trust formulated “MITR” for young school going boys.
-
 </p>
               </div>
               <div class="mitr-banner col-lg-6 mitr-p-r-l p-10">
                   <img src="img/why_mitr.png" alt="">
               </div>
           </div>
-          <div class="mitr-card-title container p-10 mt-30">
+          <div class="mitr-card-title container p-10 mt-30 objec-of">
           <h5>The objectives of MITR are:</h5>
-            <p class="ahtc-sub-txt">-To educate school going boys on understanding, accepting, respecting and giving space to the female gender of the society.</p>
-<p>-To empower the school going boys as a friendly associate of female gender who will extend an empathetic hand towards their peer girls with right amount of understanding required for their age.</p>
-<p>-To inculcate the concept of friendship and make the line “Friend in need…” a reality for our female school going population through an atmosphere that will be based out of pure knowledge and understanding.</p>
-<p>-To identify “Gender Champions” in amongst the school going boys who reflects these ideologies and are the real “Mitr” to their opposite gender.</p>
+            <p class="ahtc-sub-txt work-more">•To educate school going boys on understanding, accepting, respecting and giving space to the female gender of the society.
+<br>•To empower the school going boys as a friendly associate of female gender who will extend an empathetic hand towards their peer girls with right amount of understanding required for their age.
+<br>•To inculcate the concept of friendship and make the line “Friend in need…” a reality for our female school going population through an atmosphere that will be based out of pure knowledge and understanding.
+<br>•To identify “Gender Champions” in amongst the school going boys who reflects these ideologies and are the real “Mitr” to their opposite gender.</p>
           </div>
           <div class="ahtc-card-title mt-60">
             <h6>#MODEL</h6>
@@ -181,7 +181,7 @@ Thus AVTAR Human Capital Trust formulated “MITR” for young school going boys
           </div>
           <div class="mitr-card-title container mb-30 p-10">
           <p class="ahtc-head-txt"></p>
-            <p class="ahtc-sub-txt">“Values and beliefs that are practised from young formative ages have their foot prints in human being till their grave” with this psychological fact in mind, AVTAR Human Capital Trust has devised a model of “catch them young”. Boys during their formative years of adolescence, if provided age appropriate information with well-meant discussions and other interventions, will mature into young male brigade of this country in understanding, accepting and providing equal space of dignity to the female community at large. Thus, this mature will help in shielding the female community against risk and will accept them as educated peers both at home and in the outside world. To summarise, given a continuous hand holding during the formative years, the male crowd can and will develop into a sportive crowd to provide space and accept challenges in the country.
+            <p class="ahtc-sub-txt more">“Values and beliefs that are practised from young formative ages have their foot prints in human being till their grave” with this psychological fact in mind, AVTAR Human Capital Trust has devised a model of “catch them young”. Boys during their formative years of adolescence, if provided age appropriate information with well-meant discussions and other interventions, will mature into young male brigade of this country in understanding, accepting and providing equal space of dignity to the female community at large. Thus, this mature will help in shielding the female community against risk and will accept them as educated peers both at home and in the outside world. To summarise, given a continuous hand holding during the formative years, the male crowd can and will develop into a sportive crowd to provide space and accept challenges in the country.
 </p>
           </div>
           <div class="ahtc-banner">
@@ -279,7 +279,7 @@ Thus AVTAR Human Capital Trust formulated “MITR” for young school going boys
               <div class="row">
                 <div class="col-md-6 col-lg-3 footer-link">
                    <a href="#">
-                   <img src="img/white-logo.png" class="img-fluid footer-logo">
+                    <img src="img/white-logo.png" class="img-fluid footer-logo">
                    </a>
                    <p class="footer-text">Puthri is India’s first ever developmental project that seeks to create Career Intentionality among underprivileged girl students</p><br>
                    <a href="https://www.facebook.com/projectputhri"><img src="img/fb-img.png" class="img-fluid"></a>
@@ -305,29 +305,29 @@ Thus AVTAR Human Capital Trust formulated “MITR” for young school going boys
                            <div class="linked">
                             <ul>
                               <li>
-                              <a href="index.php">Home</a>
+                                <a href="index.php"><p>Home</p></a>
                               </li>
                               <li>
-                              <a href="our_team.php">Our Team</a>
+                              <a href="our_team.php"><p>Our Team</p></a>
                               </li>
                               <li>
-                                <a href="get-involved.php">Get Involved</a>
+                                <a href="get-involved.php"><p>Get Involved</p></a>
                               </li>
                               <li>
-                                <a href="puthri-model.php">Puthri Model</a>
+                                <a href="puthri-model.php"><p>Puthri Model</p></a>
                               </li>
                               <ul class="footer-menulinks">
                               <li>
-                                <a href="news.php">News & Events</a>
+                                <a href="news.php"><p>News & Events</p></a>
                               </li>
                               <li>
-                                <a href="#">Blog</a>
+                                <a href="#"><p>Blog</p></a>
                               </li>
                               <li>
-                                <a href="#">Contact</a>
+                                <a href="#"><p>Contact</p></a>
                               </li>
                               <li>
-                                <a href="faq.php">FAQ</a>
+                                <a href="faq.php"><p>FAQ</p></a>
                               </li>
                             </ul>
                            </ul>
@@ -348,7 +348,7 @@ Thus AVTAR Human Capital Trust formulated “MITR” for young school going boys
                       </div>
                       <div class="col-md-4">
                         <div class="footer-content" >
-                          Copyright @2021, AHCT. All Rights Reserved
+                          Copyright @2022, AHCT. All Rights Reserved
                         </div>
                       </div>
                       <div class="col-md-5">
@@ -370,7 +370,124 @@ Thus AVTAR Human Capital Trust formulated “MITR” for young school going boys
       <a onclick="topFunction()" id="myBtn" title="Go to top"><img src="img/scroll-top.png"></a>
 
       <!-------------------------- Js files ----------------------------------------->                  
-               
+               <script>
+                  /*  */
+     $(document).ready(function() {
+    // Configure/customize these variables.
+    var showChar = 277;  // How many characters are shown by default
+    var ellipsestext = "";
+    var moretext = "More...";
+    var lesstext = "Less...";
+    
+
+    $('.more').each(function(index) {
+      console.log(index)
+        var content = $(this).html();
+ 
+        if(content.length > showChar) {
+ 
+            var c = content.substr(0, showChar);
+            var h = content.substr(showChar, content.length - showChar);
+ 
+            var html = c + '<span class="moreellipses">' + ellipsestext+ '&nbsp;</span><span class="morecontent"><span>'
+             + h + '</span>&nbsp;&nbsp;<a href="" class="morelink">' + moretext + '</a></span>';
+ 
+            $(this).html(html);
+        }
+ 
+    });
+ 
+    $(".morelink").click(function(){
+        if($(this).hasClass("less")) {
+            $(this).removeClass("less");
+            $(this).html(moretext);
+        } else {
+            $(this).addClass("less");
+            $(this).html(lesstext);
+        }
+        $(this).parent().prev().toggle();
+        $(this).prev().toggle();
+        return false;
+    });
+});
+$(document).ready(function() {
+    // Configure/customize these variables.
+    var showChar = 100;  // How many characters are shown by default
+    var ellipsestext = "";
+    var moretext = "More...";
+    var lesstext = "Less...";
+
+
+    $('.Research-more').each(function(index) {
+      console.log(index)
+        var content = $(this).html();
+ 
+        if(content.length > showChar) {
+ 
+            var c = content.substr(0, showChar);
+            var h = content.substr(showChar, content.length - showChar);
+ 
+            var html = c + '<span class="moreellipses">' + ellipsestext+ '&nbsp;</span><span class="morecontent"><span>'
+             + h + '</span>&nbsp;&nbsp;<a href="" class="morelink-1">' + moretext + '</a></span>';
+ 
+            $(this).html(html);
+        }
+ 
+    });
+ 
+    $(".morelink-1").click(function(){
+        if($(this).hasClass("less")) {
+            $(this).removeClass("less");
+            $(this).html(moretext);
+        } else {
+            $(this).addClass("less");
+            $(this).html(lesstext);
+        }
+        $(this).parent().prev().toggle();
+        $(this).prev().toggle();
+        return false;
+    });
+});
+/*  */
+$(document).ready(function() {
+    // Configure/customize these variables.
+    var showChar = 200;  // How many characters are shown by default
+    var ellipsestext = "";
+    var moretext = "More...";
+    var lesstext = "Less...";
+
+
+    $('.work-more').each(function(index) {
+      console.log(index)
+        var content = $(this).html();
+ 
+        if(content.length > showChar) {
+ 
+            var c = content.substr(0, showChar);
+            var h = content.substr(showChar, content.length - showChar);
+ 
+            var html = c + '<span class="moreellipses">' + ellipsestext+ '&nbsp;</span><span class="morecontent"><span>'
+             + h + '</span>&nbsp;&nbsp;<a href="" class="morelink">' + moretext + '</a></span>';
+ 
+            $(this).html(html);
+        }
+ 
+    });
+ 
+    $(".morelink").click(function(){
+        if($(this).hasClass("less")) {
+            $(this).removeClass("less");
+            $(this).html(moretext);
+        } else {
+            $(this).addClass("less");
+            $(this).html(lesstext);
+        }
+        $(this).parent().prev().toggle();
+        $(this).prev().toggle();
+        return false;
+    });
+});
+</script>
       <script src="js/jquery.min.js"></script>
       <script src="js/popper.min.js"></script>
       <script src="js/maxcdn-bootstrap.min.js"></script>

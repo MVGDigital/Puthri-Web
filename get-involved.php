@@ -16,7 +16,7 @@
     </head>
 
 
-       <!-- Nav bar -->
+        <!-- Nav bar -->
       <nav>
       <div class="top-header">
         <div class="sub-container p-0">
@@ -41,7 +41,7 @@
                     <i class="bx bx-x"></i>
                 </div>
                 <ul class="links">
-                  <li><a href="index.php" class="btns">HOME</a></li>
+                  <li class="pr-0"><a href="index.php" class="btns">HOME</a></li>
                   <li>
                   <a href="#" class="btns">ABOUT</a>
                     <i class="bx bxs-chevron-down htmlcss-arrow arrow"></i>
@@ -151,13 +151,13 @@
           </div>
         </div>
       </div>
-      <div class="text-center col-10 m-auto mb-5">
+      <div class="text-center container p-10 mt-60">
           <h6>#OUR IMPACT</h6>
           <h3>Puthri volunteer Progammes</h3>
           <p style="margin-top: 3px;" class="our-impact-more">Puthri volunteers have felt a “larger-than-life” way of impact by engaging in activities of Project Puthri. They feel a sense of pride and rewarding fulfilment when they see the positive pay-off created by their work. And most of all, these volunteers get self-motivated when they motivate and encourage these young girls during their training sessions. They find a deeper sense of satisfaction when they see the results wherein the girls they mentored are now performing well and with confidence. The volunteers feel true power and fulfilment when the girls look up to them for guidance and direction. They become more resilient, cohesive, agile, committed and socially connected through their volunteering activities..</p>
   
         </div>
-        <div class="banner-img mt-50">
+        <div class="banner-img mt-30">
         <img src="img/get-card-banner.png" class="img-fluid">
         </div>
        <!--  <div class="container tab-top p-0">
@@ -192,7 +192,7 @@
           </div>
         </div> -->
         <div class="row container p-10 lamp-card-sec">
-        <div class="flip-card col-lg-2 p-0">
+        <div class="flip-card col-md-2 col-lg-2 p-0">
   <div class="flip-card-inner">
     <div class="flip-card-front lamp-txt-center">
     <p class="home-card-color">LAMP</p>
@@ -328,11 +328,112 @@
       </section>
 
       <section id="" class="section_padding">
-      <div class="text-center mt-60">
+      <div class="text-center mt-60 mb-30">
         <h6>#COLLABORATION</h6>
         <h3>Collaboration</h3>
       </div>
-      <section class="center slider">
+      <!-- SLIDER SECTION -->
+      <section class="center slider m-0">
+          <div>
+            <div class="hover">
+              
+                <div class="content pos-r">
+                <div class="content-overlay-home"></div>
+                <img src="img/collab-3.png">
+                    <div id="pop-1" class="content-details fadeIn-bottom hover-txt-home">
+                      <h5 id="pop-1" class="counttext1 ">Educational institutions...</h5>
+                      <!-- <p class="content-text pos-ab">The year 2021 saw the unveiling of our most-awaited and planned series of events to identify our Star Puthris - The Talent Search Event. Puthri encourages the students to showcase their talent through Talent contests under different categories like Eloquent contest, Poster Making competition, Essay Writing, AdZap et al.</p> -->
+                    </div>
+                   <div id="info-1" class="after-click">
+                     <div class="click-content">
+                     <h5 class="counttext1 ">Educational institutions...</h5>
+                      <p class="content-text">As student volunteers you have the privilege & opportunity to create better environments for the underprivileged. Blessed with the basic requirements of food, shelter, clothing & education, you will be able to appreciate life better, hence understand the importance of creating healthier communities to brighten their lives...</p>
+                      </div>
+                   </div>
+                </div><!-- end -->
+             
+            </div>
+          </div>
+          <div>
+            <div class="hover">
+                <div class="content pos-r">
+                <div class="content-overlay-home"></div>
+                <img src="img/collab-4.png" >
+                    <div id="pop-2" class="content-details fadeIn-bottom hover-txt-home">
+                      <h5 class="counttext1">Schools...</h5>
+                    </div>
+
+                    <div id="info-2" class="after-click">
+                     <div class="click-content">
+                     <h5 class="counttext1 ">Schools...</h5>
+                      <p class="content-text">In addition to offering space and infrastructure to conduct Puthri training programmes, well established and heritage schools in every town or city can help us identify school alumni who have made a mark in their career path to facilitate as role models or mentors in creating a positive influence to the Puthri scholars on various subjects related to student life and beyond..</p>
+                      </div>
+                   </div>
+                </div>
+            </div>
+          </div>
+          <div>
+            <div class="hover">
+                <div class="content pos-r">
+                <div class="content-overlay-home"></div>
+                <img src="img/collab-3.png" >
+                    <div id="pop-3" class="content-details fadeIn-bottom hover-txt-home">
+                      <h5 class="counttext1">Individual Donors...</h5>
+                    </div>
+
+                    <div id="info-3" class="after-click">
+                     <div class="click-content">
+                     <h5 class="counttext1 ">Individual Donors...</h5>
+                      <p class="content-text">>As an individual you can sponsor a Puthri scholar for Rs. 5000 per annum. You can Help Project Puthri become the preferred charity partner in your work place events and involve your colleagues as advocates and participants of Puthri. You can support us in spreading the word about Puthri through social network</p>
+                      </div>
+                   </div>
+                </div>
+              </div>
+          </div>
+          <div>
+            <div class="hover">
+                <div class="content pos-r">
+                <div class="content-overlay-home"></div>
+                <img src="img/collab-1.png" >
+                    <div id="pop-4" class="content-details fadeIn-bottom hover-txt-home">
+                      <h5 class="counttext1">Subject Matter Experts...</h5>
+                    </div>
+
+                    <div id="info-4" class="after-click">
+                     <div class="click-content">
+                     <h5 class="counttext1 ">Subject Matter Experts...</h5>
+                      <p class="content-text">As a Subject Matter Expert you can support us to up-skill every Puthri and build their confidence to pursue gainful employment. You can be a role model to the Puthris and create a meaningful impact in their lives. Your skills, knowledge, and experience will create an impact and make a difference in the lives of these young Puthris...</p>
+                      </div>
+                   </div>
+                </div>
+              </div>
+          </div>
+
+          <div>  
+          <div class="hover">
+                <div class="content pos-r">
+                <div class="content-overlay-home"></div>
+                <img src="img/collab-2.png" >
+                    <div id="pop-6" class="content-details fadeIn-bottom hover-txt-home">
+                      <h5 class="counttext1">Associates/NGOs.None of them incorporated...</h5>
+                    </div>
+
+                    <div id="info-6" class="after-click">
+                     <div class="click-content">
+                     <h5 class="counttext1 ">Associates/NGOs.None of them incorporated...</h5>
+                      <p class="content-text">As fellow NGOs you can join hands with us in realising our dream of making 10,000 underprivileged girl children 'Career Intentional' every year. Your partnership will help us to spread wings in your city of operation..</p>
+                      </div>
+                   </div>
+                </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+      <!-- ////////////////////////////////////////////////////////////////////////////////////// -->
+     <!--  <section class="center slider">
       <div> 
         <div class="hover">
           <div class="content">
@@ -393,7 +494,7 @@
           </div>
         </div>
       </div>
-      </section>
+      </section> -->
             <script type="text/javascript">
               $(document).on('ready', function() {
                 
@@ -422,7 +523,7 @@
 
                 });
               });
-      const one = document.getElementById('one');
+      /* const one = document.getElementById('one');
       const two = document.getElementById('two');
       const three = document.getElementById('three');
       const four = document.getElementById('four');
@@ -468,7 +569,7 @@
     });
     closeFive.addEventListener('click', () => {
     modalFive.classList.remove('show')
-    });
+    }); */
 
 var header = document.getElementById("myDIV");
 var btns = header.getElementsByClassName("btn");
@@ -495,7 +596,7 @@ for (var i = 0; i < btns.length; i++) {
 
            <div class="col-md-4 border-righ">
                 <div class="cards">   
-                <div class=" second bg-white text-center card-height hover-3">
+                <div class=" second bg-white text-center card-height hover-3 get-invol-m-25">
                  <img src="img/3-hover-icon-1.svg" alt="">
                 <h4>Employee Volunteering</h4>
                     
@@ -532,12 +633,12 @@ for (var i = 0; i < btns.length; i++) {
         </div>
           <br>
           <div class="container p-15">
-            <div class="row">
+            <div class="row p-10 col-12 m-0">
               <div class="col-12 col-sm-6 col-md-6 col-lg-6 col-xl-4 p-0">
                 <img src="img/inst-1.png" class="responsive">
                 <h5 class="impact-mnth">Intership</h5>
                 
-                <p style="margin-top: 3px;" class="more">The Students from institutions are provided adequate exposure in
+                <p style="margin-top: 3px; padding-right:5px;" class="more">The Students from institutions are provided adequate exposure in
                  working on ‘live’ projects relating to areas on, Life Skill mentoring sessions, Content Development ,
                  Volunteer and People Resources Management ,Outreach Project Operations,  Social Surveys  and in Media and
                   Communication related activities...</p>
@@ -545,19 +646,19 @@ for (var i = 0; i < btns.length; i++) {
               <div class="col-12 col-sm-6 col-md-6 col-lg-6 col-xl-4 p-0">
                 <img src="img/inst-2.png" class="responsive">
                 <h5 class="impact-mnth">Infrastructure Support</h5>
-                <p style="margin-top: 3px;" class="Infrastructure-more"> Apart from collaborating for internship institutions can offer space and infrastructure to conduct Puthri training programmes, large scale events such as Udyog Utsav (One of its kind career conference), & PRAYAG (event to celebrate all our volunteers).</p>
+                <p style="margin-top: 3px; padding-right:5px;" class="Infrastructure-more"> Apart from collaborating for internship institutions can offer space and infrastructure to conduct Puthri training programmes, large scale events such as Udyog Utsav (One of its kind career conference), & PRAYAG (event to celebrate all our volunteers).</p>
               </div>
               <div class="col-12 col-sm-6 col-md-6 col-lg-6 col-xl-4 p-0">
                 <img src="img/inst-3.png" class="responsive">
                 <h5 class="impact-mnth">Research Support</h5>
-                <p style="margin-top: 3px;" class="Research-more"> AHCT comes out with various research reports on women empowerment and women workforce participation, girl child education ratio, and likes.  Well established and heritage educational institutes can collaborate and contribute on these robust research studies.</p>
+                <p style="margin-top: 3px; padding-right:5px;" class="Research-more"> AHCT comes out with various research reports on women empowerment and women workforce participation, girl child education ratio, and likes.  Well established and heritage educational institutes can collaborate and contribute on these robust research studies.</p>
               </div>
             </div>
           </div>
         </div>
       </section>
       <!-- Volunteers Feedback SEction -->
-      <section class="testimonials">
+      <section class="testimonials mt-60">
         <h6>#FEEDBACK</h6>
         <h3 class="fnt-sub-hed">Volunteers Feedback</h3>
         <div class="container p-10">
@@ -581,7 +682,7 @@ for (var i = 0; i < btns.length; i++) {
                               </div>
                             </div>
                           </div>
-                          <div class="col-1"></div>
+                          <div class="col-1 vol-dnone"></div>
                         <div class="col-md-6 col-lg-5">
                           <div class="carousel-caption">
                               <div class="row">
@@ -598,7 +699,7 @@ for (var i = 0; i < btns.length; i++) {
                         </div>
                       </div>
                     </div>
-                    <div class="col-1"></div>
+                    <div class="col-1 vol-dnone"></div>
 					            <div class="carousel-item">
                       <div class="bg"></div>
                           <div class="row">
@@ -616,7 +717,7 @@ for (var i = 0; i < btns.length; i++) {
                               </div>
                             </div>
                           </div>
-                          <div class="col-1"></div>
+                          <div class="col-1 vol-dnone"></div>
                         <div class="col-md-6 col-lg-5">
                           <div class="carousel-caption">
                               <div class="row">
@@ -633,8 +734,8 @@ for (var i = 0; i < btns.length; i++) {
                         </div>
                       </div>
                     </div>
-                    <div class="col-1"></div>
-					  <div class="carousel-item">
+                    <div class="col-1 vol-dnone"></div>
+					         <div class="carousel-item">
                       <div class="bg"></div>
                           <div class="row">
                             <div class="col-md-6 col-lg-5">
@@ -651,7 +752,7 @@ for (var i = 0; i < btns.length; i++) {
                               </div>
                             </div>
                           </div>
-                          <div class="col-1"></div>
+                          <div class="col-1 vol-dnone"></div>
                         <div class="col-md-6 col-lg-5">
                           <div class="carousel-caption">
                               <div class="row">
@@ -668,8 +769,8 @@ for (var i = 0; i < btns.length; i++) {
                         </div>
                       </div>
                     </div>
-                    <div class="col-1"></div>
-					 <div class="carousel-item">
+                    <div class="col-1 vol-dnone"></div>
+					         <div class="carousel-item">
                       <div class="bg"></div>
                           <div class="row">
                             <div class="col-md-6 col-lg-5">
@@ -688,7 +789,7 @@ for (var i = 0; i < btns.length; i++) {
                           </div>
 						  </div>
 						  </div>
-              <div class="col-1"></div>
+              <div class="col-1 vol-dnone"></div>
                     <div class="carousel-item">
                       <div class="bg"></div>
                           <div class="row">
@@ -706,7 +807,7 @@ for (var i = 0; i < btns.length; i++) {
                               </div>
                             </div>
                           </div>
-                          <div class="col-1"></div>
+                          <div class="col-1 vol-dnone"></div>
                         <div class="col-md-6 col-lg-5">
                           <div class="carousel-caption">
                               <div class="row">
@@ -721,7 +822,7 @@ for (var i = 0; i < btns.length; i++) {
                             </div>
                           </div>
                         </div>
-                        <div class="col-1"></div>
+                        <div class="col-1 vol-dnone"></div>
                      </div>
                     </div>       
                   </div>
@@ -752,7 +853,7 @@ for (var i = 0; i < btns.length; i++) {
               <div class="row">
                 <div class="col-md-6 col-lg-3 footer-link">
                    <a href="#">
-                   <img src="img/white-logo.png" class="img-fluid footer-logo">
+                    <img src="img/white-logo.png" class="img-fluid footer-logo">
                    </a>
                    <p class="footer-text">Puthri is India’s first ever developmental project that seeks to create Career Intentionality among underprivileged girl students</p><br>
                    <a href="https://www.facebook.com/projectputhri"><img src="img/fb-img.png" class="img-fluid"></a>
@@ -778,32 +879,32 @@ for (var i = 0; i < btns.length; i++) {
                            <div class="linked">
                             <ul>
                               <li>
-                              <a href="index.php">Home</a>
+                                <a href="index.php"><p>Home</p></a>
                               </li>
                               <li>
-                              <a href="our_team.php">Our Team</a>
+                              <a href="our_team.php"><p>Our Team</p></a>
                               </li>
                               <li>
-                                <a href="get-involved.php">Get Involved</a>
+                                <a href="get-involved.php"><p>Get Involved</p></a>
                               </li>
                               <li>
-                                <a href="puthri-model.php">Puthri Model</a>
+                                <a href="puthri-model.php"><p>Puthri Model</p></a>
                               </li>
                               <ul class="footer-menulinks">
                               <li>
-                                <a href="news.php">News & Events</a>
+                                <a href="news.php"><p>News & Events</p></a>
                               </li>
                               <li>
-                                <a href="#">Blog</a>
+                                <a href="#"><p>Blog</p></a>
                               </li>
                               <li>
-                                <a href="#">Contact</a>
+                                <a href="#"><p>Contact</p></a>
                               </li>
                               <li>
-                                <a href="faq.php">FAQ</a>
+                                <a href="faq.php"><p>FAQ</p></a>
                               </li>
                             </ul>
-                           </ul> 
+                           </ul>
                           </div>
                         </div>
                       </div>
@@ -811,7 +912,7 @@ for (var i = 0; i < btns.length; i++) {
                         <div class="footer-link">
                           <h5>Newsletter</h5>
                             <div class="linked">
-                            <p>You will be notified when something <br>new appears</p>
+                              <p>You will be notified when something <br>new appears</p>
                               <form action="">
                                 <input type="text"  pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,}$" title="Please Enter Valid Email Id" placeholder="Enter a valid mail ID" required>
                                 <input type='submit' name='submit' value='' id='submit' />
@@ -821,7 +922,7 @@ for (var i = 0; i < btns.length; i++) {
                       </div>
                       <div class="col-md-4">
                         <div class="footer-content" >
-                          Copyright @2021, AHCT. All Rights Reserved
+                          Copyright @2022, AHCT. All Rights Reserved
                         </div>
                       </div>
                       <div class="col-md-5">
@@ -836,6 +937,50 @@ for (var i = 0; i < btns.length; i++) {
                </div>
              </div>
            </footer>
+
+           <script>
+
+$(document).ready(function(){
+  /* Show */
+$("#pop-1").click(function(){
+  $("#info-1").slideToggle("slow");
+});
+$("#pop-2").click(function(){
+  $("#info-2").slideToggle("slow");
+});
+$("#pop-3").click(function(){
+  $("#info-3").slideToggle("slow");
+});
+$("#pop-4").click(function(){
+  $("#info-4").slideToggle("slow");
+});
+$("#pop-5").click(function(){
+  $("#info-5").slideToggle("slow");
+});
+$("#pop-6").click(function(){
+  $("#info-6").slideToggle("slow");
+});
+$("#pop-1").click(function(){
+  $("#info-2,#info-3,#info-4,#info-5,#info-6").hide();
+});
+$("#pop-2").click(function(){
+  $("#info-1,#info-3,#info-4,#info-5,#info-6").hide();
+});
+$("#pop-3").click(function(){
+  $("#info-1,#info-2,#info-4,#info-5,#info-6").hide();
+});
+$("#pop-4").click(function(){
+  $("#info-1,#info-2,#info-3,#info-5,#info-6").hide();
+});
+$("#pop-5").click(function(){
+  $("#info-1,#info-2,#info-3,#info-4,#info-6").hide();
+});
+$("#pop-6").click(function(){
+  $("#info-1,#info-2,#info-3,#info-4,#info-5").hide();
+});
+
+});
+</script>
            <script>
               $(document).ready(function() {
     // Configure/customize these variables.
@@ -878,7 +1023,7 @@ for (var i = 0; i < btns.length; i++) {
 
     $(document).ready(function() {
     // Configure/customize these variables.
-    var showChar = 85;  // How many characters are shown by default
+    var showChar = 92;  // How many characters are shown by default
     var ellipsestext = "";
     var moretext = "More...";
     var lesstext = "Less...";
@@ -917,7 +1062,7 @@ for (var i = 0; i < btns.length; i++) {
   
     $(document).ready(function() {
     // Configure/customize these variables.
-    var showChar = 85;  // How many characters are shown by default
+    var showChar = 73;  // How many characters are shown by default
     var ellipsestext = "";
     var moretext = "More...";
     var lesstext = "Less...";
@@ -956,7 +1101,7 @@ for (var i = 0; i < btns.length; i++) {
   
     $(document).ready(function() {
     // Configure/customize these variables.
-    var showChar = 75;  // How many characters are shown by default
+    var showChar = 70;  // How many characters are shown by default
     var ellipsestext = "";
     var moretext = "More...";
     var lesstext = "Less...";

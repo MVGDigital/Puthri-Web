@@ -17,7 +17,7 @@
       </head>
 
 
-       <!-- Nav bar -->
+      <!-- Nav bar -->
       <nav>
       <div class="top-header">
         <div class="sub-container p-0">
@@ -42,7 +42,7 @@
                     <i class="bx bx-x"></i>
                 </div>
                 <ul class="links">
-                  <li><a href="index.php" class="btns">HOME</a></li>
+                  <li class="pr-0"><a href="index.php" class="btns">HOME</a></li>
                   <li>
                   <a href="#" class="btns">ABOUT</a>
                     <i class="bx bxs-chevron-down htmlcss-arrow arrow"></i>
@@ -89,7 +89,7 @@
                 </li>
                 
                 <li class="puthri-m-mob">
-                  <a href="#" class="btns active">NEWS &amp; EVENTS</a>
+                  <a href="#" class="btns">NEWS &amp; EVENTS</a>
                     <i class="bx bxs-chevron-down js-arrow arrow"></i>
                     <ul class="js-sub-menu sub-menu">
                     <li><a href="news.php">NEWS &amp; EVENTS</a></li>
@@ -169,6 +169,68 @@
           <h6>#EVENTS</h6>
           <h3>Recent Events</h3>
         </div>
+        <!-- //////////////////////// -->
+       <!--  <section class="center slider m-0">
+        <div>
+            <div class="hover">
+                <div class="content pos-r">
+                <div class="content-overlay-home"></div>
+                <img src="img/rec-event-1.png" >
+                    <div id="pop-4" class="content-details fadeIn-bottom hover-txt-home">
+                      <h5 class="counttext1">Role Model...</h5>
+                    </div>
+
+                    <div id="info-4" class="after-click">
+                     <div class="click-content">
+                     <h5 class="counttext1 ">Role Model...</h5>
+                      <p class="content-text">There is no better place than an event to appreciate and celebrate success. Prayag is an inception of this thought to celebrate all our volunteers. An array of cultural activities lights up the event day, followed by a sumptuous lunch that allows Puthri volunteers to take a moment to bond with the group by sharing their wonderful experience in Puthri.</p>
+                      </div>
+                   </div>
+                </div>
+              </div>
+          </div>
+    
+            <div class="hover">
+              
+                <div class="content pos-r">
+                <div class="content-overlay-home"></div>
+                    <img src="img/Talent Search.png">
+                    <div id="pop-1" class="content-details fadeIn-bottom hover-txt-home">
+                      <h5 id="pop-1" class="counttext1 ">Talent Search...</h5>
+                    </div>
+                   <div id="info-1" class="after-click">
+                     <div class="click-content">
+                     <h5 class="counttext1 ">Talent Search...</h5>
+                      <p class="content-text">The year 2021 saw the unveiling of our most-awaited and planned series of events to identify our Star Puthris - The Talent Search Event. Puthri encourages the students to showcase their talent through Talent contests under different categories like Eloquent contest, Poster Making competition, Essay Writing, AdZap et al...</p>
+                      </div>
+                   </div>
+                </div>
+             
+            </div>
+          </div>
+          <div class="hover">
+                <div class="content pos-r">
+                <div class="content-overlay-home"></div>
+                    <img src="img/Career coaching.png" >
+                    <div id="pop-6" class="content-details fadeIn-bottom hover-txt-home">
+                      <h5 class="counttext1">Career Coaching...</h5>
+                    </div>
+
+                    <div id="info-6" class="after-click">
+                     <div class="click-content">
+                     <h5 class="counttext1 ">Career Coaching...</h5>
+                      <p class="content-text">Career coaches provide expert guidance which empowers Puthri scholars to identify their strengths & passions, the means & ways to realise them and help them see their present challenges as advantages and help overcome them.</p>
+                      </div>
+                   </div>
+                </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section> -->
+        <!-- ////////////////////////////// -->
         <section class="center slider">
           <div>
             
@@ -220,7 +282,7 @@
               <div class="col-12 col-sm-12 col-md-12 col-lg-11 col-xl-11 mt-4 m-auto text-center">
                 <img src="img/Project Updates.jpg" class="responsive mb-3">
                 <h5>As a Corporate house your association will help us connect</h5>
-                <p>We are not-for-profit,public, charitable Trust working towards economically empowering women, since the past 8 years, our work has been centred around life skills enhancement programs for the girl child and employability workshops for underprivileged women. We also work towards the prevention of sexual harassement of women and children. our work is primarily focused on the states of Tamil Nadu And Pondicherry.</p>
+                <p style="margin-top: 3px;" class="project-update-more">We are not-for-profit,public, charitable Trust working towards economically empowering women, since the past 8 years, our work has been centred around life skills enhancement programs for the girl child and employability workshops for underprivileged women. We also work towards the prevention of sexual harassement of women and children. our work is primarily focused on the states of Tamil Nadu And Pondicherry.</p>
               </div>
             </div>
           </div>
@@ -271,7 +333,7 @@
         <div class="row">
           <div class="col-1"></div>
             <div class="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-5">
-              <div class="text-start">
+              <div class="text-start mt-60">
                 <h6>#PRESS</h6>
                 <h3>In The News</h3>
                  <span class="press-subcontext">'Project Puthri a step towards'</span>
@@ -281,12 +343,9 @@
                 <div class="col-md-6 col-lg-6 p-0">
                   <div class="swiper-container">
                     <div class="swiper-wrapper">
-                      <div class="swiper-slide"><img src="img/news-1.png" class="img-fluid"> </div>
-                      <div class="swiper-slide"><img src="img/news-2.png" class="img-fluid"></div>
-                      <div class="swiper-slide"><img src="img/news-1.png" class="img-fluid"></div>
-                      <div class="swiper-slide"><img src="img/news-2.png" class="img-fluid"></div>
-                      <div class="swiper-slide"><img src="img/news-1.png" class="img-fluid"></div>
-                      <div class="swiper-slide"><img src="img/news-2.png" class="img-fluid"></div>
+                      <div class="swiper-slide press-slide "><img src="img/news-slide-1.png" class="img-fluid"> </div>
+                      <div class="swiper-slide press-slide"><img src="img/news-slide-2.png" class="img-fluid"></div>
+                      <div class="swiper-slide press-slide"><img src="img/news-slide-3.png" class="img-fluid"></div>
                     </div>
                     <div class="swiper-button-prev"></div>
                     <div class="swiper-button-next"></div>
@@ -307,20 +366,20 @@
                   <h3>Social Media Updates</h3>
                 </div>
               </div>
-              <div class="col-12 col-sm-6 col-md-6 col-lg-6 col-xl-4 p-10">
-                <img src="img/new-gall-1.png" class="responsive">
+              <div class="col-12 col-sm-6 col-md-6 col-lg-6 col-xl-4 p-10 proper-heig">
+                <img src="img/press-meadia-1.png" class="responsive">
                 <h5 class="impact-mnth press-releasetext">PROJECT PUTHRI</h5>
-                <p>We are not-for-profit, charitable trust workig towards economically empowering women, since the past 10 years. Project PUTRHI- a flagship project of AVTAR Human Capital Trust strives to create, sustain & propel career intentionality among girl children studying in government schools across Tamilnadu & Pondicherry. Our work has been centered around life skills enhancement programs for the girl child and employability workshops</p>
+                <p class="project-more">We are not-for-profit, charitable trust workig towards economically empowering women, since the past 10 years. Project PUTRHI- a flagship project of AVTAR Human Capital Trust strives to create, sustain & propel career intentionality among girl children studying in government schools across Tamilnadu & Pondicherry. Our work has been centered around life skills enhancement programs for the girl child and employability workshops</p>
               </div>
               <div class=" col-md-6 col-lg-6 col-xl-4">
-                <img src="img/new-gall-2.png" class="responsive">
+                <img src="img/press-meadia-2.png" class="responsive">
                 <h5 class="impact-mnth press-releasetext">AVTAR HUMAN CAPITAL TRUST</h5>
-                <p>We are not-for-profit, charitable trust workig towards economically empowering women, since the past 8 years. Our work has been centred around skills enhancement programs for the girl child and employability workshops for underpriviliged women. We also work towards the prevention of sexual harassement of women and children. Our work is primarily focussed on the states of Tamilnadu and Pondicherry.</p>
+                <p class="Infrastructure-more">We are not-for-profit, charitable trust workig towards economically empowering women, since the past 8 years. Our work has been centred around skills enhancement programs for the girl child and employability workshops for underpriviliged women. We also work towards the prevention of sexual harassement of women and children. Our work is primarily focussed on the states of Tamilnadu and Pondicherry.</p>
               </div>
               <div class="col-md-6 col-lg-6 col-xl-4">
-                <img src="img/new-gall-3.png" class="responsive">
+                <img src="img/press-meadia-3.png" class="responsive">
                 <h5 class="impact-mnth press-releasetext">FROM THE FOUNDER'S DESK</h5>
-                <p>I am extremely delighted to connect with you through the first edition of 'PUTHRI Pulse', our Quartely eZine launched at PRAYAG 2018, PUTHRI's first volunteer appreciation meet on April 28, 2018. Volunteering, much like leadership has to come from within and with a purpose. Besides gaining experience and networking, volunteers need to have intrinsic values that connect passionately with the vision and mission of any organisation.</p>
+                <p class="Research-more">I am extremely delighted to connect with you through the first edition of 'PUTHRI Pulse', our Quartely eZine launched at PRAYAG 2018, PUTHRI's first volunteer appreciation meet on April 28, 2018. Volunteering, much like leadership has to come from within and with a purpose. Besides gaining experience and networking, volunteers need to have intrinsic values that connect passionately with the vision and mission of any organisation.</p>
               </div>
             </div>
           </div>
@@ -329,7 +388,7 @@
 
 
       <section class="contact mt-60" id="">
-        <div id="news" class="text-center">
+        <div id="news" class="text-center mb-30">
           <h6>#CONTACT US</h6>
           <h3>Contact Us</h3>
         </div>
@@ -342,7 +401,7 @@
                           <img src="img/card-home.svg" class="img-fluid">
                           <br><br>
                           <h5 class="first">head office</h5>
-                          <p class="sub-header counttext1">Udyog Gruhaa No. 10, East Coast Road, Neelangarai,<br> Chennai – India Pincode: 600041</p>
+                          <p class="sub-header counttext1 p-8">Udyog Gruhaa No. 10, East Coast Road, Neelangarai,<br> Chennai – India Pincode: 600041</p>
                         </div>
                         <div class='icon-paper'></div>
                     </div>
@@ -423,7 +482,7 @@
               <div class="row">
                 <div class="col-md-6 col-lg-3 footer-link">
                    <a href="#">
-                   <img src="img/white-logo.png" class="img-fluid footer-logo">
+                    <img src="img/white-logo.png" class="img-fluid footer-logo">
                    </a>
                    <p class="footer-text">Puthri is India’s first ever developmental project that seeks to create Career Intentionality among underprivileged girl students</p><br>
                    <a href="https://www.facebook.com/projectputhri"><img src="img/fb-img.png" class="img-fluid"></a>
@@ -449,29 +508,29 @@
                            <div class="linked">
                             <ul>
                               <li>
-                              <a href="index.php">Home</a>
+                                <a href="index.php"><p>Home</p></a>
                               </li>
                               <li>
-                              <a href="our_team.php">Our Team</a>
+                              <a href="our_team.php"><p>Our Team</p></a>
                               </li>
                               <li>
-                                <a href="get-involved.php">Get Involved</a>
+                                <a href="get-involved.php"><p>Get Involved</p></a>
                               </li>
                               <li>
-                                <a href="puthri-model.php">Puthri Model</a>
+                                <a href="puthri-model.php"><p>Puthri Model</p></a>
                               </li>
                               <ul class="footer-menulinks">
                               <li>
-                                <a href="news.php">News & Events</a>
+                                <a href="news.php"><p>News & Events</p></a>
                               </li>
                               <li>
-                                <a href="#">Blog</a>
+                                <a href="#"><p>Blog</p></a>
                               </li>
                               <li>
-                                <a href="#">Contact</a>
+                                <a href="#"><p>Contact</p></a>
                               </li>
                               <li>
-                                <a href="faq.php">FAQ</a>
+                                <a href="faq.php"><p>FAQ</p></a>
                               </li>
                             </ul>
                            </ul>
@@ -482,7 +541,7 @@
                         <div class="footer-link">
                           <h5>Newsletter</h5>
                             <div class="linked">
-                            <p>You will be notified when something <br>new appears</p>
+                              <p>You will be notified when something <br>new appears</p>
                               <form action="">
                                 <input type="text"  pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,}$" title="Please Enter Valid Email Id" placeholder="Enter a valid mail ID" required>
                                 <input type='submit' name='submit' value='' id='submit' />
@@ -492,10 +551,10 @@
                       </div>
                       <div class="col-md-4">
                         <div class="footer-content" >
-                          Copyright @2021, AHCT. All Rights Reserved
+                          Copyright @2022, AHCT. All Rights Reserved
                         </div>
                       </div>
-                      <div class="col-md-5">  
+                      <div class="col-md-5">
                          </div>
                       <div class="col-md-3">
                         <div class="footer-content footer-link">
@@ -562,5 +621,241 @@
     $(this).addClass('active');
   $('.btns').not(this).removeClass('active');
 });
+   /*  */
+   $(document).ready(function() {
+    // Configure/customize these variables.
+    var showChar = 202;  // How many characters are shown by default
+    var ellipsestext = "";
+    var moretext = "More...";
+    var lesstext = "Less...";
+    
 
+    $('.project-update-more').each(function(index) {
+      console.log(index)
+        var content = $(this).html();
+ 
+        if(content.length > showChar) {
+ 
+            var c = content.substr(0, showChar);
+            var h = content.substr(showChar, content.length - showChar);
+ 
+            var html = c + '<span class="moreellipses">' + ellipsestext+ '&nbsp;</span><span class="morecontent"><span>'
+             + h + '</span>&nbsp;&nbsp;<a href="" class="project-update-morelink">' + moretext + '</a></span>';
+ 
+            $(this).html(html);
+        }
+ 
+    });
+ 
+    $(".project-update-morelink").click(function(){
+        if($(this).hasClass("less")) {
+            $(this).removeClass("less");
+            $(this).html(moretext);
+        } else {
+            $(this).addClass("less");
+            $(this).html(lesstext);
+        }
+        $(this).parent().prev().toggle();
+        $(this).prev().toggle();
+        return false;
+    });
+});
+   $(document).ready(function() {
+    // Configure/customize these variables.
+    var showChar = 255;  // How many characters are shown by default
+    var ellipsestext = "";
+    var moretext = "More...";
+    var lesstext = "Less...";
+    
+
+    $('.project-more').each(function(index) {
+      console.log(index)
+        var content = $(this).html();
+ 
+        if(content.length > showChar) {
+ 
+            var c = content.substr(0, showChar);
+            var h = content.substr(showChar, content.length - showChar);
+ 
+            var html = c + '<span class="moreellipses">' + ellipsestext+ '&nbsp;</span><span class="morecontent"><span>'
+             + h + '</span>&nbsp;&nbsp;<a href="" class="project-morelink">' + moretext + '</a></span>';
+ 
+            $(this).html(html);
+        }
+ 
+    });
+ 
+    $(".project-morelink").click(function(){
+        if($(this).hasClass("less")) {
+            $(this).removeClass("less");
+            $(this).html(moretext);
+        } else {
+            $(this).addClass("less");
+            $(this).html(lesstext);
+        }
+        $(this).parent().prev().toggle();
+        $(this).prev().toggle();
+        return false;
+    });
+});
+/*  #3 CArds*/
+$(document).ready(function() {
+    // Configure/customize these variables.
+    var showChar = 85;  // How many characters are shown by default
+    var ellipsestext = "";
+    var moretext = "More...";
+    var lesstext = "Less...";
+    
+
+    $('.more').each(function(index) {
+      console.log(index)
+        var content = $(this).html();
+ 
+        if(content.length > showChar) {
+ 
+            var c = content.substr(0, showChar);
+            var h = content.substr(showChar, content.length - showChar);
+ 
+            var html = c + '<span class="moreellipses">' + ellipsestext+ '&nbsp;</span><span class="morecontent"><span>'
+             + h + '</span>&nbsp;&nbsp;<a href="" class="morelink">' + moretext + '</a></span>';
+ 
+            $(this).html(html);
+        }
+ 
+    });
+ 
+    $(".morelink").click(function(){
+        if($(this).hasClass("less")) {
+            $(this).removeClass("less");
+            $(this).html(moretext);
+        } else {
+            $(this).addClass("less");
+            $(this).html(lesstext);
+        }
+        $(this).parent().prev().toggle();
+        $(this).prev().toggle();
+        return false;
+    });
+});
+  
+    $(document).ready(function() {
+    // Configure/customize these variables.
+    var showChar = 230;  // How many characters are shown by default
+    var ellipsestext = "";
+    var moretext = "More...";
+    var lesstext = "Less...";
+    
+
+    $('.Infrastructure-more').each(function(index) {
+      console.log(index)
+        var content = $(this).html();
+ 
+        if(content.length > showChar) {
+ 
+            var c = content.substr(0, showChar);
+            var h = content.substr(showChar, content.length - showChar);
+ 
+            var html = c + '<span class="moreellipses">' + ellipsestext+ '&nbsp;</span><span class="morecontent"><span>'
+             + h + '</span>&nbsp;&nbsp;<a href="" class="Infrastructure-morelink">' + moretext + '</a></span>';
+ 
+            $(this).html(html);
+        }
+ 
+    });
+ 
+    $(".Infrastructure-morelink").click(function(){
+        if($(this).hasClass("less")) {
+            $(this).removeClass("less");
+            $(this).html(moretext);
+        } else {
+            $(this).addClass("less");
+            $(this).html(lesstext);
+        }
+        $(this).parent().prev().toggle();
+        $(this).prev().toggle();
+        return false;
+    });
+});
+  
+    $(document).ready(function() {
+    // Configure/customize these variables.
+    var showChar = 230;  // How many characters are shown by default
+    var ellipsestext = "";
+    var moretext = "More...";
+    var lesstext = "Less...";
+    
+
+    $('.Research-more').each(function(index) {
+      console.log(index)
+        var content = $(this).html();
+ 
+        if(content.length > showChar) {
+ 
+            var c = content.substr(0, showChar);
+            var h = content.substr(showChar, content.length - showChar);
+ 
+            var html = c + '<span class="moreellipses">' + ellipsestext+ '&nbsp;</span><span class="morecontent"><span>'
+             + h + '</span>&nbsp;&nbsp;<a href="" class="Research-morelink">' + moretext + '</a></span>';
+ 
+            $(this).html(html);
+        }
+ 
+    });
+ 
+    $(".Research-morelink").click(function(){
+        if($(this).hasClass("less")) {
+            $(this).removeClass("less");
+            $(this).html(moretext);
+        } else {
+            $(this).addClass("less");
+            $(this).html(lesstext);
+        }
+        $(this).parent().prev().toggle();
+        $(this).prev().toggle();
+        return false;
+    });
+});
     </script>
+<!--         <script>
+
+$(document).ready(function(){
+  /* Show */
+$("#pop-1").click(function(){
+  $("#info-1").slideToggle("slow");
+});
+$("#pop-2").click(function(){
+  $("#info-2").slideToggle("slow");
+});
+$("#pop-3").click(function(){
+  $("#info-3").slideToggle("slow");
+});
+$("#pop-4").click(function(){
+  $("#info-4").slideToggle("slow");
+});
+$("#pop-5").click(function(){
+  $("#info-5").slideToggle("slow");
+});
+$("#pop-6").click(function(){
+  $("#info-6").slideToggle("slow");
+});
+$("#pop-1").click(function(){
+  $("#info-2,#info-3,#info-4,#info-5,#info-6").hide();
+});
+$("#pop-2").click(function(){
+  $("#info-1,#info-3,#info-4,#info-5,#info-6").hide();
+});
+$("#pop-3").click(function(){
+  $("#info-1,#info-2,#info-4,#info-5,#info-6").hide();
+});
+$("#pop-4").click(function(){
+  $("#info-1,#info-2,#info-3,#info-5,#info-6").hide();
+});
+$("#pop-5").click(function(){
+  $("#info-1,#info-2,#info-3,#info-4,#info-6").hide();
+});
+$("#pop-6").click(function(){
+  $("#info-1,#info-2,#info-3,#info-4,#info-5").hide();
+});
+
+});
+</script> -->

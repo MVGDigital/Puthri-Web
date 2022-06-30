@@ -9,11 +9,12 @@
     <link href='https://unpkg.com/boxicons@2.0.7/css/boxicons.min.css' rel='stylesheet'>
     <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="css/swiperslider.min.css">
+    <script src="js/code-jquery.js" type="text/javascript"></script>
   </head>
 
 
        <!-- Nav bar -->
-      <nav>
+       <nav>
       <div class="top-header">
         <div class="sub-container p-0">
         <div class="social-m-icon col-5 col-lg-2 p-0">
@@ -37,7 +38,7 @@
                     <i class="bx bx-x"></i>
                 </div>
                 <ul class="links">
-                  <li><a href="index.php" class="btns">HOME</a></li>
+                  <li class="pr-0"><a href="index.php" class="btns">HOME</a></li>
                   <li>
                   <a href="#" class="btns active">ABOUT</a>
                     <i class="bx bxs-chevron-down htmlcss-arrow arrow"></i>
@@ -139,7 +140,7 @@
           <div class="row d-flex img-txt">
               <div class="main-content col-lg-7 p-10">
                 <h5>AVTAR Human Capital Trust</h5>
-                  <p> is a not for-profit public charitable organization, working in the field of economic empowerment of women. Headquartered in Chennai, AHCT has been addressing gender equality, poverty eradication and inclusive economic growth for women across the State of Tamil Nadu & Pondicherry from 2008.
+                  <p class="work-1-more"> is a not for-profit public charitable organization, working in the field of economic empowerment of women. Headquartered in Chennai, AHCT has been addressing gender equality, poverty eradication and inclusive economic growth for women across the State of Tamil Nadu & Pondicherry from 2008.
 With a strong belief that economic independence is key to women's empowerment and that women can make and continue to make enormous contributions to economies, whether in businesses, on farms, as entrepreneurs or employees, or by doing unpaid care work at home, we at AVTAR group are keen on facilitating women's social inclusion and economic empowerment in the economically backward strata of society too.
 Our life skills enhancement programs, employability workshops, Prevention of Sexual Harassment training and education support, have enabled many women (across lower, middle and upper middle strata of society) secure decent jobs to become economically independent & self-reliant, to think more progressively and make well informed decisions in life, to uphold positive self-esteem and participate confidently & contribute in areas like health, education, rights, political & social activities.
 Social responsibility continues to be an intrinsic part of AVTAR family, and today, with our flagship project ‘Puthri’ we endeavour to reach out to 10,000 underprivileged girl children in the age group of 13 to 18 years studying in government schools across India, making them career intentional every year, and with an initiative called MITR (Men Impacting Trust and Respect). MITR is an attempt in educating and empowering young, adolescent male population as empathetic “Gender Champions”. These young folk will develop and mature into a well-informed youth population of the country in creating a safe, secure and equal space to the female peers and counterparts.
@@ -149,16 +150,17 @@ Social responsibility continues to be an intrinsic part of AVTAR family, and tod
                   <img src="img/ahct-right.png" alt="">
               </div>
           </div>
-          <div class="ahtc-card-title mt-60">
+          <div class="ahtc-card-title mt-60 objec-of">
             <h6 class="c-img-title1">#OBJECTIVES</h6>
             <h3 class="c-img-title2 ahtc-sub-text fnt-sub-hed">Objectives Of The Truest</h3>
           </div>
           <div class="main-sub-Overview p-10 mb-30">
-              <p>To support initiatives within congregations or communities to promote education and training of girls and women.</p>
-              <p>•To provide education funding for deserving students from economically backward sections of the society, based on their keenness for self-development, aptitude and academic record, through our Puthri Scholarship Program. </p>
-              <p>•To undertake research in areas relating to development of women and children.</p>
-              <p>• To establish and run schools, institutions, centres of information on education, learning and development in such places as deemed fit for the promotion of education with focus on Indian traditional way of learning.</p>
-          </div>
+              <p class="work-more">To support initiatives within congregations or communities to promote education and training of girls and women.
+              <br>•To provide education funding for deserving students from economically backward sections of the society, based on their keenness for self-development, aptitude and academic record, through our Puthri Scholarship Program.
+              <br>•To undertake research in areas relating to development of women and children.
+              <br>• To establish and run schools, institutions, centres of information on education, learning and development in such places as deemed fit for the promotion of education with focus on Indian traditional way of learning.
+</p>
+            </div>
           <div class="ahtc-banner p-10">
           <img src="img/mitr-class.png" alt="">
           </div>
@@ -302,7 +304,7 @@ AHCT also supports community initiatives to promote education and training of un
               <div class="row">
                 <div class="col-md-6 col-lg-3 footer-link">
                    <a href="#">
-                   <img src="img/white-logo.png" class="img-fluid footer-logo">
+                    <img src="img/white-logo.png" class="img-fluid footer-logo">
                    </a>
                    <p class="footer-text">Puthri is India’s first ever developmental project that seeks to create Career Intentionality among underprivileged girl students</p><br>
                    <a href="https://www.facebook.com/projectputhri"><img src="img/fb-img.png" class="img-fluid"></a>
@@ -328,29 +330,29 @@ AHCT also supports community initiatives to promote education and training of un
                            <div class="linked">
                             <ul>
                               <li>
-                              <a href="index.php">Home</a>
+                                <a href="index.php"><p>Home</p></a>
                               </li>
                               <li>
-                              <a href="our_team.php">Our Team</a>
+                              <a href="our_team.php"><p>Our Team</p></a>
                               </li>
                               <li>
-                                <a href="get-involved.php">Get Involved</a>
+                                <a href="get-involved.php"><p>Get Involved</p></a>
                               </li>
                               <li>
-                                <a href="puthri-model.php">Puthri Model</a>
+                                <a href="puthri-model.php"><p>Puthri Model</p></a>
                               </li>
                               <ul class="footer-menulinks">
                               <li>
-                                <a href="news.php">News & Events</a>
+                                <a href="news.php"><p>News & Events</p></a>
                               </li>
                               <li>
-                                <a href="#">Blog</a>
+                                <a href="#"><p>Blog</p></a>
                               </li>
                               <li>
-                                <a href="#">Contact</a>
+                                <a href="#"><p>Contact</p></a>
                               </li>
                               <li>
-                                <a href="faq.php">FAQ</a>
+                                <a href="faq.php"><p>FAQ</p></a>
                               </li>
                             </ul>
                            </ul>
@@ -361,7 +363,7 @@ AHCT also supports community initiatives to promote education and training of un
                         <div class="footer-link">
                           <h5>Newsletter</h5>
                             <div class="linked">
-                            <p>You will be notified when something <br>new appears</p>
+                              <p>You will be notified when something <br>new appears</p>
                               <form action="">
                                 <input type="text"  pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,}$" title="Please Enter Valid Email Id" placeholder="Enter a valid mail ID" required>
                                 <input type='submit' name='submit' value='' id='submit' />
@@ -371,7 +373,7 @@ AHCT also supports community initiatives to promote education and training of un
                       </div>
                       <div class="col-md-4">
                         <div class="footer-content" >
-                          Copyright @2021, AHCT. All Rights Reserved
+                          Copyright @2022, AHCT. All Rights Reserved
                         </div>
                       </div>
                       <div class="col-md-5">
@@ -387,7 +389,86 @@ AHCT also supports community initiatives to promote education and training of un
              </div>
            </footer>
 
+<script>
+  /*  */
+$(document).ready(function() {
+    // Configure/customize these variables.
+    var showChar = 200;  // How many characters are shown by default
+    var ellipsestext = "";
+    var moretext = "More...";
+    var lesstext = "Less...";
 
+
+    $('.work-more').each(function(index) {
+      console.log(index)
+        var content = $(this).html();
+ 
+        if(content.length > showChar) {
+ 
+            var c = content.substr(0, showChar);
+            var h = content.substr(showChar, content.length - showChar);
+ 
+            var html = c + '<span class="moreellipses">' + ellipsestext+ '&nbsp;</span><span class="morecontent"><span>'
+             + h + '</span>&nbsp;&nbsp;<a href="" class="morelink-1">' + moretext + '</a></span>';
+ 
+            $(this).html(html);
+        }
+ 
+    });
+ 
+    $(".morelink-1").click(function(){
+        if($(this).hasClass("less")) {
+            $(this).removeClass("less");
+            $(this).html(moretext);
+        } else {
+            $(this).addClass("less");
+            $(this).html(lesstext);
+        }
+        $(this).parent().prev().toggle();
+        $(this).prev().toggle();
+        return false;
+    });
+});
+                 /*  */
+$(document).ready(function() {
+    // Configure/customize these variables.
+    var showChar = 1520;  // How many characters are shown by default
+    var ellipsestext = "";
+    var moretext = "More...";
+    var lesstext = "Less...";
+
+
+    $('.work-1-more').each(function(index) {
+      console.log(index)
+        var content = $(this).html();
+ 
+        if(content.length > showChar) {
+ 
+            var c = content.substr(0, showChar);
+            var h = content.substr(showChar, content.length - showChar);
+ 
+            var html = c + '<span class="moreellipses">' + ellipsestext+ '&nbsp;</span><span class="morecontent"><span>'
+             + h + '</span>&nbsp;&nbsp;<a href="" class="morelink">' + moretext + '</a></span>';
+ 
+            $(this).html(html);
+        }
+ 
+    });
+ 
+    $(".morelink").click(function(){
+        if($(this).hasClass("less")) {
+            $(this).removeClass("less");
+            $(this).html(moretext);
+        } else {
+            $(this).addClass("less");
+            $(this).html(lesstext);
+        }
+        $(this).parent().prev().toggle();
+        $(this).prev().toggle();
+        return false;
+    });
+});
+               </script>
       <!--===================== Scroll to top ==================================--> 
 
       <a onclick="topFunction()" id="myBtn" title="Go to top"><img src="img/scroll-top.png"></a>

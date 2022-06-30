@@ -9,11 +9,12 @@
     <link href='https://unpkg.com/boxicons@2.0.7/css/boxicons.min.css' rel='stylesheet'>
     <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="css/swiperslider.min.css">
+    <script src="js/code-jquery.js" type="text/javascript"></script>
   </head>
 
 
        <!-- Nav bar -->
-      <nav>
+       <nav>
       <div class="top-header">
         <div class="sub-container p-0">
         <div class="social-m-icon col-5 col-lg-2 p-0">
@@ -37,7 +38,7 @@
                     <i class="bx bx-x"></i>
                 </div>
                 <ul class="links">
-                  <li><a href="index.php" class="btns">HOME</a></li>
+                  <li class="pr-0"><a href="index.php" class="btns">HOME</a></li>
                   <li>
                   <a href="#" class="btns">ABOUT</a>
                     <i class="bx bxs-chevron-down htmlcss-arrow arrow"></i>
@@ -60,7 +61,7 @@
                 </li>
                 
                 <li class="puthri-m-mob">
-                  <a href="#" class="btns active">PUTHRI MODEL</a>
+                  <a href="#" class="btns">PUTHRI MODEL</a>
                     <i class="bx bxs-chevron-down more-arrow arrow"></i>
                     <ul class="more-sub-menu sub-menu">
                     <li><a href="puthri-model.php">PUTHRI MODEL</a></li>
@@ -139,7 +140,7 @@
           </div>
           <div class="row d-flex img-txt container p-10" style="margin:auto;">
               <div class="main-content col-lg-6 pr-0">
-                  <p>Puthri has been steadily pursuing the noble task of ensuring the completion of tertiary education among young girls from economically under privileged class. Their training and mentoring sessions have been focusing on imparting career-intentionality and confidence among these young scholars.<br><br>In the past academic year, Puthri introduced the concept of post-schooling intervention, aimed at 12th grade students who are in the verge of completing schooling. The project focuses on orienting theses scholars on university/college education and prepares them in advance to face the new challenges. They are mentored on aspects of university academic models and scope, the cultural environment, peer co-existence and pressures, relocation etc. this early-on mentoring gives them the confidence to face the challenges they might encounter in an university situation and further on.<br><br>The program trains these scholars to gauge options and opinions in order to make appropriate situational decisions, while also mentoring them to don the leaders hat as the circumstances warrant. The program also ropes in corporate leaders to deliver talk sessions to these scholars, which is aimed to further boost the knowledge and confidence in them. The leaders engage in talk sessions on topics such as prospective career opportunities in various industries, the corporate work world, the gains and pains associated in there and how to overcome situational shortcomings to emerge successful ,in order to climb up the organizational ladder.<br><br>The program also has role model sessions which encourages and motivates these young scholars to excel in their academic performance towards getting absorbed into the corporate band-wagon.</p>
+                  <p class="work-1-more">Puthri has been steadily pursuing the noble task of ensuring the completion of tertiary education among young girls from economically under privileged class. Their training and mentoring sessions have been focusing on imparting career-intentionality and confidence among these young scholars.<br><br>In the past academic year, Puthri introduced the concept of post-schooling intervention, aimed at 12th grade students who are in the verge of completing schooling. The project focuses on orienting theses scholars on university/college education and prepares them in advance to face the new challenges. They are mentored on aspects of university academic models and scope, the cultural environment, peer co-existence and pressures, relocation etc. this early-on mentoring gives them the confidence to face the challenges they might encounter in an university situation and further on.<br><br>The program trains these scholars to gauge options and opinions in order to make appropriate situational decisions, while also mentoring them to don the leaders hat as the circumstances warrant. The program also ropes in corporate leaders to deliver talk sessions to these scholars, which is aimed to further boost the knowledge and confidence in them. The leaders engage in talk sessions on topics such as prospective career opportunities in various industries, the corporate work world, the gains and pains associated in there and how to overcome situational shortcomings to emerge successful ,in order to climb up the organizational ladder.<br><br>The program also has role model sessions which encourages and motivates these young scholars to excel in their academic performance towards getting absorbed into the corporate band-wagon.</p>
               </div>
               <div class="mitr-banner col-lg-6 p-0">
                   <img src="img/pcp-right-img.png" alt="">
@@ -222,7 +223,7 @@
               <div class="row">
                 <div class="col-md-6 col-lg-3 footer-link">
                    <a href="#">
-                   <img src="img/white-logo.png" class="img-fluid footer-logo">
+                    <img src="img/white-logo.png" class="img-fluid footer-logo">
                    </a>
                    <p class="footer-text">Puthri is India’s first ever developmental project that seeks to create Career Intentionality among underprivileged girl students</p><br>
                    <a href="https://www.facebook.com/projectputhri"><img src="img/fb-img.png" class="img-fluid"></a>
@@ -248,29 +249,29 @@
                            <div class="linked">
                             <ul>
                               <li>
-                              <a href="index.php">Home</a>
+                                <a href="index.php"><p>Home</p></a>
                               </li>
                               <li>
-                              <a href="our_team.php">Our Team</a>
+                              <a href="our_team.php"><p>Our Team</p></a>
                               </li>
                               <li>
-                                <a href="get-involved.php">Get Involved</a>
+                                <a href="get-involved.php"><p>Get Involved</p></a>
                               </li>
                               <li>
-                                <a href="puthri-model .php">Puthri Model</a>
+                                <a href="puthri-model.php"><p>Puthri Model</p></a>
                               </li>
                               <ul class="footer-menulinks">
                               <li>
-                                <a href="news.php">News & Events</a>
+                                <a href="news.php"><p>News & Events</p></a>
                               </li>
                               <li>
-                                <a href="#">Blog</a>
+                                <a href="#"><p>Blog</p></a>
                               </li>
                               <li>
-                                <a href="#">Contact</a>
+                                <a href="#"><p>Contact</p></a>
                               </li>
                               <li>
-                                <a href="faq.php">FAQ</a>
+                                <a href="faq.php"><p>FAQ</p></a>
                               </li>
                             </ul>
                            </ul>
@@ -291,7 +292,7 @@
                       </div>
                       <div class="col-md-4">
                         <div class="footer-content" >
-                          Copyright @2021, AHCT. All Rights Reserved
+                          Copyright @2022, AHCT. All Rights Reserved
                         </div>
                       </div>
                       <div class="col-md-5">
@@ -313,7 +314,46 @@
       <a onclick="topFunction()" id="myBtn" title="Go to top"><img src="img/scroll-top.png"></a>
 
       <!-------------------------- Js files ----------------------------------------->                  
-               
+          <script>
+            $(document).ready(function() {
+    // Configure/customize these variables.
+    var showChar = 1450;  // How many characters are shown by default
+    var ellipsestext = "";
+    var moretext = "More...";
+    var lesstext = "Less...";
+
+
+    $('.work-1-more').each(function(index) {
+      console.log(index)
+        var content = $(this).html();
+ 
+        if(content.length > showChar) {
+ 
+            var c = content.substr(0, showChar);
+            var h = content.substr(showChar, content.length - showChar);
+ 
+            var html = c + '<span class="moreellipses">' + ellipsestext+ '&nbsp;</span><span class="morecontent"><span>'
+             + h + '</span>&nbsp;&nbsp;<a href="" class="morelink-1">' + moretext + '</a></span>';
+ 
+            $(this).html(html);
+        }
+ 
+    });
+ 
+    $(".morelink-1").click(function(){
+        if($(this).hasClass("less")) {
+            $(this).removeClass("less");
+            $(this).html(moretext);
+        } else {
+            $(this).addClass("less");
+            $(this).html(lesstext);
+        }
+        $(this).parent().prev().toggle();
+        $(this).prev().toggle();
+        return false;
+    });
+});
+          </script>     
       <script src="js/jquery.min.js"></script>
       <script src="js/popper.min.js"></script>
       <script src="js/maxcdn-bootstrap.min.js"></script>

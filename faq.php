@@ -16,7 +16,7 @@
       </head>
 
        <!-- Nav bar -->
-      <nav>
+       <nav>
       <div class="top-header">
         <div class="sub-container p-0">
         <div class="social-m-icon col-5 col-lg-2 p-0">
@@ -40,7 +40,7 @@
                     <i class="bx bx-x"></i>
                 </div>
                 <ul class="links">
-                  <li><a href="index.php" class="btns">HOME</a></li>
+                  <li class="pr-0"><a href="index.php" class="btns">HOME</a></li>
                   <li>
                   <a href="#" class="btns">ABOUT</a>
                     <i class="bx bxs-chevron-down htmlcss-arrow arrow"></i>
@@ -382,7 +382,7 @@
                       </div>
                       <div class="col-md-4">
                         <div class="footer-content" >
-                          Copyright @2021, AHCT. All Rights Reserved
+                          Copyright @2022, AHCT. All Rights Reserved
                         </div>
                       </div>
                       <div class="col-md-5">

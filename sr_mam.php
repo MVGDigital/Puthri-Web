@@ -9,11 +9,12 @@
     <link href='https://unpkg.com/boxicons@2.0.7/css/boxicons.min.css' rel='stylesheet'>
     <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="css/swiperslider.min.css">
+    <script src="js/code-jquery.js" type="text/javascript"></script>
   </head>
 
 
-      <!-- Nav bar -->
-      <nav>
+       <!-- Nav bar -->
+       <nav>
       <div class="top-header">
         <div class="sub-container p-0">
         <div class="social-m-icon col-5 col-lg-2 p-0">
@@ -37,9 +38,9 @@
                     <i class="bx bx-x"></i>
                 </div>
                 <ul class="links">
-                  <li><a href="index.php" class="btns active">HOME</a></li>
+                  <li class="pr-0"><a href="index.php" class="btns">HOME</a></li>
                   <li>
-                  <a href="#" class="btns">ABOUT</a>
+                  <a href="#" class="btns active">ABOUT</a>
                     <i class="bx bxs-chevron-down htmlcss-arrow arrow"></i>
                     <ul class="htmlCss-sub-menu sub-menu">
                       <li><a href="our_team.php">OUR TEAM</a></li>
@@ -138,7 +139,7 @@
           </div>
                   <p>
 Dr. Saundarya Rajesh is one of India’s most respected thought leaders on Diversity, Equity & Inclusion. An award-winning social entrepreneur, she is best known as the pioneer of Second Career opportunities for women in Corporate India. A relentless advocate of the potential of women in the workplace, Dr. Saundarya is the founder of successful social enterprises such as Avtar Career Creators, Flexi Careers India, Bruhat Insights Global and Avtar Human Capital Trust. Her latest brainchild myAvtar.com is India’s first diversity jobs portal for candidates belonging to the under-represented groups such as Women, People with Disabilities, People with LGBTQ+ identity and Veterans. A recipient of several awards and recognitions, Dr. Saundarya has irrevocably changed the game for the Indian Woman Professional, by introducing the concept of “Career Intentionality” and “Career Re-entry” to Corporate India. Her path breaking and exemplary work in the space of Diversity, Equity, and Inclusion has established her into a much sought-after advisor of choice for an impressive list of organizations and leaders on the benefits of a diversely inclusive workplace. Dr. Saundarya is a highly sought-after speaker at conferences — both national and international– and a firm believer in integrating work and life. In her pursuit to develop and inspire people to grow to their full potential, she has made her debut in through the book – “The 99 Day Diversity Challenge™” published by SAGE that hit the stands on October 30, 2018.
-<p>Project Puthri an initiative by AVTAR Human Capital Trust (AHCT), is India’s first ever developmental project that seeks to create Career Intentionality among underprivileged girl students. Dr.Saundarya Rajesh envisions through Puthri, an India, where young girls at the bottom of the socio - economic pyramid are able to rise to their fullest potential by breaking out of the domestic labour economy to graduate into the knowledge economy, thus, eventually being able to contribute directly to the GDP of our country.</p>
+<p  class="work-more">Project Puthri an initiative by AVTAR Human Capital Trust (AHCT), is India’s first ever developmental project that seeks to create Career Intentionality among underprivileged girl students. Dr.Saundarya Rajesh envisions through Puthri, an India, where young girls at the bottom of the socio - economic pyramid are able to rise to their fullest potential by breaking out of the domestic labour economy to graduate into the knowledge economy, thus, eventually being able to contribute directly to the GDP of our country.</p>
 </p>     
 <!-- <div class="social-m-icon">
           <img src="img/banner-fb.svg" alt="">
@@ -162,11 +163,11 @@ Dr. Saundarya Rajesh is one of India’s most respected thought leaders on Diver
               </h6>-->
 				<p class="text-center wdth100">Puthri's vision, an India, where young girls at the bottom of the socio - economic pyramid are able to rise to their fullest potential by breaking out of the domestic labour economy to graduate into the knowledge economy, thus, eventually being able to contribute directly to the GDP of our country</p>
             </div>
-            <div class="col-3"></div>
-            <div class="col-sm-6 col-lg-6">
-              <iframe class="responsive" height="300px" src="https://www.youtube.com/embed/K0yypav0zfw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <div class="col-2"></div>
+            <div class="col-sm-6 col-lg-8">
+            <iframe class="responsive " height="380px" src="https://www.youtube.com/embed/K0yypav0zfw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
           </div>
-          <div class="col-3"></div>
+          <div class="col-2"></div>
         </div>
       </div>
           <!--  -->
@@ -245,7 +246,7 @@ Dr. Saundarya Rajesh is one of India’s most respected thought leaders on Diver
                           <img src="img/card-home.svg" class="img-fluid">
                           <br><br>
                           <h5 class="first">head office</h5>
-                          <p class="sub-header counttext1">Udyog Gruhaa No. 10, East Coast Road, Neelangarai,<br> Chennai – India Pincode: 600041</p>
+                          <p class="sub-header counttext1 p-8">Udyog Gruhaa No. 10, East Coast Road, Neelangarai,<br> Chennai – India Pincode: 600041</p>
                         </div>
                         <div class='icon-paper'></div>
                     </div>
@@ -305,7 +306,7 @@ Dr. Saundarya Rajesh is one of India’s most respected thought leaders on Diver
               <div class="row">
                 <div class="col-md-6 col-lg-3 footer-link">
                    <a href="#">
-                   <img src="img/white-logo.png" class="img-fluid footer-logo">
+                    <img src="img/white-logo.png" class="img-fluid footer-logo">
                    </a>
                    <p class="footer-text">Puthri is India’s first ever developmental project that seeks to create Career Intentionality among underprivileged girl students</p><br>
                    <a href="https://www.facebook.com/projectputhri"><img src="img/fb-img.png" class="img-fluid"></a>
@@ -331,29 +332,29 @@ Dr. Saundarya Rajesh is one of India’s most respected thought leaders on Diver
                            <div class="linked">
                             <ul>
                               <li>
-                              <a href="index.php">Home</a>
+                                <a href="index.php"><p>Home</p></a>
                               </li>
                               <li>
-                              <a href="our_team.php">Our Team</a>
+                              <a href="our_team.php"><p>Our Team</p></a>
                               </li>
                               <li>
-                                <a href="get-involved.php">Get Involved</a>
+                                <a href="get-involved.php"><p>Get Involved</p></a>
                               </li>
                               <li>
-                                <a href="puthri-model.php">Puthri Model</a>
+                                <a href="puthri-model.php"><p>Puthri Model</p></a>
                               </li>
                               <ul class="footer-menulinks">
                               <li>
-                                <a href="news.php">News & Events</a>
+                                <a href="news.php"><p>News & Events</p></a>
                               </li>
                               <li>
-                                <a href="#">Blog</a>
+                                <a href="#"><p>Blog</p></a>
                               </li>
                               <li>
-                                <a href="#">Contact</a>
+                                <a href="#"><p>Contact</p></a>
                               </li>
                               <li>
-                                <a href="faq.php">FAQ</a>
+                                <a href="faq.php"><p>FAQ</p></a>
                               </li>
                             </ul>
                            </ul>
@@ -364,7 +365,7 @@ Dr. Saundarya Rajesh is one of India’s most respected thought leaders on Diver
                         <div class="footer-link">
                           <h5>Newsletter</h5>
                             <div class="linked">
-                            <p>You will be notified when something <br>new appears</p>
+                              <p>You will be notified when something <br>new appears</p>
                               <form action="">
                                 <input type="text"  pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,}$" title="Please Enter Valid Email Id" placeholder="Enter a valid mail ID" required>
                                 <input type='submit' name='submit' value='' id='submit' />
@@ -374,7 +375,7 @@ Dr. Saundarya Rajesh is one of India’s most respected thought leaders on Diver
                       </div>
                       <div class="col-md-4">
                         <div class="footer-content" >
-                          Copyright @2021, AHCT. All Rights Reserved
+                          Copyright @2022, AHCT. All Rights Reserved
                         </div>
                       </div>
                       <div class="col-md-5">
@@ -396,7 +397,47 @@ Dr. Saundarya Rajesh is one of India’s most respected thought leaders on Diver
       <a onclick="topFunction()" id="myBtn" title="Go to top"><img src="img/scroll-top.png"></a>
 
       <!-------------------------- Js files ----------------------------------------->                  
-               
+               <script>
+                 /*  */
+$(document).ready(function() {
+    // Configure/customize these variables.
+    var showChar = 200;  // How many characters are shown by default
+    var ellipsestext = "";
+    var moretext = "More...";
+    var lesstext = "Less...";
+
+
+    $('.work-more').each(function(index) {
+      console.log(index)
+        var content = $(this).html();
+ 
+        if(content.length > showChar) {
+ 
+            var c = content.substr(0, showChar);
+            var h = content.substr(showChar, content.length - showChar);
+ 
+            var html = c + '<span class="moreellipses">' + ellipsestext+ '&nbsp;</span><span class="morecontent"><span>'
+             + h + '</span>&nbsp;&nbsp;<a href="" class="morelink">' + moretext + '</a></span>';
+ 
+            $(this).html(html);
+        }
+ 
+    });
+ 
+    $(".morelink").click(function(){
+        if($(this).hasClass("less")) {
+            $(this).removeClass("less");
+            $(this).html(moretext);
+        } else {
+            $(this).addClass("less");
+            $(this).html(lesstext);
+        }
+        $(this).parent().prev().toggle();
+        $(this).prev().toggle();
+        return false;
+    });
+});
+               </script>
       <script src="js/jquery.min.js"></script>
       <script src="js/popper.min.js"></script>
       <script src="js/maxcdn-bootstrap.min.js"></script>

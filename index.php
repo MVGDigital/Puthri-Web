@@ -41,7 +41,7 @@
                     <i class="bx bx-x"></i>
                 </div>
                 <ul class="links">
-                  <li><a href="index.php" class="btns active">HOME</a></li>
+                  <li class="pr-0"><a href="index.php" class="btns active">HOME</a></li>
                   <li>
                   <a href="#" class="btns">ABOUT</a>
                     <i class="bx bxs-chevron-down htmlcss-arrow arrow"></i>
@@ -124,10 +124,10 @@
               <ul>
                 <li>
                   <a class="ns-img" href="img/banner-1.jpg"></a>
-                      <div class="container rl-width">
-                        <div class="row">
-                          <div class="col-sm-11 col-md-11 col-lg-6 col-xs-6">
-                            <h1 class="banner-text"> Ensure every girl student<br>pursuesa white collar job upon graduation</h1>
+                      <div class="container rl-width hero-sec-marg">
+                        <div class="row hero-sec-marg">
+                          <div class="col-sm-11 col-md-11 col-lg-7 col-xs-7">
+                            <h1 class="banner-text home-banner-head"> Ensure every girl student<br>pursuesa white collar job upon graduation</h1>
                               <p class="counttext1 mrgb">Make 10,000 government school girl students ‘Career Intentional’ every year</p>
                               <button class="donate">donate now</button>
                           </div>
@@ -135,10 +135,10 @@
                     </li>
                   <li>
                   <a class="ns-img" href="img/banner-2.jpg"></a>
-                      <div class="container">
-                        <div class="row">
-                          <div class="col-sm-11 col-md-11 col-lg-6 col-xs-6">
-                            <h1 class="banner-text"> Facilitate girl students<br>into tertiary education</h1>
+                      <div class="container hero-sec-marg">
+                        <div class="row hero-sec-marg">
+                          <div class="col-sm-11 col-md-11 col-lg-7 col-xs-7">
+                            <h1 class="banner-text home-banner-head"> Facilitate girl students<br>into tertiary education</h1>
                               <p class="counttext1 mrgb">Make 10,000 government school girl students ‘Career Intentional’ every year</p>
                               <button class="donate">donate now</button>
                           </div>
@@ -146,10 +146,10 @@
                     </li>
                   <li>
                   <a class="ns-img" href="img/banner-3.jpg"></a>
-                      <div class="container">
-                        <div class="row">
-                          <div class="col-sm-11 col-md-11 col-lg-6 col-xs-6">
-                            <h1 class="banner-text"> Facilitate every girl<br>student pursue a white collar Job</h1>
+                      <div class="container hero-sec-marg">
+                        <div class="row ">
+                          <div class="col-sm-11 col-md-11 col-lg-7 col-xs-7">
+                            <h1 class="banner-text home-banner-head"> Facilitate every girl<br>student pursue a white collar Job</h1>
                               <p class="counttext1 mrgb">Make 10,000 government school girl students ‘Career Intentional’ every year</p>
                               <button class="donate">donate now</button>
                           </div>
@@ -291,73 +291,33 @@ $("#pop-6").click(function(){
 </p> -->
 <!--  -->
 
-<p style="margin-top: 3px;" class="more">
+<p style="margin-top: 3px;" class="home-more">
   Avtar Human Capital Trust (AHCT) conducted a research study in 2016 to understand what made over 500
    corporation school girl students (over the years 1992 to 2010) break out of poverty and pursue white collar jobs today. 
    Research says, a well-rounded mentoring & training program will inspire and encourage the government school girls to study 
    well at school, decrease their dropout rates, support & motivate them to take up tertiary education and grow into a confident
     career professional, thus elevating them from their present economic status, to live a life of fulfillment & advancement</p>
-  <script>
-    $(document).ready(function() {
-    // Configure/customize these variables.
-    var showChar = 299;  // How many characters are shown by default
-    var ellipsestext = "";
-    var moretext = "More...";
-    var lesstext = "Less...";
-    
-
-    $('.more').each(function() {
-        var content = $(this).html();
- 
-        if(content.length > showChar) {
- 
-            var c = content.substr(0, showChar);
-            var h = content.substr(showChar, content.length - showChar);
- 
-            var html = '<span>'+c+'</span' + '<span class="moreellipses">' + ellipsestext+ '&nbsp;</span><span class="morecontent"><span>' + h + 
-            '</span>&nbsp;&nbsp;<a href="" class="morelink">' + moretext + '</a></span>';
- 
-            $(this).html(html);
-        }
- 
-    });
- 
-    $(".morelink").click(function(){
-        if($(this).hasClass("less")) {
-            $(this).removeClass("less");
-            $(this).html(moretext);
-        } else {
-            $(this).addClass("less");
-            $(this).html(lesstext);
-        }
-        // $(this).parent().prev().toggle();
-        $(this).prev().toggle();
-        return false;
-    });
-});
-  </script>
        <!--  -->
         <section class="center slider m-0">
-          <div>
+        <div>
             <div class="hover">
-              
                 <div class="content pos-r">
                 <div class="content-overlay-home"></div>
-                    <img src="img/Talent Search.png">
-                    <div id="pop-1" class="content-details fadeIn-bottom hover-txt-home">
-                      <h5 id="pop-1" class="counttext1 ">Talent Search...</h5>
-                      <!-- <p class="content-text pos-ab">The year 2021 saw the unveiling of our most-awaited and planned series of events to identify our Star Puthris - The Talent Search Event. Puthri encourages the students to showcase their talent through Talent contests under different categories like Eloquent contest, Poster Making competition, Essay Writing, AdZap et al.</p> -->
+                    <img src="img/Role Model 2.png" >
+                    <div id="pop-4" class="content-details fadeIn-bottom hover-txt-home">
+                      <h5 class="counttext1">Role Model...</h5>
                     </div>
-                   <div id="info-1" class="after-click">
+
+                    <div id="info-4" class="after-click">
                      <div class="click-content">
-                     <h5 class="counttext1 ">Talent Search...</h5>
-                      <p class="content-text">The year 2021 saw the unveiling of our most-awaited and planned series of events to identify our Star Puthris - The Talent Search Event. Puthri encourages the students to showcase their talent through Talent contests under different categories like Eloquent contest, Poster Making competition, Essay Writing, AdZap et al...</p>
+                     <h5 class="counttext1 ">Role Model...</h5>
+                      <p class="content-text">Role models will lead by example and inspire Puthri scholars to achieve their potential in life. They will share real life success stories with these girls as to how they achieved success despite the various challenges & hurdles in their life and give them the confidence to overcome every hurdle with perseverance and eventually succeed in life.</p>
                       </div>
                    </div>
-                </div><!-- end -->
-             
-            </div>
+                </div>
+              </div>
           </div>
+          
           <div>
             <div class="hover">
                 <div class="content pos-r">
@@ -396,24 +356,26 @@ $("#pop-6").click(function(){
           </div>
           <div>
             <div class="hover">
+              
                 <div class="content pos-r">
                 <div class="content-overlay-home"></div>
-                    <img src="img/Role Model 2.png" >
-                    <div id="pop-4" class="content-details fadeIn-bottom hover-txt-home">
-                      <h5 class="counttext1">Role Model...</h5>
+                    <img src="img/Talent Search.png">
+                    <div id="pop-1" class="content-details fadeIn-bottom hover-txt-home">
+                      <h5 id="pop-1" class="counttext1 ">Talent Search...</h5>
+                      <!-- <p class="content-text pos-ab">The year 2021 saw the unveiling of our most-awaited and planned series of events to identify our Star Puthris - The Talent Search Event. Puthri encourages the students to showcase their talent through Talent contests under different categories like Eloquent contest, Poster Making competition, Essay Writing, AdZap et al.</p> -->
                     </div>
-
-                    <div id="info-4" class="after-click">
+                   <div id="info-1" class="after-click">
                      <div class="click-content">
-                     <h5 class="counttext1 ">Role Model...</h5>
-                      <p class="content-text">Role models will lead by example and inspire Puthri scholars to achieve their potential in life. They will share real life success stories with these girls as to how they achieved success despite the various challenges & hurdles in their life and give them the confidence to overcome every hurdle with perseverance and eventually succeed in life.</p>
+                     <h5 class="counttext1 ">Talent Search...</h5>
+                      <p class="content-text">The year 2021 saw the unveiling of our most-awaited and planned series of events to identify our Star Puthris - The Talent Search Event. Puthri encourages the students to showcase their talent through Talent contests under different categories like Eloquent contest, Poster Making competition, Essay Writing, AdZap et al...</p>
                       </div>
                    </div>
-                </div>
-              </div>
+                </div><!-- end -->
+             
+            </div>
           </div>
+
           <div>
-            
           <div class="hover">
                 <div class="content pos-r">
                 <div class="content-overlay-home"></div>
@@ -496,10 +458,11 @@ $("#pop-6").click(function(){
        About-Us
       ==================================================================-->
       <section class="about-us mrg-65">
-        <div class="about">
+        <div class="about-count">
           <div class="container">
           <div class="poverty p-6per">
                   <h6 class="t-a-left">#IMPACT</h6>
+                  <h3 class="t-a-left">Our impact</h3>
                 </div>
             <div class="row j-c-c">
             
@@ -507,16 +470,16 @@ $("#pop-6").click(function(){
                 <!-- start count stats -->
               <div id="counter-stats" class="wow fadeInRight count-er" data-wow-duration="1.4s">
                 <div class=" stats rate1000 count-er p-l-25 count-first">
-                  <div class="counting" data-count="1000">0</div> <h3 class="d-inline counttext1 plus-55">+</h3><br>       
+                  <div class="counting home-cout" data-count="1000">0</div> <h3 class="d-inline counttext1 plus-55">+</h3><br>       
                 </div>
                 <div class=" stats count-er p-l-25">
-                  <div class="counting" data-count="65">0</div> <h3 class="d-inline counttext1 plus-55">+</h3> <br>
+                  <div class="counting home-cout" data-count="65">0</div> <h3 class="d-inline counttext1 plus-55">+</h3> <br>
                 </div>
                 <div class=" stats count-er p-l-25">    
-                  <div class="counting" data-count="10">0</div> <h3 class="d-inline counttext1 plus-55">+</h3> <br>  
+                  <div class="counting home-cout" data-count="10">0</div> <h3 class="d-inline counttext1 plus-55">+</h3> <br>  
                 </div>
                 <div class="stats count-er p-l-25">   
-                  <div class="counting" data-count="50">0</div> <h3 class="d-inline counttext1 plus-55">+</h3>
+                  <div class="counting home-cout" data-count="50">0</div> <h3 class="d-inline counttext1 plus-55">+</h3>
                 </div>
               </div>
               <div class="counting-text count-er p-0">
@@ -548,7 +511,7 @@ $("#pop-6").click(function(){
             </div>
             <div class="col-2"></div>
             <div class="col-sm-6 col-md-8 col-lg-8 mt-30">
-              <iframe class="responsive" height="300px" src="https://www.youtube.com/embed/K0yypav0zfw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+              <iframe class="responsive " height="380px" src="https://www.youtube.com/embed/K0yypav0zfw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
           </div>
           <div class="col-2"></div>
         </div>
@@ -566,17 +529,17 @@ $("#pop-6").click(function(){
               <div class="card-3 col-12 col-md-5 col-lg-3 col-xl-3 p-0">
                 <img src="img/feature-1.png" class="responsive">
                 <h5 class="impact-mnth">Schools of the Month</h5>
-                <h4 class="impact-date">09 Jul 2021</h4>
+                <h4 class="impact-date">09 Jul 2022</h4>
               </div>
               <div class="card-3 col-12 col-md-5 col-lg-3 col-xl-3 p-0">
                 <img src="img/feature-2.png" class="responsive">
                 <h5 class="impact-mnth">Schools of the Month</h5>
-                <h4 class="impact-date">09 Jul 2021</h4>
+                <h4 class="impact-date">09 Jul 2022</h4>
               </div>
               <div class="card-3 col-12 col-md-5 col-lg-3 col-xl-3 p-0">
                 <img src="img/feature-3.png" class="responsive">
                 <h5 class="impact-mnth">Schools of the Month</h5>
-                <h4 class="impact-date">09 Jul 2021</h4>
+                <h4 class="impact-date">09 Jul 2022</h4>
               </div>
             </div>
           </div>
@@ -602,33 +565,33 @@ $("#pop-6").click(function(){
           <div class=" col-12 col-lg-6 col-md-12 col-sm-6 p-10">
           <div class="row p-0">
               <div class="col-6 col-sm-6 col-lg-4 home-space p-10">
-    <div class="newcl">
-                <img class="height-img" src="image/agni-college-logo.png" class="img-fluid">
-    </div>
+            <div class="newcl">
+                <img class="height-img"  src="image/apollo tyres.png" class="img-fluid">
+            </div>
               </div>
-              <div class="col-6 col-sm-6 col-lg-4 home-space p-10">
-                <div class="newcl">
-    <img class="height-img"  src="image/apollo tyres.png" class="img-fluid">
-</div>
-              </div>
-              <div class="col-6 col-lg-4 home-space p-10">
-                <div class="newcl">
-    <img class="height-img" src="image/CavinKare.png" class="img-fluid">
-</div>
-              </div>
-              <div class="col-6 col-lg-4 space home-space p-10">
-              <div class="newcl">
-                <img class="height-img" src="image/DGVC_LOGO.png" class="img-fluid">
-              </div>
-              </div>
-              <div class="col-6 col-lg-4 space home-space p-10">
-              <div class="newcl">
-                <img class="height-img" src="image/ITC.png" class="img-fluid">
-              </div>
-              </div>
-              <div class="col-6 col-lg-4 space home-space p-10">
+            <div class="col-6 col-sm-6 col-lg-4 home-space p-10">
+            <div class="newcl">
+                <img class="height-img" src="image/CavinKare.png" class="img-fluid">
+            </div>
+            </div>
+            <div class="col-6 col-lg-4 home-space p-10">
               <div class="newcl">
                 <img class="height-img" src="image/Flex.png" class="img-fluid">
+            </div>
+              </div>
+              <div class="col-6 col-lg-4 space home-space p-10">
+              <div class="newcl">
+                <img class="height-img" src="image/agni-college-logo.png" class="img-fluid">
+              </div>
+              </div>
+              <div class="col-6 col-lg-4 space home-space p-10">
+              <div class="newcl">
+              <img class="height-img" src="image/DGVC_LOGO.png" class="img-fluid">
+              </div>
+              </div>
+              <div class="col-6 col-lg-4 space home-space p-10">
+              <div class="newcl">
+              <img class="height-img" src="image/ITC.png" class="img-fluid">
               </div>
               </div>
               </div>
@@ -642,19 +605,20 @@ $("#pop-6").click(function(){
           <div class="col-12 col-md-12 col-xl-6 mt-50 p-10">
             <div class="row p-0">
               <div class="col-6 col-sm-6 col-lg-4 home-space">
-                <img src="image/bradken.png" class="img-fluid">
+              <img src="image/Danfoss_high_res.png" class="img-fluid" >
               </div>
               <div class="col-6 col-sm-6 col-lg-4 home-space">
-                <img src="image/cat.png" class="img-fluid">
+              <img src="image/Cognizant_Outreach.png" class="img-fluid" >
               </div>
               <div class="col-6 col-lg-4 home-space">
-                <img src="image/CII_YI.png" class="img-fluid">
+              <img src="image/cat.png" class="img-fluid">
               </div>
               <div class="col-6 col-lg-4 space home-space">
-                <img src="image/Cognizant_Outreach.png" class="img-fluid" >
+              <img src="image/bradken.png" class="img-fluid">
+                
               </div>
               <div class="col-6 col-lg-4 space home-space">
-                <img src="image/Danfoss_high_res.png" class="img-fluid" >
+              <img src="image/CII_YI.png" class="img-fluid">
               </div>
               <div class="col-6 col-lg-4 space home-space">
                 <img src="image/D&B.png" class="img-fluid">
@@ -673,7 +637,7 @@ $("#pop-6").click(function(){
       </div>
     </section>
     
-<section class="compliance">
+<section class="compliance mt-60">
       <h6>#COMPLIANCE</h6>
         <h3 class="fnt-sub-hed txt-bg-color mb-50">Regulatory & Government Compliance </h3>
         <!-- <p class="txt-color">AHCT is complied under 12AA certified, 80/g tax  exemption & FCRA (amendment bill act 2020)</p> -->
@@ -711,7 +675,7 @@ $("#pop-6").click(function(){
       <!--==================================================================
        Testimonials
       ==================================================================-->
-      <section class="testimonials">
+      <section class="testimonials mt-60">
         <h6>#FEEDBACK</h6>
         <h3 class="fnt-sub-hed">Volunteers Feedback</h3>
         <div class="container p-10">
@@ -735,7 +699,7 @@ $("#pop-6").click(function(){
                               </div>
                             </div>
                           </div>
-                          <div class="col-1"></div>
+                          <div class="col-1 vol-dnone"></div>
                         <div class="col-md-6 col-lg-5">
                           <div class="carousel-caption">
                               <div class="row">
@@ -752,7 +716,7 @@ $("#pop-6").click(function(){
                         </div>
                       </div>
                     </div>
-                    <div class="col-1"></div>
+                    <div class="col-1 vol-dnone"></div>
 					            <div class="carousel-item">
                       <div class="bg"></div>
                           <div class="row">
@@ -770,7 +734,7 @@ $("#pop-6").click(function(){
                               </div>
                             </div>
                           </div>
-                          <div class="col-1"></div>
+                          <div class="col-1 vol-dnone"></div>
                         <div class="col-md-6 col-lg-5">
                           <div class="carousel-caption">
                               <div class="row">
@@ -787,7 +751,7 @@ $("#pop-6").click(function(){
                         </div>
                       </div>
                     </div>
-                    <div class="col-1"></div>
+                    <div class="col-1 vol-dnone"></div>
 					  <div class="carousel-item">
                       <div class="bg"></div>
                           <div class="row">
@@ -805,7 +769,7 @@ $("#pop-6").click(function(){
                               </div>
                             </div>
                           </div>
-                          <div class="col-1"></div>
+                          <div class="col-1 vol-dnone"></div>
                         <div class="col-md-6 col-lg-5">
                           <div class="carousel-caption">
                               <div class="row">
@@ -822,8 +786,8 @@ $("#pop-6").click(function(){
                         </div>
                       </div>
                     </div>
-                    <div class="col-1"></div>
-					 <div class="carousel-item">
+                    <div class="col-1 vol-dnone"></div>
+					          <div class="carousel-item">
                       <div class="bg"></div>
                           <div class="row">
                             <div class="col-md-6 col-lg-5">
@@ -842,7 +806,7 @@ $("#pop-6").click(function(){
                           </div>
 						  </div>
 						  </div>
-              <div class="col-1"></div>
+              <div class="col-1 vol-dnone"></div>
                     <div class="carousel-item">
                       <div class="bg"></div>
                           <div class="row">
@@ -860,7 +824,7 @@ $("#pop-6").click(function(){
                               </div>
                             </div>
                           </div>
-                          <div class="col-1"></div>
+                          <div class="col-1 vol-dnone"></div>
                         <div class="col-md-6 col-lg-5">
                           <div class="carousel-caption">
                               <div class="row">
@@ -875,7 +839,7 @@ $("#pop-6").click(function(){
                             </div>
                           </div>
                         </div>
-                        <div class="col-1"></div>
+                        <div class="col-1 vol-dnone"></div>
                      </div>
                     </div>       
                   </div>
@@ -899,7 +863,7 @@ $("#pop-6").click(function(){
       <!--==================================================================
        Involvation
       ==================================================================-->
-      <section class="mt-50">
+      <section class="mt-50 involved-section">
         <div class="involved-text">
           <div class="container">
             <div class="row j-ctr">
@@ -1040,7 +1004,7 @@ $("#pop-6").click(function(){
                       </div>
                       <div class="col-md-4">
                         <div class="footer-content" >
-                          Copyright @2021, AHCT. All Rights Reserved
+                          Copyright @2022, AHCT. All Rights Reserved
                         </div>
                       </div>
                       <div class="col-md-5">
@@ -1129,6 +1093,45 @@ $("#pop-6").click(function(){
       }
       });  
       });
+
+      /*  */
+      $(document).ready(function() {
+    // Configure/customize these variables.
+    var showChar = 250;  // How many characters are shown by default
+    var ellipsestext = "";
+    var moretext = "More...";
+    var lesstext = "Less...";
+    
+
+    $('.home-more').each(function() {
+        var content = $(this).html();
+ 
+        if(content.length > showChar) {
+ 
+            var c = content.substr(0, showChar);
+            var h = content.substr(showChar, content.length - showChar);
+ 
+            var html = '<span>'+c+'</span' + '<span class="moreellipses">' + ellipsestext+ '&nbsp;</span><span class="morecontent"><span>' + h + 
+            '</span>&nbsp;&nbsp;<a href="" class="home-morelink">' + moretext + '</a></span>';
+ 
+            $(this).html(html);
+        }
+ 
+    });
+ 
+    $(".home-morelink").click(function(){
+        if($(this).hasClass("less")) {
+            $(this).removeClass("less");
+            $(this).html(moretext);
+        } else {
+            $(this).addClass("less");
+            $(this).html(lesstext);
+        }
+        // $(this).parent().prev().toggle();
+        $(this).prev().toggle();
+        return false;
+    });
+});
   /* Volunteers Feedback More Button */
 $(document).ready(function() {
     // Configure/customize these variables.

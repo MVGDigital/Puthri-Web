@@ -11,7 +11,7 @@
       </head>
 
 
-       <!-- Nav bar -->
+        <!-- Nav bar -->
       <nav>
       <div class="top-header">
         <div class="sub-container p-0">
@@ -36,7 +36,7 @@
                     <i class="bx bx-x"></i>
                 </div>
                 <ul class="links">
-                  <li><a href="index.php" class="btns">HOME</a></li>
+                  <li class="pr-0"><a href="index.php" class="btns">HOME</a></li>
                   <li>
                   <a href="#" class="btns">ABOUT</a>
                     <i class="bx bxs-chevron-down htmlcss-arrow arrow"></i>

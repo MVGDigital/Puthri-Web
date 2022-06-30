@@ -9,11 +9,12 @@
     <link href='https://unpkg.com/boxicons@2.0.7/css/boxicons.min.css' rel='stylesheet'>
     <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="css/swiperslider.min.css">
+    <script src="js/code-jquery.js" type="text/javascript"></script>
   </head>
 
 
        <!-- Nav bar -->
-      <nav>
+       <nav>
       <div class="top-header">
         <div class="sub-container p-0">
         <div class="social-m-icon col-5 col-lg-2 p-0">
@@ -37,7 +38,7 @@
                     <i class="bx bx-x"></i>
                 </div>
                 <ul class="links">
-                  <li><a href="index.php" class="btns">HOME</a></li>
+                  <li class="pr-0"><a href="index.php" class="btns">HOME</a></li>
                   <li>
                   <a href="#" class="btns">ABOUT</a>
                     <i class="bx bxs-chevron-down htmlcss-arrow arrow"></i>
@@ -84,7 +85,7 @@
                 </li>
                 
                 <li class="puthri-m-mob">
-                  <a href="#" class="btns active">NEWS &amp; EVENTS</a>
+                  <a href="#" class="btns">NEWS &amp; EVENTS</a>
                     <i class="bx bxs-chevron-down js-arrow arrow"></i>
                     <ul class="js-sub-menu sub-menu">
                     <li><a href="news.php">NEWS &amp; EVENTS</a></li>
@@ -122,8 +123,7 @@
         <div class="row">
           <div class="col-12 mt-3">
             <div class="navigation-section">
-              <a href="index.php" class="navigation-links"><h5>home</h5></a> >
-              <a href="#" class="navigation-links"><h5>Puthri Model</h5></a> >
+              <a href="#" class="navigation-links"><h5>News &amp; Events</h5></a>>
               <a href="index.php" class="navigation-links"><h5>Udyog Utsav</h5></a>
             </div>
           </div>
@@ -140,7 +140,7 @@
               <div class="main-content col-lg-7 p-10">
                   <p><b>UDYOG UTSAV</b> is one of its kind events that turns the spotlight on India’s underprivileged daughters to choose educational courses and career paths from a variety of options that will help them to rise out of poverty. Educational Institutions (such as Arts & Science Colleges, Engineering Colleges, Medical Colleges, and other institutions) and Corporates participate in this interactive event. UDYOG UTSAV will feature knowledge sharing sessions delivered by organizations like yours to explain the available career opportunities in your industry and in the process build aspirations among young minds to focus on education to build sustainable careers. The knowledge sharing sessions will be followed with an informal interaction with industry experts and youth icons who will share information on how educated young girls can be the fulcrum of support and sustenance for their families</p>
                   <p>This conference cum career expo aims to inspire and motivate underprivileged girl children to pursue their tertiary education, build careers with organizations to contribute to the growing Indian economy.</p>
-                  <p>As part of AHCT’s endeavour to bring the underprivileged girl children close to pursuing careers, Project Puthri introduced India’s only career envisioning event aimed at young girls, who are part of the initiative, Udyog Utsav. The event brings together business leaders, academic leaders, policy-makers and many role models from different walks of life to put together an experience of its kind for Puthri scholars to turn their dreams into reality. The event has emerged as a default evolution in the Puthri paradigm, as the scholars tend to pick up the intentionality curve from theory to practice. The clarity that emerges out of these experiences are direct and intense, and also lasts longer in the minds of our Puthri scholars.</p>
+                  <p class="work-1-more">As part of AHCT’s endeavour to bring the underprivileged girl children close to pursuing careers, Project Puthri introduced India’s only career envisioning event aimed at young girls, who are part of the initiative, Udyog Utsav. The event brings together business leaders, academic leaders, policy-makers and many role models from different walks of life to put together an experience of its kind for Puthri scholars to turn their dreams into reality. The event has emerged as a default evolution in the Puthri paradigm, as the scholars tend to pick up the intentionality curve from theory to practice. The clarity that emerges out of these experiences are direct and intense, and also lasts longer in the minds of our Puthri scholars.</p>
               </div> 
               <div class="main-banner width100 col-lg-5 p-10">
                   <img src="img/uu-txt-img.png" alt="">
@@ -269,7 +269,7 @@
               <div class="row">
                 <div class="col-md-6 col-lg-3 footer-link">
                    <a href="#">
-                   <img src="img/white-logo.png" class="img-fluid footer-logo">
+                    <img src="img/white-logo.png" class="img-fluid footer-logo">
                    </a>
                    <p class="footer-text">Puthri is India’s first ever developmental project that seeks to create Career Intentionality among underprivileged girl students</p><br>
                    <a href="https://www.facebook.com/projectputhri"><img src="img/fb-img.png" class="img-fluid"></a>
@@ -295,29 +295,29 @@
                            <div class="linked">
                             <ul>
                               <li>
-                              <a href="index.php">Home</a>
+                                <a href="index.php"><p>Home</p></a>
                               </li>
                               <li>
-                              <a href="our_team.php">Our Team</a>
+                              <a href="our_team.php"><p>Our Team</p></a>
                               </li>
                               <li>
-                                <a href="get-involved.php">Get Involved</a>
+                                <a href="get-involved.php"><p>Get Involved</p></a>
                               </li>
                               <li>
-                                <a href="puthri-model.php">Puthri Model</a>
+                                <a href="puthri-model.php"><p>Puthri Model</p></a>
                               </li>
                               <ul class="footer-menulinks">
                               <li>
-                                <a href="news.php">News & Events</a>
+                                <a href="news.php"><p>News & Events</p></a>
                               </li>
                               <li>
-                                <a href="#">Blog</a>
+                                <a href="#"><p>Blog</p></a>
                               </li>
                               <li>
-                                <a href="#">Contact</a>
+                                <a href="#"><p>Contact</p></a>
                               </li>
                               <li>
-                                <a href="faq.php">FAQ</a>
+                                <a href="faq.php"><p>FAQ</p></a>
                               </li>
                             </ul>
                            </ul>
@@ -328,7 +328,7 @@
                         <div class="footer-link">
                           <h5>Newsletter</h5>
                             <div class="linked">
-                            <p>You will be notified when something <br>new appears</p>
+                              <p>You will be notified when something <br>new appears</p>
                               <form action="">
                                 <input type="text"  pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,}$" title="Please Enter Valid Email Id" placeholder="Enter a valid mail ID" required>
                                 <input type='submit' name='submit' value='' id='submit' />
@@ -338,7 +338,7 @@
                       </div>
                       <div class="col-md-4">
                         <div class="footer-content" >
-                          Copyright @2021, AHCT. All Rights Reserved
+                          Copyright @2022, AHCT. All Rights Reserved
                         </div>
                       </div>
                       <div class="col-md-5">
@@ -359,8 +359,48 @@
 
       <a onclick="topFunction()" id="myBtn" title="Go to top"><img src="img/scroll-top.png"></a>
 
-      <!-------------------------- Js files ----------------------------------------->                  
-               
+      <!-------------------------- Js files ----------------------------------------->  
+      <script>
+        $(document).ready(function() {
+    // Configure/customize these variables.
+    var showChar = 150;  // How many characters are shown by default
+    var ellipsestext = "";
+    var moretext = "More...";
+    var lesstext = "Less...";
+
+
+    $('.work-1-more').each(function(index) {
+      console.log(index)
+        var content = $(this).html();
+ 
+        if(content.length > showChar) {
+ 
+            var c = content.substr(0, showChar);
+            var h = content.substr(showChar, content.length - showChar);
+ 
+            var html = c + '<span class="moreellipses">' + ellipsestext+ '&nbsp;</span><span class="morecontent"><span>'
+             + h + '</span>&nbsp;&nbsp;<a href="" class="morelink">' + moretext + '</a></span>';
+ 
+            $(this).html(html);
+        }
+ 
+    });
+ 
+    $(".morelink").click(function(){
+        if($(this).hasClass("less")) {
+            $(this).removeClass("less");
+            $(this).html(moretext);
+        } else {
+            $(this).addClass("less");
+            $(this).html(lesstext);
+        }
+        $(this).parent().prev().toggle();
+        $(this).prev().toggle();
+        return false;
+    });
+});
+      </script>                
+               <!--  -->
       <script src="js/jquery.min.js"></script>
       <script src="js/popper.min.js"></script>
       <script src="js/maxcdn-bootstrap.min.js"></script>
