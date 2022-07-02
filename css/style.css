@@ -42,6 +42,12 @@ src: url('../fonts/Segoe UI.ttf');
           font-weight: normal;
           src: url('../fonts/Lato-Regular.ttf');
           }
+          @font-face {   
+            font-family: 'Monoton';                                              
+            font-style: normal;
+            font-weight: 400;
+            src: url('../fonts/Monoton-Regular.ttf');
+            }
 
 body {
   margin: 0 0 var(--header-height) 0;
@@ -59,6 +65,8 @@ body {
 /* HEADINGS */
 .home-banner-head {
   font-family: 'Mulish'!important;
+  line-height: 50px!important;
+  font-weight: 800px!important;
 }
 h1{
   font-family: 'Lato'!important;
@@ -147,6 +155,9 @@ a:hover{
 }
 .mb-16{
   margin-bottom: 16px!important;
+}
+.mb-48{
+  margin-bottom: 48px!important;
 }
 .mb-64{
   margin-bottom: 64px!important;
@@ -241,10 +252,10 @@ button:focus {
 #section-padding{
   padding: 70px 0;
 }
- .logo{
+.navbar .logo{
   display: flex;
   align-items: center;
-  height: 50px;
+  height: 80px;
 }
 .nav-logo{
   height: auto!important;
@@ -262,14 +273,16 @@ button:focus {
 .border{
   height: 80px;
   width: 2px;
-  margin: 0 16px 0 auto;
+  margin: 0 0px 0 auto;
   border: 1px solid #EA1584!important;
 }
 .contact-btn{
-  padding: 9px 20px;
+  padding: 9px 13px;
   width: 148px;
+  height: 48px;
+  font-family: 'Segoe UI'!important;
   background-color: #79307E;
-  font-size: 16px;
+  font-size: 18px;
   text-transform: uppercase;
   border: none;
   border-radius: 5px;
@@ -323,16 +336,15 @@ width: 60%;
 }
  .home-space{
   margin-bottom: 16px;
+    height: 112px;
+    background-color: #D9D9D9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .home-space .newcl{
-  background-color: #D9D9D9;
-  margin-right: 8px;
-    margin-left: 8px;
+  height: 80px;
 } 
-.home-space .height-img{
-  margin-top: 7px;
-  margin-bottom: 7px;
-}
 .p-mpadd-space{
   padding: 26px 0;
 }
@@ -436,9 +448,6 @@ width: 60%;
   line-height: 45px!important;
 }
 /* Card - Graph */
-.ngo-mrg-b{
-  margin-bottom: 31px!important;
-}
 .mob-banner{
   display: none;
 }
@@ -493,6 +502,9 @@ width: 60%;
   text-align: start;
   font-weight: 700;
   color: #fff;
+}
+.hero-sec-marg{
+  margin: 12% auto 0 auto!important;
 }
 .sub-text{
   color: #fff;
@@ -574,12 +586,13 @@ width: 60%;
   margin:10px 0;
 }
 .effect.homecontent{
-  height: 170px;
+  height: 176px;
   max-width: 190px!important;
   margin-bottom:10px;
   z-index: 3;
   background: #fff;
   border-radius: 10px;
+  position: relative;
 }
 .lam-mrg-r{
   margin-left: 16px!important;
@@ -789,7 +802,7 @@ section#counter-stats {
 }
 .stats {
   display: contents;
-  font-size: 50px;
+  font-size: 45px;
   font-weight: 700;
   color: #fff;
   padding-left:40px;
@@ -945,9 +958,19 @@ section#counter-stats {
 }
 .home-card-color{
  color: #EA1584;
- margin-top: 0.5rem;
+ margin: 0;
  font-size: 18px!important;
  font-weight: 600!important;
+ position: absolute;
+ bottom: 16px;
+ left: 25px;
+ right: 25px;
+}
+.get-in-btn{
+  padding-right: 0!important;
+}
+.get-in-btn button{
+  width: 100%;
 }
 .img{
   border: 1px solid #bf00ff;
@@ -957,7 +980,7 @@ section#counter-stats {
   background: url(../img/lighting-lamp.png);
   height: 400px;
   width: 100%;
-  padding: 50px 0;
+  padding: 62px 0;
 }
 .involved{
   padding-top: 50px;
@@ -1290,6 +1313,7 @@ input[type=submit]:hover {
   justify-content: space-between;
   align-items: center;
   margin-bottom: 0!important;
+  font-family: 'Monoton'!important;
 }
 .p-0{
   padding: 0;
@@ -1302,8 +1326,9 @@ input[type=submit]:hover {
     text-align: left;
 }
 .p-6per{
-  padding: 0 7%;
+  padding: 0 0;
 }
+
 .p-l-25{
   color: #79307e;
   text-shadow: -1px 1px 0 #ffffff, 1px 1px 0 #ffffff, 1px -1px 0 #ffffff, -1px -1px 0 #ffffff;
@@ -1747,7 +1772,10 @@ form{
   margin-top: 50px;
 }
 
-
+.impact-counter-sec{
+  height: 453px;
+  padding: 83px 0;
+}
 /* tags */
 
 .tags {
@@ -2757,12 +2785,6 @@ Main Components
     width: 100%;
   }
 }
-
-@media (max-width:1300px){
-  .contact-btn{
-    display: none;
-  }
-}
 @media (max-width:970px){
   .border{
     display: none;
@@ -3110,6 +3132,7 @@ nav .navbar .links{
   align-items: center;
   height: 80px;
   margin-bottom: 0;
+  padding: 0 16px;
 }
 nav .navbar .links li{
   position: relative;
@@ -3319,8 +3342,11 @@ nav .navbar .links li:hover .js-sub-menu{
   width: 58%;
   margin: auto;
 }
+.navsWrapper{
+  display: none;
+}
 .tab-top{
-  margin-top: -50px;
+  margin-top: -64px;
 }
 .card-img{
   justify-content: center;
@@ -3381,8 +3407,12 @@ nav .navbar .links li:hover .js-sub-menu{
   margin-bottom: 23px!important;
 }
 .details-cards h5{
-  margin-bottom: 45px;
-  font-size: 18px;
+  margin: 20px 0;
+  font-size: 18px!important;
+  font-weight: 600!important;
+}
+.contact_footer_backgroundcontent .img-ngo{
+  height: 100px;
 }
 .details-cards .sub-header{
   font-size: 14px;
@@ -3404,11 +3434,12 @@ nav .navbar .links li:hover .js-sub-menu{
 .card-btn{
     border: 1px solid #fdfdfd;
     height: 29.61px;
-    width: 50%;
-    font-size: 15px;
-    font-weight: 700;
+    width: 250px;
+    height: 50px;
+    font-size: 18px;
+    font-weight: 600;
     border-radius: 5px;
-    color: #79307e;
+    color: #79307E;
     background-color: #fff;
 }
 .ahtc-card-title{
@@ -4129,7 +4160,7 @@ button.close{
 }
 .lamp-img-ctr{
   text-align: center;
-  padding: 20px 0;
+  padding: 32px 0;
 }
 .mitr-first-main{
   padding: 0!important;
@@ -4299,7 +4330,6 @@ button.close{
   }
   .banner-text{
     line-height: 20px!important;
-    padding-top: 35px!important;
     font-size: 18px!important;
   }
   .swiper-container{
@@ -4384,8 +4414,32 @@ button.close{
   .about-count{
     padding: 10px 0;
   }
+  .mob-contact-btn{
+    display: none;
+  }
+  .logo{
+    justify-content: center;
+  }
+  .mrg-65{
+    height: 400px!important;
+  }
+  .counting-text p{
+    padding: 16px 0px;
+  }
+  .hero-sec-marg{
+    margin: 0% auto!important;
+  }
 }
 @media(min-width:768px) and (max-width:1024px){
+  .get-tab{
+    margin-bottom: 40px;
+  }
+  h3{
+    line-height: 45px!important;
+  }
+  .mob-contact-btn{
+    display: none;
+  }
   .tab-d-n{
     display: none;
   }

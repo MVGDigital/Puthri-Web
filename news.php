@@ -35,7 +35,7 @@
        <div class="navbar container">
           <i class="bx bx-menu col-2"></i>
             <div class="logo col-lg-2 p-0"><a href="#">
-              <img src="img/logo.png" class="img-fluid nav-logo"></a></div>
+              <img src="img/logo.svg" class="img-fluid nav-logo"></a></div>
               <div id="myDIV" class="nav-links col-lg-8 p-0">
                 <div class="sidebar-logo">
                   <span class="logo-name"><img src="img/logo.png"></span>
@@ -89,7 +89,7 @@
                 </li>
                 
                 <li class="puthri-m-mob">
-                  <a href="#" class="btns">NEWS &amp; EVENTS</a>
+                  <a href="#" class="btns active">NEWS &amp; EVENTS</a>
                     <i class="bx bxs-chevron-down js-arrow arrow"></i>
                     <ul class="js-sub-menu sub-menu">
                     <li><a href="news.php">NEWS &amp; EVENTS</a></li>
@@ -110,7 +110,7 @@
                    <input type="text" placeholder="Search...">
                   </div>
               </div>
-            <button class="contact-btn">contact us</button>
+            <button class="contact-btn mob-contact-btn">contact us</button>
             </div>
          </div>
       </nav>

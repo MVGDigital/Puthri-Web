@@ -31,7 +31,7 @@
        <div class="navbar container">
           <i class="bx bx-menu col-2"></i>
             <div class="logo col-lg-2 p-0"><a href="#">
-              <img src="img/logo.png" class="img-fluid nav-logo"></a></div>
+              <img src="img/logo.svg" class="img-fluid nav-logo"></a></div>
               <div id="myDIV" class="nav-links col-lg-8 p-0">
                 <div class="sidebar-logo">
                   <span class="logo-name"><img src="img/logo.png"></span>
@@ -106,7 +106,7 @@
                    <input type="text" placeholder="Search...">
                   </div>
               </div>
-            <button class="contact-btn">contact us</button>
+            <button class="contact-btn mob-contact-btn">contact us</button>
             </div>
          </div>
       </nav>
@@ -123,8 +123,8 @@
         <div class="row">
           <div class="col-12 mt-3">
             <div class="navigation-section">
-              <a href="index.php" class="navigation-links"><h5>home</h5></a> >
-              <a href="#" class="navigation-links"><h5>about us</h5></a> >
+              <a href="index.php" class="navigation-links"><h5>home</h5></a>>
+              <a href="#" class="navigation-links"><h5>about us</h5></a>>
               <a href="index.php" class="navigation-links"><h5>AHCT</h5></a>
             </div>
           </div>
@@ -152,9 +152,9 @@ Social responsibility continues to be an intrinsic part of AVTAR family, and tod
           </div>
           <div class="ahtc-card-title mt-60 objec-of">
             <h6 class="c-img-title1">#OBJECTIVES</h6>
-            <h3 class="c-img-title2 ahtc-sub-text fnt-sub-hed">Objectives Of The Truest</h3>
+            <h3 class="c-img-title2 ahtc-sub-text fnt-sub-hed">Objectives Of The Trust</h3>
           </div>
-          <div class="main-sub-Overview p-10 mb-30">
+          <div class="main-sub-Overview p-10 mb-30 ahtc-card-title">
               <p class="work-more">To support initiatives within congregations or communities to promote education and training of girls and women.
               <br>•To provide education funding for deserving students from economically backward sections of the society, based on their keenness for self-development, aptitude and academic record, through our Puthri Scholarship Program.
               <br>•To undertake research in areas relating to development of women and children.
@@ -238,13 +238,13 @@ AHCT also supports community initiatives to promote education and training of un
             <h3 class="c-img-title2 fnt-sub-hed">Contact Us</h3>
           </div>
           <!-- CARDS -->
-         <div class="d-flex details-cards container row mb-50 p-10">
+          <div class="d-flex details-cards container row mb-50 p-10">
           <div class='home-box-fifth hbf-lblue col-lg-3 col-md-5'>
                     <div class='home-box-fifth-top-bg bg-two-prjct'>
                       <div class='icon-circle icon-light-blue'></div>
                         <div class="contact_footer_backgroundcontent p-0">
                           <img src="img/card-ngos-1.svg" class="img-fluid">
-                          <br><br>
+                      
                           <h5 class="">Educational institutions</h5>
                           <button class="card-btn">JOIN US</button>
                         </div>
@@ -255,7 +255,7 @@ AHCT also supports community initiatives to promote education and training of un
                       <div class='icon-circle icon-light-blue'></div>
                         <div class="contact_footer_backgroundcontent p-0">
                           <img src="img/card-ngos-2.svg" class="img-fluid">
-                          <br><br>
+                         
                           <h5>Corporate</h5>
                           <button class="card-btn">DONATE NOW</button>
                         </div>
@@ -266,8 +266,8 @@ AHCT also supports community initiatives to promote education and training of un
                     <div class='home-box-fifth-top-bg bg-two-prjct'>
                       <div class='icon-circle icon-light-blue'></div>
                         <div class="contact_footer_backgroundcontent p-0">
-                          <img src="img/card-ngos-3.svg" class="img-fluid">
-                          <br><br>
+                          <img src="img/card-ngos-3.svg" class=" img-ngo img-fluid">
+                        
                           <h5 class="ngo-mrg-b">NGOS</h5>
                           <button class="card-btn">JOIN US</button>
                         </div>
@@ -279,14 +279,13 @@ AHCT also supports community initiatives to promote education and training of un
                       <div class='icon-circle icon-light-blue'></div>
                         <div class="contact_footer_backgroundcontent p-0">
                           <img src="img/card-ngos-4.svg" class="img-fluid">
-                          <br><br>
+                      
                           <h5 class="ahtc-head">Individual Donors</h5>
                           <button class="card-btn">DONATE NOW</button>
                         </div>
                         <div class='icon-paper'></div>
                     </div>
                   </div><!-- forth Card End -->
-                </div>
       </section>
 
 

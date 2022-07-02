@@ -30,7 +30,7 @@
        <div class="navbar container">
           <i class="bx bx-menu col-2"></i>
             <div class="logo col-lg-2 p-0"><a href="#">
-              <img src="img/logo.png" class="img-fluid nav-logo"></a></div>
+              <img src="img/logo.svg" class="img-fluid nav-logo"></a></div>
               <div id="myDIV" class="nav-links col-lg-8 p-0">
                 <div class="sidebar-logo">
                   <span class="logo-name"><img src="img/logo.png"></span>
@@ -105,7 +105,7 @@
                    <input type="text" placeholder="Search...">
                   </div>
               </div>
-            <button class="contact-btn">contact us</button>
+            <button class="contact-btn mob-contact-btn">contact us</button>
             </div>
          </div>
       </nav>
@@ -239,14 +239,14 @@
             <h6 class="c-img-title1">#CONTACT US</h6>
             <h3 class="c-img-title2 fnt-sub-hed">Contact Us</h3>
           </div>
-          <!-- CARDS -->
+           <!-- CARDS -->
          <div class="d-flex details-cards container row mb-50 p-10">
           <div class='home-box-fifth hbf-lblue col-lg-3 col-md-5'>
                     <div class='home-box-fifth-top-bg bg-two-prjct'>
                       <div class='icon-circle icon-light-blue'></div>
                         <div class="contact_footer_backgroundcontent p-0">
                           <img src="img/card-ngos-1.svg" class="img-fluid">
-                          <br><br>
+                      
                           <h5 class="">Educational institutions</h5>
                           <button class="card-btn">JOIN US</button>
                         </div>
@@ -257,7 +257,7 @@
                       <div class='icon-circle icon-light-blue'></div>
                         <div class="contact_footer_backgroundcontent p-0">
                           <img src="img/card-ngos-2.svg" class="img-fluid">
-                          <br><br>
+                         
                           <h5>Corporate</h5>
                           <button class="card-btn">DONATE NOW</button>
                         </div>
@@ -268,8 +268,8 @@
                     <div class='home-box-fifth-top-bg bg-two-prjct'>
                       <div class='icon-circle icon-light-blue'></div>
                         <div class="contact_footer_backgroundcontent p-0">
-                          <img src="img/card-ngos-3.svg" class="img-fluid">
-                          <br><br>
+                          <img src="img/card-ngos-3.svg" class=" img-ngo img-fluid">
+                        
                           <h5 class="ngo-mrg-b">NGOS</h5>
                           <button class="card-btn">JOIN US</button>
                         </div>
@@ -281,14 +281,13 @@
                       <div class='icon-circle icon-light-blue'></div>
                         <div class="contact_footer_backgroundcontent p-0">
                           <img src="img/card-ngos-4.svg" class="img-fluid">
-                          <br><br>
+                      
                           <h5 class="ahtc-head">Individual Donors</h5>
                           <button class="card-btn">DONATE NOW</button>
                         </div>
                         <div class='icon-paper'></div>
                     </div>
                   </div><!-- forth Card End -->
-                </div>
       </section>
 
 

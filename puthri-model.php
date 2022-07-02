@@ -15,7 +15,7 @@
       </head>
 
 
-        <!-- Nav bar -->
+      <!-- Nav bar -->
       <nav>
       <div class="top-header">
         <div class="sub-container p-0">
@@ -33,7 +33,7 @@
        <div class="navbar container">
           <i class="bx bx-menu col-2"></i>
             <div class="logo col-lg-2 p-0"><a href="#">
-              <img src="img/logo.png" class="img-fluid nav-logo"></a></div>
+              <img src="img/logo.svg" class="img-fluid nav-logo"></a></div>
               <div id="myDIV" class="nav-links col-lg-8 p-0">
                 <div class="sidebar-logo">
                   <span class="logo-name"><img src="img/logo.png"></span>
@@ -42,7 +42,7 @@
                 <ul class="links">
                   <li class="pr-0"><a href="index.php" class="btns">HOME</a></li>
                   <li>
-                  <a href="#" class="btns active">ABOUT</a>
+                  <a href="#" class="btns">ABOUT</a>
                     <i class="bx bxs-chevron-down htmlcss-arrow arrow"></i>
                     <ul class="htmlCss-sub-menu sub-menu">
                       <li><a href="our_team.php">OUR TEAM</a></li>
@@ -52,7 +52,7 @@
                   </ul>
                 </li>
                 <li class="puthri-m-des">
-                  <a href="#" class="btns">PUTHRI MODEL</a>
+                  <a href="#" class="btns active">PUTHRI MODEL</a>
                     <i class="bx bxs-chevron-down htmlcss-arrow arrow"></i>
                     <ul class="htmlCss-sub-menu sub-menu">
                     <li><a href="puthri-model.php">PUTHRI MODEL</a></li>
@@ -108,7 +108,7 @@
                    <input type="text" placeholder="Search...">
                   </div>
               </div>
-            <button class="contact-btn">contact us</button>
+            <button class="contact-btn mob-contact-btn">contact us</button>
             </div>
          </div>
       </nav>

@@ -11,8 +11,8 @@
   </head>
 
 
-        <!-- Nav bar -->
-      <nav>
+       <!-- Nav bar -->
+       <nav>
       <div class="top-header">
         <div class="sub-container p-0">
         <div class="social-m-icon col-5 col-lg-2 p-0">
@@ -29,7 +29,7 @@
        <div class="navbar container">
           <i class="bx bx-menu col-2"></i>
             <div class="logo col-lg-2 p-0"><a href="#">
-              <img src="img/logo.png" class="img-fluid nav-logo"></a></div>
+              <img src="img/logo.svg" class="img-fluid nav-logo"></a></div>
               <div id="myDIV" class="nav-links col-lg-8 p-0">
                 <div class="sidebar-logo">
                   <span class="logo-name"><img src="img/logo.png"></span>
@@ -104,7 +104,7 @@
                    <input type="text" placeholder="Search...">
                   </div>
               </div>
-            <button class="contact-btn">contact us</button>
+            <button class="contact-btn mob-contact-btn">contact us</button>
             </div>
          </div>
       </nav>
@@ -135,7 +135,7 @@
             <div class="col-12 mt-3">
               <div class="navigation-section">
                 <a href="index.php" class="navigation-links"><h5>Home</h5></a> >
-                <a href="about.php" class="navigation-links"><h5>about us</h5></a> >
+                <a href="about.php" class="navigation-links"><h5>about</h5></a> >
                 <a href="project-puthri.php" class="navigation-links"><h5>project puthri</h5></a>
               </div>
             </div>
@@ -182,12 +182,12 @@
           <h3 class="fnt-sub-hed">Redesigning Destinies</h3>
         </div>
           <div class="banner banner100 container p-10">
-            <img src="img/three-pillars.svg" alt="">
+            <img src="img/three-pill.png" alt="">
           </div>
 
 
-      <section class="contact mb-50"  id="">
-      <div class="text-center padding-bottom pad-t-b">
+      <section class="contact mt-60" id="">
+      <div class="text-center padding-bottom pad-t-b mb-30">
           <h6>#CONTACT US</h6>
           <h3 class="fnt-sub-hed mb-30">Contact Us</h3>
         </div>
@@ -198,7 +198,7 @@
                       <div class='icon-circle icon-light-blue'></div>
                         <div class="contact_footer_backgroundcontent p-0">
                           <img src="img/card-ngos-1.svg" class="img-fluid">
-                          <br><br>
+                      
                           <h5 class="">Educational institutions</h5>
                           <button class="card-btn">JOIN US</button>
                         </div>
@@ -209,7 +209,7 @@
                       <div class='icon-circle icon-light-blue'></div>
                         <div class="contact_footer_backgroundcontent p-0">
                           <img src="img/card-ngos-2.svg" class="img-fluid">
-                          <br><br>
+                         
                           <h5>Corporate</h5>
                           <button class="card-btn">DONATE NOW</button>
                         </div>
@@ -220,8 +220,8 @@
                     <div class='home-box-fifth-top-bg bg-two-prjct'>
                       <div class='icon-circle icon-light-blue'></div>
                         <div class="contact_footer_backgroundcontent p-0">
-                          <img src="img/card-ngos-3.svg" class="img-fluid">
-                          <br><br>
+                          <img src="img/card-ngos-3.svg" class=" img-ngo img-fluid">
+                        
                           <h5 class="ngo-mrg-b">NGOS</h5>
                           <button class="card-btn">JOIN US</button>
                         </div>
@@ -233,7 +233,7 @@
                       <div class='icon-circle icon-light-blue'></div>
                         <div class="contact_footer_backgroundcontent p-0">
                           <img src="img/card-ngos-4.svg" class="img-fluid">
-                          <br><br>
+                      
                           <h5 class="ahtc-head">Individual Donors</h5>
                           <button class="card-btn">DONATE NOW</button>
                         </div>

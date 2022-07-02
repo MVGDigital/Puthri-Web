@@ -34,7 +34,7 @@
        <div class="navbar container">
           <i class="bx bx-menu col-2"></i>
             <div class="logo col-lg-2 p-0"><a href="#">
-              <img src="img/logo.png" class="img-fluid nav-logo"></a></div>
+              <img src="img/logo.svg" class="img-fluid nav-logo"></a></div>
               <div id="myDIV" class="nav-links col-lg-8 p-0">
                 <div class="sidebar-logo">
                   <span class="logo-name"><img src="img/logo.png"></span>
@@ -109,7 +109,7 @@
                    <input type="text" placeholder="Search...">
                   </div>
               </div>
-            <button class="contact-btn">contact us</button>
+            <button class="contact-btn mob-contact-btn">contact us</button>
             </div>
          </div>
       </nav>
@@ -124,34 +124,35 @@
               <ul>
                 <li>
                   <a class="ns-img" href="img/banner-1.jpg"></a>
-                      <div class="container rl-width hero-sec-marg">
+                      <div class="container rl-width hero-sec-marg p-10">
                         <div class="row hero-sec-marg">
-                          <div class="col-sm-11 col-md-11 col-lg-7 col-xs-7">
-                            <h1 class="banner-text home-banner-head"> Ensure every girl student<br>pursuesa white collar job upon graduation</h1>
-                              <p class="counttext1 mrgb">Make 10,000 government school girl students ‘Career Intentional’ every year</p>
-                              <button class="donate">donate now</button>
+                          <div class="col-sm-11 col-md-11 col-lg-7 col-xs-7 p-10">
+                            <h1 class="banner-text home-banner-head"> Ensure every girl student pursuesa white collar job upon graduation</h1>
+                              <p class="counttext1 mrgb mt-30">Make 10,000 government school girl students ‘Career Intentional’ every year</p>
+                              <button class="contact-btn">donate now</button>
                           </div>
                         </div>
                     </li>
                   <li>
                   <a class="ns-img" href="img/banner-2.jpg"></a>
-                      <div class="container hero-sec-marg">
+                      <div class="container hero-sec-marg p-10">
                         <div class="row hero-sec-marg">
-                          <div class="col-sm-11 col-md-11 col-lg-7 col-xs-7">
-                            <h1 class="banner-text home-banner-head"> Facilitate girl students<br>into tertiary education</h1>
-                              <p class="counttext1 mrgb">Make 10,000 government school girl students ‘Career Intentional’ every year</p>
-                              <button class="donate">donate now</button>
+                          <div class="col-sm-11 col-md-11 col-lg-7 col-xs-7 p-10">
+                            <h1 class="banner-text home-banner-head"> Facilitate girl students into tertiary education</h1>
+                              <p class="counttext1 mrgb mt-30">Make 10,000 government school girl students ‘Career Intentional’ every year</p>
+                              <button class="contact-btn">donate now</button>
                           </div>
                         </div>
                     </li>
                   <li>
                   <a class="ns-img" href="img/banner-3.jpg"></a>
-                      <div class="container hero-sec-marg">
-                        <div class="row ">
-                          <div class="col-sm-11 col-md-11 col-lg-7 col-xs-7">
-                            <h1 class="banner-text home-banner-head"> Facilitate every girl<br>student pursue a white collar Job</h1>
-                              <p class="counttext1 mrgb">Make 10,000 government school girl students ‘Career Intentional’ every year</p>
-                              <button class="donate">donate now</button>
+                      <div class="container hero-sec-marg p-10">
+                        <div class="row hero-sec-marg">
+                          <div class="col-sm-11 col-md-11 col-lg-7 col-xs-7 p-10">
+                            <h1 class="banner-text home-banner-head"> Facilitate every girl student pursue a white collar Job</h1>
+                              <p class="counttext1 mrgb mt-30">Make 10,000 government school girl students ‘Career Intentional’ every year</p>
+                              <button class="contact-btn">donate now</button>
+                              
                           </div>
                         </div>
                     </li>
@@ -181,7 +182,7 @@
         <div class="container tab-top p-0">
           <div class="row home-lamp-card col-lg-12 col-11 p-0">
               <div id="open" class="box effect padding_box-content lam-mr-l homecontent col-lg-2">  
-              <h4 class="pb-0 pt-4 text11"></h4>
+             
                 <div class="lamp-img-ctr">
                 <img src="img/people_black.svg" alt="">
                 </div>
@@ -190,7 +191,7 @@
                   </div>
               </div>
               <div class="box effect homecontent lam-mrg-r col-lg-2">
-                <h4 class="pb-0 pt-4 text11"></h4>
+               
                 <div class="lamp-img-ctr">
                 <img src="img/school-s.svg" alt="">
                 </div>
@@ -199,7 +200,7 @@
                   </div>
               </div>
               <div class="box effect homecontent lam-mrg-r col-lg-2">
-                <h4 class="pb-0 pt-4 text11"></h4>
+               
                 <div class="lamp-img-ctr">
                 <img src="img/school-svgrepo.svg" alt="">
                 </div>
@@ -208,7 +209,7 @@
                 </div>
               </div>
               <div class="box effect homecontent lam-mrg-r col-lg-2">          
-                <h4 class="pb-0 pt-4 text11"></h4>
+               
                 <div class="lamp-img-ctr">
                 <img src="img/home-card-icon.svg" alt="">
                 </div>
@@ -217,7 +218,6 @@
                 </div>
               </div>
               <div class="box effect homecontent lam-mrg-r col-lg-2">
-                <h4 class="pb-0 pt-4 mb-0 text11"></h4>
                 <div class="lamp-img-ctr">
                 <img src="img/city-buildings.svg" alt="">
                 </div>
@@ -226,7 +226,7 @@
                 </div>
               </div>
               <div class="box effect homecontent lam-mrg-r col-lg-2"> 
-                <h4 class="pb-0 pt-4 text11"></h4>
+               
                 <div class="lamp-img-ctr">
                 <img src="img/heart.svg" alt="">
                 </div>
@@ -291,7 +291,7 @@ $("#pop-6").click(function(){
 </p> -->
 <!--  -->
 
-<p style="margin-top: 3px;" class="home-more">
+<p style="margin-top: 3px;" class="home-more p-10">
   Avtar Human Capital Trust (AHCT) conducted a research study in 2016 to understand what made over 500
    corporation school girl students (over the years 1992 to 2010) break out of poverty and pursue white collar jobs today. 
    Research says, a well-rounded mentoring & training program will inspire and encourage the government school girls to study 
@@ -457,10 +457,10 @@ $("#pop-6").click(function(){
       <!--==================================================================
        About-Us
       ==================================================================-->
-      <section class="about-us mrg-65">
-        <div class="about-count">
+      <section class="about-us mrg-65 impact-counter-sec">
+        <div class="">
           <div class="container">
-          <div class="poverty p-6per">
+          <div class="poverty p-6per mb-48">
                   <h6 class="t-a-left">#IMPACT</h6>
                   <h3 class="t-a-left">Our impact</h3>
                 </div>
@@ -482,11 +482,11 @@ $("#pop-6").click(function(){
                   <div class="counting home-cout" data-count="50">0</div> <h3 class="d-inline counttext1 plus-55">+</h3>
                 </div>
               </div>
-              <div class="counting-text count-er p-0">
-                <p class="counttext1">Volunteering<br>Hours</p>
-                <p class="counttext1">Scholarships</p>
-                <p class="counttext1">beneficiaries</p>
-                <p class="counttext1">Corporates</p>
+              <div class="counting-text count-er mt-60 p-0">
+                <p class="counttext1 mb-0">Volunteering Hours</p>
+                <p class="counttext1 mb-0">Scholarships</p>
+                <p class="counttext1 mb-0">beneficiaries</p>
+                <p class="counttext1 mb-0">Corporates</p>
              </div>
             </div>
           </div>
@@ -511,7 +511,7 @@ $("#pop-6").click(function(){
             </div>
             <div class="col-2"></div>
             <div class="col-sm-6 col-md-8 col-lg-8 mt-30">
-              <iframe class="responsive " height="380px" src="https://www.youtube.com/embed/K0yypav0zfw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+              <iframe class="responsive " height="480px" src="https://www.youtube.com/embed/K0yypav0zfw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
           </div>
           <div class="col-2"></div>
         </div>
@@ -562,8 +562,8 @@ $("#pop-6").click(function(){
             </div>
           </div>
           <div class="col-1"></div>
-          <div class=" col-12 col-lg-6 col-md-12 col-sm-6 p-10">
-          <div class="row p-0">
+          <div class="col-12 col-lg-6 col-md-12 col-sm-6 p-10">
+              <div class="col-12">
               <div class="col-6 col-sm-6 col-lg-4 home-space p-10">
             <div class="newcl">
                 <img class="height-img"  src="image/apollo tyres.png" class="img-fluid">
@@ -579,6 +579,8 @@ $("#pop-6").click(function(){
                 <img class="height-img" src="image/Flex.png" class="img-fluid">
             </div>
               </div>
+              </div>
+              <div class="col-12">
               <div class="col-6 col-lg-4 space home-space p-10">
               <div class="newcl">
                 <img class="height-img" src="image/agni-college-logo.png" class="img-fluid">
@@ -595,8 +597,9 @@ $("#pop-6").click(function(){
               </div>
               </div>
               </div>
+              </div>
             </div>
-          </div>
+        
         </div>
       </div>
       <div class="bar-line col-10"></div>
@@ -867,19 +870,20 @@ $("#pop-6").click(function(){
         <div class="involved-text">
           <div class="container">
             <div class="row j-ctr">
-              <div class="col-12 col-sm-12 col-md-12 col-lg-4 mt-20">
+              <div class="col-12 col-sm-12 col-md-12 col-lg-6 p-10 get-tab">
                 <h6 class="counttext1">#Get Involved</h6>
-                <h3 class="counttext1 want-to-txt">Want to get involved with Project Puthri?</h3>
+                <h3 class="counttext1 want-to-txt mb-0">Want to get involved with Project Puthri?</h3>
               </div>
-              <div class="col-2 tab-d-n"></div>
-              <div class="col-6 col-sm-4 col-md-4 col-lg-4 col-xl-2">
-                <button type="button" class="involved-btn">INTERNSHIP</button>
+              <div class="col-12 col-sm-12 col-md-12 col-lg-6 d-flex p-10">
+              <div class=" get-in-btn col-4 col-md-4 col-lg-4 col-xl-4">
+                <button type="button" class="contact-btn">INTERNSHIP</button>
               </div>
-              <div class="col-6 col-sm-4 col-md-4 col-lg-4 col-xl-2">
-                <button type="button" class="involved-btn">VOLUNTEER</button>
+              <div class="get-in-btn col-4 col-md-4 col-lg-4 col-xl-4">
+                <button type="button" class="contact-btn">VOLUNTEER</button>
               </div>
-              <div class="col-6 col-sm-4 col-md-4 col-lg-4 col-xl-2">
-                <button type="button" class="involved-btn">DONATE</button><br>
+              <div class="get-in-btn col-4 col-md-4 col-lg-4 col-xl-4">
+                <button type="button" class="contact-btn">DONATE</button><br>
+              </div>
               </div>
               <div class="container seacr-footer-box">
                 <div class="row">
@@ -938,11 +942,11 @@ $("#pop-6").click(function(){
                     <img src="img/white-logo.png" class="img-fluid footer-logo">
                    </a>
                    <p class="footer-text">Puthri is India’s first ever developmental project that seeks to create Career Intentionality among underprivileged girl students</p><br>
-                   <a href="https://www.facebook.com/projectputhri"><img src="img/fb-img.png" class="img-fluid"></a>
-                   <a href="https://twitter.com/projectputhri"><img src="img/finaltweet.svg" class="img-fluid"></a>
-                   <a href=" https://www.linkedin.com/company/13339619/"><img src="img/linkedin-img.png" class="img-fluid"></a>
-                   <a href="https://www.youtube.com/channel/UCLqnJJC6w6pHdyKucH8HaMQ/featured"><img src="img/utube-img.png"class="img-fluid" ></a>
-                   <a href="https://www.instagram.com/project_puthri"><img src="img/insta-img.png" class="img-fluid"></a>
+                   <a href="https://www.facebook.com/projectputhri"><img src="img/FB.svg" class="img-fluid"></a>
+                   <a href="https://twitter.com/projectputhri"><img src="img/Twitter.svg" class="img-fluid"></a>
+                   <a href=" https://www.linkedin.com/company/13339619/"><img src="img/LinkedIn.svg" class="img-fluid"></a>
+                   <a href="https://www.youtube.com/channel/UCLqnJJC6w6pHdyKucH8HaMQ/featured"><img src="img/YT.svg"class="img-fluid" ></a>
+                   <a href="https://www.instagram.com/project_puthri"><img src="img/Insta.svg" class="img-fluid"></a>
                   </div>
                   <div class="col-md-6 col-lg-3">
                     <div class="footer-link">
@@ -957,7 +961,7 @@ $("#pop-6").click(function(){
                     </div>
                     <div class="col-md-6 col-lg-3">
                       <div class="footer-link">
-                         <h5>Quick link</h5>
+                         <h5>Quick links</h5>
                            <div class="linked">
                             <ul>
                               <li>
