@@ -363,6 +363,9 @@ font-size: 36px;
 line-height: 25px;
 color: #54575A;
 }
+.txt-shadow{
+text-shadow: 4px 4px 4px #000;
+}
 .content-section p{
 font-family: 'Mulish';
 font-style: normal;
