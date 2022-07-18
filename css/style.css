@@ -1053,6 +1053,7 @@ input {
     .top-icon{
         margin-right: 10px!important;
     }
+    
    /* Banner-Card */
    .banner-card{
     width: 160px!important;
@@ -1063,4 +1064,33 @@ input {
 .slid-gap{
     margin: 0;
 }
+}
+@media (max-width: 360px){
+    .nav-text{
+        font-size: 16px;
+    }
+    .banner-card{
+        width: 141px!important;
+    }
+}
+@media (max-width: 280px){
+    .top-icon{
+        margin-right: 7px!important;
+    }
+    .nav-text{
+        font-size: 13px;
+    }
+    .banner-card{
+        width: 121px!important;
+    }
+    .banner-card p {
+        font-size: 11px;
+    }
+    .hero-contents p{
+        font-size: 14px;
+    }
+    .hero-contents h1{
+        font-size: 17px;
+        line-height: 20px;
+    }
 }
