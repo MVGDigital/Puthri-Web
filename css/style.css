@@ -70,6 +70,9 @@ color: #54575A;
 .m-b-15{
     margin-bottom: 5px;
 }
+.m-b-20{
+    margin-bottom: 20px;
+}
 .m-b-30{
     margin-bottom: 30px;
 }
@@ -726,8 +729,10 @@ height: 100%;
 .center1 .slick-next{
     position: absolute;
     top: 80%;
-    right: 43%;
-    
+    right: 43%;  
+}
+.m-t-222{
+    margin-top: 222px!important;
 }
 /* Get-Involved-End */
 
@@ -1021,6 +1026,9 @@ input {
     .ctr-get-btn{
         padding: 0 5px!important;
     } 
+    .m-t-222{
+        margin-top: 0!important;
+    }
     /*  */
     .m-t-60-im{
         margin-top: 20px!important;
