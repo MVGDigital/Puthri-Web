@@ -1,7 +1,7 @@
 /*/ Home Page testimonials / */
 
 .card {
-  margin: 130px auto;
+  margin: 80px auto;
   border: none;
 }
 .card .carousel-item {
@@ -43,11 +43,11 @@
   opacity: 1.0;
 }
 .carousel-control-prev {
-  left: 38%;
+  left: 37%;
   top: 110%;
 }
 .carousel-control-next {
-  right: 38%;
+  right: 37%;
   top: 110%;
 }
 
