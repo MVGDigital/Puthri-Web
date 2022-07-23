@@ -432,7 +432,10 @@ color: #54575A;
     margin: 0 8px;
 }
 .slick-slide{
-    margin: 0px 8px;
+    margin: 0px 6px;
+}
+.swiper-slide{
+    margin: 0 8px !important;
 }
 .slider {
     width: 100%;
@@ -684,7 +687,7 @@ text-align: start;
 font-family: 'Mulish';
 font-style: normal;
 font-weight: 400;
-font-size: 15px;
+font-size: 18px;
 line-height: 25px;
 color: #54575A;
 text-align: start;
@@ -999,7 +1002,19 @@ height: 100%;
 }
 /* Get Involved-Section-End */
 
-
+/* News and Events */
+.event h5{
+    color: #54575A;
+    font-weight: 600;
+    font-size: 18px;
+}
+.empty-img-section{
+    padding: 8px 8px!important;
+}
+.news-letter .news-let{
+    color: #6C2894;
+}
+/*  */
 
 
 

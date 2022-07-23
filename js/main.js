@@ -44,7 +44,7 @@ $(document).ready(function() {
         return false;
     });
     // Configure/customize these variables.
-    var showChar = 69;  // How many characters are shown by default
+    var showChar = 70;  // How many characters are shown by default
     var ellipsestext = "";
     var moretext = "More...";
     var lesstext = "Less...";
