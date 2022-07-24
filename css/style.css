@@ -189,6 +189,7 @@ color: #54575A;
     border-radius: 5px;
     color: #FFFFFF;
     background-color:  #79307E;
+    text-transform: uppercase;
 }
 /* .search-icon{
     display: flex;
@@ -813,13 +814,51 @@ height: 100%;
 
 /* Our-Team-Start */
 .inner-banner-img{
-        background-image: url(../img/get-involved-bg.jpg);
         background-repeat: no-repeat;
         background-size: 100% auto;
         height: 400px;
         display: flex;
         justify-content: center;
         align-items: center;
+}
+.ahct-inner-banner-img{
+    background-image: url(../img/Ahct.jpg);
+}
+.get-invol-inner-banner-img{
+    background-image: url(../img/get-involved.jpg);
+}
+.mitr-inner-banner-img{
+    background-image: url(../img/mitr.jpg);
+}
+.new-evetns-inner-banner-img{
+    background-image: url(../img/news-event.jpg);
+}
+.our-team-inner-banner-img{
+    background-image: url(../img/our-team.jpg);
+}
+.pcca-inner-banner-img{
+    background-image: url(../img/pcca.jpg);
+}
+.pcp-inner-banner-img{
+    background-image: url(../img/pcp.jpg);
+}
+.prayag-inner-banner-img{
+    background-image: url(../img/prayag.jpg);
+}
+.project-puthri-inner-banner-img{
+    background-image: url(../img/Project-Puthri.jpg);
+}
+.puthri-model-inner-banner-img{
+    background-image: url(../img/puthri-model.jpg);
+}
+.schol-inner-banner-img{
+    background-image: url(../img/scholarship-banner.jpg);
+}
+.uu-inner-banner-img{
+    background-image: url(../img/udyog-utsav.jpg);
+}
+.sr-mam-inner-banner-img{
+    background-image: url(../img/pcp.jpg);
 }
 .inner-banner-img h1{
     color: #EA1584;
